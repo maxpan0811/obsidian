@@ -1,0 +1,938 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>红星照耀中国 - 读书笔记</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    background: linear-gradient(160deg, #f8f9fc 0%, #eef1f5 100%);
+    font-family: -apple-system, "PingFang SC", "Noto Sans SC", "LXGW WenKai", "Microsoft YaHei", sans-serif;
+    padding: 40px 20px;
+    min-height: 100vh;
+  }
+
+  .container {
+    max-width: 820px;
+    margin: 0 auto;
+  }
+
+  /* ===== 书籍头部 ===== */
+  .book-header {
+    background: linear-gradient(135deg, #2c3e50 0%, #1a252f 100%);
+    border-radius: 18px;
+    padding: 48px 40px;
+    margin-bottom: 32px;
+    color: #fff;
+    box-shadow: 0 10px 40px rgba(0,0,0,0.12);
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    gap: 32px;
+    align-items: flex-start;
+  }
+
+  .book-header::before {
+    content: '';
+    position: absolute;
+    top: -40%;
+    right: -10%;
+    width: 280px;
+    height: 280px;
+    background: rgba(255,255,255,0.03);
+    border-radius: 50%;
+  }
+
+  .book-cover {
+    width: 100px;
+    height: 140px;
+    border-radius: 8px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.3);
+    flex-shrink: 0;
+    object-fit: cover;
+    background: rgba(255,255,255,0.08);
+    position: relative;
+    z-index: 1;
+  }
+
+  .book-info {
+    flex: 1;
+    position: relative;
+    z-index: 1;
+  }
+
+  .book-title {
+    font-size: 26px;
+    font-weight: 700;
+    margin-bottom: 6px;
+    letter-spacing: 0.5px;
+  }
+
+  .book-author {
+    font-size: 15px;
+    opacity: 0.7;
+    margin-bottom: 16px;
+  }
+
+  .book-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+
+  .book-tag {
+    background: rgba(255,255,255,0.12);
+    padding: 4px 12px;
+    border-radius: 20px;
+    font-size: 12px;
+    opacity: 0.8;
+  }
+
+  /* ===== 统计栏 ===== */
+  .stats-bar {
+    background: #fff;
+    border-radius: 14px;
+    padding: 20px 24px;
+    margin-bottom: 32px;
+    display: flex;
+    justify-content: space-around;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.05);
+    border: 1px solid rgba(0,0,0,0.03);
+  }
+
+  .stat-item {
+    text-align: center;
+  }
+
+  .stat-num {
+    font-size: 26px;
+    font-weight: 700;
+    color: #2c3e50;
+    line-height: 1.2;
+  }
+
+  .stat-label {
+    font-size: 12px;
+    color: #aaa;
+    margin-top: 2px;
+  }
+
+  .stat-divider {
+    width: 1px;
+    background: #eee;
+  }
+
+  /* ===== 章节 ===== */
+  .chapter-section {
+    margin-bottom: 32px;
+  }
+
+  .chapter-title {
+    font-size: 17px;
+    font-weight: 600;
+    color: #333;
+    margin-bottom: 14px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .ch-num {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 26px;
+    height: 26px;
+    border-radius: 8px;
+    color: #fff;
+    font-size: 13px;
+    font-weight: 600;
+    flex-shrink: 0;
+  }
+
+  .ch-title-text {
+    font-size: 17px;
+    font-weight: 600;
+  }
+
+  .ch-count {
+    font-size: 12px;
+    font-weight: 400;
+    color: #aaa;
+    margin-left: auto;
+  }
+
+  .card-header-right {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+
+  .card-loc {
+    display: inline-block;
+    padding: 1px 8px;
+    border-radius: 10px;
+    font-size: 11px;
+    font-weight: 500;
+    font-family: "SF Mono", "PingFang SC", monospace;
+    line-height: 1.6;
+  }
+
+  /* ===== 卡片 ===== */
+  .cards-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .highlight-card {
+    background: #fff;
+    border-radius: 12px;
+    padding: 16px 20px;
+    border-left: 4px solid #4A90D9;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.04);
+    transition: transform 0.2s, box-shadow 0.2s;
+    position: relative;
+  }
+
+  .highlight-card:hover {
+    transform: translateX(6px);
+    box-shadow: 0 6px 20px rgba(0,0,0,0.08);
+  }
+
+  .highlight-card.orphan {
+    opacity: 0.85;
+  }
+
+  .card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 6px;
+  }
+
+  .quote-icon {
+    font-size: 28px;
+    line-height: 1;
+    font-family: Georgia, serif;
+    opacity: 0.3;
+  }
+
+  .card-time {
+    font-size: 11px;
+    color: #bbb;
+  }
+
+  .card-body {
+    position: relative;
+  }
+
+  .highlight-text {
+    font-size: 14.5px;
+    line-height: 1.85;
+    color: #333;
+    text-align: justify;
+  }
+
+  .review-bubble {
+    margin-top: 10px;
+    padding: 10px 14px;
+    background: #FFF8E1;
+    border-radius: 8px;
+    font-size: 13.5px;
+    line-height: 1.6;
+    color: #8D6E00;
+    display: flex;
+    gap: 8px;
+    align-items: flex-start;
+  }
+
+  .review-bubble.standalone {
+    background: #F3E8FF;
+    color: #6B21A8;
+  }
+
+  .review-icon {
+    flex-shrink: 0;
+    font-size: 14px;
+    line-height: 1.6;
+  }
+
+  .review-text {
+    flex: 1;
+  }
+
+  /* ===== 底部 ===== */
+  .footer {
+    text-align: center;
+    padding: 40px 0 20px;
+    color: #bbb;
+    font-size: 12px;
+  }
+
+  .footer a { color: #888; text-decoration: none; }
+
+  @media (max-width: 640px) {
+    body { padding: 16px 12px; }
+    .book-header { padding: 28px 20px; flex-direction: column; gap: 16px; }
+    .book-cover { width: 80px; height: 112px; }
+    .book-title { font-size: 20px; }
+    .stats-bar { flex-wrap: wrap; gap: 8px; padding: 14px; }
+    .stat-divider { display: none; }
+  }
+</style>
+</head>
+<body>
+<div class="container">
+
+  <div class="book-header">
+    
+    <div class="book-info">
+      <h1 class="book-title">红星照耀中国</h1>
+      <p class="book-author">埃德加·斯诺</p>
+      <div class="book-tags">
+        <span class="book-tag">📖 35 条划线</span>
+        <span class="book-tag">💡 0 条想法</span>
+        <span class="book-tag">📅 2026-05-21 00:54</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="stats-bar">
+    <div class="stat-item">
+      <div class="stat-num">15</div>
+      <div class="stat-label">章节</div>
+    </div>
+    <div class="stat-divider"></div>
+    <div class="stat-item">
+      <div class="stat-num">35</div>
+      <div class="stat-label">划线</div>
+    </div>
+    <div class="stat-divider"></div>
+    <div class="stat-item">
+      <div class="stat-num">0</div>
+      <div class="stat-label">想法</div>
+    </div>
+    <div class="stat-divider"></div>
+    <div class="stat-item">
+      <div class="stat-num">35</div>
+      <div class="stat-label">总标记</div>
+    </div>
+  </div>
+
+  
+      <div class="chapter-section">
+        <h2 class="chapter-title">
+          <span class="ch-num" style="background: #4A90D9;">1</span>
+          <span class="ch-title-text" style="color: #4A90D9;">中文新译本序（2018）</span>
+          <span class="ch-count">1 条</span>
+        </h2>
+        <div class="cards-container">
+          
+          <div class="highlight-card" style="border-left-color: #4A90D9; background: #E8F4F840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #4A90D9;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2025-09-06 05:59</span>
+                <span class="card-loc" style="background: #4A90D920; color: #4A90D9;">位置 2074</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">红星照耀中国》一书因此成为中国历史关键转折点的独特记录。在这个过程中，那些以勇气和正直来报道所见所闻的新闻工作者们发挥了至关重要的作用。</p>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="chapter-section">
+        <h2 class="chapter-title">
+          <span class="ch-num" style="background: #7B68EE;">2</span>
+          <span class="ch-title-text" style="color: #7B68EE;">第1节 一些未曾解答的问题</span>
+          <span class="ch-count">3 条</span>
+        </h2>
+        <div class="cards-container">
+          
+          <div class="highlight-card" style="border-left-color: #7B68EE; background: #F5EEF840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #7B68EE;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2025-09-06 07:36</span>
+                <span class="card-loc" style="background: #7B68EE20; color: #7B68EE;">位置 2087</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">相较于中国妥协退让的历史，关于他们的一切都令人难以置信</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #7B68EE; background: #F5EEF840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #7B68EE;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2025-09-06 07:38</span>
+                <span class="card-loc" style="background: #7B68EE20; color: #7B68EE;">位置 3162</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">这是否说明，这不是真正由无产阶级领导的运动，而在根本上仍然是一场农民起义？</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #7B68EE; background: #F5EEF840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #7B68EE;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2025-09-06 07:42</span>
+                <span class="card-loc" style="background: #7B68EE20; color: #7B68EE;">位置 5203</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">为了探寻事情的缘由，难道不值得让一个外国人去冒一下生命危险吗？我也发现自己可能会有性命之忧。然而在我看来，这个代价算不上太大。</p>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="chapter-section">
+        <h2 class="chapter-title">
+          <span class="ch-num" style="background: #E8833A;">3</span>
+          <span class="ch-title-text" style="color: #E8833A;">第2节 起义者</span>
+          <span class="ch-count">2 条</span>
+        </h2>
+        <div class="cards-container">
+          
+          <div class="highlight-card" style="border-left-color: #E8833A; background: #FDF2E940;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #E8833A;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2025-09-06 08:40</span>
+                <span class="card-loc" style="background: #E8833A20; color: #E8833A;">位置 3918</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">在日本留学的18个月里，周恩来广泛结识了一批有着革命思想的中国留学生，并通过书信和阅读，对北平的时局保持关注。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #E8833A; background: #FDF2E940;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #E8833A;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2025-09-06 08:42</span>
+                <span class="card-loc" style="background: #E8833A20; color: #E8833A;">位置 5215</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">在欧洲时，周恩来从严修——南开大学的创办者之一——那里得到了经济支持</p>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="chapter-section">
+        <h2 class="chapter-title">
+          <span class="ch-num" style="background: #2EAD6B;">4</span>
+          <span class="ch-title-text" style="color: #2EAD6B;">第5节 红军剧社</span>
+          <span class="ch-count">3 条</span>
+        </h2>
+        <div class="cards-container">
+          
+          <div class="highlight-card" style="border-left-color: #2EAD6B; background: #E8F8F040;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #2EAD6B;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2025-09-06 14:12</span>
+                <span class="card-loc" style="background: #2EAD6B20; color: #2EAD6B;">位置 5485</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">但从最广泛的意义来看，这就是艺术，因为它将对生命的憧憬带给了观众</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #2EAD6B; background: #E8F8F040;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #2EAD6B;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2025-09-06 14:12</span>
+                <span class="card-loc" style="background: #2EAD6B20; color: #2EAD6B;">位置 6119</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">农民阶级在沉睡了两千年之后已经觉醒，并且逐渐站了起来，产生了越来越强大的力量。与南京方面通过的看似虔诚实则空洞的决议相比，这种力量更能促成中国大地的巨变。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #2EAD6B; background: #E8F8F040;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #2EAD6B;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2025-09-06 14:12</span>
+                <span class="card-loc" style="background: #2EAD6B20; color: #2EAD6B;">位置 6372</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">他们抱着这样的信念，更美好的世界可以创造，而且只有他们才能创造</p>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="chapter-section">
+        <h2 class="chapter-title">
+          <span class="ch-num" style="background: #D94A8A;">5</span>
+          <span class="ch-title-text" style="color: #D94A8A;">第1节 童年时代</span>
+          <span class="ch-count">1 条</span>
+        </h2>
+        <div class="cards-container">
+          
+          <div class="highlight-card" style="border-left-color: #D94A8A; background: #FDE8EF40;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #D94A8A;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2025-09-06 14:12</span>
+                <span class="card-loc" style="background: #D94A8A20; color: #D94A8A;">位置 732</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">当我开始搜集人物的传记材料时，我多次发现，共产党员能说出青少年时期发生的所有事情，但是他一加入红军，就将个人置之度外。如果你不是反反复复地问他，就不会了解到更多关于他本人的事情，你只能听到关于红军的故事、关于苏维埃的故事、关于共产党的故事——在他们心里，这些永远排在第一位</p>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="chapter-section">
+        <h2 class="chapter-title">
+          <span class="ch-num" style="background: #E6A23C;">6</span>
+          <span class="ch-title-text" style="color: #E6A23C;">第2节 在长沙的岁月</span>
+          <span class="ch-count">7 条</span>
+        </h2>
+        <div class="cards-container">
+          
+          <div class="highlight-card" style="border-left-color: #E6A23C; background: #FEF5E740;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #E6A23C;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2025-09-06 12:29</span>
+                <span class="card-loc" style="background: #E6A23C20; color: #E6A23C;">位置 6191</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">我在这里——湖南省立第一师范学校经历了不少事情。正是在这个时期，我开始形成自己的政治观点。我最早的社会活动经验也是在这里获得的。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #E6A23C; background: #FEF5E740;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #E6A23C;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2025-09-06 12:29</span>
+                <span class="card-loc" style="background: #E6A23C20; color: #E6A23C;">位置 7569</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">易培基本是湖南师范学校的校长，后来在南京当了高官，还把萧瑜安排到北京故宫博物院做监守。萧瑜却盗卖了博物院最珍贵的一些文物，在1934年携款逃跑了。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #E6A23C; background: #FEF5E740;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #E6A23C;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2025-09-06 14:12</span>
+                <span class="card-loc" style="background: #E6A23C20; color: #E6A23C;">位置 8473</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">我和我的朋友们更喜欢谈论大事——人的天性，人类社会的属性，中国、世界乃至宇宙的特性！</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #E6A23C; background: #FEF5E740;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #E6A23C;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2025-09-06 14:12</span>
+                <span class="card-loc" style="background: #E6A23C20; color: #E6A23C;">位置 8871</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">1917年，我和其他几位朋友推动建立了‘新民学会’。学会有70到80名会员，在他们当中，有许多人后来成为中国共产主义和中国革命史上的著名人物</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #E6A23C; background: #FEF5E740;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #E6A23C;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2025-09-06 12:29</span>
+                <span class="card-loc" style="background: #E6A23C20; color: #E6A23C;">位置 9711</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">新民学会的大部分会员，都在1927年反革命政变中被杀害。[74]</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #E6A23C; background: #FEF5E740;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #E6A23C;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2025-09-06 12:29</span>
+                <span class="card-loc" style="background: #E6A23C20; color: #E6A23C;">位置 9868</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">大约在同时，另一个与新民学会性质相似的团体成立了，这就是湖北的‘互助社’。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #E6A23C; background: #FEF5E740;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #E6A23C;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2025-09-06 14:12</span>
+                <span class="card-loc" style="background: #E6A23C20; color: #E6A23C;">位置 10590</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">我于1913年考入师范学校，1918年毕业。”</p>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="chapter-section">
+        <h2 class="chapter-title">
+          <span class="ch-num" style="background: #4A90D9;">7</span>
+          <span class="ch-title-text" style="color: #4A90D9;">第3节 革命的序幕</span>
+          <span class="ch-count">4 条</span>
+        </h2>
+        <div class="cards-container">
+          
+          <div class="highlight-card" style="border-left-color: #4A90D9; background: #E8F4F840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #4A90D9;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2025-09-06 14:12</span>
+                <span class="card-loc" style="background: #4A90D920; color: #4A90D9;">位置 1265</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">不过，尽管我协助组织了这场运动，新民学会也支持这场运动，但我却不想到欧洲去。我觉得我对自己的国家还不够了解，把我的时间花在中国，会更有好处</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #4A90D9; background: #E8F4F840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #4A90D9;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2025-09-06 14:12</span>
+                <span class="card-loc" style="background: #4A90D920; color: #4A90D9;">位置 1463</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">我以前在师范学校的伦理学教师杨昌济，这时已经当上了国立北京大学的教授。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #4A90D9; background: #E8F4F840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #4A90D9;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2025-09-06 14:12</span>
+                <span class="card-loc" style="background: #4A90D920; color: #4A90D9;">位置 1648</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">李大钊为我安排了图书馆助理馆员的工作，我每月可以领到一大笔工资——8元钱。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #4A90D9; background: #E8F4F840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #4A90D9;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2025-09-06 14:12</span>
+                <span class="card-loc" style="background: #4A90D920; color: #4A90D9;">位置 4649</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">我们的团体对北洋政府很反感，认定湖南要是与北平脱离关系，就能更加迅速地实现现代化，因此鼓动与北平分离。那时，我强烈支持美国的‘门罗主义’和‘门户开放’政策。</p>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="chapter-section">
+        <h2 class="chapter-title">
+          <span class="ch-num" style="background: #7B68EE;">8</span>
+          <span class="ch-title-text" style="color: #7B68EE;">第5节 苏维埃运动</span>
+          <span class="ch-count">5 条</span>
+        </h2>
+        <div class="cards-container">
+          
+          <div class="highlight-card" style="border-left-color: #7B68EE; background: #F5EEF840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #7B68EE;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2025-09-06 14:12</span>
+                <span class="card-loc" style="background: #7B68EE20; color: #7B68EE;">位置 581</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">我问毛泽东，他认为谁应该对1927年共产党的失败、武汉联合政府的失败和蒋介石独裁政权的全面得逞负最主要责任。毛泽东认为，陈独秀的责任最大，“当继续妥协明显意味着大难临头时，陈独秀动摇的机会主义路线使共产党丧失了决定性的领导地位，丧失了自己的直接路线”。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #7B68EE; background: #F5EEF840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #7B68EE;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2025-09-06 12:29</span>
+                <span class="card-loc" style="background: #7B68EE20; color: #7B68EE;">位置 1035</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">毛泽东认为，客观地说，罗易是个傻瓜，鲍罗廷是个糊涂虫，陈独秀不知不觉犯了“右倾”机会主义错误。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #7B68EE; background: #F5EEF840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #7B68EE;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2025-09-06 12:29</span>
+                <span class="card-loc" style="background: #7B68EE20; color: #7B68EE;">位置 1243</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">毛泽东断言，陈独秀那时完全就是中国共产党的独裁者，他甚至不与中央委员会磋商就做出重大决策</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #7B68EE; background: #F5EEF840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #7B68EE;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2025-09-06 14:12</span>
+                <span class="card-loc" style="background: #7B68EE20; color: #7B68EE;">位置 1607</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">鲍罗廷和其他共产国际代表逃回苏联，在那里正好看到反对派的失败，托洛茨基的“不断革命论”被批倒，苏联开始一心一意地“在一个国家建设社会主义”</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #7B68EE; background: #F5EEF840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #7B68EE;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2025-09-07 04:02</span>
+                <span class="card-loc" style="background: #7B68EE20; color: #7B68EE;">位置 8445</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">再如‘流寇思想’，这是另一种有待克服的倾向，其表现为不愿意沉下心来处理政府中的严肃事务，喜欢行动、变化、新鲜的经历和事件。</p>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="chapter-section">
+        <h2 class="chapter-title">
+          <span class="ch-num" style="background: #E8833A;">9</span>
+          <span class="ch-title-text" style="color: #E8833A;">第6节 红军的发展</span>
+          <span class="ch-count">1 条</span>
+        </h2>
+        <div class="cards-container">
+          
+          <div class="highlight-card" style="border-left-color: #E8833A; background: #FDF2E940;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #E8833A;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2025-09-07 04:07</span>
+                <span class="card-loc" style="background: #E8833A20; color: #E8833A;">位置 6229</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">如果没有在‘围剿’开始前创造的三个条件，红军就不可能赢得这次胜利：第一，一军团和三军团实现集中统一指挥；第二，清算李立三路线；第三，党战胜了红军内部和苏区的AB团（刘铁超等）和其他现行反革命分子。</p>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="chapter-section">
+        <h2 class="chapter-title">
+          <span class="ch-num" style="background: #2EAD6B;">10</span>
+          <span class="ch-title-text" style="color: #2EAD6B;">第3节 苏维埃社会</span>
+          <span class="ch-count">1 条</span>
+        </h2>
+        <div class="cards-container">
+          
+          <div class="highlight-card" style="border-left-color: #2EAD6B; background: #E8F8F040;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #2EAD6B;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2025-09-18 10:14</span>
+                <span class="card-loc" style="background: #2EAD6B20; color: #2EAD6B;">位置 6246</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">共产党称这些在农民中间建立的组织为“三结合”：经济、政治和文化效用的结合。</p>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="chapter-section">
+        <h2 class="chapter-title">
+          <span class="ch-num" style="background: #D94A8A;">11</span>
+          <span class="ch-title-text" style="color: #D94A8A;">第4节 关于货币的剖析</span>
+          <span class="ch-count">2 条</span>
+        </h2>
+        <div class="cards-container">
+          
+          <div class="highlight-card" style="border-left-color: #D94A8A; background: #FDE8EF40;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #D94A8A;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2025-09-18 10:15</span>
+                <span class="card-loc" style="background: #D94A8A20; color: #D94A8A;">位置 578</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">西北地区的苏维埃经济是私人资本主义、国家资本主义和初级社会主义的奇特组合。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #D94A8A; background: #FDE8EF40;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #D94A8A;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2025-09-18 10:15</span>
+                <span class="card-loc" style="background: #D94A8A20; color: #D94A8A;">位置 803</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">第三类经济是通过建立合作社形成的。政府和群众作为合作伙伴参加合作社，不但与私人资本主义竞争，还与国家资本主义竞争</p>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="chapter-section">
+        <h2 class="chapter-title">
+          <span class="ch-num" style="background: #E6A23C;">12</span>
+          <span class="ch-title-text" style="color: #E6A23C;">第3节 为什么当红军？</span>
+          <span class="ch-count">1 条</span>
+        </h2>
+        <div class="cards-container">
+          
+          <div class="highlight-card" style="border-left-color: #E6A23C; background: #FEF5E740;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #E6A23C;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2025-09-20 15:39</span>
+                <span class="card-loc" style="background: #E6A23C20; color: #E6A23C;">位置 4215</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">“司马光描述的战争毫无意义，只会让人民受苦——和这个时代里中国军阀之间的混战类似。我们能够做些什么，才能使我们的斗争有意义，才能实现长久的变革？”</p>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="chapter-section">
+        <h2 class="chapter-title">
+          <span class="ch-num" style="background: #4A90D9;">13</span>
+          <span class="ch-title-text" style="color: #4A90D9;">第6节 政治会议</span>
+          <span class="ch-count">1 条</span>
+        </h2>
+        <div class="cards-container">
+          
+          <div class="highlight-card" style="border-left-color: #4A90D9; background: #E8F4F840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #4A90D9;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2025-09-29 08:53</span>
+                <span class="card-loc" style="background: #4A90D920; color: #4A90D9;">位置 3590</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">甚至在某种程度上有些传教的意味，论据经过了精挑细选，只为证明单个论点。</p>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="chapter-section">
+        <h2 class="chapter-title">
+          <span class="ch-num" style="background: #7B68EE;">14</span>
+          <span class="ch-title-text" style="color: #7B68EE;">第2节 “红小鬼”</span>
+          <span class="ch-count">1 条</span>
+        </h2>
+        <div class="cards-container">
+          
+          <div class="highlight-card" style="border-left-color: #7B68EE; background: #F5EEF840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #7B68EE;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2025-10-05 03:51</span>
+                <span class="card-loc" style="background: #7B68EE20; color: #7B68EE;">位置 6426</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">他们耐心、努力、活泼、好学，看到他们，你会觉得中国并非没有希望，就会感到任何国家最有希望的都是青少年</p>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="chapter-section">
+        <h2 class="chapter-title">
+          <span class="ch-num" style="background: #E8833A;">15</span>
+          <span class="ch-title-text" style="color: #E8833A;">第3节 苏联的影响</span>
+          <span class="ch-count">2 条</span>
+        </h2>
+        <div class="cards-container">
+          
+          <div class="highlight-card" style="border-left-color: #E8833A; background: #FDF2E940;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #E8833A;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2026-02-07 09:19</span>
+                <span class="card-loc" style="background: #E8833A20; color: #E8833A;">位置 2215</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">从源自种族主义的民族偏见上升到阶级斗争，这种变化无疑可归因于许多中国共产党领导人在苏联接受的教育，他们上过中山大学或者红军学院，或者培养国际共产主义运动组织者的其他一些学校，回国之后就做了本国人民的老师。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #E8833A; background: #FDF2E940;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #E8833A;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2026-02-07 09:20</span>
+                <span class="card-loc" style="background: #E8833A20; color: #E8833A;">位置 2692</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">尽管地理上被隔绝，但这些庄稼汉通过广播新闻、墙报以及共产党的讲解和宣传，对世界政局的了解程度，比中国任何别的地区的农村民众都高得多。</p>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+
+  <div class="footer">
+    生成于 2026-05-21 00:54 · 微信读书 → Obsidian
+  </div>
+
+</div>
+</body>
+</html>

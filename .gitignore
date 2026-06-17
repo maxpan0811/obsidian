@@ -1,0 +1,23 @@
+# Pipeline outputs (regeneratable from Evernote/Zhihu)
+印象笔记管理工具/
+知乎管理工具/
+
+# Duplicate config dir
+.obsidian 2/
+
+# Obsidian workspace state (personal, not shareable)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Plugin data.json (may contain API keys) - explicit paths
+.obsidian/plugins/notebook-navigator/data.json
+.obsidian/plugins/copilot/data.json
+.obsidian/plugins/obsidian-html-plugin/data.json
+
+# Include obsidian-git config for backup
+!.obsidian/plugins/obsidian-git/data.json

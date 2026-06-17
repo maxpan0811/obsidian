@@ -1,0 +1,1066 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>心流+发现心流（套装全2册） - 读书笔记</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    background: linear-gradient(160deg, #f8f9fc 0%, #eef1f5 100%);
+    font-family: -apple-system, "PingFang SC", "Noto Sans SC", "LXGW WenKai", "Microsoft YaHei", sans-serif;
+    padding: 40px 20px;
+    min-height: 100vh;
+  }
+
+  .container {
+    max-width: 820px;
+    margin: 0 auto;
+  }
+
+  /* ===== 书籍头部 ===== */
+  .book-header {
+    background: linear-gradient(135deg, #2c3e50 0%, #1a252f 100%);
+    border-radius: 18px;
+    padding: 48px 40px;
+    margin-bottom: 32px;
+    color: #fff;
+    box-shadow: 0 10px 40px rgba(0,0,0,0.12);
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    gap: 32px;
+    align-items: flex-start;
+  }
+
+  .book-header::before {
+    content: '';
+    position: absolute;
+    top: -40%;
+    right: -10%;
+    width: 280px;
+    height: 280px;
+    background: rgba(255,255,255,0.03);
+    border-radius: 50%;
+  }
+
+  .book-cover {
+    width: 100px;
+    height: 140px;
+    border-radius: 8px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.3);
+    flex-shrink: 0;
+    object-fit: cover;
+    background: rgba(255,255,255,0.08);
+    position: relative;
+    z-index: 1;
+  }
+
+  .book-info {
+    flex: 1;
+    position: relative;
+    z-index: 1;
+  }
+
+  .book-title {
+    font-size: 26px;
+    font-weight: 700;
+    margin-bottom: 6px;
+    letter-spacing: 0.5px;
+  }
+
+  .book-author {
+    font-size: 15px;
+    opacity: 0.7;
+    margin-bottom: 16px;
+  }
+
+  .book-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+
+  .book-tag {
+    background: rgba(255,255,255,0.12);
+    padding: 4px 12px;
+    border-radius: 20px;
+    font-size: 12px;
+    opacity: 0.8;
+  }
+
+  /* ===== 统计栏 ===== */
+  .stats-bar {
+    background: #fff;
+    border-radius: 14px;
+    padding: 20px 24px;
+    margin-bottom: 32px;
+    display: flex;
+    justify-content: space-around;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.05);
+    border: 1px solid rgba(0,0,0,0.03);
+  }
+
+  .stat-item {
+    text-align: center;
+  }
+
+  .stat-num {
+    font-size: 26px;
+    font-weight: 700;
+    color: #2c3e50;
+    line-height: 1.2;
+  }
+
+  .stat-label {
+    font-size: 12px;
+    color: #aaa;
+    margin-top: 2px;
+  }
+
+  .stat-divider {
+    width: 1px;
+    background: #eee;
+  }
+
+  /* ===== 章节 ===== */
+  .chapter-section {
+    margin-bottom: 32px;
+  }
+
+  .chapter-title {
+    font-size: 17px;
+    font-weight: 600;
+    color: #333;
+    margin-bottom: 14px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .ch-num {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 26px;
+    height: 26px;
+    border-radius: 8px;
+    color: #fff;
+    font-size: 13px;
+    font-weight: 600;
+    flex-shrink: 0;
+  }
+
+  .ch-title-text {
+    font-size: 17px;
+    font-weight: 600;
+  }
+
+  .ch-count {
+    font-size: 12px;
+    font-weight: 400;
+    color: #aaa;
+    margin-left: auto;
+  }
+
+  .card-header-right {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+
+  .card-loc {
+    display: inline-block;
+    padding: 1px 8px;
+    border-radius: 10px;
+    font-size: 11px;
+    font-weight: 500;
+    font-family: "SF Mono", "PingFang SC", monospace;
+    line-height: 1.6;
+  }
+
+  /* ===== 卡片 ===== */
+  .cards-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .highlight-card {
+    background: #fff;
+    border-radius: 12px;
+    padding: 16px 20px;
+    border-left: 4px solid #4A90D9;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.04);
+    transition: transform 0.2s, box-shadow 0.2s;
+    position: relative;
+  }
+
+  .highlight-card:hover {
+    transform: translateX(6px);
+    box-shadow: 0 6px 20px rgba(0,0,0,0.08);
+  }
+
+  .highlight-card.orphan {
+    opacity: 0.85;
+  }
+
+  .card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 6px;
+  }
+
+  .quote-icon {
+    font-size: 28px;
+    line-height: 1;
+    font-family: Georgia, serif;
+    opacity: 0.3;
+  }
+
+  .card-time {
+    font-size: 11px;
+    color: #bbb;
+  }
+
+  .card-body {
+    position: relative;
+  }
+
+  .highlight-text {
+    font-size: 14.5px;
+    line-height: 1.85;
+    color: #333;
+    text-align: justify;
+  }
+
+  .review-bubble {
+    margin-top: 10px;
+    padding: 10px 14px;
+    background: #FFF8E1;
+    border-radius: 8px;
+    font-size: 13.5px;
+    line-height: 1.6;
+    color: #8D6E00;
+    display: flex;
+    gap: 8px;
+    align-items: flex-start;
+  }
+
+  .review-bubble.standalone {
+    background: #F3E8FF;
+    color: #6B21A8;
+  }
+
+  .review-icon {
+    flex-shrink: 0;
+    font-size: 14px;
+    line-height: 1.6;
+  }
+
+  .review-text {
+    flex: 1;
+  }
+
+  /* ===== 底部 ===== */
+  .footer {
+    text-align: center;
+    padding: 40px 0 20px;
+    color: #bbb;
+    font-size: 12px;
+  }
+
+  .footer a { color: #888; text-decoration: none; }
+
+  @media (max-width: 640px) {
+    body { padding: 16px 12px; }
+    .book-header { padding: 28px 20px; flex-direction: column; gap: 16px; }
+    .book-cover { width: 80px; height: 112px; }
+    .book-title { font-size: 20px; }
+    .stats-bar { flex-wrap: wrap; gap: 8px; padding: 14px; }
+    .stat-divider { display: none; }
+  }
+</style>
+</head>
+<body>
+<div class="container">
+
+  <div class="book-header">
+    
+    <div class="book-info">
+      <h1 class="book-title">心流+发现心流（套装全2册）</h1>
+      <p class="book-author">米哈里·契克森米哈赖</p>
+      <div class="book-tags">
+        <span class="book-tag">📖 51 条划线</span>
+        <span class="book-tag">💡 0 条想法</span>
+        <span class="book-tag">📅 2026-05-21 00:54</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="stats-bar">
+    <div class="stat-item">
+      <div class="stat-num">7</div>
+      <div class="stat-label">章节</div>
+    </div>
+    <div class="stat-divider"></div>
+    <div class="stat-item">
+      <div class="stat-num">51</div>
+      <div class="stat-label">划线</div>
+    </div>
+    <div class="stat-divider"></div>
+    <div class="stat-item">
+      <div class="stat-num">0</div>
+      <div class="stat-label">想法</div>
+    </div>
+    <div class="stat-divider"></div>
+    <div class="stat-item">
+      <div class="stat-num">51</div>
+      <div class="stat-label">总标记</div>
+    </div>
+  </div>
+
+  
+      <div class="chapter-section">
+        <h2 class="chapter-title">
+          <span class="ch-num" style="background: #4A90D9;">1</span>
+          <span class="ch-title-text" style="color: #4A90D9;">序一 自造内心秩序之途</span>
+          <span class="ch-count">22 条</span>
+        </h2>
+        <div class="cards-container">
+          
+          <div class="highlight-card" style="border-left-color: #4A90D9; background: #E8F4F840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #4A90D9;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-06-03 13:34</span>
+                <span class="card-loc" style="background: #4A90D920; color: #4A90D9;">位置 1415</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">他认为能为幸福研究做出重大贡献的是三个学科：生物学、心理学、社会学，而非当下的一些显学。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #4A90D9; background: #E8F4F840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #4A90D9;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-06-03 13:34</span>
+                <span class="card-loc" style="background: #4A90D920; color: #4A90D9;">位置 1718</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">人类与动物的最大差别在于神经系统过于发达。感知和摄取更多的信息，无疑有利于人类生存。对外部情况不感知，当然更危险，但感知更多往往也更苦恼。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #4A90D9; background: #E8F4F840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #4A90D9;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-06-03 13:35</span>
+                <span class="card-loc" style="background: #4A90D920; color: #4A90D9;">位置 2128</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">多数人未因信息过多而致残，但未尝不是信息过多的困扰者。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #4A90D9; background: #E8F4F840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #4A90D9;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-06-03 13:35</span>
+                <span class="card-loc" style="background: #4A90D920; color: #4A90D9;">位置 2314</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">哈里的方法是，面对太多的，包括负面的信息，你必须找到一项能长久地凝聚自己注意力的活动。这样你面对众多信息时便有了轻重之别，乃至屏蔽若干信息</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #4A90D9; background: #E8F4F840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #4A90D9;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-06-03 13:36</span>
+                <span class="card-loc" style="background: #4A90D920; color: #4A90D9;">位置 2527</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">米哈里引用了笔者也曾引用过的弗兰克的话：“事实上，幸福感通常根本不是作为目标而浮现于人们的追求面前，而只不过表现为目标既达的某种附带现象。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #4A90D9; background: #E8F4F840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #4A90D9;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-06-03 13:36</span>
+                <span class="card-loc" style="background: #4A90D920; color: #4A90D9;">位置 2721</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">米哈里在本书中的全部研讨都是在证明幸福不是人生主题，而是附带现象。幸福是你全身心地投入一桩事物，达到忘我的程度，并由此获得内心秩序和安宁时的状态。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #4A90D9; background: #E8F4F840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #4A90D9;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-06-03 13:38</span>
+                <span class="card-loc" style="background: #4A90D920; color: #4A90D9;">位置 3172</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">而“好的生存状态”，英文直译为well being，就是幸福的意思，“好的生存状态”要兼括生理满足与精神系统中的秩序。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #4A90D9; background: #E8F4F840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #4A90D9;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-06-03 13:38</span>
+                <span class="card-loc" style="background: #4A90D920; color: #4A90D9;">位置 3555</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">第三，在自发过程中，浓度趋于扩散，结构趋于消失，有序趋于无序。无序的量度被称作“熵”。一切自发的物理过程，都是熵增加的过程。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #4A90D9; background: #E8F4F840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #4A90D9;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-06-03 13:38</span>
+                <span class="card-loc" style="background: #4A90D920; color: #4A90D9;">位置 3646</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">生命现象是个奇迹。它将太阳能转化成生物能，并从无序中发展出有序。薛定谔以物理学家的眼光看到了大自然中的这个反例，称之为“负熵”。负熵就是从无序走向有序的趋势。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #4A90D9; background: #E8F4F840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #4A90D9;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-06-03 13:39</span>
+                <span class="card-loc" style="background: #4A90D920; color: #4A90D9;">位置 3772</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">他认为，资讯对人们意识中的目标和结构的威胁，将导致内心失去秩序，就是精神熵。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #4A90D9; background: #E8F4F840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #4A90D9;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-06-03 13:39</span>
+                <span class="card-loc" style="background: #4A90D920; color: #4A90D9;">位置 4247</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">他说：体验过心流的人都知道，那份深沉的快乐是严格的自律、集中注意力换来的。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #4A90D9; background: #E8F4F840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #4A90D9;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-06-03 13:40</span>
+                <span class="card-loc" style="background: #4A90D920; color: #4A90D9;">位置 5095</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">有实验证明全神贯注减轻了脑力负担。“最合理的解释似乎是：心流较强的那组人能关闭其他资讯的管道，只把注意力集中在接收闪光的刺激上。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #4A90D9; background: #E8F4F840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #4A90D9;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-06-03 13:42</span>
+                <span class="card-loc" style="background: #4A90D920; color: #4A90D9;">位置 6243</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">当挑战的目标大大高过你的技能时，将产生焦虑，此时应降低挑战目标。当你的技能高过设定的目标，继续持续这种活动将产生厌倦，便要提升目标，以求挑战和心流的持续。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #4A90D9; background: #E8F4F840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #4A90D9;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-06-03 13:43</span>
+                <span class="card-loc" style="background: #4A90D920; color: #4A90D9;">位置 7454</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">米哈里说：获得最优体验的手段，“不能浓缩成一个秘诀，也不能背诵下来重复使用……每个人必须自行从不断的尝试与错误中学习”。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #4A90D9; background: #E8F4F840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #4A90D9;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-06-03 13:44</span>
+                <span class="card-loc" style="background: #4A90D920; color: #4A90D9;">位置 7732</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">拒绝外部奖励的最有效的方法是建立“内奖”，即选定你的目标，在追随目标的努力中，获得内心的秩序和成长的乐趣，这就是内奖，就是自我奖励。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #4A90D9; background: #E8F4F840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #4A90D9;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-06-03 13:44</span>
+                <span class="card-loc" style="background: #4A90D920; color: #4A90D9;">位置 7925</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">米哈里说：“开始时靠目标证明努力的必要，到后来却变成靠努力证明目标的重要性。”“登上山顶之所以重要，只因它证明了我们爬过山，爬山的过程才是真正的目标。”</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #4A90D9; background: #E8F4F840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #4A90D9;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-06-03 13:45</span>
+                <span class="card-loc" style="background: #4A90D920; color: #4A90D9;">位置 8434</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">择友是从少年时代开始就要学习的一门至关重要的技能。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #4A90D9; background: #E8F4F840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #4A90D9;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-06-03 13:45</span>
+                <span class="card-loc" style="background: #4A90D920; color: #4A90D9;">位置 8833</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">一方面，独处是建立自己的内心系统的必要经历。另一方面，有了自己内心的系统，更能够适应因偶然原因陷入的孤独的处境中。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #4A90D9; background: #E8F4F840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #4A90D9;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-06-03 13:46</span>
+                <span class="card-loc" style="background: #4A90D920; color: #4A90D9;">位置 9487</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">该调查发现，心流的体验，工作时（54%）大大高于休闲时（18%）。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #4A90D9; background: #E8F4F840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #4A90D9;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-06-03 13:46</span>
+                <span class="card-loc" style="background: #4A90D920; color: #4A90D9;">位置 9692</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">调查中更多的心流出现在工作中，而不是休闲中。这符合米哈里的一贯认识。他引用弗洛伊德的话：“快乐的秘诀在于工作与爱”。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #4A90D9; background: #E8F4F840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #4A90D9;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-06-03 13:47</span>
+                <span class="card-loc" style="background: #4A90D920; color: #4A90D9;">位置 10191</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">我常对学生们说，你们要选择一份与你自己智商相匹配的工作。不要干了十年后发现你已经穷尽了这份工作中的全部奥秘，索然无味了。中年后能否找到和重新学做一份挑战性的工作是存疑的。借棋弈做比喻，智商高的不要选择跳棋，要选择围棋，它能长久地吸引你。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #4A90D9; background: #E8F4F840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #4A90D9;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-06-03 13:50</span>
+                <span class="card-loc" style="background: #4A90D920; color: #4A90D9;">位置 12552</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">体育具备造就心流的最佳条件：明确的目标，即时的回馈，易学难精带来的上不封顶的挑战性。</p>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="chapter-section">
+        <h2 class="chapter-title">
+          <span class="ch-num" style="background: #7B68EE;">2</span>
+          <span class="ch-title-text" style="color: #7B68EE;">序二 心流人生：一曲冰与火之歌</span>
+          <span class="ch-count">3 条</span>
+        </h2>
+        <div class="cards-container">
+          
+          <div class="highlight-card" style="border-left-color: #7B68EE; background: #F5EEF840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #7B68EE;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-06-03 13:57</span>
+                <span class="card-loc" style="background: #7B68EE20; color: #7B68EE;">位置 1103</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">在我的现实生活中，我也采用契克森米哈赖的建议，用“明确目标”、“即时反馈”、“匹配难度”三个原则来改造一些任务，使我能在其中产生更多的心流体验。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #7B68EE; background: #F5EEF840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #7B68EE;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-06-03 13:58</span>
+                <span class="card-loc" style="background: #7B68EE20; color: #7B68EE;">位置 3456</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">最典型、最壮丽也最奇妙的负熵过程就是这个宇宙的最大奇迹——生命。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #7B68EE; background: #F5EEF840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #7B68EE;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-06-03 13:58</span>
+                <span class="card-loc" style="background: #7B68EE20; color: #7B68EE;">位置 3944</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">人类开山采矿，烧土为砖，伐木为林，造出高楼大厦、高速公路，乃至用风力、水力、火力发电，发明互联网、人工智能，都是用浪费大量能量的代价，形成了一个更精巧的结构，从而降低了自己系统的熵。</p>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="chapter-section">
+        <h2 class="chapter-title">
+          <span class="ch-num" style="background: #E8833A;">3</span>
+          <span class="ch-title-text" style="color: #E8833A;">序三 胜利者一无所获</span>
+          <span class="ch-count">1 条</span>
+        </h2>
+        <div class="cards-container">
+          
+          <div class="highlight-card" style="border-left-color: #E8833A; background: #FDF2E940;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #E8833A;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-06-03 14:38</span>
+                <span class="card-loc" style="background: #E8833A20; color: #E8833A;">位置 3900</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">坚毅》￼作者安杰拉·达克沃思认为，心流是体验，刻意练习是行为；刻意练习发生在技能准备阶段，而心流体验发生在技能表现阶段。人们进行刻意练习的动机是提高技能；而心流的动机完全不同，心流的本质是令人沉醉与上瘾的，在心流体验中，你会忘掉时间，并且不在意是否提升了技能。</p>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="chapter-section">
+        <h2 class="chapter-title">
+          <span class="ch-num" style="background: #2EAD6B;">4</span>
+          <span class="ch-title-text" style="color: #2EAD6B;">序四 契克森米哈赖的幸福课</span>
+          <span class="ch-count">2 条</span>
+        </h2>
+        <div class="cards-container">
+          
+          <div class="highlight-card" style="border-left-color: #2EAD6B; background: #E8F8F040;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #2EAD6B;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-06-03 14:41</span>
+                <span class="card-loc" style="background: #2EAD6B20; color: #2EAD6B;">位置 1626</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">我们已经知道，心流的前提是我们要主动关闭大脑的前额叶皮层的一部分功能，心流的过程是大脑分泌“去甲肾上腺素”和“多巴胺”等六种激素，不断深入，心流的愉悦感也来自这些激素。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #2EAD6B; background: #E8F8F040;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #2EAD6B;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-06-03 14:42</span>
+                <span class="card-loc" style="background: #2EAD6B20; color: #2EAD6B;">位置 2522</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">在契克森米哈赖看来，心流其实是一种生活方式，而且是最高级的生活方式。你想幸福吗？追求心流</p>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="chapter-section">
+        <h2 class="chapter-title">
+          <span class="ch-num" style="background: #D94A8A;">5</span>
+          <span class="ch-title-text" style="color: #D94A8A;">序五 听见喜悦的声音</span>
+          <span class="ch-count">2 条</span>
+        </h2>
+        <div class="cards-container">
+          
+          <div class="highlight-card" style="border-left-color: #D94A8A; background: #FDE8EF40;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #D94A8A;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-06-06 05:39</span>
+                <span class="card-loc" style="background: #D94A8A20; color: #D94A8A;">位置 1098</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">马斯洛是从哲学的超越性出发，含有浓厚的意念论倾向；而契克森米哈赖教授从现象出发，提出一个最基本的问题：“人为什么会专心致志、浑然忘我？”</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #D94A8A; background: #FDE8EF40;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #D94A8A;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-06-06 05:56</span>
+                <span class="card-loc" style="background: #D94A8A20; color: #D94A8A;">位置 1706</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">因此，他认为心流是人类普遍生活本质的存在，但是不能把心流视为心灵恒常的现象，更不是“境界”，而是人在生活中苦苦挣扎的瞬间展现的灵光。</p>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="chapter-section">
+        <h2 class="chapter-title">
+          <span class="ch-num" style="background: #E6A23C;">6</span>
+          <span class="ch-title-text" style="color: #E6A23C;">序六 快乐需要用心学习</span>
+          <span class="ch-count">1 条</span>
+        </h2>
+        <div class="cards-container">
+          
+          <div class="highlight-card" style="border-left-color: #E6A23C; background: #FEF5E740;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #E6A23C;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-06-06 05:56</span>
+                <span class="card-loc" style="background: #E6A23C20; color: #E6A23C;">位置 1438</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">最为重要的是，在音乐教育中，儿童学习把精神集中在优美的节奏与和谐之中，感受音乐、享受音乐，也是学习快乐的一个渠道。如果太强调技巧而不重视感受，家长的期待就会成为压力，快乐也就无处可寻了。</p>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="chapter-section">
+        <h2 class="chapter-title">
+          <span class="ch-num" style="background: #4A90D9;">7</span>
+          <span class="ch-title-text" style="color: #4A90D9;">第一章 心流，快乐的源泉</span>
+          <span class="ch-count">20 条</span>
+        </h2>
+        <div class="cards-container">
+          
+          <div class="highlight-card" style="border-left-color: #4A90D9; background: #E8F4F840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #4A90D9;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-07-30 23:59</span>
+                <span class="card-loc" style="background: #4A90D920; color: #4A90D9;">位置 1762</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">实际上，幸福要靠个人的修持，事先充分准备、刻意培养与维护。只有学会掌控心灵的人，才能决定自己的生活品质；具备了这种能力，也就相当于接近幸福的境界了。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #4A90D9; background: #E8F4F840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #4A90D9;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-07-31 00:00</span>
+                <span class="card-loc" style="background: #4A90D920; color: #4A90D9;">位置 1880</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">哲学家密尔说：“自问是否幸福，幸福的感觉就荡然无存了</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #4A90D9; background: #E8F4F840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #4A90D9;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-07-31 00:00</span>
+                <span class="card-loc" style="background: #4A90D920; color: #4A90D9;">位置 1950</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">奥地利心理学家维克多·弗兰克在《活出意义来》一书的序言里说得好：“不要以成功为目标——你越是对它念念不忘，就越有可能错过它。因为成功如同幸福，不是追求就能得到；它必须因缘际会……是一个人全心全意投入并把自己置之度外时，意外获得的副产品。”</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #4A90D9; background: #E8F4F840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #4A90D9;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-07-31 00:01</span>
+                <span class="card-loc" style="background: #4A90D920; color: #4A90D9;">位置 2970</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">虽然这些时候我们也有可能体会到快乐，但最愉悦的时刻通常在一个人为了某项艰巨的任务而辛苦付出，把体能与智力都发挥到极致的时候</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #4A90D9; background: #E8F4F840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #4A90D9;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-07-31 00:02</span>
+                <span class="card-loc" style="background: #4A90D920; color: #4A90D9;">位置 3145</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">每个人毕生都面临着不计其数的挑战，而每次挑战都是一个获得幸福的良机。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #4A90D9; background: #E8F4F840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #4A90D9;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-07-31 00:02</span>
+                <span class="card-loc" style="background: #4A90D920; color: #4A90D9;">位置 3286</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">掌控生命殊非易事，有时根本就是一种痛苦，但日积月累的最优体验会汇集成一种掌控感——说得更贴切些，是一种能自行决定生命内涵的参与感——这就是我们所能想象的最接近所谓“幸福”的状态。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #4A90D9; background: #E8F4F840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #4A90D9;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-07-31 00:03</span>
+                <span class="card-loc" style="background: #4A90D920; color: #4A90D9;">位置 3578</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">心流即一个人完全沉浸在某种活动当中，无视其他事物存在的状态。这种体验本身带来莫大的喜悦，使人愿意付出巨大的代价</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #4A90D9; background: #E8F4F840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #4A90D9;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-07-31 00:03</span>
+                <span class="card-loc" style="background: #4A90D920; color: #4A90D9;">位置 3889</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">为了力求精确，我们逐渐发展出一套评估主观体验的新方法——“心理体验抽样法”（简称ESM）。该方法是为每位受测者佩戴一个电子呼叫器，为期一周，每当呼叫器一响，受测者就要写下当时的感觉或心情。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #4A90D9; background: #E8F4F840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #4A90D9;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-07-31 00:07</span>
+                <span class="card-loc" style="background: #4A90D920; color: #4A90D9;">位置 8305</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">霍姆斯说：“宇宙既不敌视我们，也不友善。它只是全然漠不关心。”</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #4A90D9; background: #E8F4F840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #4A90D9;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-07-31 00:12</span>
+                <span class="card-loc" style="background: #4A90D920; color: #4A90D9;">位置 14375</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">爱默生曾说：“我们对生活有种种期许，却从未真正生活过</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #4A90D9; background: #E8F4F840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #4A90D9;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-07-31 00:13</span>
+                <span class="card-loc" style="background: #4A90D920; color: #4A90D9;">位置 15596</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">现在所谓的“写实主义”，事实上只是宿命论的老调新弹：把一切行动的责任全都归咎于自然</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #4A90D9; background: #E8F4F840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #4A90D9;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-07-31 00:14</span>
+                <span class="card-loc" style="background: #4A90D920; color: #4A90D9;">位置 16414</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">求生，尤其是在一个复杂的社会中求生，绝对有必要为实现外在目标暂时牺牲一时的满足，但不必因此而成为傀儡。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #4A90D9; background: #E8F4F840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #4A90D9;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-07-31 00:16</span>
+                <span class="card-loc" style="background: #4A90D920; color: #4A90D9;">位置 16891</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">使我们对产品垂涎不已，还是老板皱一下眉头就使我们整天提心吊胆，都代表我们没有决定体验内涵的</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #4A90D9; background: #E8F4F840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #4A90D9;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-07-31 00:16</span>
+                <span class="card-loc" style="background: #4A90D920; color: #4A90D9;">位置 16983</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">古希腊哲学家埃皮克提图曾说：“人害怕的其实是自己对事物的看法，而非事物本身。”罗马哲学家皇帝马可·奥勒留也曾写道：“外界事物令你痛苦并不是因为它们打扰你，而是肇因于你对它们的判断，而你有能力立刻消弭那种判断。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #4A90D9; background: #E8F4F840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #4A90D9;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-07-31 00:17</span>
+                <span class="card-loc" style="background: #4A90D920; color: #4A90D9;">位置 17522</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">生活的品质取决于控制意识的能力，这是人类早已知道的简单事实。古希腊德尔斐神谕警醒世人：“要有自知之明。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #4A90D9; background: #E8F4F840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #4A90D9;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-07-31 00:17</span>
+                <span class="card-loc" style="background: #4A90D920; color: #4A90D9;">位置 17711</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">弗洛伊德曾指出，“本我”与“超我”是争夺心灵控制权的两大暴君，前者是基因的奴隶，后者则与社会沆瀣一气，两者都算是“外界”。与它们相对的是“自我”，代表一个人在现实环境中真正的需要</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #4A90D9; background: #E8F4F840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #4A90D9;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-07-31 00:18</span>
+                <span class="card-loc" style="background: #4A90D920; color: #4A90D9;">位置 18195</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">首先，解放意识的知识或智慧不能累积，不能浓缩成一个秘诀，也不能背诵下来重复使用</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #4A90D9; background: #E8F4F840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #4A90D9;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-07-31 00:18</span>
+                <span class="card-loc" style="background: #4A90D920; color: #4A90D9;">位置 18448</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">其次，控制意识的知识在文化背景改变时，也必须进行相应调整。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #4A90D9; background: #E8F4F840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #4A90D9;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-07-31 00:19</span>
+                <span class="card-loc" style="background: #4A90D920; color: #4A90D9;">位置 18714</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">对意识的控制不能予以制度化，一旦成为社会规则与标准的一部分，它就失去了原有的作用</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #4A90D9; background: #E8F4F840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #4A90D9;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-07-31 00:20</span>
+                <span class="card-loc" style="background: #4A90D920; color: #4A90D9;">位置 19403</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">控制意识才能控制体验的品质，任何在这方面最起码的进步都足以提升生活的品质，使生活更快乐、更有意义。</p>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+
+  <div class="footer">
+    生成于 2026-05-21 00:54 · 微信读书 → Obsidian
+  </div>
+
+</div>
+</body>
+</html>

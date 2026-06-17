@@ -1,0 +1,845 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>崖山 - 读书笔记</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    background: linear-gradient(160deg, #f8f9fc 0%, #eef1f5 100%);
+    font-family: -apple-system, "PingFang SC", "Noto Sans SC", "LXGW WenKai", "Microsoft YaHei", sans-serif;
+    padding: 40px 20px;
+    min-height: 100vh;
+  }
+
+  .container {
+    max-width: 820px;
+    margin: 0 auto;
+  }
+
+  /* ===== 书籍头部 ===== */
+  .book-header {
+    background: linear-gradient(135deg, #2c3e50 0%, #1a252f 100%);
+    border-radius: 18px;
+    padding: 48px 40px;
+    margin-bottom: 32px;
+    color: #fff;
+    box-shadow: 0 10px 40px rgba(0,0,0,0.12);
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    gap: 32px;
+    align-items: flex-start;
+  }
+
+  .book-header::before {
+    content: '';
+    position: absolute;
+    top: -40%;
+    right: -10%;
+    width: 280px;
+    height: 280px;
+    background: rgba(255,255,255,0.03);
+    border-radius: 50%;
+  }
+
+  .book-cover {
+    width: 100px;
+    height: 140px;
+    border-radius: 8px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.3);
+    flex-shrink: 0;
+    object-fit: cover;
+    background: rgba(255,255,255,0.08);
+    position: relative;
+    z-index: 1;
+  }
+
+  .book-info {
+    flex: 1;
+    position: relative;
+    z-index: 1;
+  }
+
+  .book-title {
+    font-size: 26px;
+    font-weight: 700;
+    margin-bottom: 6px;
+    letter-spacing: 0.5px;
+  }
+
+  .book-author {
+    font-size: 15px;
+    opacity: 0.7;
+    margin-bottom: 16px;
+  }
+
+  .book-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+
+  .book-tag {
+    background: rgba(255,255,255,0.12);
+    padding: 4px 12px;
+    border-radius: 20px;
+    font-size: 12px;
+    opacity: 0.8;
+  }
+
+  /* ===== 统计栏 ===== */
+  .stats-bar {
+    background: #fff;
+    border-radius: 14px;
+    padding: 20px 24px;
+    margin-bottom: 32px;
+    display: flex;
+    justify-content: space-around;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.05);
+    border: 1px solid rgba(0,0,0,0.03);
+  }
+
+  .stat-item {
+    text-align: center;
+  }
+
+  .stat-num {
+    font-size: 26px;
+    font-weight: 700;
+    color: #2c3e50;
+    line-height: 1.2;
+  }
+
+  .stat-label {
+    font-size: 12px;
+    color: #aaa;
+    margin-top: 2px;
+  }
+
+  .stat-divider {
+    width: 1px;
+    background: #eee;
+  }
+
+  /* ===== 章节 ===== */
+  .chapter-section {
+    margin-bottom: 32px;
+  }
+
+  .chapter-title {
+    font-size: 17px;
+    font-weight: 600;
+    color: #333;
+    margin-bottom: 14px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .ch-num {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 26px;
+    height: 26px;
+    border-radius: 8px;
+    color: #fff;
+    font-size: 13px;
+    font-weight: 600;
+    flex-shrink: 0;
+  }
+
+  .ch-title-text {
+    font-size: 17px;
+    font-weight: 600;
+  }
+
+  .ch-count {
+    font-size: 12px;
+    font-weight: 400;
+    color: #aaa;
+    margin-left: auto;
+  }
+
+  .card-header-right {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+
+  .card-loc {
+    display: inline-block;
+    padding: 1px 8px;
+    border-radius: 10px;
+    font-size: 11px;
+    font-weight: 500;
+    font-family: "SF Mono", "PingFang SC", monospace;
+    line-height: 1.6;
+  }
+
+  /* ===== 卡片 ===== */
+  .cards-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .highlight-card {
+    background: #fff;
+    border-radius: 12px;
+    padding: 16px 20px;
+    border-left: 4px solid #4A90D9;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.04);
+    transition: transform 0.2s, box-shadow 0.2s;
+    position: relative;
+  }
+
+  .highlight-card:hover {
+    transform: translateX(6px);
+    box-shadow: 0 6px 20px rgba(0,0,0,0.08);
+  }
+
+  .highlight-card.orphan {
+    opacity: 0.85;
+  }
+
+  .card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 6px;
+  }
+
+  .quote-icon {
+    font-size: 28px;
+    line-height: 1;
+    font-family: Georgia, serif;
+    opacity: 0.3;
+  }
+
+  .card-time {
+    font-size: 11px;
+    color: #bbb;
+  }
+
+  .card-body {
+    position: relative;
+  }
+
+  .highlight-text {
+    font-size: 14.5px;
+    line-height: 1.85;
+    color: #333;
+    text-align: justify;
+  }
+
+  .review-bubble {
+    margin-top: 10px;
+    padding: 10px 14px;
+    background: #FFF8E1;
+    border-radius: 8px;
+    font-size: 13.5px;
+    line-height: 1.6;
+    color: #8D6E00;
+    display: flex;
+    gap: 8px;
+    align-items: flex-start;
+  }
+
+  .review-bubble.standalone {
+    background: #F3E8FF;
+    color: #6B21A8;
+  }
+
+  .review-icon {
+    flex-shrink: 0;
+    font-size: 14px;
+    line-height: 1.6;
+  }
+
+  .review-text {
+    flex: 1;
+  }
+
+  /* ===== 底部 ===== */
+  .footer {
+    text-align: center;
+    padding: 40px 0 20px;
+    color: #bbb;
+    font-size: 12px;
+  }
+
+  .footer a { color: #888; text-decoration: none; }
+
+  @media (max-width: 640px) {
+    body { padding: 16px 12px; }
+    .book-header { padding: 28px 20px; flex-direction: column; gap: 16px; }
+    .book-cover { width: 80px; height: 112px; }
+    .book-title { font-size: 20px; }
+    .stats-bar { flex-wrap: wrap; gap: 8px; padding: 14px; }
+    .stat-divider { display: none; }
+  }
+</style>
+</head>
+<body>
+<div class="container">
+
+  <div class="book-header">
+    
+    <div class="book-info">
+      <h1 class="book-title">崖山</h1>
+      <p class="book-author">张明扬</p>
+      <div class="book-tags">
+        <span class="book-tag">📖 34 条划线</span>
+        <span class="book-tag">💡 0 条想法</span>
+        <span class="book-tag">📅 2026-05-21 00:54</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="stats-bar">
+    <div class="stat-item">
+      <div class="stat-num">7</div>
+      <div class="stat-label">章节</div>
+    </div>
+    <div class="stat-divider"></div>
+    <div class="stat-item">
+      <div class="stat-num">34</div>
+      <div class="stat-label">划线</div>
+    </div>
+    <div class="stat-divider"></div>
+    <div class="stat-item">
+      <div class="stat-num">0</div>
+      <div class="stat-label">想法</div>
+    </div>
+    <div class="stat-divider"></div>
+    <div class="stat-item">
+      <div class="stat-num">34</div>
+      <div class="stat-label">总标记</div>
+    </div>
+  </div>
+
+  
+      <div class="chapter-section">
+        <h2 class="chapter-title">
+          <span class="ch-num" style="background: #4A90D9;">1</span>
+          <span class="ch-title-text" style="color: #4A90D9;">楔子 蔡州：南宋的怨念</span>
+          <span class="ch-count">4 条</span>
+        </h2>
+        <div class="cards-container">
+          
+          <div class="highlight-card" style="border-left-color: #4A90D9; background: #E8F4F840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #4A90D9;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2025-11-16 12:41</span>
+                <span class="card-loc" style="background: #4A90D920; color: #4A90D9;">位置 9931</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">秦钜之死，当得起“精忠报国”四字。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #4A90D9; background: #E8F4F840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #4A90D9;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2025-11-16 12:49</span>
+                <span class="card-loc" style="background: #4A90D920; color: #4A90D9;">位置 17908</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">在史嵩之的支持下，南宋不世出的名将孟珙全力反击。绍定六年（金天兴二年，1233年）七月，孟珙在河南马蹬山决定性地击败了武仙所部，俘获金军七万余人，功亏一篑的武仙逃遁，后为蒙古人擒杀</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #4A90D9; background: #E8F4F840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #4A90D9;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2025-11-16 12:56</span>
+                <span class="card-loc" style="background: #4A90D920; color: #4A90D9;">位置 25124</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">七月初五，宋军兵不血刃就光复汴梁，成就了岳飞终其一生都没有达成的伟业。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #4A90D9; background: #E8F4F840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #4A90D9;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2025-11-16 12:57</span>
+                <span class="card-loc" style="background: #4A90D920; color: #4A90D9;">位置 25225</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">但全子才军看到的芜城却与《清明上河图》中的那个汴京大相径庭，四顾萧条，寒水自碧，废池乔木，犹厌言兵，昔日的繁盛帝都仅余居民一千多户、守军六百余人，只有大相国寺和原北宋宫禁“不动而已”。</p>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="chapter-section">
+        <h2 class="chapter-title">
+          <span class="ch-num" style="background: #7B68EE;">2</span>
+          <span class="ch-title-text" style="color: #7B68EE;">第一章 钓鱼城：蒙哥之死</span>
+          <span class="ch-count">5 条</span>
+        </h2>
+        <div class="cards-container">
+          
+          <div class="highlight-card" style="border-left-color: #7B68EE; background: #F5EEF840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #7B68EE;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2025-11-16 13:47</span>
+                <span class="card-loc" style="background: #7B68EE20; color: #7B68EE;">位置 1681</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">为与成吉思汗时代的那次西征相区别，此次西征也称“第二次西征”，因为各支宗室多以长子统军，又称“长子西征”</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #7B68EE; background: #F5EEF840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #7B68EE;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2025-11-16 13:58</span>
+                <span class="card-loc" style="background: #7B68EE20; color: #7B68EE;">位置 9963</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">第一件大事是开府金莲川。正是在总领漠南前后，忽必烈在广延四方文学之士的基础上，创建了历史上赫赫有名的金莲川幕府。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #7B68EE; background: #F5EEF840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #7B68EE;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2025-11-16 14:01</span>
+                <span class="card-loc" style="background: #7B68EE20; color: #7B68EE;">位置 11992</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">所谓钩考，本是一个财政审计的中性概念，但此次蒙哥及其势力借此发难，却更像是一个借口。对此，《元史·姚枢传》用了八个字解释：“或谗王府得中土心。”</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #7B68EE; background: #F5EEF840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #7B68EE;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2025-11-16 14:05</span>
+                <span class="card-loc" style="background: #7B68EE20; color: #7B68EE;">位置 17250</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">在四川，余玠征辟了两位军事工程奇才——来自播州（今贵州遵义）的冉琎、冉璞兄弟</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #7B68EE; background: #F5EEF840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #7B68EE;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2025-11-16 14:08</span>
+                <span class="card-loc" style="background: #7B68EE20; color: #7B68EE;">位置 18890</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">世无秦桧，但孟珙和余玠都遭遇了与岳飞类似的“莫须有”。可见，防范武将在南宋仍是一条须臾不可忘的祖宗家法，所谓“自毁长城”，更像是一种求仁得仁的制度惯性。</p>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="chapter-section">
+        <h2 class="chapter-title">
+          <span class="ch-num" style="background: #E8833A;">3</span>
+          <span class="ch-title-text" style="color: #E8833A;">第二章 鄂州：贾似道的神话</span>
+          <span class="ch-count">1 条</span>
+        </h2>
+        <div class="cards-container">
+          
+          <div class="highlight-card" style="border-left-color: #E8833A; background: #FDF2E940;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #E8833A;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2025-11-23 10:27</span>
+                <span class="card-loc" style="background: #E8833A20; color: #E8833A;">位置 14909</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">其中的天差地别，正是宋理宗对重文而抑武的祖宗家法的遵守。</p>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="chapter-section">
+        <h2 class="chapter-title">
+          <span class="ch-num" style="background: #2EAD6B;">4</span>
+          <span class="ch-title-text" style="color: #2EAD6B;">第三章 上都：两个大汗</span>
+          <span class="ch-count">7 条</span>
+        </h2>
+        <div class="cards-container">
+          
+          <div class="highlight-card" style="border-left-color: #2EAD6B; background: #E8F8F040;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #2EAD6B;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2025-11-23 10:27</span>
+                <span class="card-loc" style="background: #2EAD6B20; color: #2EAD6B;">位置 5301</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">毕竟，按照成吉思汗所定之制，忽里勒台大会一是必须在漠北蒙古本部召开，二是必须经由蒙古宗王全体合议</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #2EAD6B; background: #E8F8F040;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #2EAD6B;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2025-11-23 10:27</span>
+                <span class="card-loc" style="background: #2EAD6B20; color: #2EAD6B;">位置 8986</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">建元，也就是建立正式的汉式年号，忽必烈这是以中原皇帝自居，是再明显不过的“效行汉法”政治宣示了。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #2EAD6B; background: #E8F8F040;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #2EAD6B;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2025-11-23 10:27</span>
+                <span class="card-loc" style="background: #2EAD6B20; color: #2EAD6B;">位置 9068</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">忽必烈建元“中统”，大概意思是“中原正统”，以承继中原的皇统自命</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #2EAD6B; background: #E8F8F040;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #2EAD6B;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2025-11-23 10:27</span>
+                <span class="card-loc" style="background: #2EAD6B20; color: #2EAD6B;">位置 14359</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">蒙古人在战争中虽一贯残暴，但那是对异族而言，阿里不哥的嗜杀破坏了蒙古人的集体想象，宗王为之心寒，叛离之心顿生。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #2EAD6B; background: #E8F8F040;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #2EAD6B;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2025-11-23 10:27</span>
+                <span class="card-loc" style="background: #2EAD6B20; color: #2EAD6B;">位置 16543</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">自窝阔台于1235年正式定都喀拉和林以来，喀拉和林作为大蒙古国首都的历史共二十五年。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #2EAD6B; background: #E8F8F040;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #2EAD6B;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2025-11-23 10:27</span>
+                <span class="card-loc" style="background: #2EAD6B20; color: #2EAD6B;">位置 16614</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">中统四年（1263年），内战大局已定，忽必烈于五月九日下令将开平府升为都城，定名上都。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #2EAD6B; background: #E8F8F040;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #2EAD6B;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2025-11-23 10:27</span>
+                <span class="card-loc" style="background: #2EAD6B20; color: #2EAD6B;">位置 16846</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">最有排面的是，蒙古人将汴梁的熙春阁整体拆迁移建到上都，作为宫城大安阁的主体建筑。</p>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="chapter-section">
+        <h2 class="chapter-title">
+          <span class="ch-num" style="background: #D94A8A;">5</span>
+          <span class="ch-title-text" style="color: #D94A8A;">第四章 益都：忽必烈与汉人</span>
+          <span class="ch-count">3 条</span>
+        </h2>
+        <div class="cards-container">
+          
+          <div class="highlight-card" style="border-left-color: #D94A8A; background: #FDE8EF40;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #D94A8A;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2025-11-23 10:27</span>
+                <span class="card-loc" style="background: #D94A8A20; color: #D94A8A;">位置 6946</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">但这是因私害公的误国之举，郝经被囚在某种意义上成为南宋灭亡的先声，给蒙古留下了出兵南征的口实，并使宋蒙关系错过了一次即使是短暂的好转机会</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #D94A8A; background: #FDE8EF40;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #D94A8A;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2025-11-23 14:07</span>
+                <span class="card-loc" style="background: #D94A8A20; color: #D94A8A;">位置 9738</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">蒙古此时在中原执行的是一种半封建制——“投下主”制度，即诸王（投下主）拥有属地（投下）与属民（投下户），却不直接统治，而是与蒙古分享属地财赋，“汉人世侯不仅代朝廷守土，亦为投下主看护私产”[插图]。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #D94A8A; background: #FDE8EF40;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #D94A8A;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2025-12-09 13:28</span>
+                <span class="card-loc" style="background: #D94A8A20; color: #D94A8A;">位置 30207</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">所谓“扑买”，就是一种“包税制”，包税人以一笔固定钱财从统治者那里取得征税权，少收赔补，多收留成。</p>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="chapter-section">
+        <h2 class="chapter-title">
+          <span class="ch-num" style="background: #E6A23C;">6</span>
+          <span class="ch-title-text" style="color: #E6A23C;">第五章 泸州：归正人刘整</span>
+          <span class="ch-count">8 条</span>
+        </h2>
+        <div class="cards-container">
+          
+          <div class="highlight-card" style="border-left-color: #E6A23C; background: #FEF5E740;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #E6A23C;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2026-01-02 14:42</span>
+                <span class="card-loc" style="background: #E6A23C20; color: #E6A23C;">位置 2063</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">贾似道新政的核心，是景定四年（1263年）二月施行的公田法。所谓公田法，就是国家强制性从拥田逾限的官户那里回购田地，作为长期的军饷来源</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #E6A23C; background: #FEF5E740;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #E6A23C;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2026-01-02 14:42</span>
+                <span class="card-loc" style="background: #E6A23C20; color: #E6A23C;">位置 2444</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">赵与芮素来与贾似道不和，参与献田应为宋理宗授意</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #E6A23C; background: #FEF5E740;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #E6A23C;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2026-01-02 14:42</span>
+                <span class="card-loc" style="background: #E6A23C20; color: #E6A23C;">位置 2664</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">南宋的军粮此前高度依赖和籴制，也就是官方强制从民间统购粮食</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #E6A23C; background: #FEF5E740;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #E6A23C;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2026-01-02 14:42</span>
+                <span class="card-loc" style="background: #E6A23C20; color: #E6A23C;">位置 3825</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">没错，虽然宋理宗平日对政事不甚关心，新政之初也一度畏葸不前，但他实际上是贾似道新政的幕后支持者</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #E6A23C; background: #FEF5E740;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #E6A23C;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2026-01-02 14:42</span>
+                <span class="card-loc" style="background: #E6A23C20; color: #E6A23C;">位置 4293</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">这与王安石变法期间彗星出现时的朝野舆情如出一辙。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #E6A23C; background: #FEF5E740;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #E6A23C;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2026-01-02 14:42</span>
+                <span class="card-loc" style="background: #E6A23C20; color: #E6A23C;">位置 5579</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">“不知祖宗三百年间，曾有士人上书而去宰相者乎！”宋理宗一锤定音，“由是公论顿沮”，“自是中外结舌焉”，彗星政治风暴终了于此。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #E6A23C; background: #FEF5E740;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #E6A23C;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2026-01-02 14:42</span>
+                <span class="card-loc" style="background: #E6A23C20; color: #E6A23C;">位置 6241</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">贾似道其后很多年间又屡次请辞，被时人讽为“要君”，也就是以辞职与皇帝博弈，甚至要挟皇帝。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #E6A23C; background: #FEF5E740;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #E6A23C;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2026-01-02 14:42</span>
+                <span class="card-loc" style="background: #E6A23C20; color: #E6A23C;">位置 17332</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">一重是所谓的“蒙古帝国意识形态”，据说成吉思汗曾颁布过一条任何蒙古人都不得违反的法令——“他们要使全世界降服，决不同任何民族讲和，除非这些民族首先向他们投降”。“几乎毫无妥协余地的‘要么归顺，要么开战并被征服’，就是蒙古帝国对外征服精神的本质特征”。[插图]</p>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="chapter-section">
+        <h2 class="chapter-title">
+          <span class="ch-num" style="background: #4A90D9;">7</span>
+          <span class="ch-title-text" style="color: #4A90D9;">第六章 襄阳：孤臣吕文焕</span>
+          <span class="ch-count">6 条</span>
+        </h2>
+        <div class="cards-container">
+          
+          <div class="highlight-card" style="border-left-color: #4A90D9; background: #E8F4F840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #4A90D9;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2026-01-02 14:42</span>
+                <span class="card-loc" style="background: #4A90D920; color: #4A90D9;">位置 6420</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">所谓舟师水路赴援，就是将水军作为强大的机动性军队，当一座城池受到蒙古军队的围攻时，南宋援军往往利用舰船从水路驰援</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #4A90D9; background: #E8F4F840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #4A90D9;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2026-01-02 14:42</span>
+                <span class="card-loc" style="background: #4A90D920; color: #4A90D9;">位置 7512</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">从这个意义而言，刘整不仅是先取襄阳完整战略构想的首倡者，也是实至名归的“蒙古水军之父”。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #4A90D9; background: #E8F4F840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #4A90D9;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2026-01-02 14:42</span>
+                <span class="card-loc" style="background: #4A90D920; color: #4A90D9;">位置 8881</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">在重文抑武的南宋，吕氏军事集团为何能积厚成势，直至成为两宋历史上最大的军事集团？</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #4A90D9; background: #E8F4F840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #4A90D9;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2026-01-02 14:42</span>
+                <span class="card-loc" style="background: #4A90D920; color: #4A90D9;">位置 8950</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">最主要的原因还是贾似道的庇护</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #4A90D9; background: #E8F4F840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #4A90D9;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2026-01-02 14:42</span>
+                <span class="card-loc" style="background: #4A90D920; color: #4A90D9;">位置 9187</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">在某种程度上，吕氏军事集团实为贾氏军事集团。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #4A90D9; background: #E8F4F840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #4A90D9;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2026-01-02 14:42</span>
+                <span class="card-loc" style="background: #4A90D920; color: #4A90D9;">位置 9961</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">除贪墨以外，吕文德在守襄期间还犯下了一个贻害无穷的决策性失误：允许蒙古人在襄阳城外修建通商互市的榷场。</p>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+
+  <div class="footer">
+    生成于 2026-05-21 00:54 · 微信读书 → Obsidian
+  </div>
+
+</div>
+</body>
+</html>

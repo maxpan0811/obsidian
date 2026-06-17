@@ -1,0 +1,870 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>灰犀牛：如何应对大概率危机 - 读书笔记</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    background: linear-gradient(160deg, #f8f9fc 0%, #eef1f5 100%);
+    font-family: -apple-system, "PingFang SC", "Noto Sans SC", "LXGW WenKai", "Microsoft YaHei", sans-serif;
+    padding: 40px 20px;
+    min-height: 100vh;
+  }
+
+  .container {
+    max-width: 820px;
+    margin: 0 auto;
+  }
+
+  /* ===== 书籍头部 ===== */
+  .book-header {
+    background: linear-gradient(135deg, #2c3e50 0%, #1a252f 100%);
+    border-radius: 18px;
+    padding: 48px 40px;
+    margin-bottom: 32px;
+    color: #fff;
+    box-shadow: 0 10px 40px rgba(0,0,0,0.12);
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    gap: 32px;
+    align-items: flex-start;
+  }
+
+  .book-header::before {
+    content: '';
+    position: absolute;
+    top: -40%;
+    right: -10%;
+    width: 280px;
+    height: 280px;
+    background: rgba(255,255,255,0.03);
+    border-radius: 50%;
+  }
+
+  .book-cover {
+    width: 100px;
+    height: 140px;
+    border-radius: 8px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.3);
+    flex-shrink: 0;
+    object-fit: cover;
+    background: rgba(255,255,255,0.08);
+    position: relative;
+    z-index: 1;
+  }
+
+  .book-info {
+    flex: 1;
+    position: relative;
+    z-index: 1;
+  }
+
+  .book-title {
+    font-size: 26px;
+    font-weight: 700;
+    margin-bottom: 6px;
+    letter-spacing: 0.5px;
+  }
+
+  .book-author {
+    font-size: 15px;
+    opacity: 0.7;
+    margin-bottom: 16px;
+  }
+
+  .book-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+
+  .book-tag {
+    background: rgba(255,255,255,0.12);
+    padding: 4px 12px;
+    border-radius: 20px;
+    font-size: 12px;
+    opacity: 0.8;
+  }
+
+  /* ===== 统计栏 ===== */
+  .stats-bar {
+    background: #fff;
+    border-radius: 14px;
+    padding: 20px 24px;
+    margin-bottom: 32px;
+    display: flex;
+    justify-content: space-around;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.05);
+    border: 1px solid rgba(0,0,0,0.03);
+  }
+
+  .stat-item {
+    text-align: center;
+  }
+
+  .stat-num {
+    font-size: 26px;
+    font-weight: 700;
+    color: #2c3e50;
+    line-height: 1.2;
+  }
+
+  .stat-label {
+    font-size: 12px;
+    color: #aaa;
+    margin-top: 2px;
+  }
+
+  .stat-divider {
+    width: 1px;
+    background: #eee;
+  }
+
+  /* ===== 章节 ===== */
+  .chapter-section {
+    margin-bottom: 32px;
+  }
+
+  .chapter-title {
+    font-size: 17px;
+    font-weight: 600;
+    color: #333;
+    margin-bottom: 14px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .ch-num {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 26px;
+    height: 26px;
+    border-radius: 8px;
+    color: #fff;
+    font-size: 13px;
+    font-weight: 600;
+    flex-shrink: 0;
+  }
+
+  .ch-title-text {
+    font-size: 17px;
+    font-weight: 600;
+  }
+
+  .ch-count {
+    font-size: 12px;
+    font-weight: 400;
+    color: #aaa;
+    margin-left: auto;
+  }
+
+  .card-header-right {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+
+  .card-loc {
+    display: inline-block;
+    padding: 1px 8px;
+    border-radius: 10px;
+    font-size: 11px;
+    font-weight: 500;
+    font-family: "SF Mono", "PingFang SC", monospace;
+    line-height: 1.6;
+  }
+
+  /* ===== 卡片 ===== */
+  .cards-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .highlight-card {
+    background: #fff;
+    border-radius: 12px;
+    padding: 16px 20px;
+    border-left: 4px solid #4A90D9;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.04);
+    transition: transform 0.2s, box-shadow 0.2s;
+    position: relative;
+  }
+
+  .highlight-card:hover {
+    transform: translateX(6px);
+    box-shadow: 0 6px 20px rgba(0,0,0,0.08);
+  }
+
+  .highlight-card.orphan {
+    opacity: 0.85;
+  }
+
+  .card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 6px;
+  }
+
+  .quote-icon {
+    font-size: 28px;
+    line-height: 1;
+    font-family: Georgia, serif;
+    opacity: 0.3;
+  }
+
+  .card-time {
+    font-size: 11px;
+    color: #bbb;
+  }
+
+  .card-body {
+    position: relative;
+  }
+
+  .highlight-text {
+    font-size: 14.5px;
+    line-height: 1.85;
+    color: #333;
+    text-align: justify;
+  }
+
+  .review-bubble {
+    margin-top: 10px;
+    padding: 10px 14px;
+    background: #FFF8E1;
+    border-radius: 8px;
+    font-size: 13.5px;
+    line-height: 1.6;
+    color: #8D6E00;
+    display: flex;
+    gap: 8px;
+    align-items: flex-start;
+  }
+
+  .review-bubble.standalone {
+    background: #F3E8FF;
+    color: #6B21A8;
+  }
+
+  .review-icon {
+    flex-shrink: 0;
+    font-size: 14px;
+    line-height: 1.6;
+  }
+
+  .review-text {
+    flex: 1;
+  }
+
+  /* ===== 底部 ===== */
+  .footer {
+    text-align: center;
+    padding: 40px 0 20px;
+    color: #bbb;
+    font-size: 12px;
+  }
+
+  .footer a { color: #888; text-decoration: none; }
+
+  @media (max-width: 640px) {
+    body { padding: 16px 12px; }
+    .book-header { padding: 28px 20px; flex-direction: column; gap: 16px; }
+    .book-cover { width: 80px; height: 112px; }
+    .book-title { font-size: 20px; }
+    .stats-bar { flex-wrap: wrap; gap: 8px; padding: 14px; }
+    .stat-divider { display: none; }
+  }
+</style>
+</head>
+<body>
+<div class="container">
+
+  <div class="book-header">
+    
+    <div class="book-info">
+      <h1 class="book-title">灰犀牛：如何应对大概率危机</h1>
+      <p class="book-author">米歇尔·渥克</p>
+      <div class="book-tags">
+        <span class="book-tag">📖 39 条划线</span>
+        <span class="book-tag">💡 0 条想法</span>
+        <span class="book-tag">📅 2026-05-21 00:54</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="stats-bar">
+    <div class="stat-item">
+      <div class="stat-num">3</div>
+      <div class="stat-label">章节</div>
+    </div>
+    <div class="stat-divider"></div>
+    <div class="stat-item">
+      <div class="stat-num">39</div>
+      <div class="stat-label">划线</div>
+    </div>
+    <div class="stat-divider"></div>
+    <div class="stat-item">
+      <div class="stat-num">0</div>
+      <div class="stat-label">想法</div>
+    </div>
+    <div class="stat-divider"></div>
+    <div class="stat-item">
+      <div class="stat-num">39</div>
+      <div class="stat-label">总标记</div>
+    </div>
+  </div>
+
+  
+      <div class="chapter-section">
+        <h2 class="chapter-title">
+          <span class="ch-num" style="background: #4A90D9;">1</span>
+          <span class="ch-title-text" style="color: #4A90D9;">序言</span>
+          <span class="ch-count">3 条</span>
+        </h2>
+        <div class="cards-container">
+          
+          <div class="highlight-card" style="border-left-color: #4A90D9; background: #E8F4F840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #4A90D9;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-07-20 01:11</span>
+                <span class="card-loc" style="background: #4A90D920; color: #4A90D9;">位置 3685</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">我们的演讲内容有个共同的主题——所有灾难的发生，不是因为发生之前的征兆过于隐蔽，而是因为我们的疏忽大意和应对措施不力。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #4A90D9; background: #E8F4F840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #4A90D9;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-07-20 01:13</span>
+                <span class="card-loc" style="background: #4A90D920; color: #4A90D9;">位置 5494</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">很多时候，经历一次沉重的打击才能让我们清醒，让我们警惕灾难的发生，以最小的痛苦和代价去防患于未然。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #4A90D9; background: #E8F4F840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #4A90D9;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-07-20 01:16</span>
+                <span class="card-loc" style="background: #4A90D920; color: #4A90D9;">位置 9612</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">我们的政治和金融体制都是建立在金融动机和社会动机基础上的，而且是着眼于当下的。结果，在时间和资源上，我们都没有做任何的长期投入。所以，我们无法走到灾难的前面去防患于未然。</p>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="chapter-section">
+        <h2 class="chapter-title">
+          <span class="ch-num" style="background: #7B68EE;">2</span>
+          <span class="ch-title-text" style="color: #7B68EE;">第一章 遭遇灰犀牛</span>
+          <span class="ch-count">27 条</span>
+        </h2>
+        <div class="cards-container">
+          
+          <div class="highlight-card" style="border-left-color: #7B68EE; background: #F5EEF840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #7B68EE;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-07-20 01:47</span>
+                <span class="card-loc" style="background: #7B68EE20; color: #7B68EE;">位置 3057</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">事故最终之所以会发生，就是因为我们不愿意正视它。我们不做任何进一步的追问，因为我们不愿意知道答案。我们害怕知道答案后，就不得不去处理各种麻烦棘手的问题，更害怕事情不能像我们期待的那样往好的方向发展。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #7B68EE; background: #F5EEF840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #7B68EE;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-07-20 01:52</span>
+                <span class="card-loc" style="background: #7B68EE20; color: #7B68EE;">位置 6301</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">一头灰犀牛就是指概率极大、冲击力极强的风险：一个我们应该意识到的风险，就像是一头两吨重的犀牛，把牛角对准我们全速向我们攻击。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #7B68EE; background: #F5EEF840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #7B68EE;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-07-20 01:57</span>
+                <span class="card-loc" style="background: #7B68EE20; color: #7B68EE;">位置 9320</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">然而，超负荷运转的交通线路、老化陈旧的供电网络和生活污水排放管道、僵化的经济增长模式和失业闲散的城镇人口等，都证明了一个无法回避的事实：这些迅速膨胀的大都市没有能力回应城市的成长变化，不能提供必要的服务，不能增加就业机会，不能构建新的社会结构。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #7B68EE; background: #F5EEF840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #7B68EE;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-07-20 01:57</span>
+                <span class="card-loc" style="background: #7B68EE20; color: #7B68EE;">位置 9543</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">另一个全球范围的潜在威胁是流行疾病，其大范围暴发的警示日益频繁地出现，让人们明白自己面对的问题是：不是全球范围的流行性疾病是否会发生，而是何时发生。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #7B68EE; background: #F5EEF840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #7B68EE;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-07-20 01:58</span>
+                <span class="card-loc" style="background: #7B68EE20; color: #7B68EE;">位置 10405</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">在动物学领域里，一群犀牛就会被称为“碾压模式”（Crash）;我想不出用什么更好的词汇来形容了。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #7B68EE; background: #F5EEF840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #7B68EE;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-07-20 01:59</span>
+                <span class="card-loc" style="background: #7B68EE20; color: #7B68EE;">位置 11025</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">2007年发表的《全球风险预测报告》第2版中，将资产价格崩盘列为潜在风险严重性的第1位，同时将它列为潜在风险可能性的第6位。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #7B68EE; background: #F5EEF840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #7B68EE;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-07-20 02:01</span>
+                <span class="card-loc" style="background: #7B68EE20; color: #7B68EE;">位置 13355</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">那个不确定事件的微小因素——飓风何时到来和会有多大破坏性——足以让政府高官以此为由，拒绝行动。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #7B68EE; background: #F5EEF840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #7B68EE;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-07-20 02:12</span>
+                <span class="card-loc" style="background: #7B68EE20; color: #7B68EE;">位置 14715</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">这就是灰犀牛威胁论的核心矛盾：当我们可能遇到的危险还处于萌芽状态时，我们会感觉手头紧迫，无暇顾及，所以致使防范措施搁浅；当危险真正来临，损失已经不可避免，此时此刻，我们虽然有应对灾难的财力物力了，但无论我们是想减少损失，还是想事后收拾残局，其费用都会是天文数字。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #7B68EE; background: #F5EEF840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #7B68EE;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-07-20 02:13</span>
+                <span class="card-loc" style="background: #7B68EE20; color: #7B68EE;">位置 15497</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">塔勒布会认为，他的读者如果痴迷于预测下一次黑天鹅事件的出现，就是没有真正理解他的理论观点。预测低概率事件，听起来很诱人，但实际上是不可能的。我们将不得不承认，那些不可预测的事件会让我们的所有猜想都看起来非常可笑。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #7B68EE; background: #F5EEF840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #7B68EE;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-07-20 02:14</span>
+                <span class="card-loc" style="background: #7B68EE20; color: #7B68EE;">位置 15686</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">灰犀牛事件是这样一些事件：其发出的信号不是太模糊，而是其接受者决心忽略这些信号；我们的体制纵容我们的不作为态度，而且当作一种正常现象来认可和接受。总是有这样的人，非常固执，无视显而易见的风险。但是，按照惯例来看，如果一个危险的存在非常明显，而且人们已经看到了危险的到来，这种危险仍然是灰犀牛性质的，而不是黑天鹅性质的。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #7B68EE; background: #F5EEF840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #7B68EE;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-07-20 02:14</span>
+                <span class="card-loc" style="background: #7B68EE20; color: #7B68EE;">位置 15925</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">摆在领导者们面前的不是低概率的黑天鹅事件，而是高概率的灰犀牛事件。我们可能会无法预知细节和准确的时间，但是巨大威胁的整体轮廓就摆在我们面前，让我们无法忽视。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #7B68EE; background: #F5EEF840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #7B68EE;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-07-20 02:16</span>
+                <span class="card-loc" style="background: #7B68EE20; color: #7B68EE;">位置 17810</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">金融体制的设置助长了一种行为的滋生：在局面一片大好时骄傲自满，在极端局面面前退缩推诿责任。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #7B68EE; background: #F5EEF840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #7B68EE;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-07-20 02:24</span>
+                <span class="card-loc" style="background: #7B68EE20; color: #7B68EE;">位置 18467</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">拒绝承认明显的灾难威胁，本身就是灰犀牛理论所要探讨的现象之一。灰犀牛的出现，正是因为我们的忽视和拒绝，才最终演变成高概率的事件。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #7B68EE; background: #F5EEF840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #7B68EE;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-07-20 02:29</span>
+                <span class="card-loc" style="background: #7B68EE20; color: #7B68EE;">位置 20352</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">课程主旨就是要让学生明白一个重要的道理——如果仅仅以失败的案例为基础来制定决策，其结果将是灾难性的。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #7B68EE; background: #F5EEF840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #7B68EE;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-07-20 02:30</span>
+                <span class="card-loc" style="background: #7B68EE20; color: #7B68EE;">位置 20608</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">但是当你分析数据时加入一些成功比赛的案例，你立刻就能明白，汽车的发动机密封垫能够平安无事的历次比赛，其当时的温度都远远高于你将参赛的那个早晨的温度。此刻，事情就简单明了了，即最正确的决定就是弃赛。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #7B68EE; background: #F5EEF840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #7B68EE;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-07-21 02:23</span>
+                <span class="card-loc" style="background: #7B68EE20; color: #7B68EE;">位置 22467</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">特洛伊的普里阿摩斯国王（King Priam）和王后赫卡柏（Hecuba）的女儿——卡桑德拉很不幸地吸引了太阳神阿波罗的目光。阿波罗赋予了她预知未来的能力，但是她并不爱阿波罗。于是，阿波罗发出了诅咒, 阻止人们相信她的预言。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #7B68EE; background: #F5EEF840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #7B68EE;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-07-21 02:23</span>
+                <span class="card-loc" style="background: #7B68EE20; color: #7B68EE;">位置 22632</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">从卡桑德拉的故事中，我们总结出的经验，如今已是西方文化的核心理论之一：不要相信总是唱反调的人。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #7B68EE; background: #F5EEF840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #7B68EE;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-07-21 02:24</span>
+                <span class="card-loc" style="background: #7B68EE20; color: #7B68EE;">位置 22925</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">如果劝说一个人去预防潜在危机是一件很困难的事，那么劝说一群人的困难程度将会成倍增加。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #7B68EE; background: #F5EEF840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #7B68EE;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-07-21 02:24</span>
+                <span class="card-loc" style="background: #7B68EE20; color: #7B68EE;">位置 23044</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">人们宁愿和大家一起犯错，也不愿成为唯一正确的那个人。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #7B68EE; background: #F5EEF840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #7B68EE;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-07-21 02:25</span>
+                <span class="card-loc" style="background: #7B68EE20; color: #7B68EE;">位置 23777</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">这个故事告诉我们的道理是：积极努力营救你的人民，哪怕是会被烧死在十字架上。几个世纪后，你会因自己的努力而最终被尊为圣人。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #7B68EE; background: #F5EEF840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #7B68EE;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-07-21 02:25</span>
+                <span class="card-loc" style="background: #7B68EE20; color: #7B68EE;">位置 23866</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">换句话说，做好事是要受到惩罚的。这就是很少会有领导者挺身而出、及时未雨绸缪的原因。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #7B68EE; background: #F5EEF840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #7B68EE;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-07-21 02:30</span>
+                <span class="card-loc" style="background: #7B68EE20; color: #7B68EE;">位置 24552</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">据报道，现代西方经济学最有影响的经济学家之一约翰·梅纳德·凯恩斯（John Maynard Keynes）曾经说：“市场的不理性现象可能要持续很长时间，远比你我能理解接受的时间要长。”</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #7B68EE; background: #F5EEF840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #7B68EE;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-07-21 02:30</span>
+                <span class="card-loc" style="background: #7B68EE20; color: #7B68EE;">位置 25390</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">在危险即将到来的时候采取行动是多么的困难，但是如果你的钱袋够厚，你的收益将是非常可观的。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #7B68EE; background: #F5EEF840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #7B68EE;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-07-21 02:31</span>
+                <span class="card-loc" style="background: #7B68EE20; color: #7B68EE;">位置 25870</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">考虑到危机到来时间的不确定性和可利用资源的局限性，从横冲直撞的灰犀牛中找出最先攻击的那一头是非常困难的事情。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #7B68EE; background: #F5EEF840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #7B68EE;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-07-21 02:31</span>
+                <span class="card-loc" style="background: #7B68EE20; color: #7B68EE;">位置 25968</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">有时候（尽管现实中很少发生这样的事），最正确的做法就是等待，等到犀牛们的攻击实质地发生。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #7B68EE; background: #F5EEF840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #7B68EE;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-07-21 02:33</span>
+                <span class="card-loc" style="background: #7B68EE20; color: #7B68EE;">位置 27328</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">因为这类事件都是发生概率极低的事件，而且其中的黑天鹅事件具有高度的不可预见性，因此，对这类事件的唯一处理办法就是必须建立一个通用的复原机制或结构：强大的基础、充足的储备、灵活的结构。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #7B68EE; background: #F5EEF840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #7B68EE;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-07-21 02:37</span>
+                <span class="card-loc" style="background: #7B68EE20; color: #7B68EE;">位置 28654</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">领袖们需要去顾虑灰犀牛们而不是黑天鹅们，需要寻找一种方式让自己走出“否认”阶段，变革我们的奖励机制，让对危机的防御变得更容易。</p>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="chapter-section">
+        <h2 class="chapter-title">
+          <span class="ch-num" style="background: #E8833A;">3</span>
+          <span class="ch-title-text" style="color: #E8833A;">第二章 预测过程中会遇到的困难：抵触和否认情绪</span>
+          <span class="ch-count">9 条</span>
+        </h2>
+        <div class="cards-container">
+          
+          <div class="highlight-card" style="border-left-color: #E8833A; background: #FDF2E940;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #E8833A;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-07-21 03:07</span>
+                <span class="card-loc" style="background: #E8833A20; color: #E8833A;">位置 676</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">拜伦·韦恩对惊险事件的定义是：有50%的发生概率，但是普通投资者们只能抓住不到1/3的机会。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #E8833A; background: #FDF2E940;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #E8833A;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-07-21 03:08</span>
+                <span class="card-loc" style="background: #E8833A20; color: #E8833A;">位置 1120</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">成功的原因不外乎这样一条：“我现在挣到的钱都是因为有那些非共识性的想法，这些想法结果证明都是正确的。”</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #E8833A; background: #FDF2E940;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #E8833A;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-07-21 03:09</span>
+                <span class="card-loc" style="background: #E8833A20; color: #E8833A;">位置 1683</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">当我发现自己没有像预想的那样受到惩罚，我明白了人们欣赏这份预测的十大惊险事件是因为事件本身，而不是事件概率得分的高低。”</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #E8833A; background: #FDF2E940;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #E8833A;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-07-21 03:10</span>
+                <span class="card-loc" style="background: #E8833A20; color: #E8833A;">位置 2079</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">因此这个预测十大惊险事件列表跟着他来到了对冲基金, 后来最终跟着他到了黑石公司。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #E8833A; background: #FDF2E940;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #E8833A;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-07-21 08:21</span>
+                <span class="card-loc" style="background: #E8833A20; color: #E8833A;">位置 3156</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">拜伦·韦恩是一个灰犀牛式的思想者：他愿意挑战传统智慧，彻底分析一个事件是否会发生，何时会发生，以及意味着什么。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #E8833A; background: #FDF2E940;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #E8833A;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-07-21 08:32</span>
+                <span class="card-loc" style="background: #E8833A20; color: #E8833A;">位置 4184</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">这些事件很接近黑天鹅性质的事件，有时候可以从更科学的角度去解决——认识到这类事件的存在会使我们在事件发生时，不至于那么措手不及，这些事件虽然罕见，但是却是意料之中的事情。我把这类事件称为灰天鹅特例——曼德尔布罗特式的不规则性（Mandelbrotian Randomness）。”</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #E8833A; background: #FDF2E940;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #E8833A;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-07-21 08:27</span>
+                <span class="card-loc" style="background: #E8833A20; color: #E8833A;">位置 4380</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">曼德尔布罗特于2010年去世之前，让分形几何学在自然到金融的各个领域得到了广泛的应用：从那些看似粗糙无序的现象中，能找到并且成功定义出符合逻辑的模式。许多交易商运用分形理论分析那些看似无序的市场运动，以此来预测价格变化。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #E8833A; background: #FDF2E940;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #E8833A;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-07-21 08:54</span>
+                <span class="card-loc" style="background: #E8833A20; color: #E8833A;">位置 4800</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">但是预言可以自我实现，也可以自我消解。结果，我们对可能性的信念是否坚定，会影响事件发生的可能性。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #E8833A; background: #FDF2E940;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #E8833A;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-07-21 08:54</span>
+                <span class="card-loc" style="background: #E8833A20; color: #E8833A;">位置 4926</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">预测就是预测可能性，不是可避免性</p>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+
+  <div class="footer">
+    生成于 2026-05-21 00:54 · 微信读书 → Obsidian
+  </div>
+
+</div>
+</body>
+</html>

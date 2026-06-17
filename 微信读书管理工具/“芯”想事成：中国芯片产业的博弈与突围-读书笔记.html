@@ -1,0 +1,1051 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>“芯”想事成：中国芯片产业的博弈与突围 - 读书笔记</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    background: linear-gradient(160deg, #f8f9fc 0%, #eef1f5 100%);
+    font-family: -apple-system, "PingFang SC", "Noto Sans SC", "LXGW WenKai", "Microsoft YaHei", sans-serif;
+    padding: 40px 20px;
+    min-height: 100vh;
+  }
+
+  .container {
+    max-width: 820px;
+    margin: 0 auto;
+  }
+
+  /* ===== 书籍头部 ===== */
+  .book-header {
+    background: linear-gradient(135deg, #2c3e50 0%, #1a252f 100%);
+    border-radius: 18px;
+    padding: 48px 40px;
+    margin-bottom: 32px;
+    color: #fff;
+    box-shadow: 0 10px 40px rgba(0,0,0,0.12);
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    gap: 32px;
+    align-items: flex-start;
+  }
+
+  .book-header::before {
+    content: '';
+    position: absolute;
+    top: -40%;
+    right: -10%;
+    width: 280px;
+    height: 280px;
+    background: rgba(255,255,255,0.03);
+    border-radius: 50%;
+  }
+
+  .book-cover {
+    width: 100px;
+    height: 140px;
+    border-radius: 8px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.3);
+    flex-shrink: 0;
+    object-fit: cover;
+    background: rgba(255,255,255,0.08);
+    position: relative;
+    z-index: 1;
+  }
+
+  .book-info {
+    flex: 1;
+    position: relative;
+    z-index: 1;
+  }
+
+  .book-title {
+    font-size: 26px;
+    font-weight: 700;
+    margin-bottom: 6px;
+    letter-spacing: 0.5px;
+  }
+
+  .book-author {
+    font-size: 15px;
+    opacity: 0.7;
+    margin-bottom: 16px;
+  }
+
+  .book-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+
+  .book-tag {
+    background: rgba(255,255,255,0.12);
+    padding: 4px 12px;
+    border-radius: 20px;
+    font-size: 12px;
+    opacity: 0.8;
+  }
+
+  /* ===== 统计栏 ===== */
+  .stats-bar {
+    background: #fff;
+    border-radius: 14px;
+    padding: 20px 24px;
+    margin-bottom: 32px;
+    display: flex;
+    justify-content: space-around;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.05);
+    border: 1px solid rgba(0,0,0,0.03);
+  }
+
+  .stat-item {
+    text-align: center;
+  }
+
+  .stat-num {
+    font-size: 26px;
+    font-weight: 700;
+    color: #2c3e50;
+    line-height: 1.2;
+  }
+
+  .stat-label {
+    font-size: 12px;
+    color: #aaa;
+    margin-top: 2px;
+  }
+
+  .stat-divider {
+    width: 1px;
+    background: #eee;
+  }
+
+  /* ===== 章节 ===== */
+  .chapter-section {
+    margin-bottom: 32px;
+  }
+
+  .chapter-title {
+    font-size: 17px;
+    font-weight: 600;
+    color: #333;
+    margin-bottom: 14px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .ch-num {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 26px;
+    height: 26px;
+    border-radius: 8px;
+    color: #fff;
+    font-size: 13px;
+    font-weight: 600;
+    flex-shrink: 0;
+  }
+
+  .ch-title-text {
+    font-size: 17px;
+    font-weight: 600;
+  }
+
+  .ch-count {
+    font-size: 12px;
+    font-weight: 400;
+    color: #aaa;
+    margin-left: auto;
+  }
+
+  .card-header-right {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+
+  .card-loc {
+    display: inline-block;
+    padding: 1px 8px;
+    border-radius: 10px;
+    font-size: 11px;
+    font-weight: 500;
+    font-family: "SF Mono", "PingFang SC", monospace;
+    line-height: 1.6;
+  }
+
+  /* ===== 卡片 ===== */
+  .cards-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .highlight-card {
+    background: #fff;
+    border-radius: 12px;
+    padding: 16px 20px;
+    border-left: 4px solid #4A90D9;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.04);
+    transition: transform 0.2s, box-shadow 0.2s;
+    position: relative;
+  }
+
+  .highlight-card:hover {
+    transform: translateX(6px);
+    box-shadow: 0 6px 20px rgba(0,0,0,0.08);
+  }
+
+  .highlight-card.orphan {
+    opacity: 0.85;
+  }
+
+  .card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 6px;
+  }
+
+  .quote-icon {
+    font-size: 28px;
+    line-height: 1;
+    font-family: Georgia, serif;
+    opacity: 0.3;
+  }
+
+  .card-time {
+    font-size: 11px;
+    color: #bbb;
+  }
+
+  .card-body {
+    position: relative;
+  }
+
+  .highlight-text {
+    font-size: 14.5px;
+    line-height: 1.85;
+    color: #333;
+    text-align: justify;
+  }
+
+  .review-bubble {
+    margin-top: 10px;
+    padding: 10px 14px;
+    background: #FFF8E1;
+    border-radius: 8px;
+    font-size: 13.5px;
+    line-height: 1.6;
+    color: #8D6E00;
+    display: flex;
+    gap: 8px;
+    align-items: flex-start;
+  }
+
+  .review-bubble.standalone {
+    background: #F3E8FF;
+    color: #6B21A8;
+  }
+
+  .review-icon {
+    flex-shrink: 0;
+    font-size: 14px;
+    line-height: 1.6;
+  }
+
+  .review-text {
+    flex: 1;
+  }
+
+  /* ===== 底部 ===== */
+  .footer {
+    text-align: center;
+    padding: 40px 0 20px;
+    color: #bbb;
+    font-size: 12px;
+  }
+
+  .footer a { color: #888; text-decoration: none; }
+
+  @media (max-width: 640px) {
+    body { padding: 16px 12px; }
+    .book-header { padding: 28px 20px; flex-direction: column; gap: 16px; }
+    .book-cover { width: 80px; height: 112px; }
+    .book-title { font-size: 20px; }
+    .stats-bar { flex-wrap: wrap; gap: 8px; padding: 14px; }
+    .stat-divider { display: none; }
+  }
+</style>
+</head>
+<body>
+<div class="container">
+
+  <div class="book-header">
+    
+    <div class="book-info">
+      <h1 class="book-title">“芯”想事成：中国芯片产业的博弈与突围</h1>
+      <p class="book-author">陈芳 董瑞丰</p>
+      <div class="book-tags">
+        <span class="book-tag">📖 46 条划线</span>
+        <span class="book-tag">💡 0 条想法</span>
+        <span class="book-tag">📅 2026-05-21 00:54</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="stats-bar">
+    <div class="stat-item">
+      <div class="stat-num">12</div>
+      <div class="stat-label">章节</div>
+    </div>
+    <div class="stat-divider"></div>
+    <div class="stat-item">
+      <div class="stat-num">46</div>
+      <div class="stat-label">划线</div>
+    </div>
+    <div class="stat-divider"></div>
+    <div class="stat-item">
+      <div class="stat-num">0</div>
+      <div class="stat-label">想法</div>
+    </div>
+    <div class="stat-divider"></div>
+    <div class="stat-item">
+      <div class="stat-num">46</div>
+      <div class="stat-label">总标记</div>
+    </div>
+  </div>
+
+  
+      <div class="chapter-section">
+        <h2 class="chapter-title">
+          <span class="ch-num" style="background: #4A90D9;">1</span>
+          <span class="ch-title-text" style="color: #4A90D9;">前言</span>
+          <span class="ch-count">1 条</span>
+        </h2>
+        <div class="cards-container">
+          
+          <div class="highlight-card" style="border-left-color: #4A90D9; background: #E8F4F840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #4A90D9;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-10-27 11:27</span>
+                <span class="card-loc" style="background: #4A90D920; color: #4A90D9;">位置 1013</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">与中国信息产业的蓬勃发展相比，中国芯片长年发展滞后，“心脏病”之说由来已久，以至于中国芯片危机成了典型的“灰犀牛”——风险就在身边，许多人却熟视无睹。</p>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="chapter-section">
+        <h2 class="chapter-title">
+          <span class="ch-num" style="background: #7B68EE;">2</span>
+          <span class="ch-title-text" style="color: #7B68EE;">1.3 “贸易战”还是“科技战”</span>
+          <span class="ch-count">1 条</span>
+        </h2>
+        <div class="cards-container">
+          
+          <div class="highlight-card" style="border-left-color: #7B68EE; background: #F5EEF840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #7B68EE;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-10-27 11:37</span>
+                <span class="card-loc" style="background: #7B68EE20; color: #7B68EE;">位置 4732</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">知名政经杂志《经济学人》认为，中国政府将“企业”“消费者”“政策”三者有机结合，形成良好的科技战略，找到了“技术”“市场”“管理”之间的平衡点，这是中国高科技产业发展的根本保障</p>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="chapter-section">
+        <h2 class="chapter-title">
+          <span class="ch-num" style="background: #E8833A;">3</span>
+          <span class="ch-title-text" style="color: #E8833A;">1.4 神秘报告背后的芯片焦虑</span>
+          <span class="ch-count">2 条</span>
+        </h2>
+        <div class="cards-container">
+          
+          <div class="highlight-card" style="border-left-color: #E8833A; background: #FDF2E940;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #E8833A;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-10-27 11:39</span>
+                <span class="card-loc" style="background: #E8833A20; color: #E8833A;">位置 2139</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">这份报告在许多地方都提及，中国瞄准半导体设计和生产的全球领导地位，并且利用国内稳步增长的半导体消费市场放大这些影响。这些影响叠加起来，比任何技术创新给美国半导体和国家安全带来的影响都大。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #E8833A; background: #FDF2E940;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #E8833A;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-10-27 11:40</span>
+                <span class="card-loc" style="background: #E8833A20; color: #E8833A;">位置 3525</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">如果说这份2017年公布的、旨在确保美国半导体长期领导地位的报告，是提出一些原则性的战略规划，那么新鲜出炉的“电子复兴计划”，则实打实地体现了美国国家力量的介入</p>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="chapter-section">
+        <h2 class="chapter-title">
+          <span class="ch-num" style="background: #2EAD6B;">4</span>
+          <span class="ch-title-text" style="color: #2EAD6B;">2.2 2000亿美元进口的“芯”之殇</span>
+          <span class="ch-count">1 条</span>
+        </h2>
+        <div class="cards-container">
+          
+          <div class="highlight-card" style="border-left-color: #2EAD6B; background: #E8F8F040;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #2EAD6B;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-10-27 12:02</span>
+                <span class="card-loc" style="background: #2EAD6B20; color: #2EAD6B;">位置 3721</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">有一定核心技术，但在外界重拳之下，却难有还手之力。这是此次中兴“禁运”事件给全球产业分工体系里的每家企业、每个行业、每个国家再次敲响的警钟。</p>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="chapter-section">
+        <h2 class="chapter-title">
+          <span class="ch-num" style="background: #D94A8A;">5</span>
+          <span class="ch-title-text" style="color: #D94A8A;">4.4 日本的“举国体制”竞争</span>
+          <span class="ch-count">5 条</span>
+        </h2>
+        <div class="cards-container">
+          
+          <div class="highlight-card" style="border-left-color: #D94A8A; background: #FDE8EF40;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #D94A8A;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-10-27 17:49</span>
+                <span class="card-loc" style="background: #D94A8A20; color: #D94A8A;">位置 1401</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">由政府牵头，将多个具有竞争关系的民间企业以及国立科研院所结合在一起，组建技术创新联盟，共同进行关键共性技术的开发——这是日本推进自主创新的一个重要手段。简单来说，就是“产、官、学”相互协作</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #D94A8A; background: #FDE8EF40;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #D94A8A;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-10-27 17:49</span>
+                <span class="card-loc" style="background: #D94A8A20; color: #D94A8A;">位置 3110</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">VLSI技术研究组合”组建了相互独立的三支团队，分别走不同的技术路线，最后都取得了重大突破。这些技术突破为日本在光刻甚至整个芯片生产设备领域奠定了优势地位</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #D94A8A; background: #FDE8EF40;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #D94A8A;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-10-27 17:49</span>
+                <span class="card-loc" style="background: #D94A8A20; color: #D94A8A;">位置 3822</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">通产省的资助目的非常明确，就是只对共性基础技术的研发予以支持。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #D94A8A; background: #FDE8EF40;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #D94A8A;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-10-27 17:48</span>
+                <span class="card-loc" style="background: #D94A8A20; color: #D94A8A;">位置 3882</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">在这种思路的指导下，“VLSI技术研究组合”强调，课题的选择必须突出基础性和共性两大特征——这也是参与企业的共同要求</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #D94A8A; background: #FDE8EF40;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #D94A8A;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-10-27 17:48</span>
+                <span class="card-loc" style="background: #D94A8A20; color: #D94A8A;">位置 4018</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">VLSI技术研究组合”还有一个附带结果：参与企业在利用共同开发掌握的技术进行商业化生产时，发现这些技术最好的用武之地是存储器芯片，而在CPU领域则不太实用。这导致了后来很长一段时间里，日本企业在存储器领域一路攻城略地，但始终没在CPU上形成大气候。</p>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="chapter-section">
+        <h2 class="chapter-title">
+          <span class="ch-num" style="background: #E6A23C;">6</span>
+          <span class="ch-title-text" style="color: #E6A23C;">4.5 韩国用战争赔款给三星“输血”</span>
+          <span class="ch-count">2 条</span>
+        </h2>
+        <div class="cards-container">
+          
+          <div class="highlight-card" style="border-left-color: #E6A23C; background: #FEF5E740;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #E6A23C;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-10-27 17:48</span>
+                <span class="card-loc" style="background: #E6A23C20; color: #E6A23C;">位置 3967</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">这一理念，后来逐渐演化为三星的一个重要商业理念，那就是“反周期定律”——价格低迷时扩张产能，挤垮对手；利用垄断地位，抬高市场价格。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #E6A23C; background: #FEF5E740;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #E6A23C;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-10-27 17:49</span>
+                <span class="card-loc" style="background: #E6A23C20; color: #E6A23C;">位置 4898</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">在三星的带领下，1998年韩国取代日本成为全球存储芯片第一生产大国，全球存储芯片的产业中心从日本转移到韩国，一直持续到今天。</p>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="chapter-section">
+        <h2 class="chapter-title">
+          <span class="ch-num" style="background: #4A90D9;">7</span>
+          <span class="ch-title-text" style="color: #4A90D9;">5.1 中国“芯”梦幻开局</span>
+          <span class="ch-count">5 条</span>
+        </h2>
+        <div class="cards-container">
+          
+          <div class="highlight-card" style="border-left-color: #4A90D9; background: #E8F4F840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #4A90D9;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-10-27 17:49</span>
+                <span class="card-loc" style="background: #4A90D920; color: #4A90D9;">位置 762</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">与量子力学的奠基人之一马克斯·玻恩（Max Born，1882-1970）合作著书《晶格动力学理论》，随即成为半导体领域的奠基之作，被牛津大学出版社列入“牛津经典物理著作丛书”。这位有着中国半导体“开山鼻祖”之称的科学家就是黄昆。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #4A90D9; background: #E8F4F840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #4A90D9;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-10-27 17:48</span>
+                <span class="card-loc" style="background: #4A90D920; color: #4A90D9;">位置 2264</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">我们衷心还是觉得，中国有我们和没我们，makes a difference（有些区别）。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #4A90D9; background: #E8F4F840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #4A90D9;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-10-27 17:49</span>
+                <span class="card-loc" style="background: #4A90D920; color: #4A90D9;">位置 3871</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">在中国半导体科技和集成电路产业领域，还有这样一位开拓者，执着创“芯”60年，他就是王守武。与黄昆、谢希德一样，这三位都是在解放初期从国外归来的博士、中科院学部委员，素有“微电子科技领域三足鼎立”之说。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #4A90D9; background: #E8F4F840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #4A90D9;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-10-27 17:49</span>
+                <span class="card-loc" style="background: #4A90D920; color: #4A90D9;">位置 6501</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">从1956年开始，中国大规模开启半导体科技研发和人才培养</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #4A90D9; background: #E8F4F840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #4A90D9;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-10-27 17:49</span>
+                <span class="card-loc" style="background: #4A90D920; color: #4A90D9;">位置 8148</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">我们现在和将来的责任（此文系王守武小学六年级时所作，原载《民智》，1930年第11期号）</p>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="chapter-section">
+        <h2 class="chapter-title">
+          <span class="ch-num" style="background: #7B68EE;">8</span>
+          <span class="ch-title-text" style="color: #7B68EE;">5.2 芯片传奇“三枝花”</span>
+          <span class="ch-count">10 条</span>
+        </h2>
+        <div class="cards-container">
+          
+          <div class="highlight-card" style="border-left-color: #7B68EE; background: #F5EEF840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #7B68EE;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-10-27 17:49</span>
+                <span class="card-loc" style="background: #7B68EE20; color: #7B68EE;">位置 652</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">有三位杰出女性的名字值得专门从史海中钩沉，她们是：谢希德、林兰英、夏培肃。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #7B68EE; background: #F5EEF840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #7B68EE;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-10-27 17:48</span>
+                <span class="card-loc" style="background: #7B68EE20; color: #7B68EE;">位置 1486</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">中国需要科学”——这是谢希德的父亲在她很小的时候常说的一句话。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #7B68EE; background: #F5EEF840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #7B68EE;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-10-27 17:48</span>
+                <span class="card-loc" style="background: #7B68EE20; color: #7B68EE;">位置 2232</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">两年后，谢希德与黄昆合著的《半导体物理学》问世，该书至今仍是中国半导体领域的经典教材</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #7B68EE; background: #F5EEF840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #7B68EE;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-10-27 17:48</span>
+                <span class="card-loc" style="background: #7B68EE20; color: #7B68EE;">位置 2871</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">林兰英则被尊称为“中国半导体材料之母”。她先后负责研制成我国第一根硅单晶、第一根无错位硅单晶、第一台高压单晶炉，为我国微电子和光电子学的发展奠定了基础。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #7B68EE; background: #F5EEF840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #7B68EE;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-10-27 17:49</span>
+                <span class="card-loc" style="background: #7B68EE20; color: #7B68EE;">位置 3119</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">1955年夏，林兰英成为宾夕法尼亚大学建校115年来的第一位中国博士，也是该校有史以来的第一位女博士。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #7B68EE; background: #F5EEF840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #7B68EE;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-10-27 17:48</span>
+                <span class="card-loc" style="background: #7B68EE20; color: #7B68EE;">位置 4725</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">随着龙芯系列后来被广泛应用于北斗系统等，龙芯1号作为芯片民族品牌的先行者广为人知，但很少有人知道，2002年研制成功的龙芯1号还有另一个名字——“夏50”。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #7B68EE; background: #F5EEF840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #7B68EE;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-10-27 17:49</span>
+                <span class="card-loc" style="background: #7B68EE20; color: #7B68EE;">位置 5030</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">为纪念夏培肃从教50周年，龙芯1号被命名为“夏50</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #7B68EE; background: #F5EEF840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #7B68EE;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-10-27 17:49</span>
+                <span class="card-loc" style="background: #7B68EE20; color: #7B68EE;">位置 5095</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">在龙芯1号的金属层上，用放大镜可以看到“夏50”的字样。这是为了向我国第一台自行研制的计算机的缔造者夏培肃院士致敬，2002年正是夏培肃为中国计算机事业服务的第50个年头。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #7B68EE; background: #F5EEF840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #7B68EE;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-10-27 17:49</span>
+                <span class="card-loc" style="background: #7B68EE20; color: #7B68EE;">位置 6825</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">文革”中，夏培肃受到冲击，一段时间不能直接从事科研，当时进行1025机攻关的同事遇到这个问题，就偷偷来找夏培肃询问</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #7B68EE; background: #F5EEF840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #7B68EE;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-10-27 17:49</span>
+                <span class="card-loc" style="background: #7B68EE20; color: #7B68EE;">位置 7137</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">她还多次以书面的形式向有关部门建议：“我国应开展高性能处理器芯片的设计。建议国家大力支持通用CPU芯片及其产业的发展，否则，我国在高性能计算技术领域将永远受制于人</p>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="chapter-section">
+        <h2 class="chapter-title">
+          <span class="ch-num" style="background: #E8833A;">9</span>
+          <span class="ch-title-text" style="color: #E8833A;">5.3 从落后5年到落后20年</span>
+          <span class="ch-count">2 条</span>
+        </h2>
+        <div class="cards-container">
+          
+          <div class="highlight-card" style="border-left-color: #E8833A; background: #FDF2E940;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #E8833A;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-10-27 17:48</span>
+                <span class="card-loc" style="background: #E8833A20; color: #E8833A;">位置 2083</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">1968年，北京组建东光电工厂；上海组建无线电十九厂。至1970年建成投产，形成中国集成电路产业中的“南北两霸”</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #E8833A; background: #FDF2E940;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #E8833A;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-10-27 17:48</span>
+                <span class="card-loc" style="background: #E8833A20; color: #E8833A;">位置 3533</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">事实上，在日新月异的技术和庞大的工业体系面前，中国的芯片产业的发展很难靠“技术英雄”的一己之力实现赶超</p>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="chapter-section">
+        <h2 class="chapter-title">
+          <span class="ch-num" style="background: #2EAD6B;">10</span>
+          <span class="ch-title-text" style="color: #2EAD6B;">5.4 造得出“两弹一星”，造不出芯片？</span>
+          <span class="ch-count">7 条</span>
+        </h2>
+        <div class="cards-container">
+          
+          <div class="highlight-card" style="border-left-color: #2EAD6B; background: #E8F8F040;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #2EAD6B;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-10-27 17:48</span>
+                <span class="card-loc" style="background: #2EAD6B20; color: #2EAD6B;">位置 1372</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">多年以后，无锡仍是中国集成电路产业布局中的一个重要基地，这与742厂时期打下的底子不无关系。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #2EAD6B; background: #E8F8F040;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #2EAD6B;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-10-27 17:49</span>
+                <span class="card-loc" style="background: #2EAD6B20; color: #2EAD6B;">位置 2578</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">1986年，电子工业部在厦门召开集成电路发展战略研讨会，提出“七五”（1986—1990年）期间我国集成电路技术的“531”发展战略，即普及推广以742厂为基点的5微米技术，同时开发3微米技术，攻关1微米技术。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #2EAD6B; background: #E8F8F040;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #2EAD6B;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-10-27 17:48</span>
+                <span class="card-loc" style="background: #2EAD6B20; color: #2EAD6B;">位置 3695</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">531”发展战略的目标得以实现，但却是以全部从国外引进技术的方式实现的。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #2EAD6B; background: #E8F8F040;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #2EAD6B;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-10-27 17:49</span>
+                <span class="card-loc" style="background: #2EAD6B20; color: #2EAD6B;">位置 4573</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">有了华晶的基础，1990年8月，国家计委和电子工业部在北京联合召开了有关领导和专家参加的座谈会；中央随即决定实施“908工程”，目标是在“八五”（1991—1995年）期间半导体技术达到1微米。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #2EAD6B; background: #E8F8F040;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #2EAD6B;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-10-27 17:48</span>
+                <span class="card-loc" style="background: #2EAD6B20; color: #2EAD6B;">位置 4890</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">908工程”光是经费审批就花了足足2年时间，从美国朗讯引进0.9微米生产线又花了3年时间，中间经历了数次反复论证，加上建厂的2年时间，工程从开始立项到真正投产历时7年之久。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #2EAD6B; background: #E8F8F040;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #2EAD6B;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-10-27 17:48</span>
+                <span class="card-loc" style="background: #2EAD6B20; color: #2EAD6B;">位置 5005</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">待1997年建成投产时，华晶的技术水平已大大落后于国际主流技术达4—5代，月产仅800片左右，投产当年亏损2.4亿元，成为“投产即落后”的经典反面案例</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #2EAD6B; background: #E8F8F040;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #2EAD6B;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-10-27 17:48</span>
+                <span class="card-loc" style="background: #2EAD6B20; color: #2EAD6B;">位置 5219</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">1999年8月，华晶和上华合作的工厂转制为合资公司——无锡华晶上华半导体公司，上华持股51%；新公司迅速扭亏为盈，成为中国大陆第一家“纯晶圆代工”企业。</p>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="chapter-section">
+        <h2 class="chapter-title">
+          <span class="ch-num" style="background: #D94A8A;">11</span>
+          <span class="ch-title-text" style="color: #D94A8A;">5.5 “砸锅卖铁”也要把芯片搞上去</span>
+          <span class="ch-count">6 条</span>
+        </h2>
+        <div class="cards-container">
+          
+          <div class="highlight-card" style="border-left-color: #D94A8A; background: #FDE8EF40;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #D94A8A;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-10-27 17:49</span>
+                <span class="card-loc" style="background: #D94A8A20; color: #D94A8A;">位置 1042</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">在这次总理办公会议上，确定了中国电子工业有史以来投资规模最大、技术最先进的一个国家项目——“909工程”：投资100亿元，建设一条8英寸晶圆、从0.5微米工艺技术起步的集成电路生产线。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #D94A8A; background: #FDE8EF40;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #D94A8A;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-10-27 17:49</span>
+                <span class="card-loc" style="background: #D94A8A20; color: #D94A8A;">位置 3888</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">作为“909工程”的主要承担者，华虹公司的成功与否在一定程度上决定着“909工程”的成败。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #D94A8A; background: #FDE8EF40;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #D94A8A;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-10-27 17:48</span>
+                <span class="card-loc" style="background: #D94A8A20; color: #D94A8A;">位置 4126</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">第一，真正的核心技术很难通过市场交换得来，引进不是目的，目的是发展自己，为我所用，最终实现自主创新，走自己的路</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #D94A8A; background: #FDE8EF40;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #D94A8A;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-10-27 17:49</span>
+                <span class="card-loc" style="background: #D94A8A20; color: #D94A8A;">位置 4256</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">第二，始终坚持以市场为导向，“引进某高科技项目，往往首先想到为填补国内该领域的空白，容易导致从技术出发，忽视市场导向”。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #D94A8A; background: #FDE8EF40;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #D94A8A;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-10-27 17:48</span>
+                <span class="card-loc" style="background: #D94A8A20; color: #D94A8A;">位置 4383</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">第三，牢牢抓住人才这个高科技企业发展的核心，优秀人才是创新的主力和中坚。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #D94A8A; background: #FDE8EF40;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #D94A8A;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-10-27 17:48</span>
+                <span class="card-loc" style="background: #D94A8A20; color: #D94A8A;">位置 4590</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">作为探索中国“芯”自主创新道路上一次难得的实践，客观来讲，“909工程”取得的成绩不仅是华虹完成了立项目标，也为中国集成电路产业的发展道路做了政策探索，为后来的大基金、“909工程”二次升级都积累了很多经验。</p>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="chapter-section">
+        <h2 class="chapter-title">
+          <span class="ch-num" style="background: #E6A23C;">12</span>
+          <span class="ch-title-text" style="color: #E6A23C;">5.6 新世纪的曙光</span>
+          <span class="ch-count">4 条</span>
+        </h2>
+        <div class="cards-container">
+          
+          <div class="highlight-card" style="border-left-color: #E6A23C; background: #FEF5E740;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #E6A23C;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-10-27 17:49</span>
+                <span class="card-loc" style="background: #E6A23C20; color: #E6A23C;">位置 1219</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">上海高性能集成电路设计中心后来做出了“申威”CPU芯片，用在我国首台全自主可控的十亿亿次超级计算机“神威·太湖之光”上。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #E6A23C; background: #FEF5E740;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #E6A23C;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-10-27 17:48</span>
+                <span class="card-loc" style="background: #E6A23C20; color: #E6A23C;">位置 1771</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">在此基础上，2006年，“核高基”重大专项正式上马。“核高基”是“核心电子器件、高端通用芯片及基础软件产品”的简称。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #E6A23C; background: #FEF5E740;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #E6A23C;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-10-27 17:49</span>
+                <span class="card-loc" style="background: #E6A23C20; color: #E6A23C;">位置 2171</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">事实上，国家中长期规划的16个科技重大专项，一个共同特征就是以产业化为目的，而不是仅仅停留在实验室阶段</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #E6A23C; background: #FEF5E740;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #E6A23C;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2024-10-27 17:48</span>
+                <span class="card-loc" style="background: #E6A23C20; color: #E6A23C;">位置 2249</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">而如何在高度市场化的条件下发挥“举国体制”的优势，成为“核高基”要解决的难题。</p>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+
+  <div class="footer">
+    生成于 2026-05-21 00:54 · 微信读书 → Obsidian
+  </div>
+
+</div>
+</body>
+</html>

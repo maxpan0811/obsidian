@@ -1,0 +1,1056 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>蛤蟆先生去看心理医生 - 读书笔记</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    background: linear-gradient(160deg, #f8f9fc 0%, #eef1f5 100%);
+    font-family: -apple-system, "PingFang SC", "Noto Sans SC", "LXGW WenKai", "Microsoft YaHei", sans-serif;
+    padding: 40px 20px;
+    min-height: 100vh;
+  }
+
+  .container {
+    max-width: 820px;
+    margin: 0 auto;
+  }
+
+  /* ===== 书籍头部 ===== */
+  .book-header {
+    background: linear-gradient(135deg, #2c3e50 0%, #1a252f 100%);
+    border-radius: 18px;
+    padding: 48px 40px;
+    margin-bottom: 32px;
+    color: #fff;
+    box-shadow: 0 10px 40px rgba(0,0,0,0.12);
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    gap: 32px;
+    align-items: flex-start;
+  }
+
+  .book-header::before {
+    content: '';
+    position: absolute;
+    top: -40%;
+    right: -10%;
+    width: 280px;
+    height: 280px;
+    background: rgba(255,255,255,0.03);
+    border-radius: 50%;
+  }
+
+  .book-cover {
+    width: 100px;
+    height: 140px;
+    border-radius: 8px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.3);
+    flex-shrink: 0;
+    object-fit: cover;
+    background: rgba(255,255,255,0.08);
+    position: relative;
+    z-index: 1;
+  }
+
+  .book-info {
+    flex: 1;
+    position: relative;
+    z-index: 1;
+  }
+
+  .book-title {
+    font-size: 26px;
+    font-weight: 700;
+    margin-bottom: 6px;
+    letter-spacing: 0.5px;
+  }
+
+  .book-author {
+    font-size: 15px;
+    opacity: 0.7;
+    margin-bottom: 16px;
+  }
+
+  .book-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+
+  .book-tag {
+    background: rgba(255,255,255,0.12);
+    padding: 4px 12px;
+    border-radius: 20px;
+    font-size: 12px;
+    opacity: 0.8;
+  }
+
+  /* ===== 统计栏 ===== */
+  .stats-bar {
+    background: #fff;
+    border-radius: 14px;
+    padding: 20px 24px;
+    margin-bottom: 32px;
+    display: flex;
+    justify-content: space-around;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.05);
+    border: 1px solid rgba(0,0,0,0.03);
+  }
+
+  .stat-item {
+    text-align: center;
+  }
+
+  .stat-num {
+    font-size: 26px;
+    font-weight: 700;
+    color: #2c3e50;
+    line-height: 1.2;
+  }
+
+  .stat-label {
+    font-size: 12px;
+    color: #aaa;
+    margin-top: 2px;
+  }
+
+  .stat-divider {
+    width: 1px;
+    background: #eee;
+  }
+
+  /* ===== 章节 ===== */
+  .chapter-section {
+    margin-bottom: 32px;
+  }
+
+  .chapter-title {
+    font-size: 17px;
+    font-weight: 600;
+    color: #333;
+    margin-bottom: 14px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .ch-num {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 26px;
+    height: 26px;
+    border-radius: 8px;
+    color: #fff;
+    font-size: 13px;
+    font-weight: 600;
+    flex-shrink: 0;
+  }
+
+  .ch-title-text {
+    font-size: 17px;
+    font-weight: 600;
+  }
+
+  .ch-count {
+    font-size: 12px;
+    font-weight: 400;
+    color: #aaa;
+    margin-left: auto;
+  }
+
+  .card-header-right {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+
+  .card-loc {
+    display: inline-block;
+    padding: 1px 8px;
+    border-radius: 10px;
+    font-size: 11px;
+    font-weight: 500;
+    font-family: "SF Mono", "PingFang SC", monospace;
+    line-height: 1.6;
+  }
+
+  /* ===== 卡片 ===== */
+  .cards-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .highlight-card {
+    background: #fff;
+    border-radius: 12px;
+    padding: 16px 20px;
+    border-left: 4px solid #4A90D9;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.04);
+    transition: transform 0.2s, box-shadow 0.2s;
+    position: relative;
+  }
+
+  .highlight-card:hover {
+    transform: translateX(6px);
+    box-shadow: 0 6px 20px rgba(0,0,0,0.08);
+  }
+
+  .highlight-card.orphan {
+    opacity: 0.85;
+  }
+
+  .card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 6px;
+  }
+
+  .quote-icon {
+    font-size: 28px;
+    line-height: 1;
+    font-family: Georgia, serif;
+    opacity: 0.3;
+  }
+
+  .card-time {
+    font-size: 11px;
+    color: #bbb;
+  }
+
+  .card-body {
+    position: relative;
+  }
+
+  .highlight-text {
+    font-size: 14.5px;
+    line-height: 1.85;
+    color: #333;
+    text-align: justify;
+  }
+
+  .review-bubble {
+    margin-top: 10px;
+    padding: 10px 14px;
+    background: #FFF8E1;
+    border-radius: 8px;
+    font-size: 13.5px;
+    line-height: 1.6;
+    color: #8D6E00;
+    display: flex;
+    gap: 8px;
+    align-items: flex-start;
+  }
+
+  .review-bubble.standalone {
+    background: #F3E8FF;
+    color: #6B21A8;
+  }
+
+  .review-icon {
+    flex-shrink: 0;
+    font-size: 14px;
+    line-height: 1.6;
+  }
+
+  .review-text {
+    flex: 1;
+  }
+
+  /* ===== 底部 ===== */
+  .footer {
+    text-align: center;
+    padding: 40px 0 20px;
+    color: #bbb;
+    font-size: 12px;
+  }
+
+  .footer a { color: #888; text-decoration: none; }
+
+  @media (max-width: 640px) {
+    body { padding: 16px 12px; }
+    .book-header { padding: 28px 20px; flex-direction: column; gap: 16px; }
+    .book-cover { width: 80px; height: 112px; }
+    .book-title { font-size: 20px; }
+    .stats-bar { flex-wrap: wrap; gap: 8px; padding: 14px; }
+    .stat-divider { display: none; }
+  }
+</style>
+</head>
+<body>
+<div class="container">
+
+  <div class="book-header">
+    
+    <div class="book-info">
+      <h1 class="book-title">蛤蟆先生去看心理医生</h1>
+      <p class="book-author">罗伯特·戴博德</p>
+      <div class="book-tags">
+        <span class="book-tag">📖 45 条划线</span>
+        <span class="book-tag">💡 12 条想法</span>
+        <span class="book-tag">📅 2026-05-21 00:54</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="stats-bar">
+    <div class="stat-item">
+      <div class="stat-num">8</div>
+      <div class="stat-label">章节</div>
+    </div>
+    <div class="stat-divider"></div>
+    <div class="stat-item">
+      <div class="stat-num">45</div>
+      <div class="stat-label">划线</div>
+    </div>
+    <div class="stat-divider"></div>
+    <div class="stat-item">
+      <div class="stat-num">12</div>
+      <div class="stat-label">想法</div>
+    </div>
+    <div class="stat-divider"></div>
+    <div class="stat-item">
+      <div class="stat-num">45</div>
+      <div class="stat-label">总标记</div>
+    </div>
+  </div>
+
+  
+      <div class="chapter-section">
+        <h2 class="chapter-title">
+          <span class="ch-num" style="background: #4A90D9;">1</span>
+          <span class="ch-title-text" style="color: #4A90D9;">第三章 初见咨询师</span>
+          <span class="ch-count">1 条</span>
+        </h2>
+        <div class="cards-container">
+          
+          <div class="highlight-card" style="border-left-color: #4A90D9; background: #E8F4F840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #4A90D9;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2023-11-19 10:53</span>
+                <span class="card-loc" style="background: #4A90D920; color: #4A90D9;">位置 4474</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">苍鹭站定了，直视他的眼睛说：“蛤蟆先生，如果我不相信每个人都有能力变得更好，我就不会做这份工作了。我无法保证事情一定会变好，但我可以承诺的是，我会对你倾注我全身心的关注，我也希望你对咨询是全心投入的。假如我们都能像这样一同努力，就能预见积极的结果。但归根结底，这一切都取决于你。</p>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="chapter-section">
+        <h2 class="chapter-title">
+          <span class="ch-num" style="background: #7B68EE;">2</span>
+          <span class="ch-title-text" style="color: #7B68EE;">第五章 成长的寓言</span>
+          <span class="ch-count">3 条</span>
+        </h2>
+        <div class="cards-container">
+          
+          <div class="highlight-card" style="border-left-color: #7B68EE; background: #F5EEF840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #7B68EE;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2023-11-19 10:59</span>
+                <span class="card-loc" style="background: #7B68EE20; color: #7B68EE;">位置 1036</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">不知怎的，苍鹭倾听并不断向蛤蟆发问的方式，使得蛤蟆觉察到了自己的种种想法和感受。渐渐地，他开始在很多方面探索和审视自己，以前他根本想不到要这样做。换句话说，蛤蟆开启了学习模式。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #7B68EE; background: #F5EEF840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #7B68EE;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2023-11-19 11:00</span>
+                <span class="card-loc" style="background: #7B68EE20; color: #7B68EE;">位置 1457</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">老师不同于咨询师的一个地方就是，老师用讲解模式，而咨询师用倾听模式。如果我能成功教会你理解‘儿童自我状态’，你就能用这些概念来探索自我和你个人的经验了。记住，能实践的理论才是好的理论！”</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #7B68EE; background: #F5EEF840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #7B68EE;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2023-11-19 14:41</span>
+                <span class="card-loc" style="background: #7B68EE20; color: #7B68EE;">位置 5609</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">蛤蟆，理解你的童年就是理解你自己的关键线索，这贯穿我们咨询的全过程。</p>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="chapter-section">
+        <h2 class="chapter-title">
+          <span class="ch-num" style="background: #E8833A;">3</span>
+          <span class="ch-title-text" style="color: #E8833A;">第六章 探索童年</span>
+          <span class="ch-count">2 条</span>
+        </h2>
+        <div class="cards-container">
+          
+          <div class="highlight-card" style="border-left-color: #E8833A; background: #FDF2E940;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #E8833A;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2023-11-19 14:47</span>
+                <span class="card-loc" style="background: #E8833A20; color: #E8833A;">位置 7149</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">这是一个人对另一个人最大程度的感同身受，这便是所谓的“共情”。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #E8833A; background: #FDF2E940;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #E8833A;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2023-11-19 16:32</span>
+                <span class="card-loc" style="background: #E8833A20; color: #E8833A;">位置 7767</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">有诗人曾说‘孩子是成年人的父亲’，或许就是这个意思。”</p>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="chapter-section">
+        <h2 class="chapter-title">
+          <span class="ch-num" style="background: #2EAD6B;">4</span>
+          <span class="ch-title-text" style="color: #2EAD6B;">第七章 愤怒的表现</span>
+          <span class="ch-count">3 条</span>
+        </h2>
+        <div class="cards-container">
+          
+          <div class="highlight-card" style="border-left-color: #2EAD6B; background: #E8F8F040;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #2EAD6B;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2023-11-19 16:32</span>
+                <span class="card-loc" style="background: #2EAD6B20; color: #2EAD6B;">位置 2088</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">上一次面谈我们说到，我改变了自己的行为来应付严苛的父母，你把这个叫作‘顺从行为’。”</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #2EAD6B; background: #E8F8F040;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #2EAD6B;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2023-11-19 14:51</span>
+                <span class="card-loc" style="background: #2EAD6B20; color: #2EAD6B;">位置 2841</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">我记得你把基本情感比作画家调色板上的三原色，所以我的问题是：既然愤怒是塑造我的行为的基本要素，那我为什么不会生气呢？”</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #2EAD6B; background: #E8F8F040;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #2EAD6B;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2023-11-19 14:52</span>
+                <span class="card-loc" style="background: #2EAD6B20; color: #2EAD6B;">位置 4952</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">蛤蟆，在我看来，‘适应型儿童’的所有行为里，怄气是最能说明怎样用时间来稀释愤怒的例子。通常这是孩子在权威之下无法随心所欲才做出的反应。成年人或许会因为输掉一场权力斗争而生闷气，也是同样道理。说白了，怄气是输家在对强大的赢家做出反应。</p>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="chapter-section">
+        <h2 class="chapter-title">
+          <span class="ch-num" style="background: #D94A8A;">5</span>
+          <span class="ch-title-text" style="color: #D94A8A;">第十一章 蛤蟆先生的选择</span>
+          <span class="ch-count">13 条</span>
+        </h2>
+        <div class="cards-container">
+          
+          <div class="highlight-card" style="border-left-color: #D94A8A; background: #FDE8EF40;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #D94A8A;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2023-11-25 23:57</span>
+                <span class="card-loc" style="background: #D94A8A20; color: #D94A8A;">位置 959</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">我很高兴听你这么说。很显然，你的自我洞察力和情商都在提升。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #D94A8A; background: #FDE8EF40;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #D94A8A;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2023-11-25 23:57</span>
+                <span class="card-loc" style="background: #D94A8A20; color: #D94A8A;">位置 1329</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">倒不是，我们称它为‘成人状态’。加上它，就形成了自我状态的三位一体，分别是父母、成人、儿童状态。这个三位一体也代表了人格的结构。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #D94A8A; background: #FDE8EF40;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #D94A8A;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2023-11-25 23:58</span>
+                <span class="card-loc" style="background: #D94A8A20; color: #D94A8A;">位置 1735</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">“‘成人自我状态￼’指我们用理性而不是情绪化的方式来行事。它让我们能应对此时此地正在发生的现实状况。”苍鹭回答。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #D94A8A; background: #FDE8EF40;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #D94A8A;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2023-11-25 23:58</span>
+                <span class="card-loc" style="background: #D94A8A20; color: #D94A8A;">位置 2291</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">苍鹭继续说：“只有在‘成人自我状态’里，才能学到关于自我的新知识。”</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #D94A8A; background: #FDE8EF40;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #D94A8A;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2023-11-25 23:59</span>
+                <span class="card-loc" style="background: #D94A8A20; color: #D94A8A;">位置 2581</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">当你处在‘父母状态’时，基本上你不是在挑剔就是在教育别人。不管是哪种，你都在用言行重复从父母那里学来的观念和价值观，你会想证明给别人看，让别人接受你的观念和价值观。这种确信无疑的状态，就没法给新知识和新理念留出一席之地。旧的思想主宰着你，这就是为什么单靠争论不能改变一个人的想法，只会让人更固执己见。”</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #D94A8A; background: #FDE8EF40;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #D94A8A;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2023-11-25 23:59</span>
+                <span class="card-loc" style="background: #D94A8A20; color: #D94A8A;">位置 3189</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">其二，我不‘知道’你应该怎么做。咨询的主要目标是让你能自己找到答案。我会在这个过程中协助你，但只有你自己能做决定。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #D94A8A; background: #FDE8EF40;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #D94A8A;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2023-11-25 23:59</span>
+                <span class="card-loc" style="background: #D94A8A20; color: #D94A8A;">位置 3360</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">我们在另外两种状态时，像父母或儿童一样行事，几乎不需要去思考，因为我们知道要做什么、说什么，就好像在演戏一样。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #D94A8A; background: #FDE8EF40;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #D94A8A;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2023-11-26 00:00</span>
+                <span class="card-loc" style="background: #D94A8A20; color: #D94A8A;">位置 3948</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">说到底，是我们‘选择’了自己的感受。我们‘选择’了愤怒，我们‘选择’了悲伤。”</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #D94A8A; background: #FDE8EF40;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #D94A8A;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2023-11-26 00:00</span>
+                <span class="card-loc" style="background: #D94A8A20; color: #D94A8A;">位置 4202</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">蛤蟆看上去很困惑：“你是说人们的痛苦和折磨都是自找的？我实在不能相信。”</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #D94A8A; background: #FDE8EF40;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #D94A8A;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2023-11-26 00:01</span>
+                <span class="card-loc" style="background: #D94A8A20; color: #D94A8A;">位置 4747</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">以往的经历教会我们在相似情境下不经大脑就能自动做出反应，可以说，就像实验里的狗一样，我们无法避免这种反应。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #D94A8A; background: #FDE8EF40;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #D94A8A;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2023-11-26 00:02</span>
+                <span class="card-loc" style="background: #D94A8A20; color: #D94A8A;">位置 5503</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">是的，选择就是：你还要为自己的不快乐责怪别人多久？”苍鹭答道。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #D94A8A; background: #FDE8EF40;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #D94A8A;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2023-11-26 00:02</span>
+                <span class="card-loc" style="background: #D94A8A20; color: #D94A8A;">位置 5809</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">“相比责怪，负起责任听着如何？”</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #D94A8A; background: #FDE8EF40;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #D94A8A;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2023-11-26 00:02</span>
+                <span class="card-loc" style="background: #D94A8A20; color: #D94A8A;">位置 6131</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">那我的父母呢？我能对他们做什么呢？要怎样做才能弥补我？”</p>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="chapter-section">
+        <h2 class="chapter-title">
+          <span class="ch-num" style="background: #E6A23C;">6</span>
+          <span class="ch-title-text" style="color: #E6A23C;">第十三章 人生坐标与心理游戏</span>
+          <span class="ch-count">10 条</span>
+        </h2>
+        <div class="cards-container">
+          
+          <div class="highlight-card" style="border-left-color: #E6A23C; background: #FEF5E740;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #E6A23C;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2023-11-26 00:11</span>
+                <span class="card-loc" style="background: #E6A23C20; color: #E6A23C;">位置 999</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">慢慢地，他开始理解为什么有些事情会以那样的方式发生，以及它会带来怎样的影响。换句话说，蛤蟆在反思自己的所作所为，并从中学习领悟。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #E6A23C; background: #FEF5E740;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #E6A23C;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2023-11-26 00:12</span>
+                <span class="card-loc" style="background: #E6A23C20; color: #E6A23C;">位置 2170</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">因为我不太喜欢我在剧本里的角色，到目前为止，这出剧我也演得不怎么开心。要是知道剧本是怎么来的，也许我就能改写它。我还是更喜欢结局圆满的戏剧。”</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #E6A23C; background: #FEF5E740;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #E6A23C;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2023-11-26 00:13</span>
+                <span class="card-loc" style="background: #E6A23C20; color: #E6A23C;">位置 2560</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">实际上，我们得回顾你生命最早期的阶段，从出生到大约四五岁的时候，发生的一切都对你影响重大，还影响了你后来的成长，牵涉到你怎样看待自己和别人。这种影响是普遍存在的。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #E6A23C; background: #FEF5E740;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #E6A23C;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2023-11-26 00:13</span>
+                <span class="card-loc" style="background: #E6A23C20; color: #E6A23C;">位置 2679</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">从那时起，你就生活在自己的世界里，用同一个视角看待一切事物。”</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #E6A23C; background: #FEF5E740;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #E6A23C;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2023-11-26 00:13</span>
+                <span class="card-loc" style="background: #E6A23C20; color: #E6A23C;">位置 2735</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">蛤蟆想了一会儿说：“你是说，就好像一个天文学家从某个特定的角度看宇宙，仅仅从这一个局限的视角里得出所有的观点和计算结果？”</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #E6A23C; background: #FEF5E740;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #E6A23C;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2023-11-26 00:14</span>
+                <span class="card-loc" style="background: #E6A23C20; color: #E6A23C;">位置 3428</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">不过要记住，我们说的不只是物理世界，而是你内在的、包含着情绪和情感的心理世界，那是通过你早年的经历而形成的。童年的经历如此强大、如此鲜活，于是便塑造了每个孩子对世界的独特看法。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #E6A23C; background: #FEF5E740;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #E6A23C;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2023-11-26 00:15</span>
+                <span class="card-loc" style="background: #E6A23C20; color: #E6A23C;">位置 3931</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">比如在你童年时，大约四到五岁左右，你会试图回答两个问题。”</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #E6A23C; background: #FEF5E740;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #E6A23C;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2023-11-26 00:19</span>
+                <span class="card-loc" style="background: #E6A23C20; color: #E6A23C;">位置 5506</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">但‘自证预言’的意思是，我们会控制事件的发生，从而确保预言会成真。我们会确保自己的世界和预期的一样。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #E6A23C; background: #FEF5E740;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #E6A23C;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2023-11-26 00:20</span>
+                <span class="card-loc" style="background: #E6A23C20; color: #E6A23C;">位置 7197</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">“名字叫‘猜猜我在想什么’。很多年来，老师一直对学生玩这个游戏，老师当然是赢家了。学生肯定觉得自己很蠢，就像你之前一样，而老师赢了无知的学生，就能获得优越感。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #E6A23C; background: #FEF5E740;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #E6A23C;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2023-11-26 00:23</span>
+                <span class="card-loc" style="background: #E6A23C20; color: #E6A23C;">位置 7481</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">游戏体现在两个层面：在社交层面上，似乎一切都是公开诚实的。而游戏玩家的真正动机却隐藏在心理层面，同时也隐藏着欺骗。至于游戏的必然后果呢，全都是让人产生负面情绪。”</p>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="chapter-section">
+        <h2 class="chapter-title">
+          <span class="ch-num" style="background: #4A90D9;">7</span>
+          <span class="ch-title-text" style="color: #4A90D9;">第十四章 赢了游戏 输了自己</span>
+          <span class="ch-count">5 条</span>
+        </h2>
+        <div class="cards-container">
+          
+          <div class="highlight-card" style="border-left-color: #4A90D9; background: #E8F4F840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #4A90D9;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2023-11-26 00:24</span>
+                <span class="card-loc" style="background: #4A90D920; color: #4A90D9;">位置 1530</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">我说的是更严重的情况，有些人会竭尽所能地选择记住那些悲伤和不快乐的事件，而忘记或忽略美好的时光。”</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #4A90D9; background: #E8F4F840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #4A90D9;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2023-11-26 00:43</span>
+                <span class="card-loc" style="background: #4A90D920; color: #4A90D9;">位置 1907</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">不过我不是在怪你玩游戏。我的目的不是责怪你，而是帮助你看到你在玩什么样的游戏，这样你才可以就此打住。”</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #4A90D9; background: #E8F4F840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #4A90D9;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2023-11-26 00:43</span>
+                <span class="card-loc" style="background: #4A90D920; color: #4A90D9;">位置 2244</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">“什么游戏？”</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #4A90D9; background: #E8F4F840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #4A90D9;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2023-11-26 00:44</span>
+                <span class="card-loc" style="background: #4A90D920; color: #4A90D9;">位置 4039</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">苍鹭接着说：“处在‘我好；你不好’坐标上的人还会玩其他游戏，你或许也能看出来。比方说，‘你为什么总让我失望？’”</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #4A90D9; background: #E8F4F840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #4A90D9;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2023-11-26 00:45</span>
+                <span class="card-loc" style="background: #4A90D920; color: #4A90D9;">位置 4978</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">“因为愤怒能够非常有效地抵抗抑郁。愤怒的人从不觉得内疚，因为他们总在怪罪别人。他们自卫的方式，是把自己内在的恐惧对外投射到别人身上，这样就能把对自己的怒火转向别人。”</p>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="chapter-section">
+        <h2 class="chapter-title">
+          <span class="ch-num" style="background: #7B68EE;">8</span>
+          <span class="ch-title-text" style="color: #7B68EE;">第十五章 最后一次面谈</span>
+          <span class="ch-count">8 条</span>
+        </h2>
+        <div class="cards-container">
+          
+          <div class="highlight-card" style="border-left-color: #7B68EE; background: #F5EEF840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #7B68EE;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2023-11-26 00:48</span>
+                <span class="card-loc" style="background: #7B68EE20; color: #7B68EE;">位置 3845</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">“我能说我处在‘我好；你也好’的坐标上吗？”他问，“这么说感觉很冒失，但这就是我的感受。”</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #7B68EE; background: #F5EEF840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #7B68EE;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2023-11-26 00:48</span>
+                <span class="card-loc" style="background: #7B68EE20; color: #7B68EE;">位置 4500</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">安静了一会儿后，蛤蟆开口说：“我们的关系变了，你不觉得吗，苍鹭？不久前，要是你像刚才那样对我说话，我会觉得你在贬低我，因为我说了蠢话。但现在我能思考你说的，会想我是不是同意你的看法。这一定是种改变，不是吗？”</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #7B68EE; background: #F5EEF840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #7B68EE;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2023-11-26 00:49</span>
+                <span class="card-loc" style="background: #7B68EE20; color: #7B68EE;">位置 5687</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">当时你表现得像个与父母对抗的青春期少年，你正面对抗我，意味着你情感的钟摆从依赖的一头甩到了对我发怒排斥的另一头。其实，你是在反抗你对我的依赖。”</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #7B68EE; background: #F5EEF840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #7B68EE;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2023-11-26 00:49</span>
+                <span class="card-loc" style="background: #7B68EE20; color: #7B68EE;">位置 5785</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">是吗？那为什么上次发怒对我很有意义？”</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #7B68EE; background: #F5EEF840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #7B68EE;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2023-11-26 00:50</span>
+                <span class="card-loc" style="background: #7B68EE20; color: #7B68EE;">位置 6726</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">“我记得你之前提过一次，但那时我还不理解。情商真正的意思是什么？”</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #7B68EE; background: #F5EEF840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #7B68EE;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2023-11-26 00:50</span>
+                <span class="card-loc" style="background: #7B68EE20; color: #7B68EE;">位置 6852</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">“那么高情商的人是怎么样的？”蛤蟆问。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #7B68EE; background: #F5EEF840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #7B68EE;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2023-11-26 00:51</span>
+                <span class="card-loc" style="background: #7B68EE20; color: #7B68EE;">位置 7130</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">情商和理解别人有关，一个高情商的人能辨识他人的感受，这种技能称为‘共情’。但也许情感智力中最大的技能是通过理解和回应对方的情感，与他人建立良好的关系。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #7B68EE; background: #F5EEF840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #7B68EE;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2023-11-26 00:51</span>
+                <span class="card-loc" style="background: #7B68EE20; color: #7B68EE;">位置 7474</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">共生性则体现出成熟和自我接纳，还包括求同存异地接纳他人。共生性可以让你在社交和工作上与别人有效联结，协同合作。”</p>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="chapter-section">
+        <h2 class="chapter-title">
+          <span class="ch-num" style="background: #999;">📝</span>
+          独立想法
+          <span class="ch-count">6 条</span>
+        </h2>
+        <div class="cards-container">
+          
+        <div class="highlight-card orphan" style="border-left-color: #999;">
+          <div class="card-body">
+            <div class="review-bubble standalone">
+              <span class="review-icon">📝</span>
+              <span class="review-text">这本书是去年在孤独症线上伴读会上读到的，简单直白，通过动物角色让人读起来非常轻松，最终引导蛤蟆先生从自己消极的情绪中走了出来。</span>
+            </div>
+          </div>
+        </div>
+        <div class="highlight-card orphan" style="border-left-color: #999;">
+          <div class="card-body">
+            <div class="review-bubble standalone">
+              <span class="review-icon">📝</span>
+              <span class="review-text">我喜欢用自己的方式活着</span>
+            </div>
+          </div>
+        </div>
+        <div class="highlight-card orphan" style="border-left-color: #999;">
+          <div class="card-body">
+            <div class="review-bubble standalone">
+              <span class="review-icon">📝</span>
+              <span class="review-text">保护自己，也不伤害别人。</span>
+            </div>
+          </div>
+        </div>
+        <div class="highlight-card orphan" style="border-left-color: #999;">
+          <div class="card-body">
+            <div class="review-bubble standalone">
+              <span class="review-icon">📝</span>
+              <span class="review-text">中西原则目标不同。</span>
+            </div>
+          </div>
+        </div>
+        <div class="highlight-card orphan" style="border-left-color: #999;">
+          <div class="card-body">
+            <div class="review-bubble standalone">
+              <span class="review-icon">📝</span>
+              <span class="review-text">我选择，我承担后果</span>
+            </div>
+          </div>
+        </div>
+        <div class="highlight-card orphan" style="border-left-color: #999;">
+          <div class="card-body">
+            <div class="review-bubble standalone">
+              <span class="review-icon">📝</span>
+              <span class="review-text">诉说的欲望</span>
+            </div>
+          </div>
+        </div>
+        </div>
+      </div>
+
+  <div class="footer">
+    生成于 2026-05-21 00:54 · 微信读书 → Obsidian
+  </div>
+
+</div>
+</body>
+</html>

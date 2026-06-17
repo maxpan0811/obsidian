@@ -1,0 +1,898 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>扣子（Coze）Skills+OpenClaw 实战：零基础玩转 AI 智能体 - 读书笔记</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    background: linear-gradient(160deg, #f8f9fc 0%, #eef1f5 100%);
+    font-family: -apple-system, "PingFang SC", "Noto Sans SC", "LXGW WenKai", "Microsoft YaHei", sans-serif;
+    padding: 40px 20px;
+    min-height: 100vh;
+  }
+
+  .container {
+    max-width: 820px;
+    margin: 0 auto;
+  }
+
+  /* ===== 书籍头部 ===== */
+  .book-header {
+    background: linear-gradient(135deg, #2c3e50 0%, #1a252f 100%);
+    border-radius: 18px;
+    padding: 48px 40px;
+    margin-bottom: 32px;
+    color: #fff;
+    box-shadow: 0 10px 40px rgba(0,0,0,0.12);
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    gap: 32px;
+    align-items: flex-start;
+  }
+
+  .book-header::before {
+    content: '';
+    position: absolute;
+    top: -40%;
+    right: -10%;
+    width: 280px;
+    height: 280px;
+    background: rgba(255,255,255,0.03);
+    border-radius: 50%;
+  }
+
+  .book-cover {
+    width: 100px;
+    height: 140px;
+    border-radius: 8px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.3);
+    flex-shrink: 0;
+    object-fit: cover;
+    background: rgba(255,255,255,0.08);
+    position: relative;
+    z-index: 1;
+  }
+
+  .book-info {
+    flex: 1;
+    position: relative;
+    z-index: 1;
+  }
+
+  .book-title {
+    font-size: 26px;
+    font-weight: 700;
+    margin-bottom: 6px;
+    letter-spacing: 0.5px;
+  }
+
+  .book-author {
+    font-size: 15px;
+    opacity: 0.7;
+    margin-bottom: 16px;
+  }
+
+  .book-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+
+  .book-tag {
+    background: rgba(255,255,255,0.12);
+    padding: 4px 12px;
+    border-radius: 20px;
+    font-size: 12px;
+    opacity: 0.8;
+  }
+
+  /* ===== 统计栏 ===== */
+  .stats-bar {
+    background: #fff;
+    border-radius: 14px;
+    padding: 20px 24px;
+    margin-bottom: 32px;
+    display: flex;
+    justify-content: space-around;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.05);
+    border: 1px solid rgba(0,0,0,0.03);
+  }
+
+  .stat-item {
+    text-align: center;
+  }
+
+  .stat-num {
+    font-size: 26px;
+    font-weight: 700;
+    color: #2c3e50;
+    line-height: 1.2;
+  }
+
+  .stat-label {
+    font-size: 12px;
+    color: #aaa;
+    margin-top: 2px;
+  }
+
+  .stat-divider {
+    width: 1px;
+    background: #eee;
+  }
+
+  /* ===== 章节 ===== */
+  .chapter-section {
+    margin-bottom: 32px;
+  }
+
+  .chapter-title {
+    font-size: 17px;
+    font-weight: 600;
+    color: #333;
+    margin-bottom: 14px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .ch-num {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 26px;
+    height: 26px;
+    border-radius: 8px;
+    color: #fff;
+    font-size: 13px;
+    font-weight: 600;
+    flex-shrink: 0;
+  }
+
+  .ch-title-text {
+    font-size: 17px;
+    font-weight: 600;
+  }
+
+  .ch-count {
+    font-size: 12px;
+    font-weight: 400;
+    color: #aaa;
+    margin-left: auto;
+  }
+
+  .card-header-right {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+
+  .card-loc {
+    display: inline-block;
+    padding: 1px 8px;
+    border-radius: 10px;
+    font-size: 11px;
+    font-weight: 500;
+    font-family: "SF Mono", "PingFang SC", monospace;
+    line-height: 1.6;
+  }
+
+  /* ===== 卡片 ===== */
+  .cards-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .highlight-card {
+    background: #fff;
+    border-radius: 12px;
+    padding: 16px 20px;
+    border-left: 4px solid #4A90D9;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.04);
+    transition: transform 0.2s, box-shadow 0.2s;
+    position: relative;
+  }
+
+  .highlight-card:hover {
+    transform: translateX(6px);
+    box-shadow: 0 6px 20px rgba(0,0,0,0.08);
+  }
+
+  .highlight-card.orphan {
+    opacity: 0.85;
+  }
+
+  .card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 6px;
+  }
+
+  .quote-icon {
+    font-size: 28px;
+    line-height: 1;
+    font-family: Georgia, serif;
+    opacity: 0.3;
+  }
+
+  .card-time {
+    font-size: 11px;
+    color: #bbb;
+  }
+
+  .card-body {
+    position: relative;
+  }
+
+  .highlight-text {
+    font-size: 14.5px;
+    line-height: 1.85;
+    color: #333;
+    text-align: justify;
+  }
+
+  .review-bubble {
+    margin-top: 10px;
+    padding: 10px 14px;
+    background: #FFF8E1;
+    border-radius: 8px;
+    font-size: 13.5px;
+    line-height: 1.6;
+    color: #8D6E00;
+    display: flex;
+    gap: 8px;
+    align-items: flex-start;
+  }
+
+  .review-bubble.standalone {
+    background: #F3E8FF;
+    color: #6B21A8;
+  }
+
+  .review-icon {
+    flex-shrink: 0;
+    font-size: 14px;
+    line-height: 1.6;
+  }
+
+  .review-text {
+    flex: 1;
+  }
+
+  /* ===== 底部 ===== */
+  .footer {
+    text-align: center;
+    padding: 40px 0 20px;
+    color: #bbb;
+    font-size: 12px;
+  }
+
+  .footer a { color: #888; text-decoration: none; }
+
+  @media (max-width: 640px) {
+    body { padding: 16px 12px; }
+    .book-header { padding: 28px 20px; flex-direction: column; gap: 16px; }
+    .book-cover { width: 80px; height: 112px; }
+    .book-title { font-size: 20px; }
+    .stats-bar { flex-wrap: wrap; gap: 8px; padding: 14px; }
+    .stat-divider { display: none; }
+  }
+</style>
+</head>
+<body>
+<div class="container">
+
+  <div class="book-header">
+    
+    <div class="book-info">
+      <h1 class="book-title">扣子（Coze）Skills+OpenClaw 实战：零基础玩转 AI 智能体</h1>
+      <p class="book-author">邢云阳 著</p>
+      <div class="book-tags">
+        <span class="book-tag">📖 35 条划线</span>
+        <span class="book-tag">💡 0 条想法</span>
+        <span class="book-tag">📅 2026-05-21 00:54</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="stats-bar">
+    <div class="stat-item">
+      <div class="stat-num">11</div>
+      <div class="stat-label">章节</div>
+    </div>
+    <div class="stat-divider"></div>
+    <div class="stat-item">
+      <div class="stat-num">35</div>
+      <div class="stat-label">划线</div>
+    </div>
+    <div class="stat-divider"></div>
+    <div class="stat-item">
+      <div class="stat-num">0</div>
+      <div class="stat-label">想法</div>
+    </div>
+    <div class="stat-divider"></div>
+    <div class="stat-item">
+      <div class="stat-num">35</div>
+      <div class="stat-label">总标记</div>
+    </div>
+  </div>
+
+  
+      <div class="chapter-section">
+        <h2 class="chapter-title">
+          <span class="ch-num" style="background: #4A90D9;">1</span>
+          <span class="ch-title-text" style="color: #4A90D9;">主要内容</span>
+          <span class="ch-count">1 条</span>
+        </h2>
+        <div class="cards-container">
+          
+          <div class="highlight-card" style="border-left-color: #4A90D9; background: #E8F4F840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #4A90D9;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2026-04-26 08:41</span>
+                <span class="card-loc" style="background: #4A90D920; color: #4A90D9;">位置 2482</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">纯文字经验沉淀的Skills开发，只需在扣子</p>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="chapter-section">
+        <h2 class="chapter-title">
+          <span class="ch-num" style="background: #7B68EE;">2</span>
+          <span class="ch-title-text" style="color: #7B68EE;">1.1 智能体概述</span>
+          <span class="ch-count">3 条</span>
+        </h2>
+        <div class="cards-container">
+          
+          <div class="highlight-card" style="border-left-color: #7B68EE; background: #F5EEF840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #7B68EE;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2026-04-26 08:41</span>
+                <span class="card-loc" style="background: #7B68EE20; color: #7B68EE;">位置 1233</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">在这个故事中（见图1-1），主角原本只是一个听话的执行者（如同基础的AI大模型），但一旦被赋予了何时、使用何种策略的指导框架，他就具备了自主决策和行动的能力——这正是智能体的核心思</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #7B68EE; background: #F5EEF840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #7B68EE;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2026-04-26 08:41</span>
+                <span class="card-loc" style="background: #7B68EE20; color: #7B68EE;">位置 2254</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">GPT Store的上线迅速激发了社区创造力，也奠定了“AI大模型 + 工具 = 智能体”的基本范‍式。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #7B68EE; background: #F5EEF840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #7B68EE;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2026-04-26 08:41</span>
+                <span class="card-loc" style="background: #7B68EE20; color: #7B68EE;">位置 2594</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">为突破这一瓶颈，2024年中后期，一系列从人工智能领域论文发展而来的增强智能体推理能力的设计模式相继开始被人们关注并进行工程化的实现。其中，最具代表性的是 ReAct（Reasoning + Acting），以及计划（Plan）、反思（Reflection）等设计模式。</p>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="chapter-section">
+        <h2 class="chapter-title">
+          <span class="ch-num" style="background: #E8833A;">3</span>
+          <span class="ch-title-text" style="color: #E8833A;">1.2 主流智能体实现形式介绍</span>
+          <span class="ch-count">7 条</span>
+        </h2>
+        <div class="cards-container">
+          
+          <div class="highlight-card" style="border-left-color: #E8833A; background: #FDF2E940;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #E8833A;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2026-04-26 08:41</span>
+                <span class="card-loc" style="background: #E8833A20; color: #E8833A;">位置 946</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">在实现路径上，业界主要有两种技术范式，分别是Function Calling（函数调用）与ReAct（Reasoning + Acting）</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #E8833A; background: #FDF2E940;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #E8833A;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2026-04-26 08:41</span>
+                <span class="card-loc" style="background: #E8833A20; color: #E8833A;">位置 1083</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">• Function Calling可以理解为AI大模型在“出厂前”就练就的基本功</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #E8833A; background: #FDF2E940;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #E8833A;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2026-04-26 08:41</span>
+                <span class="card-loc" style="background: #E8833A20; color: #E8833A;">位置 1289</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">• ReAct则是在后天通过提示词工程的手段引导AI大模型具备工具调用能力，这种方式不需要基本功。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #E8833A; background: #FDF2E940;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #E8833A;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2026-04-26 08:41</span>
+                <span class="card-loc" style="background: #E8833A20; color: #E8833A;">位置 1549</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">工具调用类智能体的实现方式简单，且对于不太复杂的问题，例如“今天天气怎么样”“今晚举办球赛的体育场附近有哪些烧烤店”的回答效果非常好</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #E8833A; background: #FDF2E940;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #E8833A;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2026-04-26 08:41</span>
+                <span class="card-loc" style="background: #E8833A20; color: #E8833A;">位置 3251</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">在执行过程中，智能体会灵活组合如下多种能‍力。• 调用搜索引擎获取实时信‍息。• 调用工具获取垂直领域信‍息。• 必要时自动生成并运行代码（如数据清洗、回测策略等）。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #E8833A; background: #FDF2E940;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #E8833A;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2026-04-26 08:41</span>
+                <span class="card-loc" style="background: #E8833A20; color: #E8833A;">位置 4571</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">多智能体系统通常有两种主流的架构，一种是流程固定的工作流（Workflow），扣子、Dify都支持这种架构；另一种则是流程由AI大模型决定的主从智能体架构，如2025年比较热门的A2A协议，便是为这种架构服务的</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #E8833A; background: #FDF2E940;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #E8833A;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2026-04-26 08:41</span>
+                <span class="card-loc" style="background: #E8833A20; color: #E8833A;">位置 7712</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">用户的问题会发送给主智能体，由主智能体进行任务拆解与调度，决定子任务由哪个子智能体进行执行。根据任务的规划不同，可以每次只选择一个子智能体执行任务，也可以多个子智能体并行执行。主智能体会汇总子智能体的执行结果，将最终答案返回给用‍户</p>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="chapter-section">
+        <h2 class="chapter-title">
+          <span class="ch-num" style="background: #2EAD6B;">4</span>
+          <span class="ch-title-text" style="color: #2EAD6B;">1.3 Skills概述</span>
+          <span class="ch-count">9 条</span>
+        </h2>
+        <div class="cards-container">
+          
+          <div class="highlight-card" style="border-left-color: #2EAD6B; background: #E8F8F040;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #2EAD6B;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2026-04-26 08:41</span>
+                <span class="card-loc" style="background: #2EAD6B20; color: #2EAD6B;">位置 561</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">作为推动智能体从“通用助手”迈向“领域专家”的关键技术，Skills正在重塑普通人构建AI应用的方式：无须大规模编程，仅凭自然语言与结构化文档，即可为智能体注入可复用、可组合、可进化的专业能‍力</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #2EAD6B; background: #E8F8F040;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #2EAD6B;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2026-04-26 08:41</span>
+                <span class="card-loc" style="background: #2EAD6B20; color: #2EAD6B;">位置 1284</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">Skills的本质还是编写提示词，只不过相比于仅仅将重点放在如何优化提示词（如增加你是一个××助手的人设）的提示词工程，Skills有了明确的格式规范，可以将原先散落在与智能体多轮对话中的提示词、参考文件、代码等进行汇总，从而让智能体一次性拿到解决问题的完整方案，一次性解决问</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #2EAD6B; background: #E8F8F040;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #2EAD6B;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2026-04-26 08:41</span>
+                <span class="card-loc" style="background: #2EAD6B20; color: #2EAD6B;">位置 2163</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">•SKILL.md文件（必选）。这是Skills的核心文件，也是唯一的必选组件。它相当于Skills的标签与说明书，以Markdown格式清晰描述Skills的功能、输入/输出规范、调用条件、任务执行步骤、使用示例等关键信息。智能体正是通过阅读此文件，判断是否调用该Skills，以及如何正确使用‍它。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #2EAD6B; background: #E8F8F040;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #2EAD6B;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2026-04-26 08:41</span>
+                <span class="card-loc" style="background: #2EAD6B20; color: #2EAD6B;">位置 2553</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">在AI编程时代，只要能用自然语言准确描述需求，AI即可自动生成所需代码，因此没有编程基础也无须担忧。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #2EAD6B; background: #E8F8F040;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #2EAD6B;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2026-04-26 08:41</span>
+                <span class="card-loc" style="background: #2EAD6B20; color: #2EAD6B;">位置 2697</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">•references/文件夹（可选）。用于存放支撑该Skills运行的参考资料。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #2EAD6B; background: #E8F8F040;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #2EAD6B;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2026-04-26 08:41</span>
+                <span class="card-loc" style="background: #2EAD6B20; color: #2EAD6B;">位置 2930</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">•assets/文件夹（可选）。用于存储静态资源与模板文件，如图片、音频、配置模板、输出格式样例等。这些内容不参与逻辑计算，但可作为任务执行时的辅助素‍材</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #2EAD6B; background: #E8F8F040;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #2EAD6B;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2026-04-26 09:07</span>
+                <span class="card-loc" style="background: #2EAD6B20; color: #2EAD6B;">位置 3138</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">Skills的工作机制源于上下文工程（Context Engineering）中一个称为上下文污染的现</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #2EAD6B; background: #E8F8F040;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #2EAD6B;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2026-04-26 09:07</span>
+                <span class="card-loc" style="background: #2EAD6B20; color: #2EAD6B;">位置 3519</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">为避免此类问题，Skills设计了渐进式、按需加载的机制，如图1-8右侧部分所示，整个Skills的内容按照加载级别分为L1、L2、L3三个级别。图1-8左侧部分展示的则是智能体加载Skills的顺‍序。• 加载Skills：当智能体加载一个Skills时，仅将L1级别的内容，即SKILL.md中的标签部分存入AI大模型的记忆中。此时，智能体只知道“有这样一个技能可用”，但不会加载其全部细‍节。• 读取Skills说明：当用户提出具体任务，智能体判断某Skills可能适用时，才会加载L2级别的内容，即SKILL.md的全部内容，以此指导后续操‍作。• 按需加载资源：在实际执行过程中，若任务需要调用代码、参考文档或使用模板，智能体会按需加载L3级别的内容，即 scripts/、references/ 或 assets/ 中的相关文件。未被使用的资源则始终保留在外部，不进入大模型的记忆‍中</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #2EAD6B; background: #E8F8F040;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #2EAD6B;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2026-04-26 09:08</span>
+                <span class="card-loc" style="background: #2EAD6B20; color: #2EAD6B;">位置 4282</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">[插图]</p>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="chapter-section">
+        <h2 class="chapter-title">
+          <span class="ch-num" style="background: #D94A8A;">5</span>
+          <span class="ch-title-text" style="color: #D94A8A;">3.1 直播带货话术复用Skills的核心逻辑梳理</span>
+          <span class="ch-count">2 条</span>
+        </h2>
+        <div class="cards-container">
+          
+          <div class="highlight-card" style="border-left-color: #D94A8A; background: #FDE8EF40;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #D94A8A;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2026-04-26 16:19</span>
+                <span class="card-loc" style="background: #D94A8A20; color: #D94A8A;">位置 1455</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">• 会做不会教。许多优秀主播凭借直觉、天赋或长期直播的经验，打磨出高效的直播话术与节奏把控能力，但缺乏将这些隐性经验系统化、结构化表达的能力。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #D94A8A; background: #FDE8EF40;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #D94A8A;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2026-04-26 16:19</span>
+                <span class="card-loc" style="background: #D94A8A20; color: #D94A8A;">位置 3386</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">当新主播需要讲解某款新产品时，只需向Skills提供产品基本信息（如品类、核心卖点、目标人群、价格区间等），智能体即可自动匹配对应环节的话术模板，结合产品特性进行个性化填充与语义优化，最终输出一份完整、流畅、符合高转换逻辑的直播脚</p>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="chapter-section">
+        <h2 class="chapter-title">
+          <span class="ch-num" style="background: #E6A23C;">6</span>
+          <span class="ch-title-text" style="color: #E6A23C;">3.2 直播带货话术复用Skills的全流程落地实操</span>
+          <span class="ch-count">1 条</span>
+        </h2>
+        <div class="cards-container">
+          
+          <div class="highlight-card" style="border-left-color: #E6A23C; background: #FEF5E740;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #E6A23C;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2026-04-26 16:19</span>
+                <span class="card-loc" style="background: #E6A23C20; color: #E6A23C;">位置 14307</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">可以看出，智能体生成的直播话术严格遵循了直播带货话术复用Skills开发阶段上传的“直播话术参考.md”文件中的结构，完整覆盖了聚人、留客、锁客、说服、催单、引导下单与关注环节（即图3-11中的下单阶段），并融入了红豆薏米茶的产品信息，体现了高度的业务适配性与语言自然度。尤为关键的是，所有产品细节——包括配方成分（栀子、无硫陈皮、赤小豆等）、工艺特点（低温烘焙）、使用方式（直接冲泡）——均被准确提取并嵌入话术中，无遗漏、无失真、无生硬堆‍砌。这充分说明直播带货话术复用Skills成功实现了专家经验模板与具体产品信息的智能融</p>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="chapter-section">
+        <h2 class="chapter-title">
+          <span class="ch-num" style="background: #4A90D9;">7</span>
+          <span class="ch-title-text" style="color: #4A90D9;">4.3 扣子通用智能体秒变股票技术分析专家</span>
+          <span class="ch-count">2 条</span>
+        </h2>
+        <div class="cards-container">
+          
+          <div class="highlight-card" style="border-left-color: #4A90D9; background: #E8F4F840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #4A90D9;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2026-04-26 16:19</span>
+                <span class="card-loc" style="background: #4A90D920; color: #4A90D9;">位置 3777</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">由此可见，精准的业务定义是智能体有效赋能的前提。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #4A90D9; background: #E8F4F840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #4A90D9;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2026-04-26 16:19</span>
+                <span class="card-loc" style="background: #4A90D920; color: #4A90D9;">位置 3840</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">在AI时代，深刻理解业务的人，将成为最高效的开发‍者。</p>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="chapter-section">
+        <h2 class="chapter-title">
+          <span class="ch-num" style="background: #7B68EE;">8</span>
+          <span class="ch-title-text" style="color: #7B68EE;">6.1 小红书图文生成Skills的设计</span>
+          <span class="ch-count">1 条</span>
+        </h2>
+        <div class="cards-container">
+          
+          <div class="highlight-card" style="border-left-color: #7B68EE; background: #F5EEF840;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #7B68EE;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2026-04-26 16:19</span>
+                <span class="card-loc" style="background: #7B68EE20; color: #7B68EE;">位置 1764</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">这一将领域经验转换为可复用规则的过程，本质上正是Skills的开发过</p>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="chapter-section">
+        <h2 class="chapter-title">
+          <span class="ch-num" style="background: #E8833A;">9</span>
+          <span class="ch-title-text" style="color: #E8833A;">6.2 小红书图文生成Skills的开发与发布全流程</span>
+          <span class="ch-count">6 条</span>
+        </h2>
+        <div class="cards-container">
+          
+          <div class="highlight-card" style="border-left-color: #E8833A; background: #FDF2E940;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #E8833A;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2026-04-26 16:19</span>
+                <span class="card-loc" style="background: #E8833A20; color: #E8833A;">位置 5167</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">该模板的编写有以下5个技‍巧。第一是风格名称（如# fresh）应简短、直观，并能唤起明确的视觉联想。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #E8833A; background: #FDF2E940;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #E8833A;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2026-04-26 16:19</span>
+                <span class="card-loc" style="background: #E8833A20; color: #E8833A;">位置 5322</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">第二是调色板结构化，兼顾主次与扩展性。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #E8833A; background: #FDF2E940;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #E8833A;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2026-04-26 16:19</span>
+                <span class="card-loc" style="background: #E8833A20; color: #E8833A;">位置 5444</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">• 主色用于标题、关键信息或核心图形，决定整体色‍调。• 背景色影响画面基调与留白质‍感。• 点缀色用于强调细节或增加层次</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #E8833A; background: #FDF2E940;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #E8833A;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2026-04-26 16:19</span>
+                <span class="card-loc" style="background: #E8833A20; color: #E8833A;">位置 5890</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">第三是视觉元素具象化，例如，“植物叶子、云朵、水滴”等元素具体可绘，而非笼统使用自然元素之类的抽象词汇。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #E8833A; background: #FDF2E940;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #E8833A;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2026-04-26 16:19</span>
+                <span class="card-loc" style="background: #E8833A20; color: #E8833A;">位置 6155</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">第五是明确列出适用场景（如“健康、养生、极简生活”），不仅帮助智能体在内容分析阶段进行风格匹配，也为人工审核或用户选择提供判断依据。</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #E8833A; background: #FDF2E940;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #E8833A;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2026-04-26 16:19</span>
+                <span class="card-loc" style="background: #E8833A20; color: #E8833A;">位置 12614</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">• 保持视觉舒适度：适量的留白避免画面拥挤，提升整体美感。• 优化信息传递效率：控制关键点数量，确保用户能在短时间内抓住主要内</p>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="chapter-section">
+        <h2 class="chapter-title">
+          <span class="ch-num" style="background: #2EAD6B;">10</span>
+          <span class="ch-title-text" style="color: #2EAD6B;">7.2 PPT创作助手Skills的开发与测试全流程</span>
+          <span class="ch-count">1 条</span>
+        </h2>
+        <div class="cards-container">
+          
+          <div class="highlight-card" style="border-left-color: #2EAD6B; background: #E8F8F040;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #2EAD6B;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2026-04-26 16:19</span>
+                <span class="card-loc" style="background: #2EAD6B20; color: #2EAD6B;">位置 7295</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">• 主文本色（用于90%的文字）• 主强调色（用于关键数据、按钮、标题）• 辅助色（用于次级信息、图表填充）• 功能色（如警告、成功状态）</p>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="chapter-section">
+        <h2 class="chapter-title">
+          <span class="ch-num" style="background: #D94A8A;">11</span>
+          <span class="ch-title-text" style="color: #D94A8A;">8.1 技术背景与设计：从索引时代迈向生成时代</span>
+          <span class="ch-count">2 条</span>
+        </h2>
+        <div class="cards-container">
+          
+          <div class="highlight-card" style="border-left-color: #D94A8A; background: #FDE8EF40;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #D94A8A;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2026-04-26 16:19</span>
+                <span class="card-loc" style="background: #D94A8A20; color: #D94A8A;">位置 1695</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">• 从点击转换转向引用归因：用户不再频繁点击搜索结果链接，而是阅读由AI整合生成的总结。品牌的曝光量取决于是否被 AI 采信为原始素‍材。• 从关键词堆砌转向语义建模：网页内容能否被 AI 提取，取决于内容的语义深度、专业权威性，以及结构化数据的完备</p>
+              
+            </div>
+          </div>
+          <div class="highlight-card" style="border-left-color: #D94A8A; background: #FDE8EF40;">
+            <div class="card-header">
+              <span class="quote-icon" style="color: #D94A8A;">"</span>
+              <div class="card-header-right">
+                <span class="card-time">2026-04-26 16:19</span>
+                <span class="card-loc" style="background: #D94A8A20; color: #D94A8A;">位置 2399</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="highlight-text">• 研究阶段：分析搜索趋势与AI响应特征，识别具备AI引用潜力的高价值语义主‍题。• 构建阶段：引导智能体兼顾SEO的结构化逻辑与GEO的语义特征，自动化生成符合AI检索偏好的高质量内‍容。• 优化阶段：对存量内容进行处理，修复技术规范缺陷，并通过内部链接矩阵优化站点权‍重。• 监控阶段：构建数字化增长监控中心，实时追踪关键词排名演变及AI引用率波动，实现策略的快速迭</p>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+
+  <div class="footer">
+    生成于 2026-05-21 00:54 · 微信读书 → Obsidian
+  </div>
+
+</div>
+</body>
+</html>
