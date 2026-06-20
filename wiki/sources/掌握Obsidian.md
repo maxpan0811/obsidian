@@ -11,4 +11,4 @@ tags: [obsidian, tutorial]
 
 ## 相关页面
 
-- [[products/Obsidian]]
+- [[products/Obsidian|Obsidian]]

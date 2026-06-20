@@ -18,5 +18,5 @@ tags: [ios, app, calendar, affinity-designer, procreate, productivity]
 
 ## 相关页面
 
-- [[products/Affinity-Designer|Affinity Designer]]
-- [[products/Procreate|Procreate]]
+- [[products/Affinity-Designer-for-iPad|Affinity Designer]]
+- [[products/Procreate-for-iPad|Procreate]]

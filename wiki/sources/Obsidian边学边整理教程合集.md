@@ -26,4 +26,4 @@ tags: [obsidian, tutorial, collection]
 
 ## 相关页面
 
-- [[products/Obsidian]]
+- [[products/Obsidian|Obsidian]]

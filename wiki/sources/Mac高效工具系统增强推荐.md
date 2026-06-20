@@ -19,4 +19,4 @@ tags: [mac, tools, productivity, terminal, window-manager]
 
 ## 相关页面
 
-- [[products/Mac工具合集]]
+- [[products/Mac工具合集|Mac工具合集]]

@@ -15,4 +15,4 @@ tags: [claude, notebooklm, memory, knowledge-base]
 ## 相关页面
 
 - [[concepts/LLM Wiki模式]]
-- [[sources/Claude「永久大脑」双模记忆Conway]]
+- [[sources/Claude永久大脑双模记忆Conway|永久大脑双模记忆Conway]]

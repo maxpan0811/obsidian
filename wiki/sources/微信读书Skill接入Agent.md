@@ -16,4 +16,4 @@ tags: [weread, skill, agent, reading-profile]
 
 - [[products/Claude Code]]
 - [[features/Skills]]
-- [[sources/Claude「永久大脑」双模记忆Conway]]
+- [[sources/Claude永久大脑双模记忆Conway|永久大脑双模记忆Conway]]

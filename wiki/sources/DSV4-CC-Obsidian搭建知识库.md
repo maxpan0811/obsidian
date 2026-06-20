@@ -27,4 +27,4 @@ DeepSeek V4 文字能力对标 Claude Opus 4.6，百万 token 价格不到 Claud
 
 - [[products/Claude Code]]
 - [[sources/DeepSeek蜜雪冰城降价-中国版CC]]
-- [[sources/复刻 Karpathy 神级工作流用 Claude Code 搭个人 AI 知识库]]
+- [[sources/复刻Karpathy工作流-CC+Obsidian|复刻Karpathy工作流]]
