@@ -1447,3 +1447,13 @@ Wiki health check after massive ingest:
 - RAW/Excel now matches exactly: 123 files ↔ 123 entries
 - Fixed: RAW/md/ and RAW/MD/ are same directory (APFS case-insensitive), deduplicated to RAW/MD/
 - Final ingested count: 12,978 entries
+
+## 2026-06-29 Lint 健康检查
+- **ingested_files.json**: 已通过 YAML 解析重建（13,519 entries），消除引号/大小写/ bare-directory 问题
+- **清理脚本**: cleanup_ingested_index.py 已重写，使用 yaml.safe_load 替代字符串操作
+- **Broken links**: 136 个目标（共 256 处引用），多为页面别名或已删除页
+  - 前 5: [[中国影像方志]]（12x）、[[Zettelkasten]]（12x）、[[1]]（9x）、[[文章纠错]]（6x）、[[2]]（6x）
+- **空壳页面**: 1 个（软埋.md → 185B）
+- **ChromaDB**: 24,330 chunks，1.4 chunks/page 平均
+- **Glossary**: 134 个术语
+- **无需修复**: broken links 多为引用已被源页面删节的别名/序号，无实质矛盾；空壳页面为单篇短笔记
