@@ -1427,3 +1427,19 @@ Wiki health check after massive ingest:
 - 清理后：20,440 → 11,647 entries（-43%）
 - 明细：印象笔记-8,557、RAW-54、微信读书-80、知乎-98、随笔-3、其他-1
 - 附注：此步骤已纳入 lint 工作流作为步骤 0
+
+## 2026-06-29 全量补齐 ingest——修复遗漏逻辑
+- **问题**：之前 `ingest` 只检查 `-newer ingested_files.json` 的文件，遗漏了长期存在但从未入库的文件
+- **修复**：工作流已改为全量目录遍历 → 逐一查 ingested_files.json
+- **本轮新增源页**：1,332 个
+  - 印象笔记管理工具 .md → 1,264 个
+  - RAW/PDF → 29 个
+  - RAW/Word → 29 个（doc/docx）
+  - RAW/PPT → 8 个
+  - RAW/Excel → 2 个（xls/xlsx）
+- **清理 stale 条目**：8,793 条（pre-op）
+- **索引状态**：
+  - ingested_files.json: 12,979 entries（印象笔记 11,795 + RAW 954 + 知乎 128 + 微信读书 81 + 随笔 18 + 其他 3）
+  - wiki/sources/: 17,872 pages
+  - ChromaDB all_docs: 24,230 chunks
+- **全量覆盖**：所有 5 个管线目录 + RAW 全部子目录文件均已在索引中
