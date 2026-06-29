@@ -1412,3 +1412,12 @@ Wiki health check after massive ingest:
 ## 2026-06-28 12:02 印象笔记新文件
 加入 362 个新.md文件
 
+
+## 2026-06-29 第X批次 — RAW/PDF 4个新文件
+- **Source Pages 新增**：3 个
+  - `u10-知识点汇总.md` — Think2 B1 U10 "Mind And Body" 知识点归纳
+  - `think2-暑期词汇-day4.md` — Think 2 暑期考纲词汇 Day 4
+  - `集团ehr系统员工用户手册.md` — 集团eHR系统（北森iTalent）员工用户手册 v1.0
+- **原始文件**：RAW/PDF/U10知识点汇总.pdf、RAW/PDF/Think 2 暑期考纲词汇表Day 4（答案）.pdf、RAW/PDF/Think 2 考纲词汇暑期默写纸Day 4.pdf、RAW/PDF/集团eHR系统员工用户手册 v1.0.pdf
+- **向量索引**：3 个源页 → ChromaDB +3 条记录
+- **备注**：随笔目录下 2 个文件（AI未完成工作.md、潘恒如学业成绩记录.md）已存在 ingested_files 索引中，跳过
