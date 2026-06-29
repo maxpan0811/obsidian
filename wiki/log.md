@@ -1443,3 +1443,7 @@ Wiki health check after massive ingest:
   - wiki/sources/: 17,872 pages
   - ChromaDB all_docs: 24,230 chunks
 - **全量覆盖**：所有 5 个管线目录 + RAW 全部子目录文件均已在索引中
+- Additional fix: removed 2 bare-directory entries (RAW/Excel/ and RAW/Word/, directory-only paths with no actual file)
+- RAW/Excel now matches exactly: 123 files ↔ 123 entries
+- Fixed: RAW/md/ and RAW/MD/ are same directory (APFS case-insensitive), deduplicated to RAW/MD/
+- Final ingested count: 12,978 entries
