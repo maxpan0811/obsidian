@@ -1457,3 +1457,5 @@ Wiki health check after massive ingest:
 - **ChromaDB**: 24,330 chunks，1.4 chunks/page 平均
 - **Glossary**: 134 个术语
 - **无需修复**: broken links 多为引用已被源页面删节的别名/序号，无实质矛盾；空壳页面为单篇短笔记
+- Fixed: 2 bare-directory entries (RAW/Excel/, RAW/PIC/) incorrectly kept because os.path.exists() returns True for directories
+- Final verification: all RAW subdirs match disk file counts
