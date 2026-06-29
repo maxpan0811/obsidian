@@ -31,3 +31,6 @@ tags: [meta, cards]
 | [[cards/llm-wiki-否决记录价值]] | Pattern | verified |
 | [[cards/llm-wiki-热区冷区分层]] | Decision | verified |
 | [[cards/llm-wiki-简单方案阈值]] | Pattern | verified |
+- [[cards/ingest-scan-逻辑陷阱]] — Ingest 扫描用全量比对不是 -newer 时间戳
+- [[cards/filesystem-case-insensitive-陷阱]] — macOS APFS 大小写不敏感导致 duplicate entries
+- [[cards/stale-cleanup-bare-directory-陷阱]] — 目录路径本身 os.path.exists 返回 True 导致漏检
