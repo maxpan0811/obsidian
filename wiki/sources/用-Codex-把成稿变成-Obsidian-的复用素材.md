@@ -5,270 +5,33 @@ created: 2026-06-20
 updated: 2026-06-20
 source_path: 印象笔记管理工具/用 Codex 把成稿变成 Obsidian 的复用素材.html
 tags: [杂文]
+updated: 2026-06-27
+updated: 2026-06-27
+updated: 2026-06-27
 ---
 
-用 Codex 把成稿变成 Obsidian 的复用素材
-原文链接: https://mp.weixin.qq.com/s?__biz=MzUyNTcyNDkzNg==&mid=224748...很多人做完一篇文章、一份 PPT，就直接关掉文件。结果下次遇到类似任务，还是重新翻资料、重新想结构、重新搭页面。更好的做法，是让 Codex 从成稿里提炼可复用内容，再沉淀回 Obsidian。好标题、好开头、案例、汇报结构、常用页面，都可以变成下次能调用的素材。Obsidian 不只是存旧资料，也要存每次任务留下来的好东西。Close
-
 ---
-### 截图OCR提取（{today}）
-### 截图1
-识别结果:
-### 截图2
-识别结果:
-### 截图3
-识别结果:
-### 截图4
-识别结果:
-### 截图5
-识别结果:
-
+title: "用 Codex 把成稿变成 Obsidian 的复用素材"
+source: evernote
+type: note
+export_date: 2026-06-26
+guid: f584e36a-5558-4f89-90c3-055bc25fecf7
 ---
-### 截图OCR提取（2026-06-20）
-### 截图1
-1分钟讲懂 Al
-EP.
-用通俗易懂的方式，帮你读懂A|
-59
-文章和 PPT 做完后，
-一定要反向沉淀
-任务结束，不等于资料结束
-输出成果
-沉淀到知识库
-复盘提炼
-标签
-文章
-提炼关键结论、
-主题
-观点与亮点
-场景
-拆解归类
-按主题、场景、
-用途分类整理
-PPT
-补充完善
-补全背景、案例、
-案例
-数据与细节
-长期可复用的知识资产
-随存随用，越积累越有价值
-成果
-复盘
-知识库
-输出文章、PPT、
-提炼、归类、
-沉淀到素材库，
-报告等内容
-补充、完善
-便于复用
-避免重复劳动
-沉淀个人体系
-提升专业影响力
-团队协作更高效
-成果
-复盘
-知识库
-AI思维实验室
-让AI成为你的超能力
 
-### 截图2
-1 分钟讲懂 Al
-EP.
-用通俗易懂的方式，帮你读懂AI
-02
-做完就关文件，
-下次还会重来
-好标题、案例、结构都要留下—
-本次任务已完成
-做完就关，资料散落
-P
-文章写完
-汇报完成
-没有沉淀，资料散落各处
-PPT做完
-任务结束
-!
-找不到、复用难、价值浪费
-下次任务又从0开始
-应该留下的关键资产
-T
-不知道用什么标题
-标题
-案例
-结构
-反馈
-找不到合适案例
-不清楚结构怎么搭
-吸引眼球
-增强说服
-逻辑清晰
-听众意见
-重复思考，浪费时间
-0
-传达核心
-支撑观点
-可复用
-改进方向
-留下来，变成可复用的知识资产
-做完不沉淀
-下次又重来
-AI思维实验室
-让AI成为你的超能力
+# 用 Codex 把成稿变成 Obsidian 的复用素材
 
-### 截图3
-1分钟讲懂 AI
-EP.
-用通俗易懂的方式，帮你读懂AI
-59
-文章做完后，
-沉淀四类东西
-标题、开头、案例、反馈
-T
-好标题
-好开头
-可复用案例
-读者反馈
-T
-让内容被看见
-快速吸引读者
-具体真实可参考
-了解读者反应
-便于复用传播
-建立阅读期待
-支撑观点有说服力
-帮助持续优化
-示例
-示例
-示例
-示例
-√
-“临时要写东西，
-“很多人都有
-“上周帮客户
-“有读者说
-为什么你总是
-这样的经历：
-做的汇报，
-这个方法帮他
-从零开始？”
-临时要交一份
-用这个结构后
-省了2小时，
-文章已完成
-材料..·”
-一次通过·..”
-很实用。”
-标签
-场景
-写作方法
-汇报技巧
-临时写作
-个人知识库
-案例复盘
-项目汇报
-可长期复用
-内容创作
-T
-标题
-开头
-案例
-反馈
-习
-AI思维实验室
-让AI成为你的超能力
+原文链接: [https://mp.weixin.qq.com/s?\_\_biz=MzUyNTcyNDkzNg==&mid=224748...](https://mp.weixin.qq.com/s?__biz=MzUyNTcyNDkzNg==&mid=2247484537&idx=1&sn=fd0c570f7e17e73e894cf21381150b2b&chksm=fb0f1e39f06bf34334103b09b4ca02c1eb6619b894fb63ea68a27ee8b11ae46b8e46985b9e20&scene=90&xtrack=1&req_id=1781880912425545&sessionid=1781882816&subscene=93&clicktime=1781886009&enterid=1781886009&flutter_pos=3&biz_enter_id=4&ranksessionid=1781882825&jumppath=20020_1781885885140,1104_1781885926655,20020_1781885990208,1104_1781886005756&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=18004b27&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQFM8J7/504UfThS6qR5SIphLTAQIE97dBBAEAAAAAAOxYB6WjQzkAAAAOpnltbLcz9gKNyK89dVj0ht8gtaIIodpi4tPucGdv7Nyknwsf28Syu5VxITqO40uYleqkCY50HLWU3LYQkzTjL1l+Yr16ZhBhzQqO/QuOCpG0t26uqjjRyh5SZ0Rg8dXwdGK7fTZG99eWukPQU4ha9eGGXUDJPbCAhC8K61hHjYN05tGKeMoXB/yaQ7loaUFS1+NThO/36NVirMBZ0ZXEqkOX8qbApQqVGv1/LrcuKOMKR7bZwiK0NXE67v0=&pass_ticket=zF8UNcgl02P1c+PwcTNxRfyCdJBot0zrz8m0JX90dUwMcqCxec7YM2GFz2ZR2OSW&wx_header=3)
 
-### 截图4
-1分钟讲懂 AI
-EP.
-用通俗易懂的方式，帮你读懂AI
-59
-PPT 做完后，
-沉淀汇报经验
-主线、页面、问题、复盘都可复用
-PPT成果
-拆解可复用模块
-我来帮你
-沉淀下来！
-主线
-页面
-P
-汇报框架
-版式结构
-逻辑顺序
-关键图表
-Codex
-问题
-复盘
-智能提炼要点
-逻辑清晰
-√
-自动归类整理
-内容完整
-核心问题
-成功经验
-√
-打标签便于查找
-汇报顺利
-解决思路
-改进点
-√
-沉淀为可复用资产
-可复用经验库
-主线模板
-页面模板
-问题清单
-复盘文档
-标签
-?
-分类
-检索
-积累越多，复用越快，输出越稳
-P
-PPT成果
-可复用经验
-AI思维实验室
-让AI成为你的超能力
+![](attachments/377b5d4e2fbac39d.png)![](attachments/032cd04e6eb44ace.png)![](attachments/277f41a7da007251.png)![](attachments/4e0b7abf5e843f72.png)![](attachments/8d59069033677f39.png)
 
-### 截图5
-1分钟讲懂 Al
-EP.
-用通俗易懂的方式，帮你读懂AI
-59
-成果回到知识库，
-才会越用越省事
-让每次任务都给下次省时间
-本次任务成果
-下次任务复用
-成果回收沉淀
-文章成果
-可复用主题
-思路清晰
-观点明确
-主题
-标签
-案例
-内容完整
-优质案例库
-模板
-观点
-PPT
-PPT成果
-汇报模板库
-主线清楚
-页面有序
-逻辑完整
-观点金句库
-结构化存储，长期可复用
-√
-每次更好
-越积累，越高效
-更省时间
-积累经验资产
-复用现有内容
-提升输出质量
-减少重复劳动
-形成闭环，持续优化
-成果回收
-下次复用
-AI思维实验室
-让AI成为你的超能力
+很多人做完一篇文章、一份 PPT，就直接关掉文件。
+
+结果下次遇到类似任务，还是重新翻资料、重新想结构、重新搭页面。
+
+更好的做法，是让 Codex 从成稿里提炼可复用内容，再沉淀回 Obsidian。
+
+好标题、好开头、案例、汇报结构、常用页面，都可以变成下次能调用的素材。
+
+Obsidian 不只是存旧资料，也要存每次任务留下来的好东西。
+
+Close

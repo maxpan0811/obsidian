@@ -5,10 +5,18 @@ created: 2026-06-11
 updated: 2026-06-11
 source_path: 印象笔记管理工具/掌握Obsidian.html
 tags: [obsidian, tutorial]
+updated: 2026-06-27
+updated: 2026-06-27
 ---
 
-**摘要**: 仅标题和一张图片笔记，无正文文本内容。原始笔记仅包含一张信息图，内容已不可提取。
+---
+title: "掌握Obsidian"
+source: evernote
+type: note
+export_date: 2026-06-24
+guid: e0a6cd15-16fc-43c0-b42e-c39d5b7f90b5
+---
 
-## 相关页面
+# 掌握Obsidian
 
-- [[products/Obsidian|Obsidian]]
+![](attachments/8fcf0a34f243072e.png)

@@ -1376,3 +1376,39 @@ Batch ingested 3 files:
 - 随笔/Youtube视频解读.md → [[sources/Youtube视频解读]]
 - 随笔/潘恒如学业成绩记录.md → [[sources/潘恒如学业成绩记录]]
 
+
+## 2026-06-27 全量印象笔记.md更新完成
+
+用Evernote导出的完整.md文件替换了所有印象笔记HTML summaries（1KB→17KB）。
+处理结果：10169个.md文件，其中~8500更新原有源页，~1600新建源页
+向量重索引：正在进行，预计最终ChromaDB达30000+条
+
+
+## 2026-06-27 Batch: 印象笔记管理工具 .md V2 全量更新
+V2 processed 8769: 6848 updated, 1921 created, 1400 already, 0 errors
+Wiki source pages enriched from ~1KB to 7-17KB full article content
+
+
+## 2026-06-27 Batch: 印象笔记管理工具 .md 全量更新
+Processed 10169 .md files: 8547 updated (full body), 1622 created (new), 0 errors
+Wiki source pages enriched from ~1KB summaries to 7-17KB full article content
+
+
+## 2026-06-27 Lint
+
+Wiki health check after massive ingest:
+- Source pages: 16161, total wiki pages: 16238
+- Glossary: 131 terms
+- Broken links: 29 found, 18 fixed (filename mismatch), 11 removed (missing pages)
+- No contradictions or terminology inconsistencies detected
+- No outdated content (>60 days) found in sources
+- Vector store: ChromaDB 21000+ records
+
+
+## 2026-06-28 12:02 RAW根目录文件
+加入 14 个新RAW文件
+
+
+## 2026-06-28 12:02 印象笔记新文件
+加入 362 个新.md文件
+

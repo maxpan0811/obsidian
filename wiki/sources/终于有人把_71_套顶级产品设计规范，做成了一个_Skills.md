@@ -6,11 +6,33 @@ updated: 2026-06-17
 source: 印象笔记管理工具
 source_path: 印象笔记管理工具/终于有人把 71 套顶级产品设计规范，做成了一个 Skills.html
 tags: [AI技术]
+updated: 2026-06-27
+updated: 2026-06-27
+updated: 2026-06-27
+updated: 2026-06-27
+---
+
+---
+title: "终于有人把 71 套顶级产品设计规范，做成了一个 Skills"
+source: evernote
+type: note
+export_date: 2026-06-26
+guid: a6169226-81a4-4c7a-a756-1f9bd00613b3
 ---
 
 # 终于有人把 71 套顶级产品设计规范，做成了一个 Skills
 
 想做一个页面，脑子里大概知道要“高级一点”“像 Stripe 那种”“有 Apple 的简洁感”“参考 Linear 的效率感”，但真正落到颜色、字体、间距、组件、布局时，又很难说清楚。
+
+作品出来又感觉：
+
+设计稿看起来“差点意思”
+
+UI 细节总差一口气
+
+让 AI 改来改去，越改越乱
+
+想借鉴品牌风格，又担心变成简单模仿
 
 如果你也有这种痛点，那么这个 Skill 很值得安利，它是一个把 71 套产品级视觉系统整合到一起的设计 Skills。
 
@@ -28,15 +50,51 @@ Coinbase、Binance、Tesla、Nike、Pinterest
 
 Webflow、Raycast、Cursor、Supabase、Mintlify
 
+Wired、The Verge 等等
+
 也就是说，当你想做一个页面时，给他提供参考风格和简单指令就可以完成，下面我们来看看效果。
+
+官网
 
 用 BMW corporate风格设计一个汽车官网ui设计效果图
 
+![](attachments/68abe6bdd4b420e8.png)
+
+![](attachments/d7eb71592fb07bc3.png)
+
+支付页面
+
+参考 stripe 风格重做这个支付页面
+
+![](attachments/a0116f317cd586ba.png)
+
+![](attachments/fc301502373f6b69.png)
+
+后台系统
+
 用 linear-app 风格设计一个项目管理后台
+
+![](attachments/8ec638f52665f69a.png)
+
+![](attachments/a16207b9c3df763e.png)
+
+文档站
 
 用 mintlify 风格设计一个开发者文档首页
 
+![](attachments/4d40b77bda3c99b5.png)
+
+![](attachments/81994272c31b9def.png)
+
+无参考风格的指令
+
 我在做一个 AI Agent 框架官网，请帮我选择合适风格并实现首页
+
+![](attachments/c834469cbb516f86.png)
+
+![](attachments/10a9cd413a60a9e0.png)
+
+![](attachments/89b95a4d21f22615.png)
 
 让我意外的是，它直接给我生成了简易版的可交互ui设计页面。
 
@@ -48,20 +106,107 @@ Webflow、Raycast、Cursor、Supabase、Mintlify
 
 这对于不擅长设计的人来说，是效率提升。对于本来就懂设计的人来说，则是一个快速探索风格、生成初稿、统一视觉语言的工具。
 
+二、它适合哪些场景？
+
+1. 独立开发者
+
 你可能会写后端、写前端、做产品，但不一定擅长视觉设计。以前做一个官网，可能只能套模板。
 
 现在你可以直接说：参考 Vercel / Stripe / Linear 风格，帮我设计一个 SaaS 官网首页。
 
 它会从视觉气质、排版层级、CTA、卡片、布局节奏上给你一套完整方向。对于独立产品来说，这非常实用。
 
+2. AI 产品和开发者工具项目
+
 如果你在做 AI Agent、开发者平台、API 服务、数据工具、开源项目官网，那么这些风格会非常合适：Claude、Cursor、Vercel、Supabase、Raycast、Warp、Replicate、Together AI、Ollama。
 
 这些风格普遍技术感强、信息层级清晰、不花哨，强调效率和可信度，适合文档、控制台、官网、产品介绍页。
+
+3. SaaS、后台、管理系统
 
 如果你做的是效率工具、协作平台、CRM、数据看板、任务系统，可以选 Linear App、Notion、Airtable、Slack、Intercom、Zapier、Cal、Mintlify。
 
 这些风格的共同点是强调信息组织、交互效率和清晰度。尤其是后台类产品，很容易做得臃肿、拥挤、像传统管理系统。用这类参考风格，可以让界面更现代、更轻、更有产品感。
 
+4. 金融、支付、加密类产品
+
 如果你做支付、钱包、金融科技、交易平台，可以选择 Stripe、Coinbase、Binance、Kraken、Revolut、Wise、Mastercard。
 
-...这些风格会更强调信任感、安全感、数字金融气质、清晰的数据呈现和稳定的视觉秩序。尤其是 Stripe 风格，非常适合支付、API、金融
+这些风格会更强调信任感、安全感、数字金融气质、清晰的数据呈现和稳定的视觉秩序。尤其是 Stripe 风格，非常适合支付、API、金融基础设施类产品。
+
+5. 消费品牌、电商和生活方式产品
+
+如果是面向 C 端用户的产品，比如电商、订阅、生活服务、内容社区，可以考虑 Apple、Nike、Shopify、Airbnb、Starbucks、Spotify、Pinterest。
+
+这些风格会更重视情绪、品牌感和用户吸引力。不是单纯“好看”，而是让页面更有消费品牌的感染力。
+
+三、从“感觉”变成“规则”
+
+很多时候，我们说一个页面“像 Apple”“像 Stripe”“像 Linear”，其实是在说一种模糊感受。但模糊感受很难执行，所以就出现了设计规范，而Design MD Collection正是把这些感受拆成了可执行设计规范：
+
+应该使用什么样的主色和辅助色
+
+页面整体应该偏冷静、温暖、科技、极简还是大胆
+
+字体层级应该如何组织
+
+按钮、卡片、导航、表单应该怎么处理
+
+布局应该更宽松还是更紧凑
+
+阴影、边框、圆角、渐变应该如何使用
+
+哪些设计做法是推荐的，哪些做法应该避免
+
+这意味着你不是让 AI “凭感觉发挥”，而是让 AI 在一套明确的视觉系统里工作。
+
+这对稳定输出非常关键。
+
+这个时候有人会觉得，这不就是高仿吗？
+
+错。Design MD Collection 不是复制别人的品牌资产，也不是直接做一个“高仿官网”。它是从成熟产品的设计系统中提取视觉方法，再应用到自己的产品里。
+
+比如你可以借鉴 Vercel 的开发者审美，但不应该复制 Vercel 的 Logo 和品牌素材。你可以参考 Stripe 的渐变和金融科技感，但页面内容、组件和品牌表达仍然应该属于你自己的产品。
+
+这种 brand-inspired 的方式，既能提升设计质量，也能避免不必要的版权和品牌风险。
+
+四、最后，怎么用？
+
+如果你也想体验 Design MD Collection，可以直接在 OKClaw 里使用。
+
+OKClaw 是一个支持 Skill 的 AI 工作台，你可以把它理解成一个“可扩展的 AI 助手环境”：不同 Skill 负责不同专业能力，比如设计、写作、数据分析、文献检索、代码开发等。
+
+第一步：安装 OKClaw
+
+OKClaw官网：https://okclaw.dftianyi.com
+
+![](attachments/50c004a2a15dfbff.png)
+
+第二步：安装skills【有需要的小伙伴可后台私信“设计规范—skills】
+
+![](attachments/5b2141658169fb2e.png)
+
+完成以上步骤就可以开始使用了！
+
+五、总结一下
+
+Design MD Collection 的特点可以概括为四句话：
+
+它不是单一模板，而是 71 套设计规范集合。
+
+它不是简单换皮，而是包含颜色、排版、组件、布局、氛围等完整规则。
+
+它适合官网、SaaS、后台、AI 工具、金融产品、电商和内容产品等多种场景。
+
+它强调品牌启发，而不是直接复制品牌资产。
+
+如果你经常需要做页面、改 UI、搭官网、设计产品原型，或者希望 AI 输出更稳定、更有审美一致性的界面，那么这个 Skill 真的值得试试。
+
+有时候，差的不是代码能力，而是一套清晰的视觉系统。
+
+而 Design MD Collection + OKClaw 的组合，本质上是在帮你把“我想要一个好看的页面”变成“我可以调用一套成熟设计系统来完成页面”。
+
+对独立开发者、AI 产品创业者、内容创作者、前端工程师来说，这不是一个简单的设计小工具，而是一个可以反复复用的审美生产力。
+
+关注我，学习更多ai知识~
+OKClaw:https://okclaw.dafoai.com
