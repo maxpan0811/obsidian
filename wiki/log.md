@@ -1421,3 +1421,9 @@ Wiki health check after massive ingest:
 - **原始文件**：RAW/PDF/U10知识点汇总.pdf、RAW/PDF/Think 2 暑期考纲词汇表Day 4（答案）.pdf、RAW/PDF/Think 2 考纲词汇暑期默写纸Day 4.pdf、RAW/PDF/集团eHR系统员工用户手册 v1.0.pdf
 - **向量索引**：3 个源页 → ChromaDB +3 条记录
 - **备注**：随笔目录下 2 个文件（AI未完成工作.md、潘恒如学业成绩记录.md）已存在 ingested_files 索引中，跳过
+
+## 2026-06-29 ingested_files.json 全量清理
+- 清理 stale 路径 8,793 条（来源文件已删除但仍留在索引中）
+- 清理后：20,440 → 11,647 entries（-43%）
+- 明细：印象笔记-8,557、RAW-54、微信读书-80、知乎-98、随笔-3、其他-1
+- 附注：此步骤已纳入 lint 工作流作为步骤 0
