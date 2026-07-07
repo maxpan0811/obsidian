@@ -126,3 +126,41 @@ rm -rf ~/.claude/data/vector_index/391bb7f1-*/
 ⚙️ 删除 corrupted 索引目录 | 保留 chroma.sqlite3 元数据 | → 重建索引
 ⚙️ 两个脚本加互斥锁 | ingest.py + build_index.py 共享同一 ChromaDB | → 保存经验到 memory
 ```
+
+---
+
+## 2026-07-07 HNSW Compaction 故障（清理 2.md 副本时触发）
+
+### 背景
+wiki/sources/ 下有 16,809 个自动生成的 " 2.md" 副本文件（批次 ingest 的副产品）。删除这些文件后，需要清理 ChromaDB 中已索引的对应向量（2,665 条）。
+
+### 根因
+- 之前 benchmark 过程中多个 Python session 对 ChromaDB 并发写入，部分 session 因锁竞争卡死
+- ChromaDB 后台 compactor 无法完成合并，HNSW segment 处于半完成状态
+- 执行 bulk delete 时触发 compaction，compactor 发现两个冲突的 HNSW segment 无法恢复
+- 最终抛出 compaction 错误，所有集合操作失效
+
+### 修复
+1. `client.delete_collection("all_docs")` — 删除损坏集合（约 30s 完成）
+2. `client.create_collection("all_docs")` — 重建空集合
+3. 从 wiki/sources/ 重新索引 24,248 篇源页
+
+### 对比上次 954G 膨胀
+
+| 维度 | 本次 | 上次（954G 膨胀） |
+|------|------|-----------------|
+| 触发操作 | bulk delete | 多脚本并发 add |
+| 损坏表现 | compaction 失败，所有操作报错 | link_lists.bin 膨胀至 954G |
+| 根因 | 多 session 并发 + compaction 冲突 | 双脚本无锁并发 + ID 碰撞 |
+| 修复 | 删除集合重建 | 删除 segment 目录 + 加互斥锁 |
+| 共同教训 | HNSW 对并发写入和批量删除都很脆弱 | 需要进程锁防护和单写入入口 |
+
+### 预防
+1. ChromaDB 批量删除 <=500 条/次
+2. 操作前检查 ChromaDB 健康状态，确认无卡死 session、无 stale lock
+3. 重大操作前备份 chromadb_knowledge/ 目录
+4. 单进程串行操作，避免多 session 并发
+5. 清理在前，索引在后：先清源文件再跑索引
+
+### 关联知识卡片
+- wiki/cards/向量搜索分块边界陷阱.md
