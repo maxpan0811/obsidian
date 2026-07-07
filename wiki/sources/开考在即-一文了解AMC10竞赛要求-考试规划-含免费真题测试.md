@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/开考在即！一文了解AMC10竞赛要求&考试规划，含免费真题测试.html
+source_path: 印象笔记管理工具/开考在即！一文了解AMC10竞赛要求&考试规划，含免费真题测试.md
 tags: [印象笔记]
 updated: 2026-06-27
 updated: 2026-06-27

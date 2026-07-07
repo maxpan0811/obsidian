@@ -2,7 +2,7 @@
 name: overview
 type: concept
 tags: [meta]
-last_update: 2026-06-17（第25批次ingest完成：累计2845源页）
+last_update: 2026-07-06（全量ingest印象笔记 ~35k条）
 ---
 
 # 全局概览

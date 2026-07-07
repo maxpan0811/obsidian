@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/AI和人性｜为什么程序员歌颂脖子上的绞索.html
+source_path: 印象笔记管理工具/AI和人性｜为什么程序员歌颂脖子上的绞索.md
 tags: [印象笔记, AI]
 updated: 2026-06-27
 ---

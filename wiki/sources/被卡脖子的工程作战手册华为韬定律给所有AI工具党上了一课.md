@@ -3,7 +3,7 @@ title: 被卡脖子的工程作战手册：华为「韬定律」给所有 AI 工
 type: source
 created: 2026-06-14
 updated: 2026-06-14
-source_path: 印象笔记管理工具/被卡脖子的工程作战手册：华为「韬定律」给所有 AI 工具党上了一课.html
+source_path: 印象笔记管理工具/被卡脖子的工程作战手册：华为「韬定律」给所有 AI 工具党上了一课.md
 tags: [印象笔记, AI/编程]
 updated: 2026-06-27
 updated: 2026-06-27

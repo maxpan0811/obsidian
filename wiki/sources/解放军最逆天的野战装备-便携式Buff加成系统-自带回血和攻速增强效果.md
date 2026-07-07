@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/解放军最逆天的野战装备！便携式Buff加成系统，自带回血和攻速增强效果.html
+source_path: 印象笔记管理工具/解放军最逆天的野战装备！便携式Buff加成系统，自带回血和攻速增强效果.md
 tags: [印象笔记]
 updated: 2026-06-27
 updated: 2026-06-27

@@ -3,7 +3,7 @@ title: 短文：今年的人均GDP预计达到1.25万美元
 type: source
 created: 2026-06-15
 updated: 2026-06-15
-source_path: 印象笔记管理工具/短文：今年的人均GDP预计达到1.25万美元.html
+source_path: 印象笔记管理工具/短文：今年的人均GDP预计达到1.25万美元.md
 tags: ["印象笔记", "财经/产业"]
 updated: 2026-06-27
 updated: 2026-06-27

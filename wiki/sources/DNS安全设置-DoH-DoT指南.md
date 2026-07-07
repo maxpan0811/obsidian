@@ -3,7 +3,7 @@ title: 想要上网体验有保障，如何设置一个更安全的 DNS？
 type: source
 created: 2026-06-11
 updated: 2026-06-11
-source_path: 印象笔记管理工具/想要上网体验有保障，如何设置一个更安全的 DNS？ - 少数派.html
+source_path: 印象笔记管理工具/想要上网体验有保障，如何设置一个更安全的 DNS？ - 少数派.md
 tags: [dns, doh, dot, security, privacy, networking]
 updated: 2026-06-27
 updated: 2026-06-27

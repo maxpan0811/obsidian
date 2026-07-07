@@ -4,7 +4,7 @@ type: source
 created: 2026-06-17
 updated: 2026-06-17
 source: 印象笔记管理工具
-source_path: 印象笔记管理工具/20250131 · DeepSeek狂潮之下，推荐三本AI相关的好书.html
+source_path: 印象笔记管理工具/20250131 · DeepSeek狂潮之下，推荐三本AI相关的好书.md
 tags: [网文推荐, AI技术, 教育]
 updated: 2026-06-27
 ---

@@ -4,7 +4,7 @@ type: source
 created: 2026-06-08
 updated: 2026-06-08
 sources: [Anthropic 官方《The Founder's Playbook》]
-source_path: 印象笔记管理工具/Anthropic创始人行动手册：打造一家AI-Native创业公司（附36页中文PDF）.html
+source_path: 印象笔记管理工具/Anthropic创始人行动手册：打造一家AI-Native创业公司（附36页中文PDF）.md
 tags: [anthropic, startup, playbook, ai-native]
 updated: 2026-06-27
 ---

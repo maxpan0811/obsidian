@@ -4,7 +4,7 @@ type: source
 created: 2026-06-17
 updated: 2026-06-17
 source: 印象笔记管理工具
-source_path: 印象笔记管理工具/AI半导体，舆论战和汽车--蛇年最后一天简单说一些个人的想法.html
+source_path: 印象笔记管理工具/AI半导体，舆论战和汽车--蛇年最后一天简单说一些个人的想法.md
 tags: [AI技术, 科技产业, 教育]
 updated: 2026-06-27
 ---

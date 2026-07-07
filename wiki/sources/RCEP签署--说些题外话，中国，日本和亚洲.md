@@ -3,7 +3,7 @@ title: RCEP签署--说些题外话，中国，日本和亚洲
 type: source
 created: 2026-06-15
 updated: 2026-06-15
-source_path: 印象笔记管理工具/RCEP签署--说些题外话，中国，日本和亚洲.html
+source_path: 印象笔记管理工具/RCEP签署--说些题外话，中国，日本和亚洲.md
 tags: ["印象笔记", "时政/国际"]
 updated: 2026-06-27
 ---

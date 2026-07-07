@@ -1,0 +1,72 @@
+---
+title: 隐藏在你Mac菜单栏里的7样东西 2
+type: source
+created: 2026-07-06
+updated: 2026-07-06
+source_path: 印象笔记管理工具/隐藏在你Mac菜单栏里的7样东西 2.md
+tags: [evernote, impression, yinxiang]
+---
+
+# 隐藏在你Mac菜单栏里的7样东西
+
+---
+
+原文链接: [https://mp.weixin.qq.com/s?\_\_biz=MzA4MzM1NjI4OA==&mid=265056...](https://mp.weixin.qq.com/s?__biz=MzA4MzM1NjI4OA==&mid=2650563306&idx=1&sn=17a1a6baa03b89d97fc4cff797ed6446&chksm=87ff7d05b088f413d2578aa72d9e3a32160da5f4728829cffc1c326dc7e8ae0eb7e55ffdfdb2&cur_album_id=2909717011931643904&scene=189&ascene=56&devicetype=iOS26.5&version=18004a2d&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQtuEPv2/cT38F+YKzZiURjBLTAQIE97dBBAEAAAAAAFHlA2XhmEAAAAAOpnltbLcz9gKNyK89dVj0p5v5Th238F0eF5nLCFReIaU5oywwPXVHidD6AAhy9tYmxqillWi5GGcxBO1LNZaPqwI9pOcWse7wXPukr8vRsrh7s6NZrQ2MYL9yDtYe8r/kYnozggWzvhjKWhHJaQL0weWklzzdpdJJntw4NlL1Dtg3tc4SBEHv8xgHC/+Q77k+2hsGbvwjXTLrL5C9jBvJ2lqRD3+LFvsaaypQzRYBRdrlxj38Zf1m59P6sVg=&pass_ticket=2pBeVCDawS3P4p4SYuRijPsHNlPr17umTZxxyZwgbfjeHG2Vae7jBWNRgJMLwlkn&wx_header=3)
+
+Original小猫猫果乐园
+
+![](.evernote-content/8F25DC6F-0CC0-49F0-B03C-7F33192A986D/2F74E87C-167E-4C3F-A0D7-3A95DA7E1E24.jpg)
+
+说实话，天天盯着屏幕，绝大多数人真就觉得最上面那条窄窄的菜单栏就是个看时间、瞅 Wi-Fi 的“挂件”。天天见，反而成了视线里最大的盲区。但凡在系统交互上有点强迫症的极客都清楚，这块不到一厘米宽的“黄金地段”，才是 Mac 真正的高速调度室。天天去系统设置里层层翻找的人，说明还没摸到 macOS 的门道。
+
+第一件事：别再忍着那堆乱七八糟的图标了
+===================
+
+很多人以为菜单栏的图标是焊死在上面的，任由一堆第三方软件装完之后把顶栏挤得像个菜市场。
+
+其实根本不需要任何收纳插件。你直接按住键盘上的Command键，鼠标左键点住任意一个图标，就能跟在手机桌面上挪 App 一样，随心所欲地给它们排座位。有些系统自带的图标，比如电量、声音，你平时要是全靠键盘快捷键调节，嫌它占地方，同样按住Command往屏幕下方空旷处一拽、松手，它就彻底消失了。视觉清爽了，班味儿和焦虑感直接少一半。
+
+很多人连网卡了，都不知道怎么排查
+================
+
+Wi-Fi 突然转圈、或者开会连不上服务器，别盲目去下什么测速软件，全都是智商税。
+
+真正的底层网络成色，藏在Option键底下。你按住Option再去点那个 Wi-Fi 图标，弹出来的绝对能让你“瞳孔地震”。它会把你的 IP 地址、路由器网关、信号强度（RSSI）全裸呈现在你面前。
+
+最核心的是看信道（Channel）。如果你发现数值在 13 以下，说明你正连在覆盖广但速率巨慢、周围无数人跟你抢带宽的 2.4 GHz 频段上；如果数值在 36 以上，说明你处于高速、纯净的 5 GHz 阶段。去咖啡厅移动办公或者在工位上排查网速，这招属于极客的基本功。
+
+白嫖系统级的“专注加速器”
+=============
+
+Mac 右上角那个长得像双开关的“控制中心”，很多人只拿它开个蓝牙。其实你可以把它当成外挂调度台。里面任何你高频用的模块（比如 AirDrop、舞台调度），你直接用鼠标把它从控制中心里拽出来，丢到菜单栏上，以后就是一键直达。
+
+而且，苹果在里面藏了一个非常好用的白嫖福利——背景音（Background Sounds）。很多人为了听个雨声、海浪声，专门去下载那些动辄收订阅费的白噪音软件，完全没必要。系统自带的雨声、深色噪音、平衡噪音质感极高，最绝的是它的音量控制是和系统总音量完全独立的。工位周围人声嘈杂、或者你需要死磕一份高难度业务线索时，一键开启，直接物理断绝外界噪音，带你强行进入深度心流。
+
+别让那个模糊的电池图标内耗你
+==============
+
+用 MacBook 出差或者移动办公，最烦的就是看着右上角那个模糊的电池条一点点减少，这种视觉暗示会带来极其严重的精神内耗。
+
+别去设置里翻。直接按住Control键右键点击那个电池图标，把“显示百分比”勾上。人对精确数字的掌控感，是干掉电量焦虑最有效的药。哪怕只剩 11%，你心里也清楚它还能撑完半个小时的汇报，而不是对着一个空心方块瞎慌。
+
+真正的全家桶联动：让 Mac 成为 iPhone 的第二屏幕
+==============================
+
+为了在工位上保持专注，我们经常习惯把手机反扣在桌上。但代价就是，经常漏掉外卖骑手的电话或者打车的实时进度。
+
+其实只要进到【系统设置 -> 通知】里，把“允许来自 iPhone 的通知”和“允许来自 iPhone 的实时活动”全部勾上。只要两台设备登录的是同一个 Apple ID，你手机上的所有即时动态，都会无缝同步到 Mac 的顶端。外卖到哪了、司机还有几分钟到，你完全不需要拿起手机，鼠标点一下菜单栏最右侧的时间，通知中心里看得一清二楚。这就叫生态。
+
+最后，整点真正卡点用的“物理外挂”
+=================
+
+菜单栏右侧的时钟，默认只显示到分钟。但如果你是个经常需要精准卡点、准时抢单、秒杀，或者参加那种严格计时的跨国会议的人，去时间设置里把“显示秒数”和“闪烁时间分隔符”打开。看着时钟以秒级在顶端跳动，你的时间感知力会瞬间拉满。
+
+等这一套系统内置的功能折腾完，你会发现你平时装的很多第三方应用其实可以退休了。移步到【系统设置 -> 菜单栏】，滑到最底部，把那些平时不怎么用、只会挂在顶端偷跑你内存的第三方图标一键关掉。
+
+菜单栏是你的数字私密领地，它不该是一个死板的装饰条，而应该成为你所有核心工作流的高速调度室。深度榨干既有系统的底层潜能，不花一分钱，这才是数码老手该有的玩机态度。
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzA4MzM1NjI4OA==&mid=2650563306&idx=1&sn=17a1a6baa03b89d97fc4cff797ed6446&chksm=87ff7d05b088f413d2578aa72d9e3a32160da5f4728829cffc1c326dc7e8ae0eb7e55ffdfdb2&cur_album_id=2909717011931643904&scene=189&ascene=56&devicetype=iOS26.5&version=18004a2d&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQtuEPv2/cT38F+YKzZiURjBLTAQIE97dBBAEAAAAAAFHlA2XhmEAAAAAOpnltbLcz9gKNyK89dVj0p5v5Th238F0eF5nLCFReIaU5oywwPXVHidD6AAhy9tYmxqillWi5GGcxBO1LNZaPqwI9pOcWse7wXPukr8vRsrh7s6NZrQ2MYL9yDtYe8r/kYnozggWzvhjKWhHJaQL0weWklzzdpdJJntw4NlL1Dtg3tc4SBEHv8xgHC/+Q77k+2hsGbvwjXTLrL5C9jBvJ2lqRD3+LFvsaaypQzRYBRdrlxj38Zf1m59P6sVg=&pass_ticket=2pBeVCDawS3P4p4SYuRijPsHNlPr17umTZxxyZwgbfjeHG2Vae7jBWNRgJMLwlkn&wx_header=3)
+
+[📎 在印象笔记中打开](evernote:///view/207087/s1/213f9256-9607-44d8-9522-445bb544318e/213f9256-9607-44d8-9522-445bb544318e/)

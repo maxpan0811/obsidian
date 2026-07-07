@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/AI组织变革（二）｜AI 消灭中层经理是个愚蠢的想法.html
+source_path: 印象笔记管理工具/AI组织变革（二）｜AI 消灭中层经理是个愚蠢的想法.md
 tags: [印象笔记, AI]
 updated: 2026-06-27
 ---

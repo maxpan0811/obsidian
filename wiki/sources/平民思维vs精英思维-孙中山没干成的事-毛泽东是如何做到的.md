@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/平民思维vs精英思维：孙中山没干成的事，毛泽东是如何做到的？.html
+source_path: 印象笔记管理工具/平民思维vs精英思维：孙中山没干成的事，毛泽东是如何做到的？.md
 tags: [印象笔记]
 updated: 2026-06-27
 updated: 2026-06-27

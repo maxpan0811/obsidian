@@ -4,7 +4,7 @@ type: source
 created: 2026-06-17
 updated: 2026-06-17
 source: 印象笔记管理工具
-source_path: 印象笔记管理工具/OpenAI 称掌握 DeepSeek 违规证据，Anthropic CEO 发万字长文喊话美国加强管制.html
+source_path: 印象笔记管理工具/OpenAI 称掌握 DeepSeek 违规证据，Anthropic CEO 发万字长文喊话美国加强管制.md
 tags: [AI技术, 科技产业, 教育]
 updated: 2026-06-27
 ---

@@ -4,7 +4,7 @@ type: source
 created: 2026-06-17
 updated: 2026-06-17
 source: 印象笔记管理工具
-source_path: 印象笔记管理工具/当美国AI还在“内循环”，中国AI已经进入“办事时代”.html
+source_path: 印象笔记管理工具/当美国AI还在“内循环”，中国AI已经进入“办事时代”.md
 tags: [AI技术, 科技产业, 旅游行业]
 updated: 2026-06-27
 updated: 2026-06-27

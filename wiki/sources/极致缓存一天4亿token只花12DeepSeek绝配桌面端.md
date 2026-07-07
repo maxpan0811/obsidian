@@ -3,7 +3,7 @@ title: 极致缓存！一天 4 亿 token 只花 $12，DeepSeek 绝配桌面端 A
 type: source
 created: 2026-06-14
 updated: 2026-06-14
-source_path: 印象笔记管理工具/极致缓存！一天 4 亿 token 只花 $12，DeepSeek 绝配桌面端 Agent.html
+source_path: 印象笔记管理工具/极致缓存！一天 4 亿 token 只花 $12，DeepSeek 绝配桌面端 Agent.md
 tags: [印象笔记, AI/编程]
 updated: 2026-06-27
 updated: 2026-06-27

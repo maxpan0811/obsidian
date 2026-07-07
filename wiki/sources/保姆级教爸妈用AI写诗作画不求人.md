@@ -3,7 +3,7 @@ title: 保姆级｜教爸妈用AI：写诗作画不求人
 type: source
 created: 2026-06-14
 updated: 2026-06-14
-source_path: 印象笔记管理工具/保姆级｜教爸妈用AI：写诗作画不求人.html
+source_path: 印象笔记管理工具/保姆级｜教爸妈用AI：写诗作画不求人.md
 tags: [印象笔记, AI/编程]
 updated: 2026-06-27
 updated: 2026-06-27

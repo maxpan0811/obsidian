@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/词汇利器大PK，一文搞懂这4套美国最流行的词汇练习书该怎么选！（附资源）.html
+source_path: 印象笔记管理工具/词汇利器大PK，一文搞懂这4套美国最流行的词汇练习书该怎么选！（附资源）.md
 tags: [印象笔记]
 updated: 2026-06-27
 updated: 2026-06-27

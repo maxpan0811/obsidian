@@ -4,7 +4,7 @@ type: source
 created: 2026-06-17
 updated: 2026-06-17
 source: 印象笔记管理工具
-source_path: 印象笔记管理工具/北大人工智能研究院朱松纯：“中国的AI叙事” 存在认知偏差.html
+source_path: 印象笔记管理工具/北大人工智能研究院朱松纯：“中国的AI叙事” 存在认知偏差.md
 tags: [AI技术, 科技产业, 教育]
 updated: 2026-06-27
 updated: 2026-06-27

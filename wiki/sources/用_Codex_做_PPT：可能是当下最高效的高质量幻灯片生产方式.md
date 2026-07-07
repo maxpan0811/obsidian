@@ -4,7 +4,7 @@ type: source
 created: 2026-06-17
 updated: 2026-06-17
 source: 印象笔记管理工具
-source_path: 印象笔记管理工具/用 Codex 做 PPT：可能是当下最高效的高质量幻灯片生产方式.html
+source_path: 印象笔记管理工具/用 Codex 做 PPT：可能是当下最高效的高质量幻灯片生产方式.md
 tags: [AI技术]
 updated: 2026-06-27
 updated: 2026-06-27

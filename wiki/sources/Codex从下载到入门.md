@@ -4,7 +4,7 @@ type: source
 created: 2026-06-08
 updated: 2026-06-08
 sources: [https://mp.weixin.qq.com/s?__biz=MzU1NjgxNTkzNw==&mid=224748...]
-source_path: 印象笔记管理工具/Codex 从下载到入门.html
+source_path: 印象笔记管理工具/Codex 从下载到入门.md
 tags: [codex, openai, tutorial, beginner]
 updated: 2026-06-27
 ---

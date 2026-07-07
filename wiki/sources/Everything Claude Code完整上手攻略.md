@@ -4,7 +4,7 @@ type: source
 created: 2026-06-08
 updated: 2026-06-08
 sources: [https://mp.weixin.qq.com/s?chksm=a6de8a9891a9038eaf3280c46d69fef...]
-source_path: 印象笔记管理工具/Anthropic 黑客松冠军项目 Everything Claude Code 完整上手攻略.html
+source_path: 印象笔记管理工具/Anthropic 黑客松冠军项目 Everything Claude Code 完整上手攻略.md
 tags: [claude-code, agents, hooks, skills, workflow, hackerthon]
 updated: 2026-06-27
 ---

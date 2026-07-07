@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/罗昌平刚被抓，又一个网络大V造谣污蔑志愿军英雄，还更疯狂.html
+source_path: 印象笔记管理工具/罗昌平刚被抓，又一个网络大V造谣污蔑志愿军英雄，还更疯狂.md
 tags: [印象笔记]
 updated: 2026-06-27
 updated: 2026-06-27

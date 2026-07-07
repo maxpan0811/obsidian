@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/苹果发布两款 AI 电脑！一款自砍 1000 元，一款能部署满血版 DeepSeek.html
+source_path: 印象笔记管理工具/苹果发布两款 AI 电脑！一款自砍 1000 元，一款能部署满血版 DeepSeek.md
 tags: [印象笔记]
 updated: 2026-06-27
 updated: 2026-06-27

@@ -3,7 +3,7 @@ title: 建议收藏！Mac+iPhone联动天花板：这12个细节真的不错。
 type: source
 created: 2026-06-14
 updated: 2026-06-14
-source_path: 印象笔记管理工具/建议收藏！Mac+iPhone联动天花板：这12个细节真的不错。.html
+source_path: 印象笔记管理工具/建议收藏！Mac+iPhone联动天花板：这12个细节真的不错。.md
 tags: [印象笔记, 其他]
 updated: 2026-06-27
 updated: 2026-06-27

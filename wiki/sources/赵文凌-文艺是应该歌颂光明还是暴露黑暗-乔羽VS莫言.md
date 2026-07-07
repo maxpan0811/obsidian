@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/赵文凌：文艺是应该歌颂光明还是暴露黑暗？——乔羽VS莫言.html
+source_path: 印象笔记管理工具/赵文凌：文艺是应该歌颂光明还是暴露黑暗？——乔羽VS莫言.md
 tags: [印象笔记]
 updated: 2026-06-27
 updated: 2026-06-27

@@ -4,7 +4,7 @@ type: source
 created: 2026-06-08
 updated: 2026-06-08
 sources: [https://mp.weixin.qq.com/s?__biz=MzU1NTMyOTI4Mw==&mid=224777...]
-source_path: 印象笔记管理工具/Claude「永久大脑」，真的来了！.html
+source_path: 印象笔记管理工具/Claude「永久大脑」，真的来了！.md
 tags: [claude, memory, conway, dual-memory]
 updated: 2026-06-27
 ---

@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/UC头条：一位美国教授, 乘出访之机在中国“偷拍”的照片.html
+source_path: 印象笔记管理工具/UC头条：一位美国教授, 乘出访之机在中国“偷拍”的照片.md
 tags: [印象笔记]
 updated: 2026-06-27
 ---

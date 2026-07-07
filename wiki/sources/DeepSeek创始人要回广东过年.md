@@ -3,7 +3,7 @@ title: DeepSeek创始人梁文锋要回广东过年
 type: source
 created: 2026-06-14
 updated: 2026-06-14
-source_path: 印象笔记管理工具/DeepSeek创始人，要回广东过年！.html
+source_path: 印象笔记管理工具/DeepSeek创始人，要回广东过年！.md
 tags: [梁文锋, 家乡, 湛江, 吴川, 公众认可]
 updated: 2026-06-27
 ---

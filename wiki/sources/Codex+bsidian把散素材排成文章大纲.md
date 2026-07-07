@@ -4,7 +4,7 @@ type: source
 created: 2026-06-17
 updated: 2026-06-17
 source: 印象笔记管理工具
-source_path: 印象笔记管理工具/Codex+bsidian把散素材排成文章大纲.html
+source_path: 印象笔记管理工具/Codex+bsidian把散素材排成文章大纲.md
 tags: [其他]
 updated: 2026-06-27
 ---

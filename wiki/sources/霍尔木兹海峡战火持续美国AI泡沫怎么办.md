@@ -3,7 +3,7 @@ title: 霍尔木兹海峡战火持续，美国AI泡沫怎么办？
 type: source
 created: 2026-06-14
 updated: 2026-06-14
-source_path: 印象笔记管理工具/霍尔木兹海峡战火持续，美国AI泡沫怎么办？.html
+source_path: 印象笔记管理工具/霍尔木兹海峡战火持续，美国AI泡沫怎么办？.md
 tags: [印象笔记, AI/编程]
 updated: 2026-06-27
 updated: 2026-06-27

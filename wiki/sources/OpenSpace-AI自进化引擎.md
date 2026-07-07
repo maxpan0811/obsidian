@@ -4,7 +4,7 @@ type: source
 created: 2026-06-08
 updated: 2026-06-08
 sources: [https://mp.weixin.qq.com/s?__biz=MzYzMjY1OTI0MA==&mid=224748...]
-source_path: 印象笔记管理工具/Claude Code第二个神器OpenSpace：让AI自己学会新技能，越用越便宜.html
+source_path: 印象笔记管理工具/Claude Code第二个神器OpenSpace：让AI自己学会新技能，越用越便宜.md
 tags: [claude-code, openspace, skill-evolution, self-improvement, token-optimization]
 updated: 2026-06-27
 ---

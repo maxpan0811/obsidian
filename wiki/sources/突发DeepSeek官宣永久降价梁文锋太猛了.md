@@ -3,7 +3,7 @@ title: 突发！DeepSeek官宣永久降价，梁文锋太猛了
 type: source
 created: 2026-06-14
 updated: 2026-06-14
-source_path: 印象笔记管理工具/突发！DeepSeek官宣永久降价，梁文锋太猛了.html
+source_path: 印象笔记管理工具/突发！DeepSeek官宣永久降价，梁文锋太猛了.md
 tags: [印象笔记, DeepSeek]
 updated: 2026-06-27
 updated: 2026-06-27

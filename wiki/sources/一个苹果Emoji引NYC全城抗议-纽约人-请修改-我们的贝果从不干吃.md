@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/一个苹果Emoji引NYC全城抗议！纽约人：请修改，我们的贝果从不干吃！.html
+source_path: 印象笔记管理工具/一个苹果Emoji引NYC全城抗议！纽约人：请修改，我们的贝果从不干吃！.md
 tags: [印象笔记]
 updated: 2026-06-27
 updated: 2026-06-27

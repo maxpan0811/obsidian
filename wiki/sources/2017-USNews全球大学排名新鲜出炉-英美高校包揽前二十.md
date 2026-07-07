@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/2017 USNews全球大学排名新鲜出炉，英美高校包揽前二十.html
+source_path: 印象笔记管理工具/2017 USNews全球大学排名新鲜出炉，英美高校包揽前二十.md
 tags: [印象笔记]
 updated: 2026-06-27
 ---

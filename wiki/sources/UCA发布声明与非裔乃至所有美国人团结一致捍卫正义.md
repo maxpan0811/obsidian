@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/UCA发布声明与非裔乃至所有美国人团结一致捍卫正义.html
+source_path: 印象笔记管理工具/UCA发布声明与非裔乃至所有美国人团结一致捍卫正义.md
 tags: [印象笔记]
 updated: 2026-06-27
 ---

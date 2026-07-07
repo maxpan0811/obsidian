@@ -3,7 +3,7 @@ title: 边学边整理obsidian使用教程，收获满满
 type: source
 created: 2026-06-11
 updated: 2026-06-11
-source_path: 印象笔记管理工具/边学边整理obsidian使用教程，收获满满.html
+source_path: 印象笔记管理工具/边学边整理obsidian使用教程，收获满满.md
 tags: [obsidian, tutorial, collection]
 updated: 2026-06-27
 updated: 2026-06-27

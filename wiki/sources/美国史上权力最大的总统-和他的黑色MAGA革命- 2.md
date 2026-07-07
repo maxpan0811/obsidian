@@ -1,0 +1,237 @@
+---
+title: 美国史上权力最大的总统（和他的黑色MAGA革命） 2
+type: source
+created: 2026-07-06
+updated: 2026-07-06
+source_path: 印象笔记管理工具/美国史上权力最大的总统（和他的黑色MAGA革命） 2.md
+tags: [evernote, impression, yinxiang]
+---
+
+# 美国史上权力最大的总统（和他的黑色MAGA革命）
+
+---
+
+Chairman Rabbit
+
+[tuzhuxi](#) 
+
+*2024年11月06日 19:05*
+*广东*
+
+**兔主席/tuzhuxi 20241106**
+
+          
+
+截至本文撰写时，多家媒体已经宣布或预测特朗普将当选第47任美国总统。以下为快评。          
+
+**1.草根“革命”的胜利。**昨天写的《[**美国“革命”前夜**](http://mp.weixin.qq.com/s?__biz=MzA3MDIzODIwMg==&mid=2458106536&idx=1&sn=7c26a18989a35db19e327d5dd439d34d&chksm=8848f03dbf3f792b186f2ca859efb2775fdb101c4d62a6783643aaa7e7a07178089d58a17ea4&scene=21#wechat_redirect)》一文，分析了特朗普和哈里斯两个阵营的对垒，本质是美国草根/人民 与 美国精英统治集团的对决。这是一场“光脚的”和“穿鞋的”之间的斗争，一场“农村包围城市”的斗争，一场“小米加步枪”和“飞机坦克大炮”之间的战争，一场不带硝烟的“革命”。最终，特朗普一方胜出，而且是席卷的大获全胜。民主党被扫地出门          
+
+**2.美国史上权力最大的总统。**特朗普不仅赢得总统宝座，而且共和党拿下了参议院，并有望巩固众议院多数席。同时，最高法院里，共和党/保守派以6:3的绝对优势占优（其中有三个特朗普手选的法官）。三权合一。而且要看到，今天的共和党不是四年前的共和党，也不是八年前的共和党，而是特朗普一个人的政党，更为恰当的名称是：特朗普党。这种权力和影响力的集中在美国历史上恐怕是前所未见的。特朗普可能是美国历史上权力最大的总统          
+
+**3.美国完成了政治大重组（the Great Realignment）**，许多利益攸关方重新站队。共和党彻底变成了一个以中低阶层百姓为核心基础的政党，并且通过这次选举，收编了部分黑人、拉丁裔和年轻人群体，早就不再是人们想象中“代表大资本家、大工商业家、大金融家、资产阶级”等的政党          
+
+**4.一半美国人认为美国进入了黑暗时代。**虽然美国诞生了史上权力最大的总统，获得一半美国人的热烈支持，并提出了“重新让美国伟大”（MAGA）如此激动人心的口号，但美国政治空前分裂，社会空前撕裂。有一半的人口认为一个人品极其恶劣，类比希特勒、法西斯、纳粹的政治流氓上台了，将在未来四年全力摧毁人们所熟知的一切关于美国制度的东西，把国家带到另一个方向去。他们对国家的前途空前迷茫、绝望，感受到至暗时刻。所以，美国人至少在一件事上有共识：就是马斯克渲染的标签：“Dark MAGA”——MAGA，归根结底是暗黑的。在MAGA众看来，这是凯旋，是革命的旗帜；在左翼看来，这是邪恶、恐怖、黑暗。              
+
+![](.evernote-content/53F4A21A-4256-4509-B487-E006AC3F3053/4F8ED4BA-5401-4A31-8946-DB4C1E66FCCB)          
+
+**5.MAGA政治的新内涵**：特朗普政府将在美国探索新的意识形态和价值体系。新的MAGA主义将包括多个维度：
+
+**1)在政府方面，第一是极大加强总统/行政部门的权力，通过总统这个政治中心领袖，辐射立法机构和司法机构。**第二是对联邦官僚体系进行较大的清洗和替换，将更多的非华盛顿人才引入政府；第三是增加权威主义色彩，增加决策的集中度，提升政府执行效率，去除旧体系中不必要的烦冗缛节和官僚程序
+
+**2)国内经济和社会政策方面**：底层框架上，回到“市场主义”：小政府、低税收、少监管少干预、有限福利、扶持资本、“涓滴经济”，用市场力量吸引资本回流；经济结构方面，对外采取贸易保护主义，对内形成产业政策和机制，鼓励特定产业的发展，旨在本土重振传统行业及制造业；对大企业大资本的态度：要求美国企业“讲政治”，多回美国本土投资建设
+
+**3)国内文化**：大力弘扬发展美国的本土主义（nativism）、爱国主义、民族主义（美国是一个“民族”，JD万斯语），确立白人为中心的主体文化地位，反对自由主义/进步主义/woke。新政府将通过最高法院、立法、行政令、政治领导人和意见领袖的讲话，影响和塑造美国社会
+
+**4)对外经济**：反全球化、反自由贸易、反新自由主义框架，全面升级利用关税工具，将外国商品拒之门外，作为美国发展本土产业的压力和动力
+
+**5)国际政治**：“孤立主义”、“不干预主义”，减少对国际地缘政治的投入，减少为美国主导的国际秩序买单，重新评估美国和盟国的政治经济关系
+
+**6)在追求上述目标时，特朗普政府将得到“新硅谷”马斯克的赋能。**我们将看到，一个新的科技-权威主义-保守主义政治联盟的形成
+
+**6.美国能不能重振本土制造业呢？**仅靠对外提高关税、对内降税，就能解决问题了么？当然是不足够的。发展制造业/产业，需要基础设施建设、物流和供应链的优化；需要联邦和地方层面有力的支持政策和营商环境（大量的环保法规、劳工保护法规等都大量增加成本）；需要有不同的劳资关系模式（美国的劳资/工会vs雇主关系都是对立性的，与东亚社会完全不同），需要有匹配的工人文化/价值观（工作态度）。这些都是重要条件。2019年《美国工厂》一片很好地反映了这些问题。再者，即便制造业振兴了，未必都会转化为就业机会：因为有人工智能和自动化的因素。如果工人成本很高，则新增的制造业会更倾向于使用人工智能和自动化设备，也就是，产业是资本密集、科技密集，而非劳动力密集的。所以，在美国重振制造业 并不简单等于 创造大量的制造业岗位。人类劳动力仍然会从事低质量、低技能、低收入的服务业。这是一个更大的趋势              
+
+**7.也许是十二年。**回到美国政治。这是特朗普最后一任总统。期间，他会更加考虑自己的政治遗产。他将全力辅佐副总统JD万斯，把他打造为MAGA事业的接班人。如果顺利的话，JD万斯是有可能在四年后接班当选总统的；如果干得好，还有可能再来四年。不要小看JD万斯的能力：此人非常有潜质，完全具备这样的政治潜能。这样，一前一后，总统就是十二年，将对美国政治社会文化生态及国运产生深远影响          
+
+**8.美国的新政治。**我们原来做过一些分析，说美国年轻人在经济问题上的价值观是“左倾”的，相信进步主义、同情社会主义，不抗拒社会主义，也就是说，在经济价值观层面，未来会和我们更加相似。特朗普上台，会不会改变年轻人对经济问题的看法呢？不好说。但毕竟特朗普是一个草根政党，民粹政党，关注普通人的就业和生存。所以，特朗普党可以包含左翼经济政策。另一方面，特朗普（和马斯克）的科技-权威主义-保守主义政治联盟，将给美国政治文化带来更多的权威主义、家长主义、强人领袖的色彩。这反而会和东亚传统更加相似。也就是说，存在这样的可能性，未来的美国和我们更加相似。
+
+**9.美国的集体右倾。**总体而言，美国社会迈向了集体右倾的通路，将对整个西方社会产生影响，引导、鼓励具有类似政治价值观和意识形态的人在各西方国家登上政治舞台，掌握公共话语权，影响塑造社会。西方许多人担心“自由民主”（liberal democracy）的事业将遭遇重大挫折挑战。没错，正是这样。自由世界的“灯塔”美国将带领各国进入“非自由民主”（illiberal democracy的通道）。历史没有终结，只有“福山”们的终结          
+
+**10.聚焦国际政治。特朗普上台后会做什么？**
+
+**1)第一个“受害者”就是泽连斯基。**特朗普会给乌克兰施压。乌克兰将被迫放弃部分领土，与俄罗斯停战。特朗普将尝试修复与俄罗斯的关系，并且意图“联俄制中”。这是他的若干幕僚已经反复提到的，基本属于明牌
+
+**2)欧洲方面，由于特朗普将给欧盟加征关税，在俄乌上抛弃欧洲，同时减少对北约的投入和承诺，将使得美国和欧洲关系很困难。**尤其欧洲主流政党都非常讨厌特朗普。英国工党会和特朗普处得很艰难。美国和欧洲关系不好，当然会给中国空间和机会
+
+**3)日本韩国的情况一样。**特朗普将重新评估和日韩的安全关系和经贸关系，其打的如意算盘是吸引日韩企业投资美国，帮助发展美国本土产业。
+
+**4)台湾方面：特朗普认为台湾“偷走”了美国的芯片产业，并且利用芯片产业裹挟和倒逼美国。**特朗普的算盘是“萝卜加大棒”，吸引台湾企业投资于美国本土。对于台湾来说，这就很尴尬了，没有了芯片产业，不仅影响经济，而且会大大减少对美国的战略价值。旁边的日韩都会虎视眈眈，希望分台湾芯片产业的一杯羹。而那些大力布局台湾的美国企业（例如英伟达）在未来也会倍感政治压力。最后，在“孤立主义”框架下，特朗普对于台湾和南海都毫无兴趣，无意和中国发生冲突。如果说这一任与第一任有什么区别的话，就是特朗普受“深层国家”的影响会更小，能够更加自主的决定对外政策
+
+**5)对于中国：特朗普将启动全面的脱钩断链。**第一类是限制中国进入美国的，关税60%就地起征，并且对重点商品可能会收更多关税。如果说现在的特朗普和过往有什么不同的话，那就是：2018年的特朗普希望利用贸易打开中国的国门，逼迫中国遵守规则。但当时白宫贸易代表还没有重振美国本土产业的思维。2025年以后的特朗普，是产业思维主导的，关税只是个手段，目的是将中国拒之于美国门外。有人问，中国企业能不能到美国进行投资（FDI），在当地建厂，给美国创造点就业税收，特朗普就能允许“美国制造”的中国品牌打入美国市场了？我的判断是：不行。特朗普的选举议程是禁止中国到美国投资，把中国作为地缘政治和安全敌人。这个问题作者已经多次写过，介绍中美政策的“非对称性”。第二类政策，是对中国进行进一步打击，例如限制向中国出口关键科技产品；对中国行业、企业进行制裁；限制美国资本流入中国产业、企业等。贸易战、经济战、金融战、科技战，全面开打。这就是特朗普摆出的姿态
+
+**6)中东/以色列问题：**还需观望。特朗普认为他能够影响内塔尼亚胡、影响以色列。但内塔尼亚胡现在就是个“销售”，负责推销以色列的极右翼政策。以色列现在有了自己的逻辑，倒过来裹挟美国。这就看特朗普在多大程度上愿意陪以色列玩了。是把以色列按在地上，还是任由以色列升级冲突，甚至把战火烧到伊朗。须知，MAGA是孤立主义的，MAGA基本盘对美国掺和中东战事的胃口和兴趣为0。特朗普必须把美国的孤立主义清楚地告诉以色列
+
+**11.脱离群众、腐朽不堪的民主党。**回头看看民主党，有了大企业大资本、整个政府体系、主流媒体、整个娱乐和文化产业、整个知识界、大多数城市精英的支持，“飞机坦克大炮”，在“小米加步枪”面前输成这样，说明这个政府过去四年多么的不得人心。而实际上民主党缺乏反思。所有的评论仍然是关注特朗普的，说美国人民如何如何不知道这个选举有多重要，说美国民主就要完蛋了。看哈里斯的访谈和讲话，没有一句反思和直面问题的，似乎真心不认为自己的政府有什么地方做得不够。中国有个说法，“执政党最大的危险是脱离群众”。民主党就是一个彻头彻尾脱离群众的政党，腐朽、傲慢、自以为是。经历这样惨烈的失败是必然的，也只有经历这样的惨败，才能痛定思痛，寻找再出发的方向          
+
+**12.关于拜登。**民主党人内心一直念叨的：到底应该给拜登一个什么样的历史地位？是急流勇退的功臣？还是抓住权力不放的罪人？英雄还是狗熊？这个论断，完全取决于哈里斯能否当选。哈里斯没能当选，没把棒接过来，那拜登就是狗熊，民主党一侧的历史罪人：他应该早点退。甚至从最一开始就不应该选哈里斯做副总统 
+
+**13.对哈里斯的评价。**哈里斯临危上阵，但没有这样的能力和本事。她没这样的本事。没有足够的能力。没有准备好，也不能让人信服。所谓“蜀中无大将，廖化当先锋”。事实证实，她是“烂泥糊不上墙”。政治是残酷的，选举失败的哈里斯，也将由此被扫进“历史的垃圾堆”，基本消失于政坛——不会再有她卷土重来的一天。而她那个副总统候选人Tim Walz将瞬间被人遗忘          
+
+**14.关于这次大选，很多人严重误判。**最后一个“风向标县”Clallam County不幸阵亡只是个插曲。有个叫Allan Lichtman的教授，号称过去十次选举九次猜中，“不用看候选人就能预测结果”。结果他选了哈里斯，还给出一堆道理。仔细看，他对自己提出的评估标准的回答都极为主观，完全脱离美国现实情况。这种预测就是笑话。还有，简体中文圈过去两周有许多预测哈里斯胜利（甚至大胜）的信息，有号称是专家，有自媒体，也有网友，把中文网弄出一番哈里斯要大胜的氛围（vibes）。这些人的判断都是缺乏基础的，没有把美国政治和选情一路跟进下来 
+
+**15.最后推销一下本号。**作者长期跟踪美国政治二十多年，这次大选，也写了许多关于美国政治和美国大选的文章，回头看都是站得住脚的。如果读者一路关注下来，可以掌握更加准确的信息。也希望读者以后给予作者更多的关注与支持：
+
+1）《[精神变态、礼崩乐坏——政治流氓Trump的“归来”](http://mp.weixin.qq.com/s?__biz=MzA3MDIzODIwMg==&mid=2458100228&idx=1&sn=702c49858aa082c2c96b778fef9bf5f5&chksm=8848e891bf3f61879c7f7317f7b8e1f1113fb7e7655abf9fbbd926ca0af04127caa3466d19e0&scene=21#wechat_redirect)（上）（下）》；2023年5月15日，提出特朗普高调回归美国政治，可能会重回白宫
+
+2）《[无脑站队以色列，拜登或玩丢2024年大选](http://mp.weixin.qq.com/s?__biz=MzA3MDIzODIwMg==&mid=2458101605&idx=1&sn=68e77cdb8da408b3cb31c63e7f627207&chksm=8848edf0bf3f64e6a863238b2b1a76cc144e54c3148dd161fad3498d2f7a1f5bd173b739ce76&scene=21#wechat_redirect)》；2023年11月5日，指出拜登政府的以色列政策会让其丢失民主党选民
+
+3）《[Trump志在必得，Biden极不乐观——2024美国总统大选](http://mp.weixin.qq.com/s?__biz=MzA3MDIzODIwMg==&mid=2458103115&idx=1&sn=1756911386b1a98f785186f579dc990a&chksm=8848e7debf3f6ec84880fc2c879536923da84af80f4f8897545b69a106dbfd7454b1d5b08446&scene=21#wechat_redirect)》；2023月12月14日，在去年年底，说明拜登的选情已经非常不利
+
+4)《[从“中国处方”到马斯克：中美的相通与相异！——中国政治对位美国及国际【合集】（4.7w字）](http://mp.weixin.qq.com/s?__biz=MzA3MDIzODIwMg==&mid=2458103343&idx=1&sn=8f5b6b088a9ef933427c35c32e6e39c5&chksm=8848e4babf3f6dac4fb206c7378bfb53156038d65b614ec6fa7c3bf007ca23f2d05500ee26a6&scene=21#wechat_redirect)》 ；2024年1月8日，深入分析了马斯克政治及文化价值观和中国人的相通之处，并指出马斯克代表美国未来的政治。这时马斯克还没有参加特朗普阵营
+
+5)《[假如Trump归来：俄乌、巴以、台海——美国对外政策推演](http://mp.weixin.qq.com/s?__biz=MzA3MDIzODIwMg==&mid=2458103416&idx=1&sn=79ef1cff45234acde8413e37e0b06a1b&chksm=8848e4edbf3f6dfbd05d50fc3ec4eace71d487dd888921ebe0e41d0c9117ffe9b0ea05c270e4&scene=21#wechat_redirect)》[；](https://mp.weixin.qq.com/s?__biz=MzA3MDIzODIwMg==&mid=2458103416&idx=1&sn=79ef1cff45234acde8413e37e0b06a1b&chksm=8949f3618e5fd89590a7665d2ed0af2a4c59d88ae4a0f5fd21183ed949cfa292ce942fa4aa0e&mpshare=1&scene=21&srcid=1106a32nn9gvWFOKIc1spn2j&sharer_shareinfo=5c1e53c8fec9b4c32ec4da6db45e6074&sharer_shareinfo_first=5c1e53c8fec9b4c32ec4da6db45e6074&exportkey=n_ChQIAhIQ4cWNyRxHNroF2oXaWo%20YZRL1AQIE97dBBAEAAAAAABGGMzNFPhsAAAAOpnltbLcz9gKNyK89dVj03S6N0iCsGwygdZz3e2rJnSKbSS3nMc44Os2iCDBn%20AawDKOhI1H/9zqJaD1XaFxhk%20JrmLjewGDK4mfjzsaoLAzXzE1qfKQAjxyL7OXHkYE/Pyq%20tXtXi/L1YPGiIpfOidFHrmlYbXwPnbt2AnNl5ouIjEoCWMlYiIJxqx3MbXOF9J4SKX5J6SyQbmbERH1TC2qAL3XVIOFsMVrKK8TArL7GM4sCenwyiNmAlCNZPtNlJpaDg6LBzIQBoyhpI3hqgAcjlDd8xlaJn6I%20r488&acctmode=0&pass_ticket=3whznYNcRT2wS0M3KncoRruC7Z0Dr4Ld3VNQ1TkdnZaY7%20D9ICzy4wEssGxWHqH4&wx_header=0#wechat_redirect) 2024年1月3日，分析特朗普回归后对重点国际政治问题的影响
+
+6)《[特朗普“东山再起”将如何影响中国？](http://mp.weixin.qq.com/s?__biz=MzA3MDIzODIwMg==&mid=2458103530&idx=1&sn=7d32bb7aff90c8599cc20c6cc9cf800e&chksm=8848e47fbf3f6d6959c92c487e4149c5eb1e773d13267312b982e36c032decce5a7d45425b07&scene=21#wechat_redirect)》；2024年2月24日，再次结合各个领域介绍特朗普归来对中国的影响
+
+7)《[【一文看懂】十五问答：Trump被定罪对美国大选及政治的影响](http://mp.weixin.qq.com/s?__biz=MzA3MDIzODIwMg==&mid=2458104054&idx=1&sn=1cd8304370cdc73ecb2b1dc4c8441adf&chksm=8848fa63bf3f7375144b32f09230de5a76bfc83079bd6b915064df68bc63618e2c63a2edcba0&scene=21#wechat_redirect)》[；](https://mp.weixin.qq.com/s?__biz=MzA3MDIzODIwMg==&mid=2458104054&idx=1&sn=1cd8304370cdc73ecb2b1dc4c8441adf&chksm=89af1f937fc737b04eef00834b4d17da43c3c4bc57facae7917555619f762eb84166fa5d8066&mpshare=1&scene=21&srcid=11060zfQS9uJL3laMSnR0dbW&sharer_shareinfo=d0bb127a4bdedb1046c6c58b8d3b5692&sharer_shareinfo_first=d0bb127a4bdedb1046c6c58b8d3b5692&exportkey=n_ChQIAhIQLQiWu7xr21RmmUgdERCvtBL1AQIE97dBBAEAAAAAAHw6AC%20DnoMAAAAOpnltbLcz9gKNyK89dVj0uDe4Vt6e2BPto/cIc9Sy6YNr73H4/R5f0UqcL0iDqHSaJpOJyca8gkMp9F8%207AKIoHU3ztXpJ24gNNC7GEvDhzihZP6Wr735WvxkzwoHSg6cSRKKRLvq5RXMQwsI0ccZZXrXd4JlkUFbvihsdzto4oZF2%20XNqHQd1L/4BbTZfup4AoS/zi5WVgNO7pluR00jAv2UknkyAElQcapVKfp6/aLRljDvnjikI69ztrMokDipjNdifAY1w/NlgVhDT/SX0RXkKuDhiKpWiCLGOhyx&acctmode=0&pass_ticket=EkB6x/uzjXYAEYrz8luchhAGt8yIQqydjW/pYHO5IO1vUwV1eK1xIYP7eNMdd1HR&wx_header=0#wechat_redirect) 2024年6月2日，对特朗普被定罪的分析，指出其对大选无影响
+
+8)《[换人还是不换人——是个问题。辩论惨败后的拜登与民主党](http://mp.weixin.qq.com/s?__biz=MzA3MDIzODIwMg==&mid=2458104412&idx=1&sn=b0da599f787df0de7b8c80b04ff2982e&chksm=8848f8c9bf3f71dff6140ec88ab068d895a5fa31acd2bf09043fa2827bdd4ca589fee577237d&scene=21#wechat_redirect)》；2024年6月28日。第一次辩论后，立即判断拜登可能被倒逼下台，并提出了拜登下台的“条件”    
+
+9)《[一枪打出一个“天选之人”——特朗普遇刺快评](http://mp.weixin.qq.com/s?__biz=MzA3MDIzODIwMg==&mid=2458104544&idx=1&sn=3383093d31fdb97c9e17952d91b6e24a&chksm=8848f875bf3f7163d699d71366c05ebf876ad5dea1b2b76b6b64a1b1bb54c284bb6a983a1a04&scene=21#wechat_redirect)》；2024年7月14日，指出特朗普遇刺是一个重要历史事件，并且可能帮助锁定赢得大选
+
+10)《[特朗普选的不是副手，而是接班人](http://mp.weixin.qq.com/s?__biz=MzA3MDIzODIwMg==&mid=2458104560&idx=1&sn=e9bc60bf8caf46e0571447e92fbd9a2d&chksm=8848f865bf3f717339e5bcfe86808b00ba915e816a94492713cda2da9b50e86a1dad313cf5f9&scene=21#wechat_redirect)》；2024年7月16日，指出JD万斯这个副总统候选人的非凡之处。此人了不得，将是MAGA事业的接班人
+
+11)《[“脱钩断链”与“我中不能有你”——特朗普对华及全球贸易政策初探](http://mp.weixin.qq.com/s?__biz=MzA3MDIzODIwMg==&mid=2458104568&idx=1&sn=90f118b6d6c465f790f6d720ce1302e9&chksm=8848f86dbf3f717b8532fce1851b66cc1e780c12bdfd7a44ccb550a1fae06f730ae9728969fc&scene=21#wechat_redirect)》；《[拒中国于美国国门之外——特朗普酝酿的非对称政策](http://mp.weixin.qq.com/s?__biz=MzA3MDIzODIwMg==&mid=2458104582&idx=1&sn=d08d17af891407e669d43ada0b302a8c&chksm=8848f993bf3f708570572996dcbdb21e3d4e3c35c195b0185516fb18d6876bac7362d388dd96&scene=21#wechat_redirect)》； 2024年7月17、18日接连两篇，分析特朗普的贸易政策思路和逻辑
+
+12)《[“美国民族主义”与升级版MAGA——万斯的演讲全文及点评](http://mp.weixin.qq.com/s?__biz=MzA3MDIzODIwMg==&mid=2458104592&idx=1&sn=18c3f2e2962ecc168d6169754e40c4b6&chksm=8848f985bf3f7093148b1d513f8d1970f7e5f7ff85977f01a691f98934c5a0f89e4e02f393b5&scene=21#wechat_redirect)》[；](https://mp.weixin.qq.com/s?__biz=MzA3MDIzODIwMg==&mid=2458104592&idx=1&sn=18c3f2e2962ecc168d6169754e40c4b6&chksm=8848f985bf3f7093148b1d513f8d1970f7e5f7ff85977f01a691f98934c5a0f89e4e02f393b5&token=631358050&lang=zh_CN&scene=21#wechat_redirect) 2024年7月19日，借JD万斯的演讲，分析特朗普主义/MAGA的新内涵
+
+13)《[【必读】军事、芯片……新特朗普如何看待台湾？](http://mp.weixin.qq.com/s?__biz=MzA3MDIzODIwMg==&mid=2458104621&idx=1&sn=b423e9f38b6c389d16c75ccde88d26da&chksm=8848f9b8bf3f70ae9c4b050d22535ff02a47cf19e18e5f4d3abd4ea5fc435a335950bf360812&scene=21#wechat_redirect)》[；](https://mp.weixin.qq.com/s?__biz=MzA3MDIzODIwMg==&mid=2458104621&idx=1&sn=b423e9f38b6c389d16c75ccde88d26da&chksm=8848f9b8bf3f70ae9c4b050d22535ff02a47cf19e18e5f4d3abd4ea5fc435a335950bf360812&token=631358050&lang=zh_CN&scene=21#wechat_redirect) 2024年7月22日，聚焦台湾问题！
+
+14)《[“顶硬上”的“廖化”——趣谈哈里斯接棒拜登](http://mp.weixin.qq.com/s?__biz=MzA3MDIzODIwMg==&mid=2458104645&idx=1&sn=b43466edcb122d2eec82665371adc837&chksm=8848f9d0bf3f70c61d10c2649e069d1d06df477ccee151cb37b91a37ff5d2cd460b5653af6cf&scene=21#wechat_redirect)》；2024年7月24日，这篇文章明确指出，哈里斯的能力、资质不行，而且存在大量掣肘，是民主党没有办法之举。作者不看好哈里斯
+
+15)《[“吃猫”、事实vs情感、“情绪价值”——美国总统辩论观感](http://mp.weixin.qq.com/s?__biz=MzA3MDIzODIwMg==&mid=2458105425&idx=1&sn=007dd1bec96d2f80a97fdc408a461e0f&chksm=8848fcc4bf3f75d2798c1e9c3aa81d3bb81c4c1bf166506a3c50d1cbe6f791dddcaf85b7dfef&scene=21#wechat_redirect)》[；](https://mp.weixin.qq.com/s?__biz=MzA3MDIzODIwMg==&mid=2458105425&idx=1&sn=007dd1bec96d2f80a97fdc408a461e0f&chksm=8848fcc4bf3f75d2798c1e9c3aa81d3bb81c4c1bf166506a3c50d1cbe6f791dddcaf85b7dfef&token=631358050&lang=zh_CN&scene=21#wechat_redirect) 2024年9月13日。哈里斯和特朗普辩论之后。哈里斯被普遍认为赢得了辩论。这篇文章介绍的是：观众到底在听什么，想要什么
+
+16)《[特朗普vs哈里斯：谁的选情更有利？美国大选最新跟踪](http://mp.weixin.qq.com/s?__biz=MzA3MDIzODIwMg==&mid=2458105580&idx=1&sn=3bcd1e015344c3505aa0540d9eb4422f&chksm=8848fc79bf3f756f93abd415ccaa3ff44a5d759619f237e72ab621a22241ec9bc099702525e1&scene=21#wechat_redirect)》；2024年9月23日。特朗普的选情更有利！
+
+17)《[马斯克为什么要全情支持特朗普——基于一个访谈的解读](http://mp.weixin.qq.com/s?__biz=MzA3MDIzODIwMg==&mid=2458105700&idx=1&sn=71783eeef520c00f1ce79da3c0c3d29b&chksm=8848fdf1bf3f74e73c24337d3edfd3ce568ebd964616db0e9dac1913f834c12232cbeae07d9b&scene=21#wechat_redirect)》；2024年10月11日，分析了马斯克为什么要加入特朗普阵营。他想要什么
+
+18)《[为什么选择特朗普？赌四年国运而已——美国中间选民心态推演](http://mp.weixin.qq.com/s?__biz=MzA3MDIzODIwMg==&mid=2458106008&idx=1&sn=a1f179befd95550cda4cbceaedb9f984&chksm=8848f20dbf3f7b1b4ddd1b6aaf62df0bc7b36cf8507a5658da4e234f488e89eb68e5215be139&scene=21#wechat_redirect)》；2024年10月17日：选了特朗普，将来还有哈里斯；选了哈里斯，永远不会再有特朗普。所以必须选特朗普。
+
+19)《[炉火上烤：Fox News的哈里斯“歼灭战”](http://mp.weixin.qq.com/s?__biz=MzA3MDIzODIwMg==&mid=2458106117&idx=1&sn=64fffcc3e1c6c120a5a95467f86cf1c3&chksm=8848f390bf3f7a86d8afec3a506dddd33a1459c1846af6b17cee0ea697928b10f9b53d40e617&scene=21#wechat_redirect)》；2024年10月20日，这篇文章展现了为什么哈里斯越出来讲话就越掉粉。这是Fox一场精彩的正面阻击战
+
+20)《[特朗普将赢得大选——市场已经用脚投票](http://mp.weixin.qq.com/s?__biz=MzA3MDIzODIwMg==&mid=2458106197&idx=1&sn=a9c3e4d14ddf03b3b2ac341357f86bab&chksm=8848f3c0bf3f7ad669d7d1b8c7429a374d4ca4e2d7d4dfcc1d43a7606f29c7b2f1e3cd41741e&scene=21#wechat_redirect)》；2024年10月23日。拿出真金白银的人，比网上自诩专家的键盘侠更可信
+
+21)《[特朗普最新的“高光时刻”——Joe Rogan访谈节目](http://mp.weixin.qq.com/s?__biz=MzA3MDIzODIwMg==&mid=2458106263&idx=1&sn=34e1fcb3685d660dab9a34246e4f143a&chksm=8848f302bf3f7a141025b29b3540dbffa3faa50ab78040086f486cca956b15bcf945d12bf586&scene=21#wechat_redirect)》；2024年10月27日，这是一个非常重要的对话节目，帮助特朗普大大加分。Joe Rogan在最后一天正式表态支持特朗普，对转化中间选民、丰富MAGA群体有不可估量的帮助 
+
+22)《[【立此存照】【大量解析】哈里斯的谷底：在CNN上的灾难性表现](http://mp.weixin.qq.com/s?__biz=MzA3MDIzODIwMg==&mid=2458106323&idx=1&sn=8b84884c60d55289e4284fd1a6d42c77&chksm=8848f346bf3f7a50539db437e65a35c8ef4e89ba9f72c6d9e64391e41de7b9404e217f57c161&scene=21#wechat_redirect)》[；](https://mp.weixin.qq.com/s?__biz=MzA3MDIzODIwMg==&mid=2458106323&idx=1&sn=8b84884c60d55289e4284fd1a6d42c77&chksm=8848f346bf3f7a50539db437e65a35c8ef4e89ba9f72c6d9e64391e41de7b9404e217f57c161&token=631358050&lang=zh_CN&scene=21#wechat_redirect) 2024年10月30日，这篇文章展现了为什么哈里斯是一个非常糟糕的候选人，为什么很多选民无法下定决心把票给她
+
+23)《[这人了得，日后定能当上美国总统](http://mp.weixin.qq.com/s?__biz=MzA3MDIzODIwMg==&mid=2458106423&idx=1&sn=e95e4f7eb5c02a937ec39f5cad573e57&chksm=8848f0a2bf3f79b4753cbd311ae1bd399e459f87fdaac6bb284fcc55931bf540ef46b34f59be&scene=21#wechat_redirect)》； 2024年11月2日， 指出JD万斯的政治能力，将来有当总统的潜质
+
+24)《[美国“革命”前夜](http://mp.weixin.qq.com/s?__biz=MzA3MDIzODIwMg==&mid=2458106536&idx=1&sn=7c26a18989a35db19e327d5dd439d34d&chksm=8848f03dbf3f792b186f2ca859efb2775fdb101c4d62a6783643aaa7e7a07178089d58a17ea4&scene=21#wechat_redirect)》 ；024年11月5日，这是一篇关于两方对垒形势综合、全面分析的文章，给这次选举定了性
+
+          
+
+这只是一部分的文章。如果一路都跟下来，就能够掌握关于美国大选及美国政治的许多信息，就不至于出现根本性的误判。不少分析的质量超过英文媒体：为什么拜登退选；为什么换哈里斯；哈里斯为什么不行；JD万斯为什么是一个很好的选择；马斯克和Joe Rogan等力量的加入意味着什么；到底如何看待这次大选等等。
+
+          
+
+希望读者们继续支持作者，欢迎加入知识星球，里面有更多实时更新、持续更新的高质量内容。
+
+---------------------------------------------------   
+
+欢迎加入**「兔主席的宝藏」**，这是兔主席/tuzhuxi和朋友们的精华内容分享圈。共同学习，共同成长，共同进步！
+
+![](.evernote-content/53F4A21A-4256-4509-B487-E006AC3F3053/3B4B4A85-7F2D-44FD-B651-BBA573C93A62)
+
+**定位**：有国际视野、理性思考的爱国主义者
+
+**领域**：热点、国际、历史、人文
+
+**风格**：理性、逻辑、简单、通透
+
+**持续**：坚持20年创作（持续更新有保障）
+
+**国际臻选**：整理注释评论 全网稀缺高质量内容
+
+**快评**：观察、视角、心得、影书评、图片
+
+---
+
+****「兔主席的宝藏」知识星球，往期**文章目录（供参考，持续更新中）**  
+
+28.**【星球独家】【福山访谈】**[历史没有终结，只有福山们的终结](http://mp.weixin.qq.com/s?__biz=MzA3MDIzODIwMg==&mid=2458106505&idx=1&sn=0e03a6a9ddb1e1f8bf9d08305a718b22&chksm=8848f01cbf3f790a3d1c0a93f4151bc40f46da587b25ac3607459785038fae3369a7f10f1375&scene=21#wechat_redirect)（20241104）
+
+27.**【星球独家】【JD Vance（万斯访谈）】**[这人了得，日后定能当上美国总统](http://mp.weixin.qq.com/s?__biz=MzA3MDIzODIwMg==&mid=2458106423&idx=1&sn=e95e4f7eb5c02a937ec39f5cad573e57&chksm=8848f0a2bf3f79b4753cbd311ae1bd399e459f87fdaac6bb284fcc55931bf540ef46b34f59be&scene=21#wechat_redirect)（20241102）
+
+26.**【星球独家】【马斯克访谈】**[“二号公敌”：马斯克如何从内部瓦解西方政治体制](http://mp.weixin.qq.com/s?__biz=MzA3MDIzODIwMg==&mid=2458106407&idx=1&sn=319c5f52c6708d5006fb660eb986a980&chksm=8848f0b2bf3f79a4bd3198d0811ec9dc5fc1907c66b10fba59f16153378d4ccb401189f23132&scene=21#wechat_redirect)（20241101）
+
+25.[【立此存照】【大量解析】哈里斯的谷底：在CNN上的灾难性表现](http://mp.weixin.qq.com/s?__biz=MzA3MDIzODIwMg==&mid=2458106323&idx=1&sn=8b84884c60d55289e4284fd1a6d42c77&chksm=8848f346bf3f7a50539db437e65a35c8ef4e89ba9f72c6d9e64391e41de7b9404e217f57c161&scene=21#wechat_redirect)(20241030)
+
+24.[【大量点评】被残酷拷问的哈里斯——FOX News访谈记录](http://mp.weixin.qq.com/s?__biz=MzA3MDIzODIwMg==&mid=2458106115&idx=1&sn=e105dab552d1d9ef5b94f5649e0ef596&chksm=8848f396bf3f7a8016700357ae462ae816cbeecc9c65ce30c162b1083f6be3bf315655de74d2&scene=21#wechat_redirect)(20241020)
+
+23.[且看特朗普如何说马斯克（及骂哈里斯）【参考资料】](http://mp.weixin.qq.com/s?__biz=MzA3MDIzODIwMg==&mid=2458105721&idx=2&sn=77c9f68716f6308e9e231fb9b1d826d1&chksm=8848fdecbf3f74fafb70de46aa14048f8957ec2d30e5e4cde0e4cd8424df917f922cc3fa3929&scene=21#wechat_redirect)(20241012)
+
+22.[马斯克为什么要全情支持特朗普——基于一个访谈的解读](http://mp.weixin.qq.com/s?__biz=MzA3MDIzODIwMg==&mid=2458105700&idx=1&sn=71783eeef520c00f1ce79da3c0c3d29b&chksm=8848fdf1bf3f74e73c24337d3edfd3ce568ebd964616db0e9dac1913f834c12232cbeae07d9b&scene=21#wechat_redirect)(20241011)
+
+21.[“以色列：来自内部的生存威胁”【推荐参考资料】](http://mp.weixin.qq.com/s?__biz=MzA3MDIzODIwMg==&mid=2458105671&idx=1&sn=889b504e812c81e553e4bef4b6a31399&chksm=8848fdd2bf3f74c41f2cd7b4826692eab395dc8261085bee8e2f80e780efa337eb7f678bbc61&scene=21#wechat_redirect)(20241002)
+
+20.[深层政府、美国霸权、印度、中国——米尔斯海默和萨克斯对话](http://mp.weixin.qq.com/s?__biz=MzA3MDIzODIwMg==&mid=2458105559&idx=1&sn=03548c178d827982f89d3c7a11078d49&chksm=8848fc42bf3f7554513403bdd6bc1f92be15f319a8e0d0e92eace8c5d90620a0c6369f22cc59&scene=21#wechat_redirect)（20240922）
+
+19.[【深度】注释与分析——特朗普-哈里斯辩论](http://mp.weixin.qq.com/s?__biz=MzA3MDIzODIwMg==&mid=2458105445&idx=1&sn=4703fb7c640c0ad51641230dada6f8c2&chksm=8848fcf0bf3f75e6e37dd685f6ac7208477a83669487716e09fd35aab207dbead0d43df4c405&scene=21#wechat_redirect)（20240914）
+
+18.[这位美国教授把台湾问题说清楚了——Jeffrey Sachs访谈 （资料](http://mp.weixin.qq.com/s?__biz=MzA3MDIzODIwMg==&mid=2458105353&idx=2&sn=a55afc241c31deb53588de8ad67b02fa&chksm=8848fc9cbf3f758a90ba4348a622ae1b4a313987b8c2b0fd6829fb980c35c38d5dddbd97f98e&scene=21#wechat_redirect)）（20240909）
+
+17.[【推荐】美国在丢掉东南亚，让位中国 （参考资料](http://mp.weixin.qq.com/s?__biz=MzA3MDIzODIwMg==&mid=2458105342&idx=1&sn=8a2a468efed15013185f384f65dcf4b5&chksm=8848ff6bbf3f767dafdccf61c845c4285690cebf9b69668cfb25f4fcdad31013c4f1740c48d3&scene=21#wechat_redirect)）（20240907）
+
+16.[【推荐】美国游戏博主：《黑神话：悟空》是一场觉醒的呼唤 （参考资料](http://mp.weixin.qq.com/s?__biz=MzA3MDIzODIwMg==&mid=2458105320&idx=1&sn=da23482d3f4b16eed844cad3eec755c5&chksm=8848ff7dbf3f766b2fdd0dc6cf3c5f2cbf64c50dba8efbf35fb9abd18160198f02bc66f9553a&scene=21#wechat_redirect)）（20240906）
+
+15.[【重点推荐】“中国正在获胜。接下来呢？”（参考资料）](http://mp.weixin.qq.com/s?__biz=MzA3MDIzODIwMg==&mid=2458105289&idx=1&sn=c6598b6759ca89fd8a0b71a07ee980a3&chksm=8848ff5cbf3f764a36c21d3bf3ca8a00e327b5b2d6c5ebf2b759b3c33a6a81d03bc2fbcb8e48&scene=21#wechat_redirect)（20240905）
+
+14. [“马克思主义者”与民主党最差政客——特朗普如此评价哈里斯](http://mp.weixin.qq.com/s?__biz=MzA3MDIzODIwMg==&mid=2458105260&idx=1&sn=a48412346dcae272af79eafd6f890870&chksm=8848ff39bf3f762f5c7cff07ffebb26979fd3484d0f5bb9cfaffec2e26a745a065fc15271af2&scene=21#wechat_redirect)（20240901）
+
+13.[大型PUA现场的深度剖析：哈里斯首次“访谈”](http://mp.weixin.qq.com/s?__biz=MzA3MDIzODIwMg==&mid=2458105252&idx=1&sn=0909381157a65b2536dd15d9462cc061&chksm=8848ff31bf3f762793d80ce3fa509c4976a8a10ea8d6f37fcc9bdedaea4aa5697a755f1b3784&scene=21#wechat_redirect)（20240831）
+
+12.[被特朗普斥为“愚蠢”的美国国防战略报告【摘要部分】](http://mp.weixin.qq.com/s?__biz=MzA3MDIzODIwMg==&mid=2458105242&idx=2&sn=a0b83016ba91c693c43374c820606198&chksm=8848ff0fbf3f7619b5c54a7fa4abb7ddad6643aacd091148a42ca390b9e8666ddf184829eed5&scene=21#wechat_redirect)（20240830）
+
+11.[知彼才能知己——看看哈里斯的房地产政策](http://mp.weixin.qq.com/s?__biz=MzA3MDIzODIwMg==&mid=2458105172&idx=1&sn=1d4f2aa1800e1b9ca18fbf8613eb76b4&chksm=8848ffc1bf3f76d770d242b03fe0227d9f87ee1e632cff3c84681c179cb216320ee4eb7eea93&scene=21#wechat_redirect)（20240819）
+
+10.[内塔尼亚胡专访——注释版](http://mp.weixin.qq.com/s?__biz=MzA3MDIzODIwMg==&mid=2458105101&idx=2&sn=45ec230b77661654ab7d8aaa88be59ef&chksm=8848ff98bf3f768eccaa8ffb91071745af7f2d6eee570af1b138c5fd154ae2ec2c80e510e9ec&scene=21#wechat_redirect)（20240813）
+
+9.[彼得·蒂尔的影响力及特朗普时代的硅谷【资料/参考】](http://mp.weixin.qq.com/s?__biz=MzA3MDIzODIwMg==&mid=2458104858&idx=2&sn=2197653d31e95b23b0e5c2a6c4b994f2&chksm=8848fe8fbf3f7799890382e38f9f32508e2d0d502ca1cd03db0c04f52a93b07654de8d8ce6ff&scene=21#wechat_redirect)（20240803）
+
+[8.朗普自述遇刺：我不会再讲第二次](http://mp.weixin.qq.com/s?__biz=MzA3MDIzODIwMg==&mid=2458104604&idx=1&sn=310ca606bbe741833bf6dca905256d4e&chksm=8848f989bf3f709ff78f97979086ca48ac7dd4267448f48ac853c536bd47141da44ac62c55a1&scene=21#wechat_redirect)（20240720）
+
+7.[“美国民族主义”与升级版MAGA——万斯的演讲全文及点评](http://mp.weixin.qq.com/s?__biz=MzA3MDIzODIwMg==&mid=2458104592&idx=1&sn=18c3f2e2962ecc168d6169754e40c4b6&chksm=8848f985bf3f7093148b1d513f8d1970f7e5f7ff85977f01a691f98934c5a0f89e4e02f393b5&scene=21#wechat_redirect)（20240719）
+
+6.[“脱钩断链”与“我中不能有你”——特朗普对华及全球贸易政策初探](http://mp.weixin.qq.com/s?__biz=MzA3MDIzODIwMg==&mid=2458104568&idx=1&sn=90f118b6d6c465f790f6d720ce1302e9&chksm=8848f86dbf3f717b8532fce1851b66cc1e780c12bdfd7a44ccb550a1fae06f730ae9728969fc&scene=21#wechat_redirect)（20240717）
+
+5.[惨不忍睹的拜登专访——骆驼与稻草？（实录+点评](http://mp.weixin.qq.com/s?__biz=MzA3MDIzODIwMg==&mid=2458104455&idx=1&sn=eed71a07684aeb55bd800205806e50a0&chksm=8848f812bf3f7104721615c7f51f400baeb4f66138781ae36156cef6db4d1948e21b06cc7dc4&scene=21#wechat_redirect)）（20240708）
+
+4.[英国外交该怎么搞？新外相撰文详解【参考/资料】](http://mp.weixin.qq.com/s?__biz=MzA3MDIzODIwMg==&mid=2458104444&idx=1&sn=76bef9891e4fc7591ef0674ff3cec4b9&chksm=8848f8e9bf3f71ffa6a9a51a21855524323c7dcb1e5a6fcae0af0004b6d6cd0622660d0117e2&scene=21#wechat_redirect)（20240707）
+
+3.[总统辩论：两个老头儿吵架全纪录【资料/参考/收藏】](http://mp.weixin.qq.com/s?__biz=MzA3MDIzODIwMg==&mid=2458104421&idx=1&sn=7f6503d107d4e7f1c7c7c0e860d0005a&chksm=8848f8f0bf3f71e61c25f535b612aae29f652668874971031c14a6a6e3b4b3c1bb406c0752fd&scene=21#wechat_redirect)（20240703）
+
+2.[特朗普“脱口秀式”演讲全记录【资料/参考】](http://mp.weixin.qq.com/s?__biz=MzA3MDIzODIwMg==&mid=2458104395&idx=1&sn=37ff8e4ad6fe477db2ed7d292fcba2e4&chksm=8848f8debf3f71c857a041fb580beff6945a8d3e10da6caacacf88dc95cf5f536fedd8e5ed73&scene=21#wechat_redirect)（20240627）
+
+1.[普京介绍俄乌冲突细节、停战条件及国际政治愿景（讲话全文/资料）](http://mp.weixin.qq.com/s?__biz=MzA3MDIzODIwMg==&mid=2458104228&idx=1&sn=743fc7c01b16c32d369af1044c4af812&chksm=8848fb31bf3f722715ce6415d0d1bd13d5955203907462116eb515d09e675013bf649f258e4f&scene=21#wechat_redirect)**（20240618）**
+
+美国政治55
+
+美国政治 · 目录
+
+#美国政治
+
+上一篇特朗普的私人歌单——演讲变成听歌会下一篇2020年旧文重发：《2024年Trump的卷土重来》
+
+[阅读原文](#)
+
+​
+
+,
+
+选择留言身份
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s/8wYgD6rxfcggDlpWvf5-Bw)
+
+[📎 在印象笔记中打开](evernote:///view/207087/s1/5a23b4d4-a98a-40bc-bd7c-a38b743590a7/5a23b4d4-a98a-40bc-bd7c-a38b743590a7/)

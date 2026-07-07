@@ -4,7 +4,7 @@ type: source
 created: 2026-06-17
 updated: 2026-06-17
 source: 印象笔记管理工具
-source_path: 印象笔记管理工具/纵向 200 万像素？PixPin 把长截图卷出了新高度！.html
+source_path: 印象笔记管理工具/纵向 200 万像素？PixPin 把长截图卷出了新高度！.md
 tags: [其他]
 updated: 2026-06-27
 updated: 2026-06-27

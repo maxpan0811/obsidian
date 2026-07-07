@@ -4,7 +4,7 @@ type: source
 created: 2026-06-08
 updated: 2026-06-08
 sources: [https://mp.weixin.qq.com/s?__biz=MzIyMzk1MDE3Nw==&mid=224767...]
-source_path: 印象笔记管理工具/苦涩的教训：AI研究的三次集体误判.html
+source_path: 印象笔记管理工具/苦涩的教训：AI研究的三次集体误判.md
 tags: [richard-sutton, ai-history, lesson, bitter-lesson]
 updated: 2026-06-27
 updated: 2026-06-27

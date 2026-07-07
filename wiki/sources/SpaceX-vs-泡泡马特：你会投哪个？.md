@@ -3,7 +3,7 @@ title: SpaceX vs 泡泡马特：你会投哪个？
 type: source
 created: 2026-06-20
 updated: 2026-06-20
-source_path: 印象笔记管理工具/SpaceX vs 泡泡马特：你会投哪个？.html
+source_path: 印象笔记管理工具/SpaceX vs 泡泡马特：你会投哪个？.md
 tags: [投资, 科技, AI]
 updated: 2026-06-27
 ---

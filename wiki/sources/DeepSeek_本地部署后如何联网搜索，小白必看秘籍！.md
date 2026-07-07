@@ -4,7 +4,7 @@ type: source
 created: 2026-06-17
 updated: 2026-06-17
 source: 印象笔记管理工具
-source_path: 印象笔记管理工具/DeepSeek 本地部署后如何联网搜索，小白必看秘籍！.html
+source_path: 印象笔记管理工具/DeepSeek 本地部署后如何联网搜索，小白必看秘籍！.md
 tags: [AI技术]
 updated: 2026-06-27
 ---

@@ -4,7 +4,7 @@ type: source
 created: 2026-06-17
 updated: 2026-06-17
 source: 印象笔记管理工具
-source_path: 印象笔记管理工具/老师讲 12 小时，不如 AI 教 2 小时？这所高中直接干掉了所有老师，Claude、ChatGPT 也成学生日常.html
+source_path: 印象笔记管理工具/老师讲 12 小时，不如 AI 教 2 小时？这所高中直接干掉了所有老师，Claude、ChatGPT 也成学生日常.md
 tags: [AI技术, 教育]
 updated: 2026-06-27
 updated: 2026-06-27

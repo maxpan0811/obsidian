@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/惊艳！新版上海数学教材很NB！.html
+source_path: 印象笔记管理工具/惊艳！新版上海数学教材很NB！.md
 tags: [印象笔记]
 updated: 2026-06-27
 updated: 2026-06-27

@@ -4,7 +4,7 @@ type: source
 created: 2026-06-17
 updated: 2026-06-17
 source: 印象笔记管理工具
-source_path: 印象笔记管理工具/用 AI 记笔记1个月后，我的“信息焦虑”开始缓解了.html
+source_path: 印象笔记管理工具/用 AI 记笔记1个月后，我的“信息焦虑”开始缓解了.md
 tags: [AI技术]
 updated: 2026-06-27
 updated: 2026-06-27

@@ -3,7 +3,7 @@ title: 当你的工作遇上 AI：聊聊飞书多维表格
 type: source
 created: 2026-06-14
 updated: 2026-06-14
-source_path: 印象笔记管理工具/当你的工作遇上 AI：聊聊飞书多维表格.html
+source_path: 印象笔记管理工具/当你的工作遇上 AI：聊聊飞书多维表格.md
 tags: [印象笔记, AI/编程]
 updated: 2026-06-27
 updated: 2026-06-27

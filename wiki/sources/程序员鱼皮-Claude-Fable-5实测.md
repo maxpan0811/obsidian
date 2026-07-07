@@ -3,7 +3,7 @@ title: 刚刚 Claude Fable 5 炸裂发布！附一手实测，夯还是拉？
 type: source
 created: 2026-06-11
 updated: 2026-06-11
-source_path: 印象笔记管理工具/刚刚 Claude Fable 5 炸裂发布！真是太烧了。。附一手实测，夯还是拉？.html
+source_path: 印象笔记管理工具/刚刚 Claude Fable 5 炸裂发布！真是太烧了。。附一手实测，夯还是拉？.md
 tags: [anthropic, claude, fable-5, mythos-5, review, comparison]
 updated: 2026-06-27
 updated: 2026-06-27

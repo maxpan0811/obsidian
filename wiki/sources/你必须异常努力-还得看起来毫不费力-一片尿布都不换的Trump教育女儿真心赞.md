@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/你必须异常努力，还得看起来毫不费力！一片尿布都不换的Trump教育女儿真心赞.html
+source_path: 印象笔记管理工具/你必须异常努力，还得看起来毫不费力！一片尿布都不换的Trump教育女儿真心赞.md
 tags: [印象笔记]
 updated: 2026-06-27
 updated: 2026-06-27

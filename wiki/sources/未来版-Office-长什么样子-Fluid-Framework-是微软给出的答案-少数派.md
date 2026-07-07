@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/「未来版 Office」长什么样子？Fluid Framework 是微软给出的答案 - 少数派.html
+source_path: 印象笔记管理工具/「未来版 Office」长什么样子？Fluid Framework 是微软给出的答案 - 少数派.md
 tags: [印象笔记]
 updated: 2026-06-27
 ---

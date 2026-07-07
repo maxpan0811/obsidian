@@ -3,7 +3,7 @@ title: 1亿Token，花谁的钱？五大国内模型价格清单+选型指南
 type: source
 created: 2026-06-14
 updated: 2026-06-14
-source_path: 印象笔记管理工具/1亿Token，花谁的钱？五大国内模型价格清单+选型指南.html
+source_path: 印象笔记管理工具/1亿Token，花谁的钱？五大国内模型价格清单+选型指南.md
 tags: [印象笔记, 其他]
 updated: 2026-06-27
 ---

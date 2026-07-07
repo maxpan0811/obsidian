@@ -3,7 +3,7 @@ title: 满血版DeepSeek-R1，五大平台白嫖攻略！
 type: source
 created: 2026-06-14
 updated: 2026-06-14
-source_path: 印象笔记管理工具/满血版DeepSeek-R1，五大平台白嫖攻略！.html
+source_path: 印象笔记管理工具/满血版DeepSeek-R1，五大平台白嫖攻略！.md
 tags: [印象笔记, AI/编程]
 updated: 2026-06-27
 updated: 2026-06-27

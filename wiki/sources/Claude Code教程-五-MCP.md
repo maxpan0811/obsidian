@@ -2,7 +2,7 @@
 name: claude-code-ch5-mcp
 type: source
 tags: [claude-code, tutorial]
-source_path: 印象笔记管理工具/法律人的Claude Code教程（五）（教不会我吃民法典！）：MCP—连接外部工具.html
+source_path: 印象笔记管理工具/法律人的Claude Code教程（五）（教不会我吃民法典！）：MCP—连接外部工具.md
 
 updated: 2026-06-27
 updated: 2026-06-27

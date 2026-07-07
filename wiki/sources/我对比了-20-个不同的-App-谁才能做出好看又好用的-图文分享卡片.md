@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/我对比了 20+ 个不同的 App，谁才能做出好看又好用的「图文分享卡片」.html
+source_path: 印象笔记管理工具/我对比了 20+ 个不同的 App，谁才能做出好看又好用的「图文分享卡片」.md
 tags: [印象笔记]
 updated: 2026-06-27
 updated: 2026-06-27

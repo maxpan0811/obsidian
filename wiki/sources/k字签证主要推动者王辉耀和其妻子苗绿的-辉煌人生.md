@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/k字签证主要推动者王辉耀和其妻子苗绿的”辉煌人生“。.html
+source_path: 印象笔记管理工具/k字签证主要推动者王辉耀和其妻子苗绿的”辉煌人生“。.md
 tags: [印象笔记, 旅游, 签证, 签证]
 updated: 2026-06-27
 ---

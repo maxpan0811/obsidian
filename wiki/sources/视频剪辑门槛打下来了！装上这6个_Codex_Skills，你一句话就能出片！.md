@@ -4,7 +4,7 @@ type: source
 created: 2026-06-17
 updated: 2026-06-17
 source: 印象笔记管理工具
-source_path: 印象笔记管理工具/视频剪辑门槛打下来了！装上这6个 Codex Skills，你一句话就能出片！.html
+source_path: 印象笔记管理工具/视频剪辑门槛打下来了！装上这6个 Codex Skills，你一句话就能出片！.md
 tags: [AI技术, 教育]
 updated: 2026-06-27
 updated: 2026-06-27

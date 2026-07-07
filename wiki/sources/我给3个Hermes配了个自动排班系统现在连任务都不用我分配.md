@@ -3,7 +3,7 @@ title: 我给3个Hermes配了个自动排班系统，现在连任务都不用我
 type: source
 created: 2026-06-14
 updated: 2026-06-14
-source_path: 印象笔记管理工具/我给3个Hermes配了个自动排班系统，现在连任务都不用我分配了！.html
+source_path: 印象笔记管理工具/我给3个Hermes配了个自动排班系统，现在连任务都不用我分配了！.md
 tags: [印象笔记, 其他]
 updated: 2026-06-27
 updated: 2026-06-27

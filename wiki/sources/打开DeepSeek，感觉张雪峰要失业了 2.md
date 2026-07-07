@@ -1,0 +1,166 @@
+---
+title: 打开DeepSeek，感觉张雪峰要失业了 2
+type: source
+created: 2026-07-06
+updated: 2026-07-06
+source_path: 印象笔记管理工具/打开DeepSeek，感觉张雪峰要失业了 2.md
+tags: [evernote, impression, yinxiang]
+---
+
+# 打开DeepSeek，感觉张雪峰要失业了
+
+---
+
+原文链接: [https://mp.weixin.qq.com/s?\_\_biz=MzA3NzgyNDA0MA==&mid=264961...](https://mp.weixin.qq.com/s?__biz=MzA3NzgyNDA0MA==&mid=2649617600&idx=1&sn=9df54de74c7c1a30f6ec71b54a1840a9&chksm=8625beaa81024ecdc67f14c4f287a150dad810a2e716f9d49b2ed873087ea476a2880df70397&mpshare=1&scene=1&srcid=0131gNCDvNMq5PKufUGgmSaO&sharer_shareinfo=94cf2c365121f9f2b54324b51a96556d&sharer_shareinfo_first=a4e289558b97169f93b6d2ecc258a62e&from=groupmessage&isappinstalled=0&clicktime=1738374941&enterid=1738374941&ascene=1&devicetype=iOS18.2.1&version=1800382d&nettype=3G+&abtest_cookie=AAACAA==&lang=zh_CN&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQSJSWQy5RqXxAgC8m3DU8MxLrAQIE97dBBAEAAAAAAASDBXfB2QsAAAAOpnltbLcz9gKNyK89dVj0B3IZPYlw7wYWo2ZVUQtnu/7pnq3yizx/ue5Bd78mlQdeDcspQsbhXGqxlGMDHgDzaxQD1CpqiQSAW2KbxZtngPGKkyCfvL73i87n9RefaqEACl/LMLIIiFsxUMy9MhNa38T5f8WBFdqAvyfbS4jPifWyN4zAJFHSkmaQTfwZD9SLE1Eh4+bQ5EZfsjaSlmND2qqJJ2HZETspFoxc2rAG8kkEo7JNDVeqenV+5+Ctns5QyGgMMSpXxAY+nuoIQR5aNufIL4I=&pass_ticket=BKgQO86sQ80kXE4aJQN8RaSgnopMAsM5rs4NFEtdIX5FEXUOSBF9RQQ8SHFajBs/&wx_header=3)
+
+原创 局长 贩财局
+
+deepseek对两类人影响最大
+
+一个是张雪峰
+
+一个是程序员
+
+局长打开DeepSeek，问了一个如何选学校选专业问题，结果一出惊呆了。
+
+它收集市面上最全面的数据，进行最精准的自动化分析，结果完爆张雪峰。
+
+**问：**
+
+我来自广东一个偏远农村高考生，成绩刚好到一本线。家庭没什么背景，年收入只有10万左右，家里还有一个弟弟一个妹妹要照顾。
+
+要求1、家人希望我读大学不要拖累家庭
+
+要求2、还希望我将来大学毕业找一个稳定的工作，
+
+要求3、还可以提携一下弟弟妹妹
+
+请问我大学报什么专业比较适合啊 ？
+
+**答：**
+
+针对你的情况（广东偏远农村、一本线分数、家庭年收入10万、需帮扶弟妹），建议从“零成本入学、稳定就业、快速反哺家庭” 三个核心需求出发，推荐以下专业路径及实操方案：
+
+**一、绝对优先：零学费+包分配+体制内就业**
+
+1. 广东“新师范”地方专项计划\*\*  
+
+    - 政策优势：  
+
+     - 广东省内部分师范院校（如华南师大、广东技术师范大学）面向农村考生设置专项，**免学费+补贴生活费**，毕业后分配到粤东西北地区中小学任教（带编制）。  
+
+     - 可覆盖你“一本压线”分数，录取概率高。  
+
+   - 反哺能力：  
+
+     - 教师子女入学优先，可让弟弟妹妹进入你任职的学校就读，**直接节省家庭教育支出。**
+
+     - 年薪约10-15万（含绩效和补贴），工作三年内即可支持弟妹高中费用。
+
+2. 广东警官学院公安专业（提前批）
+
+   - 核心价值：  
+
+     - 通过公安联考入警率超95%，入警后年薪15万+（深圳等地可达20万），公积金覆盖房贷。  
+
+     - **一人入警全家受益**：从警满5年可为直系亲属申请“家属随迁”，帮助弟妹获得城市户口和更好教育资源。  
+
+   - **分数适配**：广东警官学院公安专业常年在一本线附近录取，体检达标（近视可手术）即可冲刺。
+
+ 3. **农村订单定向医学生（专科提前批兜底）**
+
+**- 保底选择：**
+
+     - 若一本滑档，可报考广东江门中医药职业学院等院校的临床医学定向生，免学费+补贴，毕业分配到乡镇卫生院（有编）。  
+
+     - 兼职村医年增收5-8万，适合快速反哺家庭。
+
+---
+
+**二、次优选择：低学费+高就业率+强反哺能力**
+
+**1. 广东石油化工学院（电气工程及其自动化）**
+
+**- 就业逻辑：**
+
+     - 该校为广东电网校招目标院校，毕业生大量进入湛江、茂名等地方供电局，年薪12万+，\*\*工作三年可支付弟妹大学学费。  
+
+     - 学费仅5800元/年，申请助学贷款后实际支出接近于零。  
+
+**2. 佛山科学技术学院（计算机科学与技术）**
+
+**- 突围路径：**
+
+     - 利用佛山本地制造业升级红利，毕业生进入美的、碧桂园等企业做智能制造系统开发，起薪8k-12k。  
+
+     - 低成本试错：大二开始接工厂MES系统外包项目（单项目分红可达万元），直接赚钱支持家庭。
+
+**三、风险对冲：低成本+强地域粘性**
+
+广东海洋大学（航海技术/轮机工程） 
+
+**- 短期套利：**
+
+     - 学费5000元/年，大三上船实习月薪8000+，毕业后远洋船员年薪18万+（免税），**适合3-5年内快速积累家庭资金。**
+
+**- 退出机制：**
+
+     工作五年后考取海事局公务员（针对有航海资历者特设岗位），转入稳定编制。
+
+**四、志愿填报黄金策略**
+
+**1. 提前批：**
+
+   - 第一志愿：广东警官学院（公安专业）  
+
+   - 第二志愿：华南师范大学（新师范地方专项）  
+
+   - 第三志愿：广东江门中医药职业学院（专科临床医学定向保底）  
+
+**2. 普通批：**
+
+   - 冲：广东石油化工学院（电气工程）、佛山科学技术学院（计算机）  
+
+   - 稳：广东海洋大学（航海技术）  
+
+   - 保：岭南师范学院（小学教育公费定向）  
+
+**3. 关键动作：**
+
+   - 6月26日立即联系户籍所在地教育局，提交公费师范/定向医学生预审材料；  
+
+   - 7月1日前完成公安院校政审表提交（需派出所、学校、居委会三级盖章）。
+
+**五、经济杠杆操作指南**
+
+**- 学费归零术：**
+
+  申请8000元/年的生源地助学贷款+争取5000元/年的国家励志奖学金（成绩前30%即可），**实际每年倒赚3000元。**
+
+**- 生活费自给方案：**
+
+  加入华师/广警的“新生群”，提前联系家教中介（广州小学时薪80元起），开学前签约2个固定学生，月入3000+。
+
+**六、家庭责任边界管理**
+
+**- 反哺量化：**与父母签订书面协议，约定工作后每月给家不超过3000元（避免无限责任拖垮自己）。  
+
+**- 弟妹教育前置干预：**
+
+ 利用大学假期为弟妹制定学习计划（重点突破英语和数学），目标让他们考入珠三角职校（如深圳职业技术学院），毕业后你可通过人脉帮其进入合作企业。  
+
+**终极建议：**你的分数在广东有大量地域性红利可挖掘，切忌盲目追求“一本名校光环”，牢牢抓住“编制优先、地域就近、成本归零”三个原则，用最短路径实现家庭阶层托举。
+
+最后讲一下今天来讲一讲deep sick的正确使用方式：
+
+大家记住这个重要公式。如下：
+
+**公式：我要XXX，要给XX用，希望达到 XXX 效果，但担心 XX 问题。**
+
+为什么要用这个公式呢？因为Deep sick的核心是推理型大模型，而不是指令型。大模型就像两个实习生，指令型是一个小书呆子，需要你事无巨细的安排，不走任务，而推理型是一个小机灵鬼，只要你说明目的，他就会自己思考该怎么做。
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzA3NzgyNDA0MA==&mid=2649617600&idx=1&sn=9df54de74c7c1a30f6ec71b54a1840a9&chksm=8625beaa81024ecdc67f14c4f287a150dad810a2e716f9d49b2ed873087ea476a2880df70397&mpshare=1&scene=1&srcid=0131gNCDvNMq5PKufUGgmSaO&sharer_shareinfo=94cf2c365121f9f2b54324b51a96556d&sharer_shareinfo_first=a4e289558b97169f93b6d2ecc258a62e&from=groupmessage&isappinstalled=0&clicktime=1738374941&enterid=1738374941&ascene=1&devicetype=iOS18.2.1&version=1800382d&nettype=3G+&abtest_cookie=AAACAA==&lang=zh_CN&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQSJSWQy5RqXxAgC8m3DU8MxLrAQIE97dBBAEAAAAAAASDBXfB2QsAAAAOpnltbLcz9gKNyK89dVj0B3IZPYlw7wYWo2ZVUQtnu/7pnq3yizx/ue5Bd78mlQdeDcspQsbhXGqxlGMDHgDzaxQD1CpqiQSAW2KbxZtngPGKkyCfvL73i87n9RefaqEACl/LMLIIiFsxUMy9MhNa38T5f8WBFdqAvyfbS4jPifWyN4zAJFHSkmaQTfwZD9SLE1Eh4+bQ5EZfsjaSlmND2qqJJ2HZETspFoxc2rAG8kkEo7JNDVeqenV+5+Ctns5QyGgMMSpXxAY+nuoIQR5aNufIL4I=&pass_ticket=BKgQO86sQ80kXE4aJQN8RaSgnopMAsM5rs4NFEtdIX5FEXUOSBF9RQQ8SHFajBs/&wx_header=3)
+
+[📎 在印象笔记中打开](evernote:///view/207087/s1/e3bb5376-3383-4862-a1eb-442b47524bc2/e3bb5376-3383-4862-a1eb-442b47524bc2/)

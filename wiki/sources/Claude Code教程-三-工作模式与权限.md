@@ -2,7 +2,7 @@
 name: claude-code-ch3-modes-permissions
 type: source
 tags: [claude-code, tutorial]
-source_path: 印象笔记管理工具/法律人的Claude Code教程（三）（教不会我吃民法典！）：工作模式、权限与配置管理.html
+source_path: 印象笔记管理工具/法律人的Claude Code教程（三）（教不会我吃民法典！）：工作模式、权限与配置管理.md
 
 updated: 2026-06-27
 updated: 2026-06-27

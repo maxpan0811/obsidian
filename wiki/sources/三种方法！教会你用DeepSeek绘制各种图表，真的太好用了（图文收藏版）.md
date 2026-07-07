@@ -4,7 +4,7 @@ type: source
 created: 2026-06-17
 updated: 2026-06-17
 source: 印象笔记管理工具
-source_path: 印象笔记管理工具/三种方法！教会你用DeepSeek绘制各种图表，真的太好用了（图文收藏版）.html
+source_path: 印象笔记管理工具/三种方法！教会你用DeepSeek绘制各种图表，真的太好用了（图文收藏版）.md
 tags: [AI技术]
 updated: 2026-06-27
 updated: 2026-06-27

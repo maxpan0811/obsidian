@@ -3,7 +3,7 @@ title: 我用 Claude 复刻 Codex 团队的 AI coding 方式：4 个信号 + 小
 type: source
 created: 2026-06-14
 updated: 2026-06-14
-source_path: 印象笔记管理工具/我用 Claude 复刻 Codex 团队的 AI coding 方式：4 个信号 + 小团队抄作业模板.html
+source_path: 印象笔记管理工具/我用 Claude 复刻 Codex 团队的 AI coding 方式：4 个信号 + 小团队抄作业模板.md
 tags: [印象笔记, AI/编程]
 updated: 2026-06-27
 updated: 2026-06-27

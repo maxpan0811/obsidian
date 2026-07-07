@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/摆脱线材束缚，让音乐遍布我生活的每个角落：Sonos Move 体验 - 少数派.html
+source_path: 印象笔记管理工具/摆脱线材束缚，让音乐遍布我生活的每个角落：Sonos Move 体验 - 少数派.md
 tags: [印象笔记]
 updated: 2026-06-27
 updated: 2026-06-27

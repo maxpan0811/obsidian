@@ -4,7 +4,7 @@ type: source
 created: 2026-06-17
 updated: 2026-06-17
 source: 印象笔记管理工具
-source_path: 印象笔记管理工具/3799元！Pocket 4P评测首发：大疆这是造了台怪物啊.html
+source_path: 印象笔记管理工具/3799元！Pocket 4P评测首发：大疆这是造了台怪物啊.md
 tags: [AI技术]
 updated: 2026-06-27
 ---

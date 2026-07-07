@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/神经网络之父Hinton最新公开演讲：数字智能会取代生物智能吗？（全文及PPT）.html
+source_path: 印象笔记管理工具/神经网络之父Hinton最新公开演讲：数字智能会取代生物智能吗？（全文及PPT）.md
 tags: [印象笔记]
 updated: 2026-06-27
 updated: 2026-06-27

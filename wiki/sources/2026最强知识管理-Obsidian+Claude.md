@@ -3,7 +3,7 @@ title: 2026 最强知识管理系统：Obsidian + Claude
 type: source
 created: 2026-06-08
 updated: 2026-06-08
-source_path: 印象笔记管理工具/🔥 2026最强知识管理系统！Obsidian+Claude.html
+source_path: 印象笔记管理工具/🔥 2026最强知识管理系统！Obsidian+Claude.md
 tags: [obsidian, knowledge-base, ai, tutorial]
 updated: 2026-06-27
 updated: 2026-06-27

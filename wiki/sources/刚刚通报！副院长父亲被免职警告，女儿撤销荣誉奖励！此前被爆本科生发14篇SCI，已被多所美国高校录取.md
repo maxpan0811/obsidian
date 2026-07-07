@@ -1,0 +1,82 @@
+---
+title: 刚刚通报！副院长父亲被免职警告，女儿撤销荣誉奖励！此前被爆本科生发14篇SCI，已被多所美国高校录取
+type: source
+created: 2026-07-06
+updated: 2026-07-06
+source_path: 印象笔记管理工具/刚刚通报！副院长父亲被免职警告，女儿撤销荣誉奖励！此前被爆本科生发14篇SCI，已被多所美国高校录取.md
+tags: [evernote, impression, yinxiang]
+---
+
+# 刚刚通报！副院长父亲被免职警告，女儿撤销荣誉奖励！此前被爆本科生发14篇SCI，已被多所美国高校录取
+
+---
+
+原文链接: [https://mp.weixin.qq.com/s?\_\_biz=MjM5ODI2NDMwMw==&mid=265327...](https://mp.weixin.qq.com/s?__biz=MjM5ODI2NDMwMw==&mid=2653270900&idx=1&sn=8d63aadb7a83d50645ceee3439b868c5&chksm=bc954ba8fb978a0886e2afa9b1a4108b599713feff7de9d46d0930f28870682ceaf5f05519a3&mpshare=1&scene=1&srcid=05108QxdNzjOwwGB460AD6NF&sharer_shareinfo=72bbc47e7b59d32462cf48edbcc3f83b&sharer_shareinfo_first=72bbc47e7b59d32462cf48edbcc3f83b&from=groupmessage&isappinstalled=0&clicktime=1746864640&enterid=1746864640&ascene=1&devicetype=iOS18.4.1&version=18003b26&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQCc+R/AmR7N8CZ2enATAIdRLoAQIE97dBBAEAAAAAAJn4LDt57E0AAAAOpnltbLcz9gKNyK89dVj0P6OLu+AwCX2cOlosqJSCN7cTdKM+CgzX2xI7ne6C5NACIEqpQcY0tvHOxYq/aKqCSumXe102Q4mJjGxrkQIIIFiI1IFf67rGBu8307Ep3Eq9+dVsKqHqXIVChl6C2IyYvb0m/pGEHj9VHp+psflo45CLp5/o0v43xgL63yyVWSMncTYdN2rQ+fgU9nahmbGN9lsXGiCZYZUW4vLNryS573wS727ubO70vcpYWPpQwbO/fi6rIvhl16HTKD5HKMPzH9A=&pass_ticket=cXYweKHRJm5qcGx72Mqir3o2jrWuBNzNoq5LyN25C4LPlh1IqwMpQY/QSS6LEZ7g&wx_header=3)
+
+上观新闻
+
+近日
+
+**网友对重庆大学2021级本科学生刘某乔**
+
+**发表论文等情况提出质疑**
+
+今天（5月10日），重庆大学发布情况通报称，学校成立专项工作组进行调查核实。经调查，**刘某乔系该校研究生院副院长刘某华之女，刘某华安排刘某乔参与了其本人部分署名论文和专利的研究工作，存在论文和专利署名不当的学术不端行为。**此外，刘某华的论文中还存在图片上传错误等学术不严谨问题。
+
+经研究决定，给予刘某华党内严重警告处分，免去研究生院副院长职务；按相关程序撤销刘某乔获得的国家奖学金等荣誉和奖励。
+
+![](.evernote-content/60739A92-FF4A-472E-9726-B7CE86C28A9F/0E512B79-3E93-461D-B4A7-1177828E7A2C.jpg)
+
+**【此前消息】**
+
+5月7日，一篇获奖文章引发关注，其中介绍，来自重庆大学的大四学生刘某乔，发表十余篇SCI论文以及获得多项国家发明专利授权。
+
+![](.evernote-content/60739A92-FF4A-472E-9726-B7CE86C28A9F/C30A3272-BA77-44C2-8C94-EE1ECF5BDE7C.png)
+
+文章截图
+
+根据上述文章的获奖人员信息，刘某乔为重庆大学化学化工学院化学工程与工艺专业2021级学生。曾获“微瑞杯”全国大学生化学实验创新设计大赛西南赛区一等奖。发表SCI一区期刊论文5篇、SCI二区期刊论文9篇，获国家发明专利授权3项。担任两学期助教，累计工作时长60小时，学业帮扶志愿服务时长累计24小时。
+
+记者以刘某乔姓名作为关键词在中国知网检索看到，自2016年11月8日到2023年6月2日，共计有14项发明专利的发明人中涵盖刘某乔的名字，且申请人均涉及重庆大学。
+
+![](.evernote-content/60739A92-FF4A-472E-9726-B7CE86C28A9F/95258C61-2631-4E67-B59E-518258061DEA.png)知网刘某乔发明专利搜索结果截图
+
+记者看到，这14项发明专利中，有10项标记为“发明公开”，另有4项标记为“发明授权”。但这14项发明专利的第一发明人均非刘某乔，除刘某乔之外，刘某华、刘某龙、陶某元三人均出现在14项专利发明人的名单中。记者在重庆大学官网看到，以上三人均系化工学院教授。
+
+值得一提的是，以上发明专利的最早申请时间为2016年，彼时刘某乔尚在读初中的年龄。
+
+SCI论文方面，记者同样以重庆大学、刘某乔姓名作为关键词，在“ReseachGate”官网检索看见，确有14篇来自重庆大学刘某乔的SCI论文发表，其中最新发布时间为2024年11月。
+
+不过，在这14篇论文中，刘某乔也均非第一作者。而在多篇论文的作者列表里，也同样出现了重大教授刘某华、刘某龙等。
+
+![](.evernote-content/60739A92-FF4A-472E-9726-B7CE86C28A9F/9F33912D-FB45-4CEE-A10A-36C8CAC5E4D2.jpg)学校讲座信息截图
+
+此外，根据重庆大学此前发布的一则讲座信息介绍，刘某乔此前取得托福97分、GRE322分的成绩，现已获得加州大学伯克利分校、哥伦比亚大学等学校的录取通知。
+
+---
+
+本文综合自：重庆大学微博、红星新闻
+
+微信编辑：Rong
+
+**◢ 猜你喜欢****↓↓**
+
+[事发上海地铁！5岁孩子被推搡着过闸机！入境游第一站竟卡在儿童友好…市人大代表坐不住了](https://mp.weixin.qq.com/s?__biz=MjM5ODI2NDMwMw==&mid=2653270797&idx=1&sn=2ce0dd198e5b406f54d974b8c53396e4&scene=21#wechat_redirect)
+
+[刚刚，上海预警！已连发3天！持续30℃+快来了](https://mp.weixin.qq.com/s?__biz=MjM5ODI2NDMwMw==&mid=2653270797&idx=2&sn=56b7473d4bcad3f04e379d5715b542e6&scene=21#wechat_redirect)
+
+[突发！巴基斯坦：击落一架印度战机，俘虏飞行员！发起网络攻击，致印度约70%电网瘫痪](https://mp.weixin.qq.com/s?__biz=MjM5ODI2NDMwMw==&mid=2653270807&idx=1&sn=fd9c18544d28fc8f59b50574a8b0f8b3&scene=21#wechat_redirect)
+
+[快讯！巴基斯坦正式对印度发起军事行动](https://mp.weixin.qq.com/s?__biz=MjM5ODI2NDMwMw==&mid=2653270764&idx=1&sn=8696ea9320fe16c2d028ef14c9eb7014&scene=21#wechat_redirect)
+
+更多精彩内容，请点击下载**[上观新闻APP](https://a.app.qq.com/o/simple.jsp?pkgname=com.shwatch.news)**
+
+![](.evernote-content/60739A92-FF4A-472E-9726-B7CE86C28A9F/EE55F975-7D7D-41C6-AD3E-07EDC6C7C28B.jpg)
+
+**“分享点赞在看，一气呵成↓**
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MjM5ODI2NDMwMw==&mid=2653270900&idx=1&sn=8d63aadb7a83d50645ceee3439b868c5&chksm=bc954ba8fb978a0886e2afa9b1a4108b599713feff7de9d46d0930f28870682ceaf5f05519a3&mpshare=1&scene=1&srcid=05108QxdNzjOwwGB460AD6NF&sharer_shareinfo=72bbc47e7b59d32462cf48edbcc3f83b&sharer_shareinfo_first=72bbc47e7b59d32462cf48edbcc3f83b&from=groupmessage&isappinstalled=0&clicktime=1746864640&enterid=1746864640&ascene=1&devicetype=iOS18.4.1&version=18003b26&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQCc+R/AmR7N8CZ2enATAIdRLoAQIE97dBBAEAAAAAAJn4LDt57E0AAAAOpnltbLcz9gKNyK89dVj0P6OLu+AwCX2cOlosqJSCN7cTdKM+CgzX2xI7ne6C5NACIEqpQcY0tvHOxYq/aKqCSumXe102Q4mJjGxrkQIIIFiI1IFf67rGBu8307Ep3Eq9+dVsKqHqXIVChl6C2IyYvb0m/pGEHj9VHp+psflo45CLp5/o0v43xgL63yyVWSMncTYdN2rQ+fgU9nahmbGN9lsXGiCZYZUW4vLNryS573wS727ubO70vcpYWPpQwbO/fi6rIvhl16HTKD5HKMPzH9A=&pass_ticket=cXYweKHRJm5qcGx72Mqir3o2jrWuBNzNoq5LyN25C4LPlh1IqwMpQY/QSS6LEZ7g&wx_header=3)
+
+[📎 在印象笔记中打开](evernote:///view/207087/s1/b833cca5-6990-4f74-9468-294597028d1a/b833cca5-6990-4f74-9468-294597028d1a/)

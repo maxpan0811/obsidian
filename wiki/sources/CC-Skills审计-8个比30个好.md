@@ -4,7 +4,7 @@ type: source
 created: 2026-06-08
 updated: 2026-06-08
 sources: [https://mp.weixin.qq.com/s?__biz=MzI0NDQ0ODU3MA==&mid=224754...]
-source_path: 印象笔记管理工具/Claude装太多，只会更废.html
+source_path: 印象笔记管理工具/Claude装太多，只会更废.md
 tags: [claude-code, skill, audit, context-window, optimization]
 updated: 2026-06-27
 ---

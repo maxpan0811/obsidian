@@ -4,7 +4,7 @@ type: source
 created: 2026-06-17
 updated: 2026-06-17
 source: 印象笔记管理工具
-source_path: 印象笔记管理工具/黄仁勋CES上点名中国开源大模型DeepSeek：让世界措手不及！网友：又赢了？.html
+source_path: 印象笔记管理工具/黄仁勋CES上点名中国开源大模型DeepSeek：让世界措手不及！网友：又赢了？.md
 tags: [AI技术, 科技产业, 教育]
 updated: 2026-06-27
 updated: 2026-06-27

@@ -3,7 +3,7 @@ title: MiniMax上市两个月股价大涨6.4倍
 type: source
 created: 2026-06-14
 updated: 2026-06-14
-source_path: 印象笔记管理工具/MiniMax上市两个月股价大涨6.4倍.html
+source_path: 印象笔记管理工具/MiniMax上市两个月股价大涨6.4倍.md
 tags: [印象笔记, 经济/投资]
 updated: 2026-06-27
 ---

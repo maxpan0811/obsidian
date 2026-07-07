@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/旷视6号员工范浩强：高二开始实习，“兼职”读姚班，25岁在CVPR斩获第四个世界第一.html
+source_path: 印象笔记管理工具/旷视6号员工范浩强：高二开始实习，“兼职”读姚班，25岁在CVPR斩获第四个世界第一.md
 tags: [印象笔记]
 updated: 2026-06-27
 updated: 2026-06-27

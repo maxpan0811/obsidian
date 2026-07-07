@@ -3,7 +3,7 @@ title: 梁文峰推荐DeepSeek-v4提问正确框架
 type: source
 created: 2026-06-14
 updated: 2026-06-14
-source_path: 印象笔记管理工具/梁文峰推荐DeepSeek-v4提问正确框架.html
+source_path: 印象笔记管理工具/梁文峰推荐DeepSeek-v4提问正确框架.md
 tags: [印象笔记, DeepSeek]
 updated: 2026-06-27
 updated: 2026-06-27

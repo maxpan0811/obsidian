@@ -3,7 +3,7 @@ title: 吴恩达Skills课程，最后一课直接让我搭了个研究团队
 type: source
 created: 2026-06-14
 updated: 2026-06-14
-source_path: 印象笔记管理工具/吴恩达Skills课程，最后一课直接让我搭了个研究团队.html
+source_path: 印象笔记管理工具/吴恩达Skills课程，最后一课直接让我搭了个研究团队.md
 tags: [印象笔记, 其他]
 updated: 2026-06-27
 updated: 2026-06-27

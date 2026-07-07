@@ -3,7 +3,7 @@ title: 黄仁勋的“物理AI”，对中国制造来说真不是好消息
 type: source
 created: 2026-06-14
 updated: 2026-06-14
-source_path: 印象笔记管理工具/黄仁勋的“物理AI”，对中国制造来说真不是好消息.html
+source_path: 印象笔记管理工具/黄仁勋的“物理AI”，对中国制造来说真不是好消息.md
 tags: [印象笔记, AI/编程]
 updated: 2026-06-27
 updated: 2026-06-27

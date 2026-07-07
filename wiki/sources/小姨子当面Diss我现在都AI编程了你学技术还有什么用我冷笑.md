@@ -3,7 +3,7 @@ title: 小姨子当面 Diss 我：“现在都 AI 编程了，你学技术还有
 type: source
 created: 2026-06-14
 updated: 2026-06-14
-source_path: 印象笔记管理工具/小姨子当面 Diss 我：“现在都 AI 编程了，你学技术还有什么用？” 我冷笑：“被 AI 牵着鼻子走是吧？”.html
+source_path: 印象笔记管理工具/小姨子当面 Diss 我：“现在都 AI 编程了，你学技术还有什么用？” 我冷笑：“被 AI 牵着鼻子走是吧？”.md
 tags: [印象笔记, AI/编程]
 updated: 2026-06-27
 updated: 2026-06-27

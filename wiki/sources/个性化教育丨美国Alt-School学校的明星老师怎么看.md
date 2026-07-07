@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/个性化教育丨美国Alt School学校的明星老师怎么看？.html
+source_path: 印象笔记管理工具/个性化教育丨美国Alt School学校的明星老师怎么看？.md
 tags: [印象笔记]
 updated: 2026-06-27
 updated: 2026-06-27

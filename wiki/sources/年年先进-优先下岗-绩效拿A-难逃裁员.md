@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/年年先进，优先下岗；绩效拿A，难逃裁员.html
+source_path: 印象笔记管理工具/年年先进，优先下岗；绩效拿A，难逃裁员.md
 tags: [印象笔记]
 updated: 2026-06-27
 updated: 2026-06-27

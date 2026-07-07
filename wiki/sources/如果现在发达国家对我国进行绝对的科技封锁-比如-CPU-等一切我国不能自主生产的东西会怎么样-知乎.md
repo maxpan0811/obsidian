@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/如果现在发达国家对我国进行绝对的科技封锁，比如 CPU 等一切我国不能自主生产的东西会怎么样？ - 知乎.html
+source_path: 印象笔记管理工具/如果现在发达国家对我国进行绝对的科技封锁，比如 CPU 等一切我国不能自主生产的东西会怎么样？ - 知乎.md
 tags: [印象笔记]
 updated: 2026-06-27
 updated: 2026-06-27

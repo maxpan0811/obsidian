@@ -3,7 +3,7 @@ title: 10分钟打造你的AI选股系统：OpenClaw每日自动筛选5支潜力
 type: source
 created: 2026-06-14
 updated: 2026-06-14
-source_path: 印象笔记管理工具/10分钟打造你的AI选股系统：OpenClaw每日自动筛选5支潜力股-腾讯云开发者社区-腾讯云.html
+source_path: 印象笔记管理工具/10分钟打造你的AI选股系统：OpenClaw每日自动筛选5支潜力股-腾讯云开发者社区-腾讯云.md
 tags: [印象笔记, AI/编程]
 updated: 2026-06-27
 ---

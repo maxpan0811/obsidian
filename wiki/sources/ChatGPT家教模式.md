@@ -4,7 +4,7 @@ type: source
 created: 2026-06-08
 updated: 2026-06-08
 sources: [https://mp.weixin.qq.com/s/wjc2MyslyWQyuDoctidOJQ]
-source_path: 印象笔记管理工具/ChatGPT 出了个家教模式，而且免费.html
+source_path: 印象笔记管理工具/ChatGPT 出了个家教模式，而且免费.md
 tags: [chatgpt, education, learning, free]
 updated: 2026-06-27
 ---

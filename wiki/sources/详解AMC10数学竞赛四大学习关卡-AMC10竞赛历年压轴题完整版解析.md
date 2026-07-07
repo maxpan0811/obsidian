@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/详解AMC10数学竞赛四大学习关卡，AMC10竞赛历年压轴题完整版解析！.html
+source_path: 印象笔记管理工具/详解AMC10数学竞赛四大学习关卡，AMC10竞赛历年压轴题完整版解析！.md
 tags: [印象笔记]
 updated: 2026-06-27
 updated: 2026-06-27

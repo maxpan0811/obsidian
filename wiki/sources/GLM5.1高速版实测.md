@@ -4,7 +4,7 @@ type: source
 created: 2026-06-08
 updated: 2026-06-08
 sources: [https://mp.weixin.qq.com/s?__biz=MzU4NTE1Mjg4MA==&mid=224749...]
-source_path: 印象笔记管理工具/实测 GLM5.1 高速版，快到离谱还不掉智商.html
+source_path: 印象笔记管理工具/实测 GLM5.1 高速版，快到离谱还不掉智商.md
 tags: [glm, zhipu, model-review, speed]
 updated: 2026-06-27
 updated: 2026-06-27

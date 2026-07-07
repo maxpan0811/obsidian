@@ -4,7 +4,7 @@ type: source
 created: 2026-06-17
 updated: 2026-06-17
 source: 印象笔记管理工具
-source_path: 印象笔记管理工具/使用deepseek本地部署，搭建自己的私人知识库，但是效果并不理想.html
+source_path: 印象笔记管理工具/使用deepseek本地部署，搭建自己的私人知识库，但是效果并不理想.md
 tags: [AI技术]
 updated: 2026-06-27
 updated: 2026-06-27

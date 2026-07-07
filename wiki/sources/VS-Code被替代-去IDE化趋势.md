@@ -3,7 +3,7 @@ title: 这下，VS Code 也没有安装的必要了！
 type: source
 created: 2026-06-11
 updated: 2026-06-11
-source_path: 印象笔记管理工具/这下，VS Code 也没有安装的必要了！.html
+source_path: 印象笔记管理工具/这下，VS Code 也没有安装的必要了！.md
 tags: [ide, vscode, warp, zed, ai-agent, trend]
 updated: 2026-06-27
 updated: 2026-06-27

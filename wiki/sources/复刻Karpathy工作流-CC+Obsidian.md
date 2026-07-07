@@ -4,7 +4,7 @@ type: source
 created: 2026-06-08
 updated: 2026-06-08
 sources: [https://mp.weixin.qq.com/s?chksm=c093b6d1f7e43fc7a72f9219110fbf86380813a25fe0674a5b56beb55b75b476fc1a43b1b708...]
-source_path: 印象笔记管理工具/复刻 Karpathy 神级工作流：用 Claude Code 搭个人 AI 知识库，只需5分钟效率直接拉满！.html
+source_path: 印象笔记管理工具/复刻 Karpathy 神级工作流：用 Claude Code 搭个人 AI 知识库，只需5分钟效率直接拉满！.md
 tags: [claude-code, karpathy, llm-wiki, knowledge-base, obsidian]
 updated: 2026-06-27
 updated: 2026-06-27

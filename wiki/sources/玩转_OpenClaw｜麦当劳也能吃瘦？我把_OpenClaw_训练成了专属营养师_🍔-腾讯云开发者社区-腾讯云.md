@@ -4,7 +4,7 @@ type: source
 created: 2026-06-17
 updated: 2026-06-17
 source: 印象笔记管理工具
-source_path: 印象笔记管理工具/玩转 OpenClaw｜麦当劳也能吃瘦？我把 OpenClaw 训练成了专属营养师 🍔-腾讯云开发者社区-腾讯云.html
+source_path: 印象笔记管理工具/玩转 OpenClaw｜麦当劳也能吃瘦？我把 OpenClaw 训练成了专属营养师 🍔-腾讯云开发者社区-腾讯云.md
 tags: [AI技术]
 updated: 2026-06-27
 updated: 2026-06-27

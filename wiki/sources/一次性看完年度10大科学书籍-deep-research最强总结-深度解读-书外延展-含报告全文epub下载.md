@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/一次性看完年度10大科学书籍｜deep research最强总结：深度解读+书外延展（含报告全文epub下载）.html
+source_path: 印象笔记管理工具/一次性看完年度10大科学书籍｜deep research最强总结：深度解读+书外延展（含报告全文epub下载）.md
 tags: [印象笔记, AI]
 updated: 2026-06-27
 updated: 2026-06-27

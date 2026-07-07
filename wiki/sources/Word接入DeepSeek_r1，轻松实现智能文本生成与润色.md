@@ -4,7 +4,7 @@ type: source
 created: 2026-06-17
 updated: 2026-06-17
 source: 印象笔记管理工具
-source_path: 印象笔记管理工具/Word接入DeepSeek r1，轻松实现智能文本生成与润色.html
+source_path: 印象笔记管理工具/Word接入DeepSeek r1，轻松实现智能文本生成与润色.md
 tags: [AI技术]
 updated: 2026-06-27
 ---

@@ -4,7 +4,7 @@ type: source
 created: 2026-06-08
 updated: 2026-06-08
 sources: [https://mp.weixin.qq.com/s?__biz=MzA4NjEwMTQ1NA==&mid=245386...]
-source_path: 印象笔记管理工具/90%的人都在裸奔Claude Code，10大必装MCP推荐.html
+source_path: 印象笔记管理工具/90%的人都在裸奔Claude Code，10大必装MCP推荐.md
 tags: [claude-code, mcp, tool-recommendation]
 updated: 2026-06-27
 ---

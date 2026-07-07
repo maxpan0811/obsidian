@@ -1,0 +1,210 @@
+---
+title: 牢A美国启示录：惨过悲惨世界，黑过旧社会
+type: source
+created: 2026-07-06
+updated: 2026-07-06
+source_path: 印象笔记管理工具/牢A美国启示录：惨过悲惨世界，黑过旧社会.md
+tags: [evernote, impression, yinxiang]
+---
+
+# 牢A美国启示录：惨过悲惨世界，黑过旧社会
+
+---
+
+原文链接: [https://mp.weixin.qq.com/s?\_\_biz=MzAwNzY1NTYwMA==&mid=245390...](https://mp.weixin.qq.com/s?__biz=MzAwNzY1NTYwMA==&mid=2453907961&idx=1&sn=1a760dc3ac208f53d9591cd09681f639&chksm=8d982d39494d8f8840403dd9e66b2a846c320d3f7c590917bcf48e15f02fe45bd2aa18cca74b&mpshare=1&scene=24&srcid=0517zTk6AH7OWkLhOg7xmHsX&sharer_shareinfo=570ca89d711edf239cefbffefea5ce4b&sharer_shareinfo_first=570ca89d711edf239cefbffefea5ce4b&clicktime=1779023474&enterid=1779023474&ascene=14&devicetype=iOS26.5&version=1800492a&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQ8dJXvW3ajMvUxYfLfoRAlRLTAQIE97dBBAEAAAAAAIj6OB2GcMMAAAAOpnltbLcz9gKNyK89dVj0gO33Hu1iU+L392fG0n7cLC9Zm+/HFQbJWMHbtLgN2jArWxV1+OvZ6mtEEdblZal9EFUrlTIx0wh7knHPUxotxEioWd2kZXXtJBPYgP2AB2NNPqbMKuUPfTD4mHDRT+4i+b8fgv5UKjutP0bR+XDRNyuRFDu4RItXqVbZXHKOVhlQDT6HDp8gJVSWgmOWv7c6ng5Lon6fA8r+FFC1fRsU11N0kBHo9VruDEUVH7E=&pass_ticket=tEYUh7uYsnLRlxETRNlGTHaXkuJdTw72GXJShiIhdj+Ittl67CiMmoONKR0qUNoY&wx_header=3)
+
+Original好奇心君未来预言机
+
+最近，有位up主的美国故事吸引了越来越多的关注。
+
+这位up主叫“斯奎奇大王”，绰号“牢A”。他还有一位同伴叫“牢真”。
+
+牢A是东北人，去了美国西雅图留学读本科，生物专业。但是实在不是读书的料，唯有去巴结教授，恳请放一条生路，让自己毕业拿到学位证。
+
+这位美国教授经常抱怨他这辈子就没见过有中国人的数学像牢A一样差的。
+
+那怎么办呢，安排牢A做些什么任务好呢？这位教授眉头一皱计上心头：有一个任务，没法安排好学生去做，因为有些好学生太乖了，无法用街头智慧来面对真实的社会，接受不了残酷的血腥的人吃人的社会现象，做了几天这个任务就会被吓得魂飞魄散坚定告退的。那么，这个鬼见愁的任务就安排牢A去做吧。
+
+这个任务就是：收尸体。收了尸体回来给大学自己实验室用。
+
+这个任务让牢A见识到了美国的真实、残酷、地狱的一面。
+
+所以，我很理解牢A要开直播讲故事，他见过了太多的美国社会惨状，必须要讲出来，否则心里堵得慌，压抑得快精神崩溃了。所以，牢A讲故事不是要炫耀他的经历，而是他需要正常的听众陪在他身边，让他能确认自己还是个正常人，他就靠这些现实锚点来维持自己的精神状态。
+
+牢A的所见所闻，和金牌讲师的经历是能对得上的，和我之前的一些文章也是互相呼应的，例如：
+
+1. 完全隔离的阶级社会：《[破相1：硅谷湾区的三种人生](https://mp.weixin.qq.com/s?__biz=MzAwNzY1NTYwMA==&mid=2453907802&idx=1&sn=0b1ed6cb7c17e2f429f826f845f9c084&scene=21#wechat_redirect)》。
+
+2. 美国网友高呼：**“All of us are just consumables for late stage capitalism. 我们所有人都只是晚期资本主义的耗材。” 见《[他们已经日常准备去死](https://mp.weixin.qq.com/s?__biz=MzAwNzY1NTYwMA==&mid=2453901843&idx=1&sn=873b450ddf1c01994414230a041365b4&scene=21#wechat_redirect)》《[美国人民的压力大得快要爆了](https://mp.weixin.qq.com/s?__biz=MzAwNzY1NTYwMA==&mid=2453904084&idx=1&sn=a8e676b49088d5931aa7e7a1c81c9ff9&scene=21#wechat_redirect)》。**
+
+3. 被称为史上最穷的一代：《[你们是美国最穷、最抑郁、最病态、最爱嗑药的一代](https://mp.weixin.qq.com/s?__biz=MzAwNzY1NTYwMA==&mid=2453906700&idx=2&sn=66ed8bf67e63ed25b5bb0dfc7e1685a8&scene=21#wechat_redirect)》。
+
+4. 债务缠身，无法翻身：《[帝国终局，平民躺平，权贵打架，有人想打仗](https://mp.weixin.qq.com/s?__biz=MzAwNzY1NTYwMA==&mid=2453905283&idx=1&sn=bf751c6c1d16defa0dedd9157c57bd21&scene=21#wechat_redirect)》。
+
+5. 部分英国和美国的女性买不起肥皂和卫生巾：《[贫穷和阶级滑落成常态，新冠AI再暴击，大神荐社会主义](https://mp.weixin.qq.com/s?__biz=MzAwNzY1NTYwMA==&mid=2453902546&idx=1&sn=b742afbc924f4977f36cc6576bb94532&scene=21#wechat_redirect)》。
+
+6. 美国的食物银行food bank的人说，近年来，来食物银行寻求免费食品和廉价折扣食品的人数剧增。甚至有些人以前是来食物银行帮忙的志愿者，如今也站在了领取食品的队伍里。《[贫穷和阶级滑落成常态，新冠AI再暴击，大神荐社会主义](https://mp.weixin.qq.com/s?__biz=MzAwNzY1NTYwMA==&mid=2453902546&idx=1&sn=b742afbc924f4977f36cc6576bb94532&scene=21#wechat_redirect)》《[躺平共存后的疫情+社会+经济+金融连环杀](https://mp.weixin.qq.com/s?__biz=MzAwNzY1NTYwMA==&mid=2453901932&idx=1&sn=d6dde1929c9034477e100f5c2642c890&scene=21#wechat_redirect)》。
+
+补一个今年2025年12月的照片：全镇十分之一的人都在食品银行前等待食物分发。
+
+![](.evernote-content/FD23B5DB-8543-4281-820C-5B66669E8B3A/E1D2EFD3-871B-4EF9-B848-3BAB3E22EDC9.png)
+
+7. 就业市场惨淡：《[预言成真，美国就业数据惨淡，应届生悲催](https://mp.weixin.qq.com/s?__biz=MzAwNzY1NTYwMA==&mid=2453907286&idx=1&sn=75bb192f7b03e5044c8e5de53a1232e6&scene=21#wechat_redirect)》《[UCLA教授穷得无家可归，痛骂美国处处皆耻辱](https://mp.weixin.qq.com/s?__biz=MzAwNzY1NTYwMA==&mid=2453904665&idx=1&sn=ed5dac74c8a66a9eee423aaab4831acf&scene=21#wechat_redirect)》。
+
+8. 小红书大对账：《[对账对到哭，美社畜猛然醒悟自己是耗材](https://mp.weixin.qq.com/s?__biz=MzAwNzY1NTYwMA==&mid=2453905544&idx=1&sn=9da5c9b356f8f948967c7474e1232af2&scene=21#wechat_redirect)》。
+
+在牢A的众多故事中，最让我印象深刻的有这几个：
+
+A. 补习数学的黑人男孩。
+
+一个1米97的黑人学生，找牢A补习数学，从一元一次方程开始学习，很努力很上进。
+
+别人建议他不要浪费1米97的身高，去打篮球打橄榄球，走职业体育的道路。这黑人学生拒绝了，说走这些道路就得嗑药，他不想嗑药，他就只想认真学习、认真工作、当白领。
+
+这个黑人学生的这个在美国打职业要嗑药的说法，让我想起关于美国职业体育的选拔制度的两件事。
+
+一件是我看过很多NBA球星的自传。非常诡异的是，他们绝大多数都有一个共同的经历：在高中阶段莫名其妙地突然长高，发展出超常规的体格，然后进军职业体育。
+
+一个人这样子可以说是特例，特么的你NBA球星每个都这样？这说明有问题。
+
+现在这位黑人学生的供述，又从另一个侧面印证了美国高中生为了成为职业球员、为了通过选拔、为了取得比赛胜利，很多都选择了嗑药。
+
+另一件事是《[大量美国学生猛嗑兴奋剂应对新冠脑雾](https://mp.weixin.qq.com/s?__biz=MzAwNzY1NTYwMA==&mid=2453904450&idx=1&sn=7c65e7d3734c1cab4081fe3d5d3aeb82&scene=21#wechat_redirect)》中提过的，美国学生在初中高中的时候，游泳会进入竞技比赛阶段和选拔阶段，这时就要开始嗑兴奋剂。华人家庭不让孩子吃兴奋剂，比赛就比不过。
+
+![](.evernote-content/FD23B5DB-8543-4281-820C-5B66669E8B3A/7C8508F2-688F-40D3-8F42-F99C0BA2A250.png)
+
+这个黑人学生抵抗住了嗑兴奋剂从事职业体育的诱惑，平时在码头扛包挣生活费。他在牢A的帮助下，已经补习到微积分了，好生活就在向他招手的时候，他弟出事了。
+
+他弟弟吸毒了。他为了救弟弟，花光了所有积蓄，送弟弟去戒毒。这个举动得罪了弟弟所属的黑帮，于是在码头被黑帮当作叛徒打成重伤，因为没钱买高价医保而无法抢救，一命呜呼。
+
+B. 卖身救父母的女学生。
+
+西雅图这个大学里，牢A的一个墨西哥女同学，八个孩子里的长女，为给父母凑两万美元医药费，她放弃学业和梦想，将自己卖给一个南美移民，当家庭主妇。这个南美男人为了凑这两万美元，也是得借高利贷，才能娶她。
+
+C.  两个退伍老兵。
+
+一个是退伍越战老兵，为守住荣誉拒绝加入黑帮。美国却让他穷到吃不起肉，儿子靠卖血维生，他唯一的念头只剩下自杀。
+
+一个是阿富汗老兵，妻儿冻死在风雪中。他相信忠诚会有回报，最终却在暴风雪里，被压塌的木棚砸死，孤独地终结了一生。
+
+美国11.6%的流浪汉是美军退伍军人。
+
+D. 贷款缴纳校园午餐餐费。
+
+吃个校园午餐都得贷款，午饭餐费愁死美国父母这个事情，我再补充两个相关的信息。
+
+今年，美国不少外卖网站，推出了一个重点拳头新功能：分期付款。
+
+吃个外卖还得分期付款……
+
+另一个相关信息是，美国的一些连锁快餐集团是上市公司，它们的年报说，他们的营业收入低于预期。这意味着，消费者吃廉价快餐也吃不起了。
+
+E. 底特律新生儿毒瘾率85%。
+
+![](.evernote-content/FD23B5DB-8543-4281-820C-5B66669E8B3A/5CCC8177-A052-4244-8E62-9339E55F9C90.png)![](.evernote-content/FD23B5DB-8543-4281-820C-5B66669E8B3A/0136F857-A718-49E5-B714-1DE2C8096F0C.png)
+
+过于抽象，无法细说。想了解的评论区问吧。
+
+F. 黑帮的地下室，遍地都是散落的尸体残骸和肉馅。
+
+同样无法细说。想了解的评论区问吧。
+
+F. 美国孕妇不坐月子。
+
+因为没有假期。要是请假会被开除。经期疼痛要吃“强化剂”止痛。布洛芬已经没有用了。
+
+G. 美国急救室抢救，会预设病人吸毒了，全部要先打纳洛酮再抢救。
+
+![](.evernote-content/FD23B5DB-8543-4281-820C-5B66669E8B3A/1F6FE857-7479-4ABA-81BB-6A428131EF5F.png)
+
+H. 嗑药
+
+![](.evernote-content/FD23B5DB-8543-4281-820C-5B66669E8B3A/C83115A9-B310-4AAF-8529-8DF5CF746D08.png)
+
+I. 西雅图的万圣节。
+
+![](.evernote-content/FD23B5DB-8543-4281-820C-5B66669E8B3A/3962E577-50C8-452F-ACFF-D9C1917AF860.jpg)![](.evernote-content/FD23B5DB-8543-4281-820C-5B66669E8B3A/5C2C1437-EF9C-4722-8719-2DA0A76C399D.jpg)
+
+J. 流浪汉捡糖果。
+
+另一位曾在西雅图工作过的人贴了他的经历：
+
+![](.evernote-content/FD23B5DB-8543-4281-820C-5B66669E8B3A/72964836-1906-4254-BB69-0E53C3628940.jpg)
+
+K. 在美国看病如同钝刀子割肉。
+
+![](.evernote-content/FD23B5DB-8543-4281-820C-5B66669E8B3A/F954218D-B360-4A2F-BFFC-EDF59EA6A83C.jpg)
+
+L. 西雅图的近海海鲜为什么便宜。
+
+![](.evernote-content/FD23B5DB-8543-4281-820C-5B66669E8B3A/B289303C-8D5E-4E4C-99DE-6F0490F49C59.png)
+
+M. 卖儿子的尸体的钱拿去缴纳女儿卖淫而要交的税。
+
+![](.evernote-content/FD23B5DB-8543-4281-820C-5B66669E8B3A/EB1BD949-CA63-49D4-ABBC-6326A0937F7A.png)
+
+N. 美国程序员被裁员后撑不住，沦落为流浪汉，因经验不足，下大雨时住进了下水道，结果团灭。
+
+![](.evernote-content/FD23B5DB-8543-4281-820C-5B66669E8B3A/6882639B-AA68-456F-ABD9-4BA2DE760045.png)
+
+O. 斩杀线
+
+![](.evernote-content/FD23B5DB-8543-4281-820C-5B66669E8B3A/518B9BD8-1F97-41EA-A94E-FE950FE5A8A3.jpg)
+
+P. 卖血。
+
+![](.evernote-content/FD23B5DB-8543-4281-820C-5B66669E8B3A/9437E659-3A58-4A3C-B5A5-2ABF753E3B02.jpg)
+
+![](.evernote-content/FD23B5DB-8543-4281-820C-5B66669E8B3A/146A605B-7976-4042-A7BF-6F85499E10A7.png)
+
+Q. 孕妇和婴儿的药物测试数据哪里来。
+
+同样无法细说。想了解的评论区问吧。
+
+大意就是找一些穷困的孕妇、婴儿来做药物测试。
+
+有个毒瘾婴儿刚刚出生被母亲抛弃卖掉换钱，在保温箱疯狂哭泣拍打箱子。
+
+![](.evernote-content/FD23B5DB-8543-4281-820C-5B66669E8B3A/9653CC41-F295-4B0A-9AC6-0339A34FD384.png)
+
+为什么会有孕妇和婴儿的药物测试数据？细思极恐。
+
+![](.evernote-content/FD23B5DB-8543-4281-820C-5B66669E8B3A/A1418B28-A755-47F3-B0F2-9B29197C885B.png)![](.evernote-content/FD23B5DB-8543-4281-820C-5B66669E8B3A/3E467E94-33D9-4C89-8515-85D4019C9E7D.jpg)
+
+我国的医药研发人员看到这种情况都傻眼了。两个感叹：一是老美你特么的吃了这么多资源，怎么搞成这个样子？二是这名研发人员是做新药研发的。他感叹美国这么搞人体数据，我们中国怎么赶得上?!草。
+
+![](.evernote-content/FD23B5DB-8543-4281-820C-5B66669E8B3A/18B75387-BD94-457F-B79B-FA27D746C1FE.png)
+
+R. 迪斯科米。
+
+![](.evernote-content/FD23B5DB-8543-4281-820C-5B66669E8B3A/EE0C67F9-4211-4407-A3D7-6432243D5EE4.jpg)![](.evernote-content/FD23B5DB-8543-4281-820C-5B66669E8B3A/B16CF7C2-517D-48A5-8C39-F157183BDD88.jpg)S. 讽刺的是，部分美国人、美国老中、留学生，对这些美国的社会现象嗤之以鼻，说这些底层的人活该，是他们自己寻死，因此对这些美国社会现象没有任何怨言。![](.evernote-content/FD23B5DB-8543-4281-820C-5B66669E8B3A/9B670372-68DB-41B6-932E-9508742C4D67.jpg)而且还真有人出来洗地，再次验证了牢A说的：“美国人”都觉得这些人是活该死的，所以没有任何怨言。![](.evernote-content/FD23B5DB-8543-4281-820C-5B66669E8B3A/740E84E0-13C5-4ECA-A5DC-CC08CCD36ABD.png)这背后的逻辑就是，一个社会，只有把大部分人培养成利己主义者，并且划分出严格的阶级隔离，才能让大众对这些地狱般的社会现象充耳不闻处之泰然。![](.evernote-content/FD23B5DB-8543-4281-820C-5B66669E8B3A/F881C942-8855-4107-BBA6-6E69E218ACFB.jpg)总结![](.evernote-content/FD23B5DB-8543-4281-820C-5B66669E8B3A/130B0465-928E-4F36-9591-FC1936F1A6B6.jpg)![](.evernote-content/FD23B5DB-8543-4281-820C-5B66669E8B3A/1B9BD602-3489-4820-B49F-8EAF7324FE78.png)
+
+谁敢相信这些事情全部发生在现代美国？
+
+这是什么社会？
+
+这比人吃人的旧社会都不如。
+
+这大概是克苏鲁神话故事从书本中走进了现实。
+
+这时候你就会发现，平时看的《CSI犯罪现场调查》、玩的游戏《战锤40k》，以为里面的设定都是空想的幻想的，结果都是写实的纪录片。
+
+这时候你就会感慨到，小时候看的那些什么《雾都孤儿》《死魂灵》《我的叔叔于勒》《悲惨世界》《蟹工船》《许三观卖血部分稍记》，甚至描写法国失足妇女的《羊脂球》、微带点温馨荒诞的欧亨利短篇小说，都从文字中走进了现实。
+
+活在这样的世界里的人，觉得人间就是这样子。
+
+我们知道，人间可以不是这样子，也不该是这样子。
+
+![](.evernote-content/FD23B5DB-8543-4281-820C-5B66669E8B3A/C6EF3790-6AFD-41F5-9C08-6A4D72F37608.png)
+
+用这位网友的话作为结尾：我，一个普通青年，在此衷心感谢所有为我国的建立、发展做出奉献的老祖宗、先烈、前辈、长辈、国际友人、以及同辈们，感谢我党，感谢一切为我国人民谋福利，谋更好的生活的人们。人民万岁！
+
+（如果喜欢本文或者觉得本文有帮助，感谢赞赏一下以示肯定和鼓励。）
+
+修改于
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzAwNzY1NTYwMA==&mid=2453907961&idx=1&sn=1a760dc3ac208f53d9591cd09681f639&chksm=8d982d39494d8f8840403dd9e66b2a846c320d3f7c590917bcf48e15f02fe45bd2aa18cca74b&mpshare=1&scene=24&srcid=0517zTk6AH7OWkLhOg7xmHsX&sharer_shareinfo=570ca89d711edf239cefbffefea5ce4b&sharer_shareinfo_first=570ca89d711edf239cefbffefea5ce4b&clicktime=1779023474&enterid=1779023474&ascene=14&devicetype=iOS26.5&version=1800492a&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQ8dJXvW3ajMvUxYfLfoRAlRLTAQIE97dBBAEAAAAAAIj6OB2GcMMAAAAOpnltbLcz9gKNyK89dVj0gO33Hu1iU+L392fG0n7cLC9Zm+/HFQbJWMHbtLgN2jArWxV1+OvZ6mtEEdblZal9EFUrlTIx0wh7knHPUxotxEioWd2kZXXtJBPYgP2AB2NNPqbMKuUPfTD4mHDRT+4i+b8fgv5UKjutP0bR+XDRNyuRFDu4RItXqVbZXHKOVhlQDT6HDp8gJVSWgmOWv7c6ng5Lon6fA8r+FFC1fRsU11N0kBHo9VruDEUVH7E=&pass_ticket=tEYUh7uYsnLRlxETRNlGTHaXkuJdTw72GXJShiIhdj+Ittl67CiMmoONKR0qUNoY&wx_header=3)
+
+[📎 在印象笔记中打开](evernote:///view/207087/s1/fc9a138c-dd5e-4b8b-a0a7-8760be829b34/fc9a138c-dd5e-4b8b-a0a7-8760be829b34/)

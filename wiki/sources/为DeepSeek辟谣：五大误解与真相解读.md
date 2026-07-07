@@ -4,7 +4,7 @@ type: source
 created: 2026-06-17
 updated: 2026-06-17
 source: 印象笔记管理工具
-source_path: 印象笔记管理工具/为DeepSeek辟谣：五大误解与真相解读.html
+source_path: 印象笔记管理工具/为DeepSeek辟谣：五大误解与真相解读.md
 tags: [AI技术, 教育]
 updated: 2026-06-27
 updated: 2026-06-27

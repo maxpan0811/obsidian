@@ -4,7 +4,7 @@ type: source
 created: 2026-06-08
 updated: 2026-06-08
 sources: [https://mp.weixin.qq.com/s?__biz=MzIzMjQyNzQ5MA==&mid=224772...]
-source_path: 印象笔记管理工具/Cursor自研模型反超Opus 4.6！价格脚踝斩，氛围编程沸腾了.html
+source_path: 印象笔记管理工具/Cursor自研模型反超Opus 4.6！价格脚踝斩，氛围编程沸腾了.md
 tags: [cursor, composer, model, programming, ide]
 updated: 2026-06-27
 ---

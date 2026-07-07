@@ -3,7 +3,7 @@ title: 法律人的Claude Code教程（安装与配置）
 type: source
 created: 2026-06-08
 updated: 2026-06-08
-source_path: 印象笔记管理工具/法律人的Claude Code教程（一）（教不会我吃民法典！）：安装与配置.html
+source_path: 印象笔记管理工具/法律人的Claude Code教程（一）（教不会我吃民法典！）：安装与配置.md
 tags: [claude-code, tutorial, legal, series]
 updated: 2026-06-27
 updated: 2026-06-27

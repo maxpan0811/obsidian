@@ -2,7 +2,7 @@
 name: LLM Wiki是什么
 type: source
 tags: [LLM Wiki, Karpathy, 知识管理, 方法论]
-source_path: 印象笔记管理工具/AI大佬在用的LLM Wiki是什么？.html
+source_path: 印象笔记管理工具/AI大佬在用的LLM Wiki是什么？.md
 
 updated: 2026-06-27
 ---

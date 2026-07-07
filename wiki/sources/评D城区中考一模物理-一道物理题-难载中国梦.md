@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/评D城区中考一模物理：一道物理题，难载中国梦！.html
+source_path: 印象笔记管理工具/评D城区中考一模物理：一道物理题，难载中国梦！.md
 tags: [印象笔记]
 updated: 2026-06-27
 updated: 2026-06-27

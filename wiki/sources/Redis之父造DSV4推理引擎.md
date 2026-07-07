@@ -4,7 +4,7 @@ type: source
 created: 2026-06-08
 updated: 2026-06-08
 sources: [https://mp.weixin.qq.com/s?__biz=MzIzMjQyNzQ5MA==&mid=224772...]
-source_path: 印象笔记管理工具/Redis之父下场，给DeepSeek V4单独造了一台推理引擎.html
+source_path: 印象笔记管理工具/Redis之父下场，给DeepSeek V4单独造了一台推理引擎.md
 tags: [deepseek, redis, inference-engine, open-source, ecosystem]
 updated: 2026-06-27
 ---

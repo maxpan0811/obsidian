@@ -3,7 +3,7 @@ title: DeepSeek 全面指南，90% 的人都不知道的使用技巧（建议收
 type: source
 created: 2026-06-14
 updated: 2026-06-14
-source_path: 印象笔记管理工具/DeepSeek 全面指南，90% 的人都不知道的使用技巧（建议收藏）.html
+source_path: 印象笔记管理工具/DeepSeek 全面指南，90% 的人都不知道的使用技巧（建议收藏）.md
 tags: [印象笔记, AI/编程]
 updated: 2026-06-27
 ---

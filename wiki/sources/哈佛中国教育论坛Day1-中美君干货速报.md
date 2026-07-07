@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/哈佛中国教育论坛Day1，中美君干货速报.html
+source_path: 印象笔记管理工具/哈佛中国教育论坛Day1，中美君干货速报.md
 tags: [印象笔记]
 updated: 2026-06-27
 updated: 2026-06-27

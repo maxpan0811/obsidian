@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/假如韩红基金会那些事发生在H会，还会有这么多营销号洗地吗？.html
+source_path: 印象笔记管理工具/假如韩红基金会那些事发生在H会，还会有这么多营销号洗地吗？.md
 tags: [印象笔记]
 updated: 2026-06-27
 updated: 2026-06-27

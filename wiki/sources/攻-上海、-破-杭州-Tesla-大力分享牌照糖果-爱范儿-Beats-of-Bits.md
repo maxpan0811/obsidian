@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/“攻”上海、“破”杭州，Tesla 大力分享牌照糖果 - 爱范儿 · Beats of Bits.html
+source_path: 印象笔记管理工具/“攻”上海、“破”杭州，Tesla 大力分享牌照糖果 - 爱范儿 · Beats of Bits.md
 tags: [印象笔记]
 updated: 2026-06-27
 ---

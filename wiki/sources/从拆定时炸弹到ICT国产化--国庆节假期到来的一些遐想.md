@@ -3,7 +3,7 @@ title: 从拆定时炸弹到ICT国产化--国庆节假期到来的一些遐想
 type: source
 created: 2026-06-15
 updated: 2026-06-15
-source_path: 印象笔记管理工具/从拆定时炸弹到ICT国产化--国庆节假期到来的一些遐想.html
+source_path: 印象笔记管理工具/从拆定时炸弹到ICT国产化--国庆节假期到来的一些遐想.md
 tags: ["印象笔记", "科技/产业", "财经/产业"]
 updated: 2026-06-27
 updated: 2026-06-27

@@ -4,7 +4,7 @@ type: source
 created: 2026-06-17
 updated: 2026-06-17
 source: 印象笔记管理工具
-source_path: 印象笔记管理工具/英伟达一夜蒸发4万亿，Deepseek刺破美股泡沫？实质是中国AI彻底突破美国封锁.html
+source_path: 印象笔记管理工具/英伟达一夜蒸发4万亿，Deepseek刺破美股泡沫？实质是中国AI彻底突破美国封锁.md
 tags: [AI技术, 科技产业, 教育]
 updated: 2026-06-27
 updated: 2026-06-27

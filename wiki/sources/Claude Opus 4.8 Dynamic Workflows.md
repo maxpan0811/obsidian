@@ -4,7 +4,7 @@ type: source
 created: 2026-05-29
 updated: 2026-05-29
 sources: [刚刚，Claude Opus 4.8 上线，张口就说自己是 DeepSeek、Qwen.html]
-source_path: 印象笔记管理工具/刚刚，Claude Opus 4.8 上线，张口就说自己是 DeepSeek、Qwen.html
+source_path: 印象笔记管理工具/刚刚，Claude Opus 4.8 上线，张口就说自己是 DeepSeek、Qwen.md
 tags: [anthropic, claude, opus, funding, dynamic-workflows]
 updated: 2026-06-27
 updated: 2026-06-27

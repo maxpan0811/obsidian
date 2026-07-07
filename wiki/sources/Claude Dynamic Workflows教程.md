@@ -4,7 +4,7 @@ type: source
 created: 2026-06-08
 updated: 2026-06-08
 sources: [https://mp.weixin.qq.com/s?__biz=MzE5MTYyNjQzMg==&mid=224748...]
-source_path: 印象笔记管理工具/Anthropic 最强功能：Claude Dynamic Workflows 完整教程（含提示词）.html
+source_path: 印象笔记管理工具/Anthropic 最强功能：Claude Dynamic Workflows 完整教程（含提示词）.md
 tags: [claude, dynamic-workflows, subagent, orchestration]
 updated: 2026-06-27
 ---

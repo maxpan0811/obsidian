@@ -3,7 +3,7 @@ title: 🖥️ Claude远程操控电脑｜手把手教你开启Computer Use + Di
 type: source
 created: 2026-06-14
 updated: 2026-06-14
-source_path: 印象笔记管理工具/🖥️ Claude远程操控电脑｜手把手教你开启Computer Use + Dispatch.html
+source_path: 印象笔记管理工具/🖥️ Claude远程操控电脑｜手把手教你开启Computer Use + Dispatch.md
 tags: [印象笔记, AI/编程]
 updated: 2026-06-27
 updated: 2026-06-27

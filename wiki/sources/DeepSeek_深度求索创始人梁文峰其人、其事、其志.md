@@ -4,7 +4,7 @@ type: source
 created: 2026-06-17
 updated: 2026-06-17
 source: 印象笔记管理工具
-source_path: 印象笔记管理工具/DeepSeek 深度求索创始人梁文峰其人、其事、其志.html
+source_path: 印象笔记管理工具/DeepSeek 深度求索创始人梁文峰其人、其事、其志.md
 tags: [AI技术, 教育]
 updated: 2026-06-27
 ---

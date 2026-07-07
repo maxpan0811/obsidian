@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/为什么我把笔记应用从 Evernote 迁移到了 DEVONthink？.html
+source_path: 印象笔记管理工具/为什么我把笔记应用从 Evernote 迁移到了 DEVONthink？.md
 tags: [印象笔记]
 updated: 2026-06-27
 updated: 2026-06-27

@@ -3,7 +3,7 @@ title: 除了追番，你还可以在 B 站爱上学习
 type: source
 created: 2026-06-14
 updated: 2026-06-14
-source_path: 印象笔记管理工具/除了追番，你还可以在 B 站爱上学习.html
+source_path: 印象笔记管理工具/除了追番，你还可以在 B 站爱上学习.md
 tags: [印象笔记, 个人成长]
 updated: 2026-06-27
 updated: 2026-06-27

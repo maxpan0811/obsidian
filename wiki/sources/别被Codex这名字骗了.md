@@ -4,7 +4,7 @@ type: source
 created: 2026-05-29
 updated: 2026-05-29
 sources: [别被 Codex 这名字骗了 ，它现在比 ChatGPT 还好用.html]
-source_path: 印象笔记管理工具/别被 Codex 这名字骗了 ，它现在比 ChatGPT 还好用.html
+source_path: 印象笔记管理工具/别被 Codex 这名字骗了 ，它现在比 ChatGPT 还好用.md
 tags: [openai, codex, agent, mobile, remote]
 updated: 2026-06-27
 updated: 2026-06-27

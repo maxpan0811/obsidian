@@ -3,7 +3,7 @@ title: Notebook Navigator真的太好用了！
 type: source
 created: 2026-06-11
 updated: 2026-06-11
-source_path: 印象笔记管理工具/Notebook Navigator真的太好用了！.html
+source_path: 印象笔记管理工具/Notebook Navigator真的太好用了！.md
 tags: [obsidian, plugin, notebook-navigator, navigation]
 updated: 2026-06-27
 ---

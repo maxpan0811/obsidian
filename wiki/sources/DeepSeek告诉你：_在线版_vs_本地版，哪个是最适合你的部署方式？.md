@@ -4,7 +4,7 @@ type: source
 created: 2026-06-17
 updated: 2026-06-17
 source: 印象笔记管理工具
-source_path: 印象笔记管理工具/DeepSeek告诉你： 在线版 vs 本地版，哪个是最适合你的部署方式？.html
+source_path: 印象笔记管理工具/DeepSeek告诉你： 在线版 vs 本地版，哪个是最适合你的部署方式？.md
 tags: [AI技术, 教育]
 updated: 2026-06-27
 ---

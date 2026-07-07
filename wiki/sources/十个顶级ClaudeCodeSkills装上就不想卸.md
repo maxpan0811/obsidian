@@ -3,7 +3,7 @@ title: 十个顶级 Claude Code Skills，装上就不想卸
 type: source
 created: 2026-06-14
 updated: 2026-06-14
-source_path: 印象笔记管理工具/十个顶级 Claude Code Skills，装上就不想卸.html
+source_path: 印象笔记管理工具/十个顶级 Claude Code Skills，装上就不想卸.md
 tags: [印象笔记, AI/编程]
 updated: 2026-06-27
 updated: 2026-06-27

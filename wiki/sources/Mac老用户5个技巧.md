@@ -3,7 +3,7 @@ title: Mac老用户都在悄悄用的5个技巧，新手很容易忽略！
 type: source
 created: 2026-06-11
 updated: 2026-06-11
-source_path: 印象笔记管理工具/Mac老用户都在悄悄用的5个技巧，新手很容易忽略！.html
+source_path: 印象笔记管理工具/Mac老用户都在悄悄用的5个技巧，新手很容易忽略！.md
 tags: [mac, tips, productivity, spotlight, window-management]
 updated: 2026-06-27
 ---

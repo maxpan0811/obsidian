@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/中国eMRAM芯片流片成功，美国的算力墙碎了.html
+source_path: 印象笔记管理工具/中国eMRAM芯片流片成功，美国的算力墙碎了.md
 tags: [印象笔记]
 updated: 2026-06-27
 updated: 2026-06-27

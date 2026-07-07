@@ -3,7 +3,7 @@ title: 法律人的Claude Code教程（Skills）
 type: source
 created: 2026-06-08
 updated: 2026-06-08
-source_path: 印象笔记管理工具/法律人的Claude Code教程（六）（教不会我吃民法典！）：用Skills教Claude新本事.html
+source_path: 印象笔记管理工具/法律人的Claude Code教程（六）（教不会我吃民法典！）：用Skills教Claude新本事.md
 tags: [claude-code, tutorial, legal, series]
 updated: 2026-06-27
 updated: 2026-06-27

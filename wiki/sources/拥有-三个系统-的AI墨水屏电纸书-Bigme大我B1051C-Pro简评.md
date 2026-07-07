@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/拥有“三个系统”的AI墨水屏电纸书：Bigme大我B1051C Pro简评.html
+source_path: 印象笔记管理工具/拥有“三个系统”的AI墨水屏电纸书：Bigme大我B1051C Pro简评.md
 tags: [印象笔记]
 updated: 2026-06-27
 updated: 2026-06-27

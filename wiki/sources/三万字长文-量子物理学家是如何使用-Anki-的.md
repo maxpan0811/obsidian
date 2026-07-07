@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/【三万字长文】量子物理学家是如何使用 Anki 的？.html
+source_path: 印象笔记管理工具/【三万字长文】量子物理学家是如何使用 Anki 的？.md
 tags: [印象笔记]
 updated: 2026-06-27
 ---

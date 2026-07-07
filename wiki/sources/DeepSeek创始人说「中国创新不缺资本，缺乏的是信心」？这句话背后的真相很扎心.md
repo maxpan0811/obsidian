@@ -4,7 +4,7 @@ type: source
 created: 2026-06-17
 updated: 2026-06-17
 source: 印象笔记管理工具
-source_path: 印象笔记管理工具/DeepSeek创始人说「中国创新不缺资本，缺乏的是信心」？这句话背后的真相很扎心.html
+source_path: 印象笔记管理工具/DeepSeek创始人说「中国创新不缺资本，缺乏的是信心」？这句话背后的真相很扎心.md
 tags: [AI技术, 科技产业, 教育]
 updated: 2026-06-27
 ---

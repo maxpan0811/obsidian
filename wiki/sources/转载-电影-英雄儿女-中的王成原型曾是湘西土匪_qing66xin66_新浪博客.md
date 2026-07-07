@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/[转载] 电影《英雄儿女》中的王成原型曾是湘西土匪_qing66xin66_新浪博客.html
+source_path: 印象笔记管理工具/[转载] 电影《英雄儿女》中的王成原型曾是湘西土匪_qing66xin66_新浪博客.md
 tags: [印象笔记]
 updated: 2026-06-27
 ---

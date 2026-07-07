@@ -4,7 +4,7 @@ type: source
 created: 2026-06-08
 updated: 2026-06-08
 sources: [https://mp.weixin.qq.com/s?__biz=MzYzMjMzODE4NA==&mid=224749...]
-source_path: 印象笔记管理工具/Gemini Spark终于来了（简直疯狂！）.html
+source_path: 印象笔记管理工具/Gemini Spark终于来了（简直疯狂！）.md
 tags: [gemini, spark, google, ai-agent]
 updated: 2026-06-27
 ---

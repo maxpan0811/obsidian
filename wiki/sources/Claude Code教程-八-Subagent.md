@@ -2,7 +2,7 @@
 name: claude-code-ch8-subagent
 type: source
 tags: [claude-code, tutorial]
-source_path: 印象笔记管理工具/法律人的Claude Code教程（八）（教不会我吃民法典！）：Subagent—让 Claude Code学会分身术.html
+source_path: 印象笔记管理工具/法律人的Claude Code教程（八）（教不会我吃民法典！）：Subagent—让 Claude Code学会分身术.md
 
 updated: 2026-06-27
 updated: 2026-06-27

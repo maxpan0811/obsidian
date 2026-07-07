@@ -3,7 +3,7 @@ title: DeepSeek痛击美国东林党
 type: source
 created: 2026-06-14
 updated: 2026-06-14
-source_path: 印象笔记管理工具/DeepSeek痛击美国东林党.html
+source_path: 印象笔记管理工具/DeepSeek痛击美国东林党.md
 tags: [印象笔记, AI/编程]
 updated: 2026-06-27
 ---

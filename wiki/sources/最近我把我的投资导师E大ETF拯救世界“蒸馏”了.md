@@ -3,7 +3,7 @@ title: 最近我把我的投资导师E大「ETF拯救世界」“蒸馏”了
 type: source
 created: 2026-06-20
 updated: 2026-06-20
-source_path: 印象笔记管理工具/最近我把我的投资导师E大「ETF拯救世界」“蒸馏”了.html
+source_path: 印象笔记管理工具/最近我把我的投资导师E大「ETF拯救世界」“蒸馏”了.md
 tags: [投资, AI]
 updated: 2026-06-27
 updated: 2026-06-27

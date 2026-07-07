@@ -3,7 +3,7 @@ title: Codex 发布录制回放功能
 type: source
 created: 2026-06-20
 updated: 2026-06-20
-source_path: 印象笔记管理工具/Codex 发布录制回放功能.html
+source_path: 印象笔记管理工具/Codex 发布录制回放功能.md
 tags: [教育, 管理, 职场]
 updated: 2026-06-27
 ---

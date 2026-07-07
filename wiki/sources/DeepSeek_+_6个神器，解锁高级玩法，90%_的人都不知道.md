@@ -4,7 +4,7 @@ type: source
 created: 2026-06-17
 updated: 2026-06-17
 source: 印象笔记管理工具
-source_path: 印象笔记管理工具/DeepSeek + 6个神器，解锁高级玩法，90% 的人都不知道.html
+source_path: 印象笔记管理工具/DeepSeek + 6个神器，解锁高级玩法，90% 的人都不知道.md
 tags: [AI技术]
 updated: 2026-06-27
 ---

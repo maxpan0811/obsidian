@@ -4,7 +4,7 @@ type: source
 created: 2026-06-08
 updated: 2026-06-08
 sources: [https://mp.weixin.qq.com/s?__biz=MzA4NjEwMTQ1NA==&mid=245386...]
-source_path: 印象笔记管理工具/必看！3分钟学会Claude Cowork接入三方模型.html
+source_path: 印象笔记管理工具/必看！3分钟学会Claude Cowork接入三方模型.md
 tags: [claude, cowork, third-party-model, knowledge-worker]
 updated: 2026-06-27
 updated: 2026-06-27

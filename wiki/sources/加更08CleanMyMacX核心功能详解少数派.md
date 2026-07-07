@@ -3,7 +3,7 @@ title: 加更 08：CleanMyMac X 核心功能详解 - 少数派
 type: source
 created: 2026-06-14
 updated: 2026-06-14
-source_path: 印象笔记管理工具/加更 08：CleanMyMac X 核心功能详解 - 少数派.html
+source_path: 印象笔记管理工具/加更 08：CleanMyMac X 核心功能详解 - 少数派.md
 tags: [印象笔记, 其他]
 updated: 2026-06-27
 updated: 2026-06-27

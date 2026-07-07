@@ -4,7 +4,7 @@ type: source
 created: 2026-06-17
 updated: 2026-06-17
 source: 印象笔记管理工具
-source_path: 印象笔记管理工具/GitHub 上 23 万 star 的 5 个 RAG，我替你卸了 2 个（项目经理只装这 3 个）.html
+source_path: 印象笔记管理工具/GitHub 上 23 万 star 的 5 个 RAG，我替你卸了 2 个（项目经理只装这 3 个）.md
 tags: [AI技术]
 updated: 2026-06-27
 ---

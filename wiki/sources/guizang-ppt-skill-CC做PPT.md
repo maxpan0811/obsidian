@@ -4,7 +4,7 @@ type: source
 created: 2026-06-08
 updated: 2026-06-08
 sources: [https://github.com/op7418/guizang-ppt-skill]
-source_path: 印象笔记管理工具/Claude Code 做 PPT 也太猛了：一句话生成高颜值网页PPT.html
+source_path: 印象笔记管理工具/Claude Code 做 PPT 也太猛了：一句话生成高颜值网页PPT.md
 tags: [claude-code, ppt, skill, tool-recommendation, guizang]
 updated: 2026-06-27
 ---

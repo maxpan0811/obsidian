@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/中国造出了几亿的飞机，美国造出了几十的T恤，大家都有光明未来.html
+source_path: 印象笔记管理工具/中国造出了几亿的飞机，美国造出了几十的T恤，大家都有光明未来.md
 tags: [印象笔记]
 updated: 2026-06-27
 updated: 2026-06-27

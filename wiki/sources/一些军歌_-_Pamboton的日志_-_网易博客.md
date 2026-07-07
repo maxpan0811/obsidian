@@ -4,7 +4,7 @@ type: source
 created: 2026-06-17
 updated: 2026-06-17
 source: 印象笔记管理工具
-source_path: 印象笔记管理工具/一些军歌 - Pamboton的日志 - 网易博客.html
+source_path: 印象笔记管理工具/一些军歌 - Pamboton的日志 - 网易博客.md
 tags: [其他]
 updated: 2026-06-27
 updated: 2026-06-27

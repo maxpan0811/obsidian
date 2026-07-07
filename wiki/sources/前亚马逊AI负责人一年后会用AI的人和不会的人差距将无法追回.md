@@ -3,7 +3,7 @@ title: 前亚马逊AI负责人：一年后，会用AI的人和不会的人，差
 type: source
 created: 2026-06-14
 updated: 2026-06-14
-source_path: 印象笔记管理工具/前亚马逊AI负责人：一年后，会用AI的人和不会的人，差距将无法追回.html
+source_path: 印象笔记管理工具/前亚马逊AI负责人：一年后，会用AI的人和不会的人，差距将无法追回.md
 tags: [印象笔记, AI/编程]
 updated: 2026-06-27
 updated: 2026-06-27

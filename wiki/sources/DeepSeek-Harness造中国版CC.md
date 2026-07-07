@@ -4,7 +4,7 @@ type: source
 created: 2026-06-08
 updated: 2026-06-08
 sources: [https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=265128...]
-source_path: 印象笔记管理工具/模型之外，皆属Harness！DeepSeek终于出手：招人、组队、从零造一个中国版Claude Code.html
+source_path: 印象笔记管理工具/模型之外，皆属Harness！DeepSeek终于出手：招人、组队、从零造一个中国版Claude Code.md
 tags: [deepseek, harness, claude-code, agent, china-ai]
 updated: 2026-06-27
 updated: 2026-06-27

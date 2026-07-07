@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/咨询的原理 ｜ 为什么华为请 IBM 做咨询会超过 IBM.html
+source_path: 印象笔记管理工具/咨询的原理 ｜ 为什么华为请 IBM 做咨询会超过 IBM.md
 tags: [印象笔记]
 updated: 2026-06-27
 updated: 2026-06-27

@@ -3,7 +3,7 @@ title: 腾讯推出 AI 智能工作台 ima.copilot，打造你的个人知识库
 type: source
 created: 2026-06-11
 updated: 2026-06-11
-source_path: 印象笔记管理工具/腾讯推出 AI 智能工作台 ima.copilot，打造你的个人知识库.html
+source_path: 印象笔记管理工具/腾讯推出 AI 智能工作台 ima.copilot，打造你的个人知识库.md
 tags: [tencent, ima, ai-workstation, knowledge-base, product-review]
 updated: 2026-06-27
 updated: 2026-06-27

@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/《We Are The World》，如今唯中国有资格唱.html
+source_path: 印象笔记管理工具/《We Are The World》，如今唯中国有资格唱.md
 tags: [印象笔记]
 updated: 2026-06-27
 ---

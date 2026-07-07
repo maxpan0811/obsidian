@@ -4,7 +4,7 @@ type: source
 created: 2026-06-17
 updated: 2026-06-17
 source: 印象笔记管理工具
-source_path: 印象笔记管理工具/Mac 视觉史（三）：浴「水」重生的 Mac 视觉美学 - 少数派.html
+source_path: 印象笔记管理工具/Mac 视觉史（三）：浴「水」重生的 Mac 视觉美学 - 少数派.md
 tags: [其他]
 updated: 2026-06-27
 ---

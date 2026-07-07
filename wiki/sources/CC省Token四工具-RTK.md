@@ -4,7 +4,7 @@ type: source
 created: 2026-06-08
 updated: 2026-06-08
 sources: [https://mp.weixin.qq.com/s?__biz=MzI1NzA2MjU0Nw==&mid=265084...]
-source_path: 印象笔记管理工具/Claude Code烧光我的余额！这4个工具，让我的Token消耗直接减半！.html
+source_path: 印象笔记管理工具/Claude Code烧光我的余额！这4个工具，让我的Token消耗直接减半！.md
 tags: [claude-code, token, cost-optimization, tool-recommendation]
 updated: 2026-06-27
 ---

@@ -4,7 +4,7 @@ type: source
 created: 2026-06-17
 updated: 2026-06-17
 source: 印象笔记管理工具
-source_path: 印象笔记管理工具/全网最全 Kimi 使用指南，尤其是这六个高阶用法，90%的人都不知道，拿走不谢！.html
+source_path: 印象笔记管理工具/全网最全 Kimi 使用指南，尤其是这六个高阶用法，90%的人都不知道，拿走不谢！.md
 tags: [AI技术, 教育]
 updated: 2026-06-27
 updated: 2026-06-27

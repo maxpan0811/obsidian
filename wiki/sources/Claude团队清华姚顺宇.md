@@ -4,7 +4,7 @@ type: source
 created: 2026-06-08
 updated: 2026-06-08
 sources: [https://mp.weixin.qq.com/s?__biz=MzIzMjQyNzQ5MA==&mid=224772...]
-source_path: 印象笔记管理工具/Claude团队喜提清华物理学霸姚顺宇！两个Yao Shunyu都投身大模型了.html
+source_path: 印象笔记管理工具/Claude团队喜提清华物理学霸姚顺宇！两个Yao Shunyu都投身大模型了.md
 tags: [claude, anthropic, talent, china]
 updated: 2026-06-27
 ---

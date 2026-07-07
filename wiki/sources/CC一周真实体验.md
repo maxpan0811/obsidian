@@ -4,7 +4,7 @@ type: source
 created: 2026-06-08
 updated: 2026-06-08
 sources: [https://mp.weixin.qq.com/s?__biz=MzA4NjEwMTQ1NA==&mid=245386...]
-source_path: 印象笔记管理工具/🔥用Claude Code写了一周代码的真实感受.html
+source_path: 印象笔记管理工具/🔥用Claude Code写了一周代码的真实感受.md
 tags: [claude-code, review, experience, practical]
 updated: 2026-06-27
 updated: 2026-06-27

@@ -4,7 +4,7 @@ type: source
 created: 2026-06-17
 updated: 2026-06-17
 source: 印象笔记管理工具
-source_path: 印象笔记管理工具/华为昇腾推理DeepSeek-R1，性能比肩高端GPU，API免费无限量！潞晨自研推理引擎出手了.html
+source_path: 印象笔记管理工具/华为昇腾推理DeepSeek-R1，性能比肩高端GPU，API免费无限量！潞晨自研推理引擎出手了.md
 tags: [AI技术, 科技产业]
 updated: 2026-06-27
 updated: 2026-06-27

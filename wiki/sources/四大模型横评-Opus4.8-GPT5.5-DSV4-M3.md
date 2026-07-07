@@ -4,7 +4,7 @@ type: source
 created: 2026-06-08
 updated: 2026-06-08
 sources: [https://mp.weixin.qq.com/s?__biz=MzIwMTU5OTQ1Nw==&mid=265372...]
-source_path: 印象笔记管理工具/横评Opus 4.8、GPT-5.5、DeepSeek V4、MiniMax M3，356元测出来的真实排名.html
+source_path: 印象笔记管理工具/横评Opus 4.8、GPT-5.5、DeepSeek V4、MiniMax M3，356元测出来的真实排名.md
 tags: [model-review, benchmark, claude, gpt, deepseek, minimax]
 updated: 2026-06-27
 updated: 2026-06-27

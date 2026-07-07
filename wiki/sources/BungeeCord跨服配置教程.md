@@ -3,7 +3,7 @@ title: BungeeCord跨服配置教程
 type: source
 created: 2026-06-11
 updated: 2026-06-11
-source_path: 印象笔记管理工具/BungeeCord跨服配置教程 - 联机教程 - Minecraft(我的世界)中文论坛 -.html
+source_path: 印象笔记管理工具/BungeeCord跨服配置教程 - 联机教程 - Minecraft(我的世界)中文论坛 -.md
 tags: [minecraft, bungeecord, server, tutorial]
 updated: 2026-06-27
 ---

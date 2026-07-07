@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/清华大学美女博导颜宁教授这些年拿到的NSFC项目.html
+source_path: 印象笔记管理工具/清华大学美女博导颜宁教授这些年拿到的NSFC项目.md
 tags: [印象笔记]
 updated: 2026-06-27
 updated: 2026-06-27

@@ -4,7 +4,7 @@ type: source
 created: 2026-06-08
 updated: 2026-06-08
 sources: [https://mp.weixin.qq.com/s?__biz=MzIzMzQyMzUzNw==&mid=224751...]
-source_path: 印象笔记管理工具/Claude Code 在大型代码库里的最佳实践.html
+source_path: 印象笔记管理工具/Claude Code 在大型代码库里的最佳实践.md
 tags: [claude-code, best-practice, monorepo, large-codebase, architecture]
 updated: 2026-06-27
 ---

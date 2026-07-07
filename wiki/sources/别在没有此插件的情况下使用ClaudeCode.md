@@ -3,7 +3,7 @@ title: 别在没有此插件的情况下使用 Claude Code。
 type: source
 created: 2026-06-14
 updated: 2026-06-14
-source_path: 印象笔记管理工具/别在没有此插件的情况下使用 Claude Code。.html
+source_path: 印象笔记管理工具/别在没有此插件的情况下使用 Claude Code。.md
 tags: [印象笔记, AI/编程]
 updated: 2026-06-27
 updated: 2026-06-27

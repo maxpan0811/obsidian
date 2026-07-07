@@ -3,7 +3,7 @@ title: 📺 用 Obsidian 看油管，我再也回不去了
 type: source
 created: 2026-06-20
 updated: 2026-06-20
-source_path: 印象笔记管理工具/📺 用 Obsidian 看油管，我再也回不去了.html
+source_path: 印象笔记管理工具/📺 用 Obsidian 看油管，我再也回不去了.md
 tags: [教育]
 updated: 2026-06-27
 updated: 2026-06-27

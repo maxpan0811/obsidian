@@ -4,7 +4,7 @@ type: source
 created: 2026-06-08
 updated: 2026-06-08
 sources: [https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&mid=265108...]
-source_path: 印象笔记管理工具/全球最臭名昭著的论坛，发现了 AI 最重要的「思考」能力.html
+source_path: 印象笔记管理工具/全球最臭名昭著的论坛，发现了 AI 最重要的「思考」能力.md
 tags: [ai-thinking, tokenization, claude, opus-4]
 updated: 2026-06-27
 updated: 2026-06-27

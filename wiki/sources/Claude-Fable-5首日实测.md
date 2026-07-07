@@ -3,7 +3,7 @@ title: Claude Fable 5首日实测，杀疯了…
 type: source
 created: 2026-06-11
 updated: 2026-06-11
-source_path: 印象笔记管理工具/Claude Fable 5首日实测，杀疯了….html
+source_path: 印象笔记管理工具/Claude Fable 5首日实测，杀疯了….md
 tags: [anthropic, claude, fable-5, ai-model, review]
 updated: 2026-06-27
 ---

@@ -3,7 +3,7 @@ title: Claude Code + Obsidian 四层进阶：从会话管理到知识库系统
 type: source
 created: 2026-06-08
 updated: 2026-06-08
-source_path: 印象笔记管理工具/从会话管理到知识库，Claude Code+Obsidian 的四层进阶指南.html
+source_path: 印象笔记管理工具/从会话管理到知识库，Claude Code+Obsidian 的四层进阶指南.md
 tags: [obsidian, knowledge-base, ai, tutorial]
 updated: 2026-06-27
 updated: 2026-06-27

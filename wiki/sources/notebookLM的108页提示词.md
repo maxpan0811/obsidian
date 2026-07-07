@@ -3,7 +3,7 @@ title: notebookLM的108页提示词存下吧，很难找全
 type: source
 created: 2026-06-14
 updated: 2026-06-14
-source_path: 印象笔记管理工具/notebookLM的108页提示词存下吧，很难找全.html
+source_path: 印象笔记管理工具/notebookLM的108页提示词存下吧，很难找全.md
 tags: [印象笔记, AI, Google, prompt]
 updated: 2026-06-27
 ---

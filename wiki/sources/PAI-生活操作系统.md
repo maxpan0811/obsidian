@@ -4,7 +4,7 @@ type: source
 created: 2026-06-08
 updated: 2026-06-08
 sources: [https://mp.weixin.qq.com/s?__biz=MzkwMzY1Mjg5MQ==&mid=224748...]
-source_path: 印象笔记管理工具/PAI：把 Claude Code 改造成你的生活操作系统.html
+source_path: 印象笔记管理工具/PAI：把 Claude Code 改造成你的生活操作系统.md
 tags: [claude-code, pai, personal-ai, life-os, infrastructure]
 updated: 2026-06-27
 ---

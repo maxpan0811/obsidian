@@ -4,7 +4,7 @@ type: source
 created: 2026-06-08
 updated: 2026-06-08
 sources: [https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&mid=265103...]
-source_path: 印象笔记管理工具/刚刚，OpenAI 再出招反击 DeepSeek！「深度研究」在这个终极测试超越 R1.html
+source_path: 印象笔记管理工具/刚刚，OpenAI 再出招反击 DeepSeek！「深度研究」在这个终极测试超越 R1.md
 tags: [openai, deepseek, competition, deep-research]
 updated: 2026-06-27
 updated: 2026-06-27

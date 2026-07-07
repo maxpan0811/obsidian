@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/传统GDP已经不足以描述中国经济？从未有人把中美经济分解得如此露骨.html
+source_path: 印象笔记管理工具/传统GDP已经不足以描述中国经济？从未有人把中美经济分解得如此露骨.md
 tags: [印象笔记]
 updated: 2026-06-27
 updated: 2026-06-27

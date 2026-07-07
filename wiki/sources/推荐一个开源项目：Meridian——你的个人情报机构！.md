@@ -4,7 +4,7 @@ type: source
 created: 2026-06-17
 updated: 2026-06-17
 source: 印象笔记管理工具
-source_path: 印象笔记管理工具/推荐一个开源项目：Meridian——你的个人情报机构！.html
+source_path: 印象笔记管理工具/推荐一个开源项目：Meridian——你的个人情报机构！.md
 tags: [网文推荐, AI技术]
 updated: 2026-06-27
 updated: 2026-06-27

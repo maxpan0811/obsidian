@@ -4,7 +4,7 @@ type: source
 created: 2026-06-17
 updated: 2026-06-17
 source: 印象笔记管理工具
-source_path: 印象笔记管理工具/AI时代Palantir+OpenAI+Anthropic 的 FDE 岗，我发现普通人有 3 条路转过去.html
+source_path: 印象笔记管理工具/AI时代Palantir+OpenAI+Anthropic 的 FDE 岗，我发现普通人有 3 条路转过去.md
 tags: [AI技术, 教育]
 updated: 2026-06-27
 ---

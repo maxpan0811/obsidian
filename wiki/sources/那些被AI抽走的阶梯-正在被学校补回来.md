@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/那些被AI抽走的阶梯，正在被学校补回来.html
+source_path: 印象笔记管理工具/那些被AI抽走的阶梯，正在被学校补回来.md
 tags: [印象笔记]
 updated: 2026-06-27
 updated: 2026-06-27

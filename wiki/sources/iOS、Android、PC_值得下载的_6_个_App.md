@@ -4,7 +4,7 @@ type: source
 created: 2026-06-17
 updated: 2026-06-17
 source: 印象笔记管理工具
-source_path: 印象笔记管理工具/iOS、Android、PC 值得下载的 6 个 App.html
+source_path: 印象笔记管理工具/iOS、Android、PC 值得下载的 6 个 App.md
 tags: [AI技术]
 updated: 2026-06-27
 ---

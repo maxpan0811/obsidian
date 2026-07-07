@@ -3,7 +3,7 @@ title: Code is not cheap：Matt Pocock 给 vibe coder 的 5 条提醒
 type: source
 created: 2026-06-14
 updated: 2026-06-14
-source_path: 印象笔记管理工具/Code is not cheap：Matt Pocock 给 vibe coder 的 5 条提醒.html
+source_path: 印象笔记管理工具/Code is not cheap：Matt Pocock 给 vibe coder 的 5 条提醒.md
 tags: [印象笔记, AI/编程]
 updated: 2026-06-27
 ---

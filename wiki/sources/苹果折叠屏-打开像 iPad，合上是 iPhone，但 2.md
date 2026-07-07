@@ -1,0 +1,34 @@
+---
+title: 苹果折叠屏：打开像 iPad，合上是 iPhone，但 2
+type: source
+created: 2026-07-06
+updated: 2026-07-06
+source_path: 印象笔记管理工具/苹果折叠屏：打开像 iPad，合上是 iPhone，但 2.md
+tags: [evernote, impression, yinxiang]
+---
+
+# 苹果折叠屏：打开像 iPad，合上是 iPhone，但...
+
+---
+
+原文链接: [https://mp.weixin.qq.com/s?\_\_biz=MjgzMTAwODI0MA==&mid=265244...](https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&mid=2652447350&idx=1&sn=04f9dc760430386b855394cac36d3268&chksm=9a81d1cbedb3c9c667d60cb15188ea229c73f2984d9d54da3d4c181afbd4944da625a34dc8e2&scene=90&xtrack=1&req_id=1773298216045530&sessionid=1773298302&subscene=272&clicktime=1773298374&enterid=1773298374&flutter_pos=3&biz_enter_id=4&ranksessionid=1773298307&jumppath=1001_1773298261842,1104_1773298303428,20020_1773298307285,1104_1773298308509&jumppathdepth=4&ascene=56&devicetype=iOS26.3.1&version=1800452f&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQjlW+G5c3LmD0DcNTGfyVLxLVAQIE97dBBAEAAAAAAIbSNr8n7YoAAAAOpnltbLcz9gKNyK89dVj0Iz0Rt8nAgOnrn2xKrN2EBItVAD4R86sqsL4acac8c+X6hVQrbkSd3hl9QD0ODPlQECD5gamESuxekkOpNw2Cj72jiTL7U1LckCfe/0osbIdraN/9ug/TqZTR1aaISC+JXhxTK62gZ0QpiRGLvAkbaib6f1ASPU3pOBtek9fXRrTIeTAjrCukFKrEWeMl79tPwVMR64RJNcpRywyBdFdAJc4D3eMSHJZJ4lb42C8OZg==&pass_ticket=otO/onXtwZ27Rkx4lUUtpjo4+10oSgcq57NN4JTa6CC1pDvKr1jw2U4xGggQZVo6&wx_header=3)
+
+Original发现明日产品的爱范儿
+
+每年的 iPhone 春季发布会一结束，秋季发布会的新 iPhone 爆料往往就八九不离十了。今年的看点，当然是折叠屏 iPhone，有消息称，苹果将为这款产品冠上 iPhone Ultra 的名字。阔折叠、无折痕以及高达 2000 美元的售价，爱范儿此前也多次报道过。而据彭博社记者 Mark Gurman 最新爆料，折叠 iPhone 展开时，就是一台小 iPad。![](.evernote-content/A2B304AC-3BBE-4837-97A4-EDA9683DF2FB/3E7A2E56-08A3-47AE-BAE0-09239211AF9F.jpg)假想图由 Gemini 生成折叠是 iPhone，展开像 iPad苹果迟迟没有推出折叠屏手机，主要有两大顾虑——内屏太窄，折痕太深。综合此前的产线动静来看，苹果打算用一台横向拉宽的内屏来解决第一个痛点——折叠 iPhone 的外屏和内屏有可能落在 5.5 寸和 7.8 寸附近，并且内屏不是常见的正方形，而是一块长宽比约为 1.4 比 1 的宽屏。**这个形态有些眼熟。****如果你对折叠屏市场有所了解，脑海里大概已经浮现出了初代 Pixel Fold 或是OPPO Find N2、华为 Pura X 的轮廓，明显有别于三星细长的遥控器造型。**也就是说一旦这台手机完全展开，你面对的几乎就是一块尺寸等同于 iPad mini 的内屏。![](.evernote-content/A2B304AC-3BBE-4837-97A4-EDA9683DF2FB/16F3CAB3-619A-4F62-8BF8-FF01D34547F6.png)显然，以阔折叠形态，换取展开后较宽的内屏的固然没错，但又一个新问题顺理成章地摆在苹果面前：较宽的内屏意味着它的形态与传统手机有非常大的出入，怎么让这个形态好用？**根据 Mark Gurman 的爆料来看，苹果的对策，是给现有的 iOS 「动手术」——苹果打算沿着屏幕左侧加入侧边栏，并且要求开发者把 iOS 的界面适配成类似 iPad 的横屏模样。**同时，Android 手机让 iPhone 用户眼馋了多年的「分屏」功能也终于要落地了。在这块宽阔的内屏上，同时并排跑两个 app 将成为最基础的常规操作。**不过，这个类 iPad 的解决方案，并不意味着折叠 iPhone 上面会跑一个 iPadOS。爆料中直接指出苹果并没有打算将 iPadOS 引入折叠 iPhone，打不开原生的 iPad 软件，更不会有复杂的窗口化悬浮功能。而是维持 iOS 系统的简单多任务处理系统，在这个基础上打造更类似 iPad 的界面。**![](.evernote-content/A2B304AC-3BBE-4837-97A4-EDA9683DF2FB/74F4287C-8CE4-4FEE-BE76-DB586B484B46.jpg)iPhone 与 iPad，依旧泾渭分明。说到底，面对这台即将问世的设备，苹果恪守的逻辑底线极其清晰：在这台即将到来的折叠 iPhone 上，合上必须是干练的 iPhone，展开则像一台小 iPad。Touch ID 回归，挖孔屏登场聊完了软件生态的新消息，我们再看一下苹果的第二个顾虑：折痕太重。折痕问题老生常谈，虽然从长久以来的读者反馈来看，这个问题往往是「用者无心，旁观者嫌弃」，一旦屏幕亮起，真正沉浸在内容里的人很难分心去注意那条沟壑。但对于苹果这家极其注重视觉效果的公司，的确很难忍受一条横跨屏幕的沟壑。我们之前多次扒过苹果产线端的专利链条，他们与老对手三星达成了合作。**为了这块屏幕，苹果砸下重金，逼着三星放弃了沿用多年的 Y-OCTA 封装工艺，转而为苹果单独开发了一套 In-cell 触控方案。简单来说，这项技术直接把触摸传感器塞进了发光像素内部，变相削减了屏幕薄膜的厚度。**![](.evernote-content/A2B304AC-3BBE-4837-97A4-EDA9683DF2FB/E683AF90-8090-4AAE-B23B-9D8DAD83664E.png)**在折叠屏的物理世界里，屏幕哪怕薄上一微米，弯折时产生的应力就会成倍减少。更薄的屏幕结构，意味着更小的折叠阻力，也给光学胶留出了更充裕的填充空间。这正是苹果敢于叫板「无折痕」的核心底牌所在。**同时，苹果也很注重折叠屏幕的耐用性，希望解决折叠屏普遍存在的可靠性顾虑。具体的技术细节可以看看这篇文章：[苹果怎么造「无折痕」iPhone？](https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&mid=2652423800&idx=1&sn=a4510a9c8cea7a2adacd47933d79987b&scene=21#wechat_redirect)事实上，许多折叠屏手机都在攻克折痕问题，我们已经看到了 OPPO Find N6 的解决方案，而下半年的三星 Galaxy Z Fold 8，大概率也会将「无折痕」作为重点。![](.evernote-content/A2B304AC-3BBE-4837-97A4-EDA9683DF2FB/22BB3AFF-4F82-40A6-A485-89A1445C9E6F.jpg)OPPO Find N6两大核心痛点都有了应对方案，这台机器的物理轮廓其实已经相当清晰。但当我们把目光扫向机身细节时，会发现在这台折叠 iPhone 上，苹果还是做了不少妥协。**根据此前的爆料，折叠 iPhone 的展开厚度约为 4.5mm，比目前的 iPhone Air 还要薄。****而最新的爆料指出，因为机身结构问题，折叠 iPhone 将舍弃 Face ID 为轻薄让路，转而采用 Touch ID 方案，集成在侧边电源键上。**自 2022 年的第三代 iPhone SE 之后，实体指纹解锁阔别主力机型多年，终于以一种无可奈何却又极其合理的姿态完成了回归。随着 Face ID 的离开，我们熟悉的灵动岛也将不复存在。**内外屏的前置摄像头，都换成了占地面积更小的单挖孔。有消息称苹果其实也在内屏上挣扎过，同时测试了屏下摄像头方案，但最终因为画质原因还是选择了挖孔。**但好消息是，灵动岛的交互功能没有随着物理结构一起消失，系统提醒、实时活动等信息将依旧以你熟悉的方式运行。![](.evernote-content/A2B304AC-3BBE-4837-97A4-EDA9683DF2FB/BA8BE2AF-138C-4972-B4BA-C34234F46E6A.jpg)翻看机身背面，这台标价昂贵的机器在影像模组上也做了减法。Mark Gurman 称折叠 iPhone 将比目前的 Pro 系列少一颗摄像头，我们推测被砍掉的，大概率是极其吃厚度和空间的长焦。从最近密集爆料的 CAD 图来看，这套双摄排布基本遵循 iPhone Air 的置顶高原设计，与假想中 Air 2 的形态不谋而合。![](.evernote-content/A2B304AC-3BBE-4837-97A4-EDA9683DF2FB/CE64865A-497E-43A4-86F0-B33960D0D61B.jpg)顺着这个思路往下看，实体 SIM 卡槽在这台机器上也没有了容身之所。此前的爆料指出，折叠 iPhone 将全面倒向 eSIM。藏在机身深处的，是苹果打磨已久的自研 C2 基带以及 N1 通讯芯片。显然，这台 iPhone 虽然亮点不少，但诸多妥协，也难以撑起 iPhone Ultra 的名号。更重要的是，新形态的产品，通常也会拉低利润率。**有华尔街的分析师算过一笔账，哪怕在极力控制支出的情况下，这台折叠 iPhone 的 BOM 成本可能会高达 800 美元，远超常规直板机型四五百美元的区间。****极高的成本带来了高昂的定价，爆料指出它的售价定在 2000 美元，将大幅刷新 iPhone 的起售价。**![](.evernote-content/A2B304AC-3BBE-4837-97A4-EDA9683DF2FB/0C98A690-545E-4238-88B9-B5716BD4D360.png)比定价更让人喘不过气来的，是迫在眉睫的内部增长压力。主打轻薄的 iPhone Air 试水遇冷，颠覆性的 AI 硬件又迟迟不见真容。在这样一个青黄不接的节骨眼上，传统的 iPhone 依然是撑起这座万亿商业帝国的绝对承重墙，不容有失。作为家族里最昂贵的新面孔，折叠 iPhone 自然被推到了聚光灯下，扛起为苹果寻找新增长点的重任。![](.evernote-content/A2B304AC-3BBE-4837-97A4-EDA9683DF2FB/60C9B462-9F37-4663-855C-3B7ABAEC46D9.png)爱范儿过往的报道中，一直反复强调这个判断：苹果选择进入一个市场的逻辑，从来不是基于「我也能做」，而是「我能做对」，并且做好。但「后发制人」的经验，在折叠 iPhone 上也需要打个问号——折叠屏早就不是什么新鲜形态。各大手机厂商已经在屏幕材质、铰链齿轮、机身重量上卷到极致，把折叠屏从一个易碎的试验品，打造成了流水线上的成熟商品。**距离三星推出首款折叠屏手机已经过去了七年，连三折叠这样「秀肌肉」的产品都已经上市一年多了，此时苹果的折叠屏上市，多少会给人一种跟风的感觉。****在这个早已被透支了新鲜感的赛道上，单靠一块更平整的折叠屏或是一个适配大屏的系统，真的能让 iPhone Ultra 复刻 iPhone 6 Plus 的成功？**答案还不明朗。
+
+文｜周奕旨
+
+![](.evernote-content/A2B304AC-3BBE-4837-97A4-EDA9683DF2FB/3C54526A-779D-472B-ACDA-6D7CF043856F.png)
+
+我们正在招募伙伴
+
+**📮 简历投递邮箱**  
+hr@ifanr.com**✉️ 邮件标题**  
+「姓名 + 岗位名称」（请随简历附上项目 / 作品或相关链接）[更多岗位信息请点击这里🔗](https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&mid=2652396877&idx=2&sn=dfef25453a6bf0dca147b0adca3deaf7&scene=21#wechat_redirect)![](.evernote-content/A2B304AC-3BBE-4837-97A4-EDA9683DF2FB/DDE0D618-6B4F-4502-98F4-E5EFA07D2AC5.png)
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&mid=2652447350&idx=1&sn=04f9dc760430386b855394cac36d3268&chksm=9a81d1cbedb3c9c667d60cb15188ea229c73f2984d9d54da3d4c181afbd4944da625a34dc8e2&scene=90&xtrack=1&req_id=1773298216045530&sessionid=1773298302&subscene=272&clicktime=1773298374&enterid=1773298374&flutter_pos=3&biz_enter_id=4&ranksessionid=1773298307&jumppath=1001_1773298261842,1104_1773298303428,20020_1773298307285,1104_1773298308509&jumppathdepth=4&ascene=56&devicetype=iOS26.3.1&version=1800452f&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQjlW+G5c3LmD0DcNTGfyVLxLVAQIE97dBBAEAAAAAAIbSNr8n7YoAAAAOpnltbLcz9gKNyK89dVj0Iz0Rt8nAgOnrn2xKrN2EBItVAD4R86sqsL4acac8c+X6hVQrbkSd3hl9QD0ODPlQECD5gamESuxekkOpNw2Cj72jiTL7U1LckCfe/0osbIdraN/9ug/TqZTR1aaISC+JXhxTK62gZ0QpiRGLvAkbaib6f1ASPU3pOBtek9fXRrTIeTAjrCukFKrEWeMl79tPwVMR64RJNcpRywyBdFdAJc4D3eMSHJZJ4lb42C8OZg==&pass_ticket=otO/onXtwZ27Rkx4lUUtpjo4+10oSgcq57NN4JTa6CC1pDvKr1jw2U4xGggQZVo6&wx_header=3)
+
+[📎 在印象笔记中打开](evernote:///view/207087/s1/ce80dacf-6f72-42c7-842b-3e74669ffa39/ce80dacf-6f72-42c7-842b-3e74669ffa39/)

@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/Google Earth VR正式发布：震撼地球就在眼前-今日头条.html
+source_path: 印象笔记管理工具/Google Earth VR正式发布：震撼地球就在眼前-今日头条.md
 tags: [印象笔记]
 updated: 2026-06-27
 ---

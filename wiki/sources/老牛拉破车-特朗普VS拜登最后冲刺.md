@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/老牛拉破车，特朗普VS拜登最后冲刺！.html
+source_path: 印象笔记管理工具/老牛拉破车，特朗普VS拜登最后冲刺！.md
 tags: [印象笔记]
 updated: 2026-06-27
 updated: 2026-06-27

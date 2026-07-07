@@ -4,7 +4,7 @@ type: source
 created: 2026-05-29
 updated: 2026-05-29
 sources: [Claude Code：为何HTML比Markdown更有效？.html]
-source_path: 印象笔记管理工具/Claude Code：为何HTML比Markdown更有效？.html
+source_path: 印象笔记管理工具/Claude Code：为何HTML比Markdown更有效？.md
 tags: [claude-code, html, markdown, best-practice]
 updated: 2026-06-27
 ---

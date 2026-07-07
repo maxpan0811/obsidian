@@ -3,7 +3,7 @@ title: 对华为mate 60 Pro的一些想法
 type: source
 created: 2026-06-15
 updated: 2026-06-15
-source_path: 印象笔记管理工具/对华为mate 60 Pro的一些想法.html
+source_path: 印象笔记管理工具/对华为mate 60 Pro的一些想法.md
 tags: ["印象笔记", "科技/产业", "财经/产业"]
 updated: 2026-06-27
 updated: 2026-06-27

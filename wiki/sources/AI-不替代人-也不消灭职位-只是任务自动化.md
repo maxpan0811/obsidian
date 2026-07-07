@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/AI 不替代人，也不消灭职位，只是任务自动化.html
+source_path: 印象笔记管理工具/AI 不替代人，也不消灭职位，只是任务自动化.md
 tags: [印象笔记, AI]
 updated: 2026-06-27
 ---

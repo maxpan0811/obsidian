@@ -3,7 +3,7 @@ title: 日本人均GDP在亚洲的领先还能持续多久？
 type: source
 created: 2026-06-15
 updated: 2026-06-15
-source_path: 印象笔记管理工具/日本人均GDP在亚洲的领先还能持续多久？.html
+source_path: 印象笔记管理工具/日本人均GDP在亚洲的领先还能持续多久？.md
 tags: ["印象笔记", "财经/产业"]
 updated: 2026-06-27
 updated: 2026-06-27

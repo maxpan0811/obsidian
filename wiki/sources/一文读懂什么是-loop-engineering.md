@@ -3,7 +3,7 @@ title: 一文读懂什么是 loop engineering
 type: source
 created: 2026-06-20
 updated: 2026-06-20
-source_path: 印象笔记管理工具/一文读懂什么是 loop engineering.html
+source_path: 印象笔记管理工具/一文读懂什么是 loop engineering.md
 tags: [编程, AI]
 updated: 2026-06-27
 updated: 2026-06-27

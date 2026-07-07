@@ -4,7 +4,7 @@ type: source
 created: 2026-05-29
 updated: 2026-05-29
 sources: [DeepSeek陈德里开发自动研究Skill，写一篇论文人类只动脑2小时.html]
-source_path: 印象笔记管理工具/DeepSeek陈德里开发自动研究Skill，写一篇论文人类只动脑2小时.html
+source_path: 印象笔记管理工具/DeepSeek陈德里开发自动研究Skill，写一篇论文人类只动脑2小时.md
 tags: [ai, agent, research, deepseek, autonomy]
 updated: 2026-06-27
 ---

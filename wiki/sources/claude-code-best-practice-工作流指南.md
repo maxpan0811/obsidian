@@ -4,7 +4,7 @@ type: source
 created: 2026-06-08
 updated: 2026-06-08
 sources: [https://github.com/shanraisshan/claude-code-best-practice]
-source_path: 印象笔记管理工具/1.7万星，claude-code-best-practice：Claude Code 工作流指南.html
+source_path: 印象笔记管理工具/1.7万星，claude-code-best-practice：Claude Code 工作流指南.md
 tags: [claude-code, workflow, best-practice, command, skill, agent]
 updated: 2026-06-27
 ---

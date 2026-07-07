@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/携程Q2财报应用AI Agent 向全球投资人展现旅游业AI新图景.html
+source_path: 印象笔记管理工具/携程Q2财报应用AI Agent 向全球投资人展现旅游业AI新图景.md
 tags: [印象笔记, 旅游, OTA]
 updated: 2026-06-27
 updated: 2026-06-27

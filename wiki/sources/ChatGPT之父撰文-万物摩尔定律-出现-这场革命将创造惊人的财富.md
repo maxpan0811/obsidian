@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/ChatGPT之父撰文：《万物摩尔定律》出现，这场革命将创造惊人的财富.html
+source_path: 印象笔记管理工具/ChatGPT之父撰文：《万物摩尔定律》出现，这场革命将创造惊人的财富.md
 tags: [印象笔记]
 updated: 2026-06-27
 ---

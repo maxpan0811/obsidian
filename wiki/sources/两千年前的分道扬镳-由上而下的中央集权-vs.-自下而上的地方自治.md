@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/两千年前的分道扬镳 - 由上而下的中央集权 vs. 自下而上的地方自治.html
+source_path: 印象笔记管理工具/两千年前的分道扬镳 - 由上而下的中央集权 vs. 自下而上的地方自治.md
 tags: [印象笔记]
 updated: 2026-06-27
 updated: 2026-06-27

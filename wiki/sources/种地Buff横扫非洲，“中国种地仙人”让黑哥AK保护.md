@@ -4,7 +4,7 @@ type: source
 created: 2026-06-17
 updated: 2026-06-17
 source: 印象笔记管理工具
-source_path: 印象笔记管理工具/种地Buff横扫非洲，“中国种地仙人”让黑哥AK保护.html
+source_path: 印象笔记管理工具/种地Buff横扫非洲，“中国种地仙人”让黑哥AK保护.md
 tags: [政经, 科技产业]
 updated: 2026-06-27
 updated: 2026-06-27

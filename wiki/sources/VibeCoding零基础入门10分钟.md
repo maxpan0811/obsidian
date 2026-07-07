@@ -3,7 +3,7 @@ title: Vibe Coding 零基础入门指南：10 分钟学会 AI 编程
 type: source
 created: 2026-06-08
 updated: 2026-06-08
-source_path: 印象笔记管理工具/Vibe Coding 零基础入门指南：10分钟学会AI编程.html
+source_path: 印象笔记管理工具/Vibe Coding 零基础入门指南：10分钟学会AI编程.md
 tags: [vibe-coding, ai-programming, tutorial]
 updated: 2026-06-27
 ---

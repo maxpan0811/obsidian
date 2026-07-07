@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/“同志们跟我冲” VS “兄弟们给我上” 这就是人民军队必胜的原因.html
+source_path: 印象笔记管理工具/“同志们跟我冲” VS “兄弟们给我上” 这就是人民军队必胜的原因.md
 tags: [印象笔记]
 updated: 2026-06-27
 ---

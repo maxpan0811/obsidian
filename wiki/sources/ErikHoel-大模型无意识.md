@@ -4,7 +4,7 @@ type: source
 created: 2026-06-08
 updated: 2026-06-08
 sources: [https://mp.weixin.qq.com/s?__biz=MzIzMjQyNzQ5MA==&mid=224772...]
-source_path: 印象笔记管理工具/ArXiv：为何大模型无法拥有意识｜Erik Hoel.html
+source_path: 印象笔记管理工具/ArXiv：为何大模型无法拥有意识｜Erik Hoel.md
 tags: [ai-consciousness, arxiv, erik-hoel, philosophy]
 updated: 2026-06-27
 ---

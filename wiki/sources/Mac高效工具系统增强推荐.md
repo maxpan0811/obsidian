@@ -3,7 +3,7 @@ title: Mac必备利器：高效工具、系统增强与应用推荐
 type: source
 created: 2026-06-11
 updated: 2026-06-11
-source_path: 印象笔记管理工具/Mac必备利器：高效工具、系统增强与应用推荐.html
+source_path: 印象笔记管理工具/Mac必备利器：高效工具、系统增强与应用推荐.md
 tags: [mac, tools, productivity, terminal, window-manager]
 updated: 2026-06-27
 ---

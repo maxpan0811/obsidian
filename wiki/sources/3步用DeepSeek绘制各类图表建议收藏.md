@@ -3,7 +3,7 @@ title: 3步！用DeepSeek绘制各类图表（建议收藏）
 type: source
 created: 2026-06-14
 updated: 2026-06-14
-source_path: 印象笔记管理工具/3步！用DeepSeek绘制各类图表（建议收藏）.html
+source_path: 印象笔记管理工具/3步！用DeepSeek绘制各类图表（建议收藏）.md
 tags: [印象笔记, DeepSeek]
 updated: 2026-06-27
 ---

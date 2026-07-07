@@ -3,7 +3,7 @@ title: 知识库大升级！有道云笔记率先落地LLM-Wiki
 type: source
 created: 2026-06-14
 updated: 2026-06-14
-source_path: 印象笔记管理工具/知识库大升级！有道云笔记率先落地LLM-Wiki.html
+source_path: 印象笔记管理工具/知识库大升级！有道云笔记率先落地LLM-Wiki.md
 tags: [印象笔记, AI/编程]
 updated: 2026-06-27
 updated: 2026-06-27

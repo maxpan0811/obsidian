@@ -3,7 +3,7 @@ title: 一个Skills，我卖了5万！
 type: source
 created: 2026-06-14
 updated: 2026-06-14
-source_path: 印象笔记管理工具/一个Skills，我卖了5万！.html
+source_path: 印象笔记管理工具/一个Skills，我卖了5万！.md
 tags: [印象笔记, 其他]
 updated: 2026-06-27
 updated: 2026-06-27

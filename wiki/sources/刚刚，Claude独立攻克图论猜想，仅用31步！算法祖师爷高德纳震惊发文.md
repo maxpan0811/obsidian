@@ -4,7 +4,7 @@ type: source
 created: 2026-06-17
 updated: 2026-06-17
 source: 印象笔记管理工具
-source_path: 印象笔记管理工具/刚刚，Claude独立攻克图论猜想，仅用31步！算法祖师爷高德纳震惊发文.html
+source_path: 印象笔记管理工具/刚刚，Claude独立攻克图论猜想，仅用31步！算法祖师爷高德纳震惊发文.md
 tags: [AI技术, 教育]
 updated: 2026-06-27
 updated: 2026-06-27

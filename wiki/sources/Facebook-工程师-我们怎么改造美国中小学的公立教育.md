@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/Facebook 工程师：我们怎么改造美国中小学的公立教育？.html
+source_path: 印象笔记管理工具/Facebook 工程师：我们怎么改造美国中小学的公立教育？.md
 tags: [印象笔记, 教育]
 updated: 2026-06-27
 ---

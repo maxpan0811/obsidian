@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/全城疯狂，Peppa Pig第一次内地大展！一个点都不落的玩法攻略先收好！.html
+source_path: 印象笔记管理工具/全城疯狂，Peppa Pig第一次内地大展！一个点都不落的玩法攻略先收好！.md
 tags: [印象笔记]
 updated: 2026-06-27
 updated: 2026-06-27

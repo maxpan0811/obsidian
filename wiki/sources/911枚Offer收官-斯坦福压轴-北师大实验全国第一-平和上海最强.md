@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/911枚Offer收官！斯坦福压轴！北师大实验全国第一！平和上海最强！.html
+source_path: 印象笔记管理工具/911枚Offer收官！斯坦福压轴！北师大实验全国第一！平和上海最强！.md
 tags: [印象笔记]
 updated: 2026-06-27
 ---

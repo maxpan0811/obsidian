@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/U.S. News美本AI专业排名发布！MIT输给卡梅，华大力压藤校.html
+source_path: 印象笔记管理工具/U.S. News美本AI专业排名发布！MIT输给卡梅，华大力压藤校.md
 tags: [印象笔记, AI]
 updated: 2026-06-27
 ---

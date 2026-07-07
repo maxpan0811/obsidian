@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/8部BBC历史纪录片：花几年看完，见识会大不一样（附链接）.html
+source_path: 印象笔记管理工具/8部BBC历史纪录片：花几年看完，见识会大不一样（附链接）.md
 tags: [印象笔记, 历史]
 updated: 2026-06-27
 ---

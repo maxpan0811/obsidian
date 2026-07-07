@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/奏折 35：Keyboard Maestro 9 发布、Launch Center Pro 新增图标生成器、PDF Expert 转订阅.html
+source_path: 印象笔记管理工具/奏折 35：Keyboard Maestro 9 发布、Launch Center Pro 新增图标生成器、PDF Expert 转订阅.md
 tags: [印象笔记]
 updated: 2026-06-27
 updated: 2026-06-27

@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/腾讯悄悄上线的AI笔记神器 ima copilot，强的离谱.html
+source_path: 印象笔记管理工具/腾讯悄悄上线的AI笔记神器 ima copilot，强的离谱.md
 tags: [印象笔记]
 updated: 2026-06-27
 updated: 2026-06-27

@@ -4,7 +4,7 @@ type: source
 created: 2026-06-17
 updated: 2026-06-17
 source: 印象笔记管理工具
-source_path: 印象笔记管理工具/继大V后，多家媒体集中为拜登励志！然而，有些画面实在不忍直视！.html
+source_path: 印象笔记管理工具/继大V后，多家媒体集中为拜登励志！然而，有些画面实在不忍直视！.md
 tags: [其他]
 updated: 2026-06-27
 updated: 2026-06-27

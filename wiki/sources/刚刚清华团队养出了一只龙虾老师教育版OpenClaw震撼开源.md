@@ -3,7 +3,7 @@ title: 刚刚，清华团队养出了一只「龙虾老师」！教育版OpenCla
 type: source
 created: 2026-06-14
 updated: 2026-06-14
-source_path: 印象笔记管理工具/刚刚，清华团队养出了一只「龙虾老师」！教育版OpenClaw震撼开源.html
+source_path: 印象笔记管理工具/刚刚，清华团队养出了一只「龙虾老师」！教育版OpenClaw震撼开源.md
 tags: [印象笔记, 个人成长]
 updated: 2026-06-27
 updated: 2026-06-27

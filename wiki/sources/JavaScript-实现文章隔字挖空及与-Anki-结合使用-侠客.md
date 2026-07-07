@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/JavaScript 实现文章隔字挖空及与 Anki 结合使用 – 侠客.html
+source_path: 印象笔记管理工具/JavaScript 实现文章隔字挖空及与 Anki 结合使用 – 侠客.md
 tags: [印象笔记]
 updated: 2026-06-27
 ---

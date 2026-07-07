@@ -3,7 +3,7 @@ title: 苹果深度使用攻略：MacOS 效率飞升工具清单
 type: source
 created: 2026-06-14
 updated: 2026-06-14
-source_path: 印象笔记管理工具/苹果深度使用攻略：MacOS 效率飞升工具清单.html
+source_path: 印象笔记管理工具/苹果深度使用攻略：MacOS 效率飞升工具清单.md
 tags: [印象笔记, 其他]
 updated: 2026-06-27
 updated: 2026-06-27

@@ -4,7 +4,7 @@ type: source
 created: 2026-05-29
 updated: 2026-05-29
 sources: [刚学会的Markdown，这就凉了？MD已死，HTML当立！Claude Code的5大HTML实用场景.html]
-source_path: 印象笔记管理工具/刚学会的Markdown，这就凉了？MD已死，HTML当立！Claude Code的5大HTML实用场景.html
+source_path: 印象笔记管理工具/刚学会的Markdown，这就凉了？MD已死，HTML当立！Claude Code的5大HTML实用场景.md
 tags: [claude-code, html, markdown, productivity]
 updated: 2026-06-27
 updated: 2026-06-27

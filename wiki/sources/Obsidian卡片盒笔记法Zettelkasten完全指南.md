@@ -3,7 +3,7 @@ title: Obsidian 卡片盒笔记法（Zettelkasten）完全指南
 type: source
 created: 2026-06-14
 updated: 2026-06-14
-source_path: 印象笔记管理工具/Obsidian 卡片盒笔记法（Zettelkasten）完全指南.html
+source_path: 印象笔记管理工具/Obsidian 卡片盒笔记法（Zettelkasten）完全指南.md
 tags: [印象笔记, AI/编程]
 updated: 2026-06-27
 ---

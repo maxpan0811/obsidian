@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/Mac 上的 4 种查词方式，哪一种最适合你？.html
+source_path: 印象笔记管理工具/Mac 上的 4 种查词方式，哪一种最适合你？.md
 tags: [印象笔记]
 updated: 2026-06-27
 ---

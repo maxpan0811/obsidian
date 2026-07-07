@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/裸心飞儿童夏季探索项目上线啦！早鸟优惠要趁早 Summer Camp Early Bird Special!.html
+source_path: 印象笔记管理工具/裸心飞儿童夏季探索项目上线啦！早鸟优惠要趁早 Summer Camp Early Bird Special!.md
 tags: [印象笔记]
 updated: 2026-06-27
 updated: 2026-06-27

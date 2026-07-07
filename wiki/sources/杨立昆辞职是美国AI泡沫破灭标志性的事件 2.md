@@ -1,0 +1,58 @@
+---
+title: 杨立昆辞职是美国AI泡沫破灭标志性的事件 2
+type: source
+created: 2026-07-06
+updated: 2026-07-06
+source_path: 印象笔记管理工具/杨立昆辞职是美国AI泡沫破灭标志性的事件 2.md
+tags: [evernote, impression, yinxiang]
+---
+
+# 杨立昆辞职是美国AI泡沫破灭标志性的事件
+
+---
+
+原文链接: [https://mp.weixin.qq.com/s?\_\_biz=MzA4MjMzOTE3MA==&mid=265042...](https://mp.weixin.qq.com/s?__biz=MzA4MjMzOTE3MA==&mid=2650427020&idx=1&sn=081a4473f9703dd07f88716a6afd1bb8&chksm=86ea6bf003766abe5ef076094d1cb2ec9adfa1a523d459d525bac09de629141d6bbfce4b6d96&scene=90&xtrack=1&req_id=1763260884083576&sessionid=1763260894&subscene=93&clicktime=1763261213&enterid=1763261213&flutter_pos=4&biz_enter_id=4&ranksessionid=1763260895&jumppath=1122_1763261082465,1104_1763261083842,20020_1763261091111,1104_1763261210776&jumppathdepth=4&ascene=56&devicetype=iOS26.1&version=18004129&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQUWBflAc/3zkcF36N6owWohLTAQIE97dBBAEAAAAAANjRGSIzJ9kAAAAOpnltbLcz9gKNyK89dVj0Es7nFkXQa/iMNshvTP5t57WpvaIQGEtMWjjvkqZbJzATqKqs68wqd6QULJzRoP1wXkZrDbxfxKqQ6QK2PJtv9xsPD7qAJLlG9zb5cBPpypPFWgjfZTG0Nn/U9rwYzZVIlNmHU3M9ncKKr+TMz9GMPdgbT9o6zL3sNQvqsvETUYbP8zpYs2zqrV3VF0j4t2qcRdUJW2V8uZAw4fBx39IofSyeUyP4BiRFa5gvw8U=&pass_ticket=J87ZJJhwf8JoGNNUY8Zhi16qXRnP4da6S9g94gCt8XVqjWDs8axeH2NCQDbgHGbq&wx_header=3)
+
+Original项立刚立刚科技观察
+
+图灵奖获得者、facebook首席人工智能科学家杨立昆（Yann LeCun）辞职，这是美国人工智能发展中一件大事，我将其看成一个重要的标志，意味着美国人工智能这个大泡泡，被戳了一个洞。
+
+杨立昆在人工智能领域是神一样的人物，虽然说有一个中文名，他并不是华人，他出生于法国，毕业于巴黎电子工程学院，长期从事神经网络研究，在贝尔实验室和AT&T实验室都工作过，又在普林斯顿和纽约大学担任过教授，也获得过图灵奖，2013年他担任Meta人工智能的负责人。
+
+杨立昆很大程度代表着美国对于人工智能的理解，用一个大模型，大量的堆算力，希望最终建立起一个无所不能的模型，最后实现智能涌现。这一次他要从Meta离职，是要去创办自己的公司，去做“世界模型”（ CWM）。
+
+如果作为学术，用一个视角去探讨，当然没有任何问题，甚至也值得去探讨。但是人工智能的本质，这是产业和能力，付出是需要回报的。人类今天的智慧，是用几十万年时间积累起来的，透过生命的密码，一点一点的累积和遗传。
+
+人工智能要超越人类的智慧，超越人类的累积，脱离场景，建立起一个最基础的世界模型，这一定程度上面是一种反人类的思维，人类根本没有这样的能力。
+
+所以我们看到美国几家大公司，微软、 Google、Meta、特斯拉等，最近几年在人工智能领域投入了大量的资金，建立起若干个模型，用巨大的算力和能源做支撑，这些模型当然有用，也取得了一定的效果，然而投入的资源和产生的效果，是无法形成匹配的，在大量的资源投入之后，这些模型存在很多的幻觉，在大规模训练之后，新的版本提升并不明显。
+
+人工智能还要大量的堆算力，鼓吹通用人工智能这样的概念，还是让人工智能一个一个的解决问题，通过大量解决问题，逐渐形成积累？让人工智能成为有价值的应用，而不是一个所谓的神。经过了几年的投入，这是一个必须要解决的问题。
+
+今天在美国，几大公司为人工智能投入了大量的资金，累积了巨大的算力，但是这些投入回报并不明显，甚至在很长时间都看不到可能出现的回报，最近一段时间，美国关于人工智能泡沫的讨论，声音变得越来越大，这些巨大投入，只是变成了金融炒作，带来的实质性的回报是很不明显的。
+
+相反中国在大模型领域，用较低的开销建立起数个模型，这其中很有代表性的就是deepseek，其他模型也有很好的表现。因为是开源模型，美国已经有企业和科研团队，利用中国的模型进行蒸馏和改造，变成自己的模型。
+
+而在应用领域明显的是中国走在了前面，工业机器人、具身机器人、无人机、智能驾驶，甚至人工智能被用于军事系统，不是用一个神一样的通用人工智能解决所有问题，而是针对各自的领域，有价值的解决自己需要解决的问题，事实上这些领域，相对比较窄，复杂性没有那么高，可以用相对比较低的开销，实现很好的效果。就是投入少，效果明显。
+
+面对中国越来越强的落地能力，美国人不得不回答一个问题，大量的投入什么时候才能够有回报，回报是什么？
+
+美国人工智能泡沫的呼声，也反映了相关企业的焦虑，虽然可以金融炒作，但是不能这样一直炒作下去，大量的投入是需要产业的回报，是需要营收，甚至是需要利润的。
+
+杨立昆之所以离职，他坚持的通用人工智能的理念，无法和Mate的迅速取得成果，让这个人工智能变得有用一致起来。对于扎克伯格而言，这么多的投入，并没有实质性的回报，他并不想坚持。
+
+杨立昆离职，他不可能自己把“世界模型”支撑起来，他根本没有这样的资金。我相信逐渐会形成连锁反应，各家大公司都会去找那个替罪羊，最后自己出来承认就是一个泡沫。
+
+通用人工智这就是反人类的，虽然我们都希望出现一个神，但是这个世界从没有神存在，这个世界就是人类自己一点一点积累起来的，人工智能也是一个领域一个领域的积累，逐渐形成自己的能力，这些能力整合在一起，就会变得非常有智慧。一个神一样的通用人工智能，形成了一切人工智能的能力，或者是所有人工智能的基础，虽然也有人相信，我是绝对不信的。
+
+中美人工智能的竞赛，美国会被中国甩开，因为美国在通用人工智能上面耽误了太多的时间，中国走了一条实实在在的路。
+
+![](.evernote-content/99866797-2945-4212-8FB9-D2527F756F17/AFEC0C18-ACF2-483B-97C6-E2EABBFF2C9A.jpg)
+
+修改于
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzA4MjMzOTE3MA==&mid=2650427020&idx=1&sn=081a4473f9703dd07f88716a6afd1bb8&chksm=86ea6bf003766abe5ef076094d1cb2ec9adfa1a523d459d525bac09de629141d6bbfce4b6d96&scene=90&xtrack=1&req_id=1763260884083576&sessionid=1763260894&subscene=93&clicktime=1763261213&enterid=1763261213&flutter_pos=4&biz_enter_id=4&ranksessionid=1763260895&jumppath=1122_1763261082465,1104_1763261083842,20020_1763261091111,1104_1763261210776&jumppathdepth=4&ascene=56&devicetype=iOS26.1&version=18004129&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQUWBflAc/3zkcF36N6owWohLTAQIE97dBBAEAAAAAANjRGSIzJ9kAAAAOpnltbLcz9gKNyK89dVj0Es7nFkXQa/iMNshvTP5t57WpvaIQGEtMWjjvkqZbJzATqKqs68wqd6QULJzRoP1wXkZrDbxfxKqQ6QK2PJtv9xsPD7qAJLlG9zb5cBPpypPFWgjfZTG0Nn/U9rwYzZVIlNmHU3M9ncKKr+TMz9GMPdgbT9o6zL3sNQvqsvETUYbP8zpYs2zqrV3VF0j4t2qcRdUJW2V8uZAw4fBx39IofSyeUyP4BiRFa5gvw8U=&pass_ticket=J87ZJJhwf8JoGNNUY8Zhi16qXRnP4da6S9g94gCt8XVqjWDs8axeH2NCQDbgHGbq&wx_header=3)
+
+[📎 在印象笔记中打开](evernote:///view/207087/s1/3bb5a08a-1486-4029-a6a9-1aafe35c5c4d/3bb5a08a-1486-4029-a6a9-1aafe35c5c4d/)

@@ -1,0 +1,62 @@
+---
+title: Volume Mixer，让你的 Mac 可以单独调节软件音量 _ 福利派 2
+type: source
+created: 2026-07-06
+updated: 2026-07-06
+source_path: 印象笔记管理工具/Volume Mixer，让你的 Mac 可以单独调节软件音量 _ 福利派 2.md
+tags: [evernote, impression, yinxiang]
+---
+
+# Volume Mixer，让你的 Mac 可以单独调节软件音量 | 福利派
+
+---
+
+![](.evernote-content/5841E063-B4CC-40D1-B588-745EEE40D5A8/31D1E9A9-AE9F-42BD-90F7-63EED3B42B3A.jpg)
+
+### *关于栏目*
+
+少数派一直倡导「为好东西买单」的理念，不论是一个 6 元的 App，还是数千元的硬件产品，我们希望引导更多人养成正确且良性的消费习惯，尽己所能去支持正版、拒绝盗版。然而任何的消费购买行为，都离不开「价格」的影响，很多人都会因价格在购买喜欢的产品前迟疑：「有点贵，如果有促销就好了……」
+
+「福利派」栏目为此而生，我们接下来将通过与优质的厂商或商家合作，为少数派的读者定期带来各类优秀软硬件产品的独家特惠活动。我们的目的很单纯：希望有更多人用上好产品，我们希望通过这样的形式，为读者们送上更多不一样的福利。
+
+如果说 Windows 上有什么让 Mac 用户羡慕的功能，可以为不同程序单独调节音量绝对算一个。不少人都遇到过这样的情况：刚刚把视频的音量调节到正合适，就被突然响起的 QQ 提示音吓了一跳。每当这时，我们都希望 Mac 系统也能加进这个简单实用的小功能。
+
+在官方引入这个功能之前，我们可以先通过第三方应用来实现相同的功能，本周福利派给大家带来的就是一款可以在 Mac 上单独调节各程序音量的应用 Volume Mixer。
+
+少数派此前曾经介绍过 Volume Mixer 的[功能和具体用法](http://sspai.com/33016)，安装后应用会常驻在状态栏，接管系统音量控制，之后你就很方便地通过它来调整系统主音量和不同应用的音量。
+
+![](.evernote-content/5841E063-B4CC-40D1-B588-745EEE40D5A8/43504364-0B4C-4989-B33C-6BAE64AE3C73.jpg)
+
+在历经了多次更新后，Volume Mixer 又加入了多个便捷的小功能，现在你可以通过设置快捷键来快速地调整前／后台应用、以及系统通知的音量。而每个应用的音量条下方的复位键也能让你快速把应用音量和主音量相统一。
+
+![](.evernote-content/5841E063-B4CC-40D1-B588-745EEE40D5A8/7A792A45-3BB4-428F-B291-EC8D0EDB4D01.jpg)
+
+独家特惠
+----
+
+你可以在[应用官网](http://www.volumemixer-app.com/index.html)下载 Volume Mixer，应用可以免费使用 7 天，之后需要付费购买，目前官网分为两种销售方式：
+
+* Current Version：$ 8.99，约合 ¥ 60，此后需要付费升级新版
+* Lifetime Copy：$ 13.99，约合 ¥ 93，一次付费永久免费升级
+
+两个版本都可以激活 5 台设备。
+
+本周末少数派联合数码荔枝举办独家促销活动，点击下方链接领取专属优惠券，就能分别以 ¥ 49 和 ¥ 79 的优惠价格购买应用，活动持续 4 天（7.22- 7.25）：
+
+* [少数派 Volume Mixer 专属优惠券领取地址](https://taoquan.taobao.com/coupon/unify_apply.htm?sellerId=881336826&activityId=9e358c0e5d97435f957700784045d61a)
+* [Volume Mixer 购买地址](https://item.taobao.com/item.htm?id=536086516669)
+
+**关联阅读：[《调教你的 Mac 音量，叫大声点，叫小声点：Volume Mixer》](http://sspai.com/33016)**
+
+文章来源 [少数派](http://sspai.com) ，原作者 [nerd\_du](http://sspai.com/author/684291) ，转载请注明原文链接
+
+喜欢少数派？欢迎关注我们的微博：@少数派sspai ，微信公众号： sspaime  
+少数派（ <http://sspai.com> ）
+
+[![](.evernote-content/5841E063-B4CC-40D1-B588-745EEE40D5A8/CF99D672-D94C-422D-813B-D22FB46C94E5.jpg)](http://www.huodongxing.com/event/7344389491800)
+
+---
+
+[🌐 原始链接](http://sspai.com/34908)
+
+[📎 在印象笔记中打开](evernote:///view/207087/s1/4debd259-d2a0-4dca-80f9-45a3c320a07e/4debd259-d2a0-4dca-80f9-45a3c320a07e/)

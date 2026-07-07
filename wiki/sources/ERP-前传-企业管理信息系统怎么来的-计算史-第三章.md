@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/ERP 前传 ｜ 企业管理信息系统怎么来的——《计算史》第三章.html
+source_path: 印象笔记管理工具/ERP 前传 ｜ 企业管理信息系统怎么来的——《计算史》第三章.md
 tags: [印象笔记, 商业]
 updated: 2026-06-27
 ---

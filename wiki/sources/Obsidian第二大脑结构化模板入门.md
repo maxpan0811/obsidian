@@ -3,7 +3,7 @@ title: 从零开始：Obsidian 第二大脑结构化模板入门指南（一）
 type: source
 created: 2026-06-11
 updated: 2026-06-11
-source_path: 印象笔记管理工具/从零开始：Obsidian 第二大脑结构化模板入门指南（一）.html
+source_path: 印象笔记管理工具/从零开始：Obsidian 第二大脑结构化模板入门指南（一）.md
 tags: [obsidian, template, second-brain, productivity, methodology]
 updated: 2026-06-27
 updated: 2026-06-27

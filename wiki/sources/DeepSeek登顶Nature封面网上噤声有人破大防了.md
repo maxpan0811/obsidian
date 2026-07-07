@@ -3,7 +3,7 @@ title: DeepSeek登顶Nature封面，网上噤声？有人破大防了
 type: source
 created: 2026-06-14
 updated: 2026-06-14
-source_path: 印象笔记管理工具/DeepSeek登顶Nature封面，网上噤声？有人破大防了.html
+source_path: 印象笔记管理工具/DeepSeek登顶Nature封面，网上噤声？有人破大防了.md
 tags: [印象笔记, DeepSeek]
 updated: 2026-06-27
 ---

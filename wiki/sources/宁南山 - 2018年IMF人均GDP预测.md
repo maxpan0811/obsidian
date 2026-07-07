@@ -3,7 +3,7 @@ title: 宁南山 - 2018年IMF人均GDP预测
 type: source
 created: 2026-06-15
 updated: 2026-06-15
-source_path: 印象笔记管理工具/宁南山 - 2018年IMF人均GDP预测.html
+source_path: 印象笔记管理工具/宁南山 - 2018年IMF人均GDP预测.md
 tags: ["印象笔记", "宁南山", "财经/产业"]
 updated: 2026-06-27
 updated: 2026-06-27

@@ -3,7 +3,7 @@ title: 这6款在GitHub封神的Mac软件，才是真正的生产力外挂
 type: source
 created: 2026-06-14
 updated: 2026-06-14
-source_path: 印象笔记管理工具/这6款在GitHub封神的Mac软件，才是真正的生产力外挂.html
+source_path: 印象笔记管理工具/这6款在GitHub封神的Mac软件，才是真正的生产力外挂.md
 tags: [印象笔记, AI/编程]
 updated: 2026-06-27
 updated: 2026-06-27

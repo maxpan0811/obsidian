@@ -4,7 +4,7 @@ type: source
 created: 2026-06-17
 updated: 2026-06-17
 source: 印象笔记管理工具
-source_path: 印象笔记管理工具/刚刚，微软CEO，发表一封AI时代的思考长信.html
+source_path: 印象笔记管理工具/刚刚，微软CEO，发表一封AI时代的思考长信.md
 tags: [AI技术, 教育]
 updated: 2026-06-27
 updated: 2026-06-27

@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/一直想记录和管理孩子的阅读，这是我觉得最好用的App！.html
+source_path: 印象笔记管理工具/一直想记录和管理孩子的阅读，这是我觉得最好用的App！.md
 tags: [印象笔记, 商业]
 updated: 2026-06-27
 updated: 2026-06-27

@@ -4,7 +4,7 @@ type: source
 created: 2026-06-08
 updated: 2026-06-08
 sources: [https://mp.weixin.qq.com/s?chksm=f0bb4e2bc7ccc73d3a20223b3e5f042...]
-source_path: 印象笔记管理工具/Claude Code最佳搭档Superpowers：14个技能完整拆解，装上就是另一个AI.html
+source_path: 印象笔记管理工具/Claude Code最佳搭档Superpowers：14个技能完整拆解，装上就是另一个AI.md
 tags: [claude-code, superpowers, skill, workflow, plugin]
 updated: 2026-06-27
 ---

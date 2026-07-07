@@ -4,7 +4,7 @@ type: source
 created: 2026-06-17
 updated: 2026-06-17
 source: 印象笔记管理工具
-source_path: 印象笔记管理工具/还在用默认软件？试试这 9 个 Mac 应用，提升工作效率！！！.html
+source_path: 印象笔记管理工具/还在用默认软件？试试这 9 个 Mac 应用，提升工作效率！！！.md
 tags: [AI技术]
 updated: 2026-06-27
 updated: 2026-06-27

@@ -4,7 +4,7 @@ type: source
 created: 2026-06-17
 updated: 2026-06-17
 source: 印象笔记管理工具
-source_path: 印象笔记管理工具/面对Apple Watch 传统名表们不再传统 Apple Watch,智能手表,传统手表,瑞士表业 _威锋网.html
+source_path: 印象笔记管理工具/面对Apple Watch 传统名表们不再传统 Apple Watch,智能手表,传统手表,瑞士表业 _威锋网.md
 tags: [AI技术]
 updated: 2026-06-27
 updated: 2026-06-27

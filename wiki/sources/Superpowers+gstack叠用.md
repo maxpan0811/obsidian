@@ -4,7 +4,7 @@ type: source
 created: 2026-06-08
 updated: 2026-06-08
 sources: [https://mp.weixin.qq.com/s?__biz=MzYzMjY1OTI0MA==&mid=224748...]
-source_path: 印象笔记管理工具/我把 Claude Code 的两个神器叠在一起：150K star 管思维，90K star 管执行，效果超出预期.html
+source_path: 印象笔记管理工具/我把 Claude Code 的两个神器叠在一起：150K star 管思维，90K star 管执行，效果超出预期.md
 tags: [claude-code, superpowers, gstack, workflow, tool-combination]
 updated: 2026-06-27
 updated: 2026-06-27

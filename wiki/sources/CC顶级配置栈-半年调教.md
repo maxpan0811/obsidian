@@ -4,7 +4,7 @@ type: source
 created: 2026-06-08
 updated: 2026-06-08
 sources: [https://mp.weixin.qq.com/s?__biz=MzI0NDQ0ODU3MA==&mid=224754...]
-source_path: 印象笔记管理工具/别再瞎用Claude了！我花了半年调教出的顶级配置，效率直接降维打击.html
+source_path: 印象笔记管理工具/别再瞎用Claude了！我花了半年调教出的顶级配置，效率直接降维打击.md
 tags: [claude-code, configuration, best-practice, power-user]
 updated: 2026-06-27
 updated: 2026-06-27

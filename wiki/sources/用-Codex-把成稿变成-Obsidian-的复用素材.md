@@ -3,7 +3,7 @@ title: 用 Codex 把成稿变成 Obsidian 的复用素材
 type: source
 created: 2026-06-20
 updated: 2026-06-20
-source_path: 印象笔记管理工具/用 Codex 把成稿变成 Obsidian 的复用素材.html
+source_path: 印象笔记管理工具/用 Codex 把成稿变成 Obsidian 的复用素材.md
 tags: [杂文]
 updated: 2026-06-27
 updated: 2026-06-27

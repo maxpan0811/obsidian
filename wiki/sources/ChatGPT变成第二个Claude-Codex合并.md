@@ -4,7 +4,7 @@ type: source
 created: 2026-06-08
 updated: 2026-06-08
 sources: [https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&mid=265109...]
-source_path: 印象笔记管理工具/一夜之间，ChatGPT变成了第二个Claude.html
+source_path: 印象笔记管理工具/一夜之间，ChatGPT变成了第二个Claude.md
 tags: [openai, chatgpt, codex, merge, agent]
 updated: 2026-06-27
 updated: 2026-06-27

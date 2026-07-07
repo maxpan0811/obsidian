@@ -3,7 +3,7 @@ title: 从DeepSeek到Seedance，中国AI再次在春节前震撼世界
 type: source
 created: 2026-06-14
 updated: 2026-06-14
-source_path: 印象笔记管理工具/从DeepSeek到Seedance，中国AI再次在春节前震撼世界.html
+source_path: 印象笔记管理工具/从DeepSeek到Seedance，中国AI再次在春节前震撼世界.md
 tags: [印象笔记, DeepSeek]
 updated: 2026-06-27
 updated: 2026-06-27

@@ -2,7 +2,7 @@
 name: claude-code-ch2-core-ops
 type: source
 tags: [claude-code, tutorial]
-source_path: 印象笔记管理工具/法律人的Claude Code教程（二）（教不会我吃民法典！）：十分钟掌握核心操作.html
+source_path: 印象笔记管理工具/法律人的Claude Code教程（二）（教不会我吃民法典！）：十分钟掌握核心操作.md
 
 updated: 2026-06-27
 updated: 2026-06-27

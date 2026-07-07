@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/【巨星陨落】霍金今日去世，但人类对宇宙和AI的探索永无止境.html
+source_path: 印象笔记管理工具/【巨星陨落】霍金今日去世，但人类对宇宙和AI的探索永无止境.md
 tags: [印象笔记, AI]
 updated: 2026-06-27
 updated: 2026-06-27

@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/读文章、剪藏网页、新标签页增强…… 这 10 个扩展让你的 Chrome 更好用.html
+source_path: 印象笔记管理工具/读文章、剪藏网页、新标签页增强…… 这 10 个扩展让你的 Chrome 更好用.md
 tags: [印象笔记]
 updated: 2026-06-27
 updated: 2026-06-27

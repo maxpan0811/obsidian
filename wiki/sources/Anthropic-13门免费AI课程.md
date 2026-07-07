@@ -4,7 +4,7 @@ type: source
 created: 2026-06-08
 updated: 2026-06-08
 sources: [https://mp.weixin.qq.com/s?chksm=ea301ae1dd4793f7526ad054f2e784f...]
-source_path: 印象笔记管理工具/Claude 官方出手了：13 门免费课，完成还送证书，99% 的人还不知道.html
+source_path: 印象笔记管理工具/Claude 官方出手了：13 门免费课，完成还送证书，99% 的人还不知道.md
 tags: [claude, anthropic, course, certification, learning-path]
 updated: 2026-06-27
 ---

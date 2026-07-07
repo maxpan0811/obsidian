@@ -4,7 +4,7 @@ type: source
 created: 2026-06-17
 updated: 2026-06-17
 source: 印象笔记管理工具
-source_path: 印象笔记管理工具/有人用来代替 Claude Code ，真香 。.html
+source_path: 印象笔记管理工具/有人用来代替 Claude Code ，真香 。.md
 tags: [AI技术]
 updated: 2026-06-27
 updated: 2026-06-27

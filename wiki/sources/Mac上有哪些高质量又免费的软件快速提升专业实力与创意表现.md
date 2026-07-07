@@ -3,7 +3,7 @@ title: Mac 上有哪些高质量又免费的软件？快速提升专业实力与
 type: source
 created: 2026-06-14
 updated: 2026-06-14
-source_path: 印象笔记管理工具/Mac 上有哪些高质量又免费的软件？快速提升专业实力与创意表现.html
+source_path: 印象笔记管理工具/Mac 上有哪些高质量又免费的软件？快速提升专业实力与创意表现.md
 tags: [印象笔记, 其他]
 updated: 2026-06-27
 ---

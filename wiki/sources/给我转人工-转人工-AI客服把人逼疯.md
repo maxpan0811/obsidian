@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/“给我转人工，转人工”，AI客服把人逼疯.html
+source_path: 印象笔记管理工具/“给我转人工，转人工”，AI客服把人逼疯.md
 tags: [印象笔记, AI]
 updated: 2026-06-27
 ---

@@ -3,7 +3,7 @@ title: Claude Code 发布 HTML Artifacts
 type: source
 created: 2026-06-20
 updated: 2026-06-20
-source_path: 印象笔记管理工具/Claude Code 发布 HTML Artifacts.html
+source_path: 印象笔记管理工具/Claude Code 发布 HTML Artifacts.md
 tags: [管理]
 updated: 2026-06-27
 ---

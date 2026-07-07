@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/要比就比GDP，看看去年各省的新排名.html
+source_path: 印象笔记管理工具/要比就比GDP，看看去年各省的新排名.md
 tags: [印象笔记]
 updated: 2026-06-27
 updated: 2026-06-27

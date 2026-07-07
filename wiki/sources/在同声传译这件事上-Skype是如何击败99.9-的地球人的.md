@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/在同声传译这件事上，Skype是如何击败99.9%的地球人的？.html
+source_path: 印象笔记管理工具/在同声传译这件事上，Skype是如何击败99.9%的地球人的？.md
 tags: [印象笔记]
 updated: 2026-06-27
 updated: 2026-06-27

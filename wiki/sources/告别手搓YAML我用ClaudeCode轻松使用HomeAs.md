@@ -3,7 +3,7 @@ title: 告别手搓 YAML，我用 Claude Code 轻松使用 Home Assistant
 type: source
 created: 2026-06-14
 updated: 2026-06-14
-source_path: 印象笔记管理工具/告别手搓 YAML，我用 Claude Code 轻松使用 Home Assistant.html
+source_path: 印象笔记管理工具/告别手搓 YAML，我用 Claude Code 轻松使用 Home Assistant.md
 tags: [印象笔记, AI/编程]
 updated: 2026-06-27
 updated: 2026-06-27

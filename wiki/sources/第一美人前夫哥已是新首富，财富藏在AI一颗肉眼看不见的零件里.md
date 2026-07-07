@@ -4,7 +4,7 @@ type: source
 created: 2026-06-17
 updated: 2026-06-17
 source: 印象笔记管理工具
-source_path: 印象笔记管理工具/第一美人前夫哥已是新首富，财富藏在AI一颗肉眼看不见的零件里.html
+source_path: 印象笔记管理工具/第一美人前夫哥已是新首富，财富藏在AI一颗肉眼看不见的零件里.md
 tags: [AI技术, 旅游行业, 教育]
 updated: 2026-06-27
 updated: 2026-06-27

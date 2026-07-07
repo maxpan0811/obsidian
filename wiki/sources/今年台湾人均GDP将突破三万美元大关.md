@@ -3,7 +3,7 @@ title: 今年台湾人均GDP将突破三万美元大关
 type: source
 created: 2026-06-15
 updated: 2026-06-15
-source_path: 印象笔记管理工具/今年台湾人均GDP将突破三万美元大关.html
+source_path: 印象笔记管理工具/今年台湾人均GDP将突破三万美元大关.md
 tags: ["印象笔记", "财经/产业"]
 updated: 2026-06-27
 updated: 2026-06-27

@@ -3,7 +3,7 @@ title: 华为再破美国封锁，鸿蒙电脑亮相！正式抛弃Windows
 type: source
 created: 2026-06-14
 updated: 2026-06-14
-source_path: 印象笔记管理工具/华为再破美国封锁，鸿蒙电脑亮相！正式抛弃Windows.html
+source_path: 印象笔记管理工具/华为再破美国封锁，鸿蒙电脑亮相！正式抛弃Windows.md
 tags: [印象笔记, 时政/社会]
 updated: 2026-06-27
 updated: 2026-06-27

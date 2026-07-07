@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/荐读｜中高考制度大变天，北美小学生妈妈告诉你领先全球的PBL课程到底厉害在哪里.html
+source_path: 印象笔记管理工具/荐读｜中高考制度大变天，北美小学生妈妈告诉你领先全球的PBL课程到底厉害在哪里.md
 tags: [印象笔记]
 updated: 2026-06-27
 updated: 2026-06-27

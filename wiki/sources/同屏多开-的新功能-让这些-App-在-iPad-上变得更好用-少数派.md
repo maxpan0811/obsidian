@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/「同屏多开」的新功能，让这些 App 在 iPad 上变得更好用 - 少数派.html
+source_path: 印象笔记管理工具/「同屏多开」的新功能，让这些 App 在 iPad 上变得更好用 - 少数派.md
 tags: [印象笔记]
 updated: 2026-06-27
 ---

@@ -4,7 +4,7 @@ type: source
 created: 2026-05-29
 updated: 2026-05-29
 sources: [Hermes Agent 深度拆解：它强在哪，跟 OpenClaw 有什么区别.html]
-source_path: 印象笔记管理工具/Hermes Agent 深度拆解：它强在哪，跟 OpenClaw 有什么区别.html
+source_path: 印象笔记管理工具/Hermes Agent 深度拆解：它强在哪，跟 OpenClaw 有什么区别.md
 tags: [hermes, openclaw, agent, platform, comparison]
 updated: 2026-06-27
 ---

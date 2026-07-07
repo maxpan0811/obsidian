@@ -4,7 +4,7 @@ type: source
 created: 2026-06-17
 updated: 2026-06-17
 source: 印象笔记管理工具
-source_path: 印象笔记管理工具/DeepSeek驱动旅游业服务升级，带来四大机遇和挑战.html
+source_path: 印象笔记管理工具/DeepSeek驱动旅游业服务升级，带来四大机遇和挑战.md
 tags: [AI技术, 旅游行业]
 updated: 2026-06-27
 ---

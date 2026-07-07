@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/阳光帝国——德国海军的崛起(ZT)_Alex_the_Cat_新浪博客.html
+source_path: 印象笔记管理工具/阳光帝国——德国海军的崛起(ZT)_Alex_the_Cat_新浪博客.md
 tags: [印象笔记]
 updated: 2026-06-27
 updated: 2026-06-27

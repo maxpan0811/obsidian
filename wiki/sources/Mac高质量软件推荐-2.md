@@ -3,7 +3,7 @@ title: Mac上有哪些高质量又超值的软件？（下）
 type: source
 created: 2026-06-11
 updated: 2026-06-11
-source_path: 印象笔记管理工具/Mac 上有哪些高质量又超值的软件？这4款你一定不能错过！-2.html
+source_path: 印象笔记管理工具/Mac 上有哪些高质量又超值的软件？这4款你一定不能错过！-2.md
 tags: [mac, software, screen-studio, lookout, heic-converter, pro-notes]
 ---
 

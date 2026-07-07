@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/吴法宪临终遗言披露文革惊人真相 愤怒控诉毛 山城水区-张家口-张家口论坛-张家口第一生活消费门户网 - Powered by phpwind.html
+source_path: 印象笔记管理工具/吴法宪临终遗言披露文革惊人真相 愤怒控诉毛 山城水区-张家口-张家口论坛-张家口第一生活消费门户网 - Powered by phpwind.md
 tags: [印象笔记]
 updated: 2026-06-27
 updated: 2026-06-27

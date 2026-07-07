@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/【MAC技术组】键盘流——Alfred全攻略 - Mac综合讨论区 - 威锋论坛 - 威锋网.html
+source_path: 印象笔记管理工具/【MAC技术组】键盘流——Alfred全攻略 - Mac综合讨论区 - 威锋论坛 - 威锋网.md
 tags: [印象笔记, 科技]
 updated: 2026-06-27
 ---

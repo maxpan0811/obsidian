@@ -1,0 +1,66 @@
+---
+title: 免费领❗全球英语顶级儿童读物《Key Words》ladybird出品绘本+音频，英国50年经典，畅销9千万册 2
+type: source
+created: 2026-07-06
+updated: 2026-07-06
+source_path: 印象笔记管理工具/免费领❗全球英语顶级儿童读物《Key Words》ladybird出品绘本+音频，英国50年经典，畅销9千万册 2.md
+tags: [evernote, impression, yinxiang]
+---
+
+# 免费领❗全球英语顶级儿童读物《Key Words》ladybird出品绘本+音频，英国50年经典，畅销9千万册
+
+---
+
+免费领❗全球英语顶级儿童读物《Key Words》ladybird出品绘本+音频，英国50年经典，畅销9千万册
+-------------------------------------------------------
+
+*2016-10-17*小板牙
+
+![](.evernote-content/4027E96A-A009-4789-A24E-8B6A5BBBF9D3/8410D714-B757-4174-8E55-C287F7EEC313.jpg)
+
+**资源简介**
+
+Key Words采用在英语中最常遇到和使用的单词——关键词（key words），作为儿童成功而自信地学习英语的起点。12个key words覆盖英语常用单词的四分之一，100个key words覆盖英语常用单词的一半，300个key words覆盖英语常用单词的四分之三。从掌握这300个key words起步，是学习英语最快捷、最有效的方法。  
+Key Words专为4-12岁儿童设计，共12级36册，是用300个关键词编写的一套非常严谨的分级阅读体系，本系列包括1-6级18册。每个级别包含a、b、c 3册：a系列逐步介绍和重复关键词；b系列针对这些关键词，用不同的故事和图画，提供更多的阅读练习；c系列引入相似的单词，使孩子系统地掌握自然拼读法，能够读难度更大的单词。增加了单词的拼写练习，把单词认读、拼写与阅读结合起来，全面发展儿童的英语能力。孩子如果按照1a,1b,1c,2a,2b,2c的模式来学习，就能从这套关键词阅读体系中获得最大的收益。  
+  
+1.shou套将关键词（Key Words）和自然拼读法（Phonics）结合的少儿英语分级阅读读物。  
+2.关键词（Key Words）科学合理的重复再现体系，使得阅读流畅，迅速建立儿童学习的自信心。  
+3.内容贴近儿童生活学习的各种场景，让孩子脱口而出漂亮的英文。  
+4.风靡世界50年，全球畅销9500万册，为非常重视英语学习的中国家庭带来全然不同的英语阅读和学习体验。  
+5. 在一些亚洲国家，尤其是英语作为官方语言或者非常重要的第二语言的国家，例如印度、新加坡等，Key Words被广泛地应用在幼儿园和学前班的教学以及家庭学习中。
+
+![](.evernote-content/4027E96A-A009-4789-A24E-8B6A5BBBF9D3/78569CF3-0CBA-4DC4-9296-D56EDEBF7C45.jpg)
+
+![](.evernote-content/4027E96A-A009-4789-A24E-8B6A5BBBF9D3/ADABED02-7C0D-4295-9324-FD75951FC5D3.jpg)
+
+![](.evernote-content/4027E96A-A009-4789-A24E-8B6A5BBBF9D3/61131F63-12D9-41D8-80AC-BDC0602D551B.jpg)
+
+![](.evernote-content/4027E96A-A009-4789-A24E-8B6A5BBBF9D3/05A2A61B-253C-4001-A874-8C5593B62A2A.jpg)
+
+![](.evernote-content/4027E96A-A009-4789-A24E-8B6A5BBBF9D3/EB547235-BF14-4007-B7DA-B67CFE311D79.jpg)
+
+![](.evernote-content/4027E96A-A009-4789-A24E-8B6A5BBBF9D3/21C91F32-3760-4FDA-9317-F75AB889ED8C.jpg)
+
+![](.evernote-content/4027E96A-A009-4789-A24E-8B6A5BBBF9D3/CA314367-D57E-4CF1-B85D-D4709F731E80.jpg)
+
+**如何领取**
+
+1
+
+关注小板牙公众号
+
+您可通过搜索微信号：**x****banya** 关注，也可以长按下面二维码快速关注：
+
+![](.evernote-content/4027E96A-A009-4789-A24E-8B6A5BBBF9D3/ED34C9B5-33A0-4418-A26D-CAC154C1173B.jpg)
+
+2
+
+回复“关键词**”**
+
+在小板牙公众号回复“**关键词**”，按返回的提示操作，将立即获取 **全球英语顶级儿童读物《Key Words》ladybird出品绘本+音频，英国50年经典，畅销9千万册！**
+
+---
+
+[🌐 原始链接](http://mp.weixin.qq.com/s?__biz=MzI2NDEyNzYwMw==&mid=504261281&idx=2&sn=b0c041edfacdbf362f6479d5b08795f3&chksm=714b9fbd463c16abf32a686a0467a49b95e6988b6f4d8193ff1afd11e44d632a782ea3575855&mpshare=1&scene=1&srcid=1016QyYg26hFjgRRwUBXt3Lb#rd)
+
+[📎 在印象笔记中打开](evernote:///view/207087/s1/ca7faf4e-7561-40f5-8bb0-74e421271a1c/ca7faf4e-7561-40f5-8bb0-74e421271a1c/)

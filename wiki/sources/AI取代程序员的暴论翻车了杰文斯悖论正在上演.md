@@ -3,7 +3,7 @@ title: “AI取代程序员”的暴论翻车了：杰文斯悖论正在上演
 type: source
 created: 2026-06-14
 updated: 2026-06-14
-source_path: 印象笔记管理工具/“AI取代程序员”的暴论翻车了：杰文斯悖论正在上演.html
+source_path: 印象笔记管理工具/“AI取代程序员”的暴论翻车了：杰文斯悖论正在上演.md
 tags: [印象笔记, AI/编程]
 updated: 2026-06-27
 ---

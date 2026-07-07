@@ -4,7 +4,7 @@ type: source
 created: 2026-06-17
 updated: 2026-06-17
 source: 印象笔记管理工具
-source_path: 印象笔记管理工具/网友吵翻了！我用镜子就能反制中国最强LY-1激光炮！台湾少将所说可行吗？.html
+source_path: 印象笔记管理工具/网友吵翻了！我用镜子就能反制中国最强LY-1激光炮！台湾少将所说可行吗？.md
 tags: [AI技术, 科技产业]
 updated: 2026-06-27
 updated: 2026-06-27

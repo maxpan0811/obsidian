@@ -3,7 +3,7 @@ title: Google：网站已死，有事AI
 type: source
 created: 2026-06-14
 updated: 2026-06-14
-source_path: 印象笔记管理工具/Google：网站已死，有事AI.html
+source_path: 印象笔记管理工具/Google：网站已死，有事AI.md
 tags: [印象笔记, AI/编程]
 updated: 2026-06-27
 ---

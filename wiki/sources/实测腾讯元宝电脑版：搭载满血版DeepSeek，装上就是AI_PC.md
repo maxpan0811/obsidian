@@ -4,7 +4,7 @@ type: source
 created: 2026-06-17
 updated: 2026-06-17
 source: 印象笔记管理工具
-source_path: 印象笔记管理工具/实测腾讯元宝电脑版：搭载满血版DeepSeek，装上就是AI PC.html
+source_path: 印象笔记管理工具/实测腾讯元宝电脑版：搭载满血版DeepSeek，装上就是AI PC.md
 tags: [AI技术, 教育]
 updated: 2026-06-27
 updated: 2026-06-27

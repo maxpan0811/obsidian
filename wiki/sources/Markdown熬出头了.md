@@ -4,7 +4,7 @@ type: source
 created: 2026-06-08
 updated: 2026-06-08
 sources: [https://mp.weixin.qq.com/s?__biz=MzI0NDQ0ODU3MA==&mid=224754...]
-source_path: 印象笔记管理工具/Markdown，终于熬出头了.html
+source_path: 印象笔记管理工具/Markdown，终于熬出头了.md
 tags: [markdown, html, writing, tool]
 updated: 2026-06-27
 ---

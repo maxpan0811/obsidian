@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/B站风波的来龙去脉理清了：全员恶人，没有一个是无辜的.html
+source_path: 印象笔记管理工具/B站风波的来龙去脉理清了：全员恶人，没有一个是无辜的.md
 tags: [印象笔记]
 updated: 2026-06-27
 ---

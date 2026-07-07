@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/CRM和销售管理 ｜ IBM销售组织三十年变迁研究.html
+source_path: 印象笔记管理工具/CRM和销售管理 ｜ IBM销售组织三十年变迁研究.md
 tags: [印象笔记, 商业]
 updated: 2026-06-27
 ---

@@ -3,7 +3,7 @@ title: 短文：华为的“新汉阳造” VS 洋枪洋炮
 type: source
 created: 2026-06-15
 updated: 2026-06-15
-source_path: 印象笔记管理工具/短文：华为的“新汉阳造” VS 洋枪洋炮.html
+source_path: 印象笔记管理工具/短文：华为的“新汉阳造” VS 洋枪洋炮.md
 tags: ["印象笔记", "科技/产业", "财经/产业"]
 updated: 2026-06-27
 updated: 2026-06-27

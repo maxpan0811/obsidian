@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/这个 Google 的新搜索引擎，让你可以和 10 万本书一起聊天.html
+source_path: 印象笔记管理工具/这个 Google 的新搜索引擎，让你可以和 10 万本书一起聊天.md
 tags: [印象笔记]
 updated: 2026-06-27
 updated: 2026-06-27

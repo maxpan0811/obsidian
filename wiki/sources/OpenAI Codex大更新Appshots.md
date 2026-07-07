@@ -4,7 +4,7 @@ type: source
 created: 2026-05-29
 updated: 2026-05-29
 sources: [今天，OpenAI Codex大更新！锁屏也能隔空打工，奥特曼强推.html]
-source_path: 印象笔记管理工具/今天，OpenAI Codex大更新！锁屏也能隔空打工，奥特曼强推.html
+source_path: 印象笔记管理工具/今天，OpenAI Codex大更新！锁屏也能隔空打工，奥特曼强推.md
 tags: [openai, codex, agent, coding, ppt]
 updated: 2026-06-27
 updated: 2026-06-27

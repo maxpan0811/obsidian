@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/7部影响孩子世界观的BBC人文历史纪录片.html
+source_path: 印象笔记管理工具/7部影响孩子世界观的BBC人文历史纪录片.md
 tags: [印象笔记, 历史]
 updated: 2026-06-27
 ---

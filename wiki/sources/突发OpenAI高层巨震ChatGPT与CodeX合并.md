@@ -4,7 +4,7 @@ type: source
 created: 2026-06-08
 updated: 2026-06-08
 sources: [https://mp.weixin.qq.com/s?__biz=MjM5MTg5NTU0MQ==&mid=265415...]
-source_path: 印象笔记管理工具/突发！OpenAI高层巨震，ChatGPT与CodeX或合并，超级Agent来了！.html
+source_path: 印象笔记管理工具/突发！OpenAI高层巨震，ChatGPT与CodeX或合并，超级Agent来了！.md
 tags: [openai, chatgpt, codex, restructuring, agent]
 updated: 2026-06-27
 updated: 2026-06-27

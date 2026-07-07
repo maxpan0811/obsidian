@@ -4,7 +4,7 @@ type: source
 created: 2026-06-08
 updated: 2026-06-08
 sources: [https://mp.weixin.qq.com/s?__biz=MzI0NDQ0ODU3MA==&mid=224754...]
-source_path: 印象笔记管理工具/如何在使用 Claude Code 时避免出现“已达到限制”的错误.html
+source_path: 印象笔记管理工具/如何在使用 Claude Code 时避免出现“已达到限制”的错误.md
 tags: [claude-code, rate-limit, token-limit, optimization]
 updated: 2026-06-27
 updated: 2026-06-27

@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/站在密苏里舰上，他心头升起信念：“旧耻已湔jiān 雪，中国应新生！”.html
+source_path: 印象笔记管理工具/站在密苏里舰上，他心头升起信念：“旧耻已湔jiān 雪，中国应新生！”.md
 tags: [印象笔记]
 updated: 2026-06-27
 updated: 2026-06-27

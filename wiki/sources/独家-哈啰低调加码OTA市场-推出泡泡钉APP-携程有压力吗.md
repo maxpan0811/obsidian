@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/独家！哈啰低调加码OTA市场，推出泡泡钉APP，携程有压力吗？.html
+source_path: 印象笔记管理工具/独家！哈啰低调加码OTA市场，推出泡泡钉APP，携程有压力吗？.md
 tags: [印象笔记, 旅游, OTA]
 updated: 2026-06-27
 updated: 2026-06-27

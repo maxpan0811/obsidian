@@ -4,7 +4,7 @@ type: source
 created: 2026-06-17
 updated: 2026-06-17
 source: 印象笔记管理工具
-source_path: 印象笔记管理工具/十二本熬夜也要肝完的精品小说，让你心潮澎湃，每本都值得N刷！.html
+source_path: 印象笔记管理工具/十二本熬夜也要肝完的精品小说，让你心潮澎湃，每本都值得N刷！.md
 tags: [网文推荐]
 updated: 2026-06-27
 updated: 2026-06-27

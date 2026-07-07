@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/DeepSeek识图模式全量上线，却认不出自家老板梁文锋.html
+source_path: 印象笔记管理工具/DeepSeek识图模式全量上线，却认不出自家老板梁文锋.md
 tags: [印象笔记]
 updated: 2026-06-27
 ---

@@ -3,7 +3,7 @@ title: 聊下江苏人均GDP逐渐追上沙特这件事
 type: source
 created: 2026-06-15
 updated: 2026-06-15
-source_path: 印象笔记管理工具/聊下江苏人均GDP逐渐追上沙特这件事.html
+source_path: 印象笔记管理工具/聊下江苏人均GDP逐渐追上沙特这件事.md
 tags: ["印象笔记", "财经/产业"]
 updated: 2026-06-27
 updated: 2026-06-27

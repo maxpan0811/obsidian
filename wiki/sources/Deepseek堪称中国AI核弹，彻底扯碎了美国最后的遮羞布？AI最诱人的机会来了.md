@@ -4,7 +4,7 @@ type: source
 created: 2026-06-17
 updated: 2026-06-17
 source: 印象笔记管理工具
-source_path: 印象笔记管理工具/Deepseek堪称中国AI核弹，彻底扯碎了美国最后的遮羞布？AI最诱人的机会来了.html
+source_path: 印象笔记管理工具/Deepseek堪称中国AI核弹，彻底扯碎了美国最后的遮羞布？AI最诱人的机会来了.md
 tags: [AI技术, 科技产业, 教育]
 updated: 2026-06-27
 ---

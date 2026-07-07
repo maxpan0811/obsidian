@@ -4,7 +4,7 @@ type: source
 created: 2026-06-17
 updated: 2026-06-17
 source: 印象笔记管理工具
-source_path: 印象笔记管理工具/玩完《剑星》PC版，我感觉TGA欠他一个最佳优化奖.html
+source_path: 印象笔记管理工具/玩完《剑星》PC版，我感觉TGA欠他一个最佳优化奖.md
 tags: [其他]
 updated: 2026-06-27
 updated: 2026-06-27

@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/AI专家获诺贝尔物理学奖，ChatGPT大受震撼：不可能，绝对不可能.html
+source_path: 印象笔记管理工具/AI专家获诺贝尔物理学奖，ChatGPT大受震撼：不可能，绝对不可能.md
 tags: [印象笔记, AI]
 updated: 2026-06-27
 ---

@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/CommonApp最新报告：中国生源连跌六年、人数几乎腰斩！.html
+source_path: 印象笔记管理工具/CommonApp最新报告：中国生源连跌六年、人数几乎腰斩！.md
 tags: [印象笔记]
 updated: 2026-06-27
 ---

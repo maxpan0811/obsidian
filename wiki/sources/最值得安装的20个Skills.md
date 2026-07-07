@@ -3,7 +3,7 @@ title: 最值得安装的20个Skills
 type: source
 created: 2026-06-14
 updated: 2026-06-14
-source_path: 印象笔记管理工具/最值得安装的20个Skills.html
+source_path: 印象笔记管理工具/最值得安装的20个Skills.md
 tags: [印象笔记, 其他]
 updated: 2026-06-27
 updated: 2026-06-27

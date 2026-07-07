@@ -3,7 +3,7 @@ title: 为什么 Vibe Coding 出的是一堆屎山，以及如何不再写屎山
 type: source
 created: 2026-06-08
 updated: 2026-06-08
-source_path: 印象笔记管理工具/万字长文：为什么你Vibe Coding出的是一堆屎山，以及如何不再写屎山.html
+source_path: 印象笔记管理工具/万字长文：为什么你Vibe Coding出的是一堆屎山，以及如何不再写屎山.md
 tags: [vibe-coding, ai-programming, tutorial]
 updated: 2026-06-27
 updated: 2026-06-27

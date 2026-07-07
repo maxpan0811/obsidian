@@ -3,7 +3,7 @@ title: 免费又强大！Apple Notes如何改变我的笔记整理方式？
 type: source
 created: 2026-06-14
 updated: 2026-06-14
-source_path: 印象笔记管理工具/免费又强大！Apple Notes如何改变我的笔记整理方式？.html
+source_path: 印象笔记管理工具/免费又强大！Apple Notes如何改变我的笔记整理方式？.md
 tags: [印象笔记, 个人成长]
 updated: 2026-06-27
 updated: 2026-06-27

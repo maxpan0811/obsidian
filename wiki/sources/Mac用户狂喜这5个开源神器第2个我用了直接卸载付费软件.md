@@ -3,7 +3,7 @@ title: Mac 用户狂喜！这 5 个开源神器，第 2 个我用了直接卸载
 type: source
 created: 2026-06-14
 updated: 2026-06-14
-source_path: 印象笔记管理工具/Mac 用户狂喜！这 5 个开源神器，第 2 个我用了直接卸载付费软件.html
+source_path: 印象笔记管理工具/Mac 用户狂喜！这 5 个开源神器，第 2 个我用了直接卸载付费软件.md
 tags: [印象笔记, 其他]
 updated: 2026-06-27
 ---

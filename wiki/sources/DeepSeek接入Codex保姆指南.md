@@ -4,7 +4,7 @@ type: source
 created: 2026-06-08
 updated: 2026-06-08
 sources: [https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&mid=265109...]
-source_path: 印象笔记管理工具/把DeepSeek接入Codex ，额度自由了，还不用手机号验证｜附保姆级指南.html
+source_path: 印象笔记管理工具/把DeepSeek接入Codex ，额度自由了，还不用手机号验证｜附保姆级指南.md
 tags: [deepseek, codex, integration, tutorial]
 updated: 2026-06-27
 updated: 2026-06-27

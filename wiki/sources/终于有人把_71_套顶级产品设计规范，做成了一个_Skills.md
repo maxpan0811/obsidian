@@ -4,7 +4,7 @@ type: source
 created: 2026-06-17
 updated: 2026-06-17
 source: 印象笔记管理工具
-source_path: 印象笔记管理工具/终于有人把 71 套顶级产品设计规范，做成了一个 Skills.html
+source_path: 印象笔记管理工具/终于有人把 71 套顶级产品设计规范，做成了一个 Skills.md
 tags: [AI技术]
 updated: 2026-06-27
 updated: 2026-06-27

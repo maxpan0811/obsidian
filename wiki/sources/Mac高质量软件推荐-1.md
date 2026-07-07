@@ -3,7 +3,7 @@ title: Mac上有哪些高质量又超值的软件？（上）
 type: source
 created: 2026-06-11
 updated: 2026-06-11
-source_path: 印象笔记管理工具/Mac 上有哪些高质量又超值的软件？这4款你一定不能错过！-1.html
+source_path: 印象笔记管理工具/Mac 上有哪些高质量又超值的软件？这4款你一定不能错过！-1.md
 tags: [mac, software, hazel, raycast, cleanshotx, lookout]
 updated: 2026-06-27
 updated: 2026-06-27

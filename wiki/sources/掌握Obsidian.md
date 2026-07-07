@@ -3,7 +3,7 @@ title: 掌握Obsidian
 type: source
 created: 2026-06-11
 updated: 2026-06-11
-source_path: 印象笔记管理工具/掌握Obsidian.html
+source_path: 印象笔记管理工具/掌握Obsidian.md
 tags: [obsidian, tutorial]
 updated: 2026-06-27
 updated: 2026-06-27

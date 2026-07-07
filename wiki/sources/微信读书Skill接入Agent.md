@@ -4,7 +4,7 @@ type: source
 created: 2026-06-08
 updated: 2026-06-08
 sources: [https://mp.weixin.qq.com/s?__biz=MzA4NjEwMTQ1NA==&mid=245386...]
-source_path: 印象笔记管理工具/微信读书Skill两步接入Agent，生成阅读画像.html
+source_path: 印象笔记管理工具/微信读书Skill两步接入Agent，生成阅读画像.md
 tags: [weread, skill, agent, reading-profile]
 updated: 2026-06-27
 updated: 2026-06-27

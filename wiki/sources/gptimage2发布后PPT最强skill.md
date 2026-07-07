@@ -3,7 +3,7 @@ title: gpt-image-2发布后，PPT最强skill
 type: source
 created: 2026-06-14
 updated: 2026-06-14
-source_path: 印象笔记管理工具/gpt-image-2发布后，PPT最强skill.html
+source_path: 印象笔记管理工具/gpt-image-2发布后，PPT最强skill.md
 tags: [印象笔记, AI/编程]
 updated: 2026-06-27
 ---

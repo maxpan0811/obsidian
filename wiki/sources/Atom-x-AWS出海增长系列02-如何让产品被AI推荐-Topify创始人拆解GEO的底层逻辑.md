@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/【Atom x AWS出海增长系列02】如何让产品被AI推荐——Topify创始人拆解GEO的底层逻辑.html
+source_path: 印象笔记管理工具/【Atom x AWS出海增长系列02】如何让产品被AI推荐——Topify创始人拆解GEO的底层逻辑.md
 tags: [印象笔记, AI]
 updated: 2026-06-27
 ---

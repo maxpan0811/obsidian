@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/学会使用 Word 中的邮件合并.html
+source_path: 印象笔记管理工具/学会使用 Word 中的邮件合并.md
 tags: [印象笔记]
 updated: 2026-06-27
 updated: 2026-06-27

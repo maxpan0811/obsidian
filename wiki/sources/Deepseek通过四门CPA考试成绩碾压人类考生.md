@@ -3,7 +3,7 @@ title: Deepseek通过四门CPA考试，成绩碾压人类考生
 type: source
 created: 2026-06-14
 updated: 2026-06-14
-source_path: 印象笔记管理工具/Deepseek通过四门CPA考试，成绩碾压人类考生.html
+source_path: 印象笔记管理工具/Deepseek通过四门CPA考试，成绩碾压人类考生.md
 tags: [印象笔记, AI/编程]
 updated: 2026-06-27
 ---

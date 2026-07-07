@@ -4,7 +4,7 @@ type: source
 created: 2026-06-08
 updated: 2026-06-08
 sources: [https://mp.weixin.qq.com/s?__biz=MzI5MDQxNzE1NQ==&mid=224751...]
-source_path: 印象笔记管理工具/DeepSeek V4芯模协同背后，国产算力生态开始飞轮加速.html
+source_path: 印象笔记管理工具/DeepSeek V4芯模协同背后，国产算力生态开始飞轮加速.md
 tags: [deepseek, ascend, chip-model-co-synergy, china-ai, ecosystem]
 updated: 2026-06-27
 ---

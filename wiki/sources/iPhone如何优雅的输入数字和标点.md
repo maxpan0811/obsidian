@@ -3,7 +3,7 @@ title: iPhone如何优雅的输入数字和标点
 type: source
 created: 2026-06-20
 updated: 2026-06-20
-source_path: 印象笔记管理工具/iPhone如何优雅的输入数字和标点.html
+source_path: 印象笔记管理工具/iPhone如何优雅的输入数字和标点.md
 tags: [杂文]
 updated: 2026-06-27
 ---

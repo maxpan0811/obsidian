@@ -4,7 +4,7 @@ type: source
 created: 2026-06-08
 updated: 2026-06-08
 sources: [https://mp.weixin.qq.com/s?__biz=MzIzMzQyMzUzNw==&mid=224751...]
-source_path: 印象笔记管理工具/太好用了！在Claude Code Desktop 中使用第三方API的最新保姆级教程.html
+source_path: 印象笔记管理工具/太好用了！在Claude Code Desktop 中使用第三方API的最新保姆级教程.md
 tags: [claude-desktop, third-party-api, glm, tutorial]
 updated: 2026-06-27
 updated: 2026-06-27

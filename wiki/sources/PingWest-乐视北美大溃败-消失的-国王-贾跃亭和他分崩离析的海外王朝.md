@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/PingWest：乐视北美大溃败–消失的“国王”贾跃亭和他分崩离析的海外王朝.html
+source_path: 印象笔记管理工具/PingWest：乐视北美大溃败–消失的“国王”贾跃亭和他分崩离析的海外王朝.md
 tags: [印象笔记]
 updated: 2026-06-27
 ---

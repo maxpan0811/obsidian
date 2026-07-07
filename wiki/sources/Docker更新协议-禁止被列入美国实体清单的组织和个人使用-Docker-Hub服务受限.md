@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/Docker更新协议，禁止被列入美国实体清单的组织和个人使用，Docker Hub服务受限.html
+source_path: 印象笔记管理工具/Docker更新协议，禁止被列入美国实体清单的组织和个人使用，Docker Hub服务受限.md
 tags: [印象笔记]
 updated: 2026-06-27
 ---

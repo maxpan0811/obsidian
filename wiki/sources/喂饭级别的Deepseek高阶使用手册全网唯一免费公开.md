@@ -3,7 +3,7 @@ title: 喂饭级别的Deepseek高阶使用手册，全网唯一，免费公开
 type: source
 created: 2026-06-14
 updated: 2026-06-14
-source_path: 印象笔记管理工具/喂饭级别的Deepseek高阶使用手册，全网唯一，免费公开.html
+source_path: 印象笔记管理工具/喂饭级别的Deepseek高阶使用手册，全网唯一，免费公开.md
 tags: [印象笔记, DeepSeek]
 updated: 2026-06-27
 updated: 2026-06-27

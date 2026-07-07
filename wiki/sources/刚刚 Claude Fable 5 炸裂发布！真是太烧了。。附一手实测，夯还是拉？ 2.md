@@ -1,0 +1,361 @@
+---
+title: 刚刚 Claude Fable 5 炸裂发布！真是太烧了。。附一手实测，夯还是拉？ 2
+type: source
+created: 2026-07-06
+updated: 2026-07-06
+source_path: 印象笔记管理工具/刚刚 Claude Fable 5 炸裂发布！真是太烧了。。附一手实测，夯还是拉？ 2.md
+tags: [evernote, impression, yinxiang]
+---
+
+# 刚刚 Claude Fable 5 炸裂发布！真是太烧了。。附一手实测，夯还是拉？
+
+---
+
+原文链接: [https://mp.weixin.qq.com/s?\_\_biz=MzI1NDczNTAwMA==&mid=224758...](https://mp.weixin.qq.com/s?__biz=MzI1NDczNTAwMA==&mid=2247587782&idx=1&sn=b891396c99d63a8fac39a58c4d1ba20d&chksm=e8a8fd332a8f1700aa27339726f7bbbeca76bc29aa1f6260e0fc3d091e6f7de400a156d33cc9&mpshare=1&scene=24&srcid=0610MWm7JamMEV0gmi0hU8mC&sharer_shareinfo=0a3b3cb89b211bc3f34b3572f3c73f85&sharer_shareinfo_first=0a3b3cb89b211bc3f34b3572f3c73f85&clicktime=1781143059&enterid=1781143059&ascene=14&devicetype=iOS26.5&version=18004a2b&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQ8hxgfY1u+gbedlWsuqcnKxLTAQIE97dBBAEAAAAAAKn3CunVjfIAAAAOpnltbLcz9gKNyK89dVj0YyegoJiXFcvB4mn0cVnIhkRqEQNr8N67ewUA7XCyYyT3kGTXSF5Oip0hVQDh8ECLKbVbILGmA0e+gBwAlNP6KgA8/pkpT+UEQ1PKl7vgUSLc9yap+X1d4fJpW0ZEYApTgWbYZt/4dmx0hWlm08YS1BocnS90wshdgK8+QiwOGZGbf1vybWUjOiJwT7hzXQCPqDtqQ0S2wqFk/F8QoGx94da5p89CavgnWRmxPz0=&pass_ticket=GFKJVgcnSmpZTteoX3TicocD4G0Xs/CuDCwJg42577RAZbITMvtU7WRoEBWLXv4d&wx_header=3)
+
+Original程序员鱼皮 程序员鱼皮
+
+大家好，我是程序员鱼皮。
+
+就在刚刚，Anthropic 发布了新一代模型 **Claude Fable 5**，同时还放出了一个面向专业安全人员的「解限版」叫 Claude Mythos 5。
+
+![](.evernote-content/68803AE1-167F-49C6-9E0F-45808C90742E/739F6835-3D7F-457B-B2FB-AB12EBCCACCA.png)
+
+官方把它称为「神话级」模型，能力凌驾于之前的 Opus 系列之上。据说 Stripe 公司在自己 5000 万行的 Ruby 代码库里测了一圈，一天就搞定了团队原本要两个月才能完成的迁移工作。
+
+这篇文章我会先带大家看看 Fable 5 到底更新了什么，然后上两轮硬核实测，分别让 Fable 5、Opus 4.8 和 GPT-5.5 同场竞技，看看新模型的 AI 编程能力到底怎么样。
+
+友情提示，这次的测试成本有点高，希望大家心疼一下我的钱包，把这篇文章看到最后哦。
+
+Claude Fable 5 更新了什么？
+---------------------
+
+### 1、一个模型，两个名字
+
+这次 Anthropic 同时放出了 Fable 5 和 Mythos 5，但它俩其实是 **同一个底层模型**，能力完全一样。区别只在「安全护栏」的松紧程度上。
+
+Fable 5 面向所有人，今天就能用。但加了一层安全分类器，遇到涉及网络安全、生物化学或模型蒸馏（防止别人偷学能力去训练竞品）的请求时，会降级到 Opus 4.8 来回答你，并且给你一条提示。
+
+Mythos 5 是把护栏拆掉的「完全体」，只发给 Anthropic 审核过的网络安全机构和少数生物研究人员，普通人接触不到。
+
+关于 Fable 5 的降级机制，官方说平均不到 5% 的会话会触发。但我测试使用 Fable 5 来写文章的能力时，就触发了安全过滤，直接被切换到了 Opus 4.8。
+
+不是哥们，写个文章哪里不安全了？！
+
+![](.evernote-content/68803AE1-167F-49C6-9E0F-45808C90742E/B5BDB1BE-A58C-4E73-847B-1AE3CD88D114.png)
+
+肯定有朋友好奇，为什么这次更新不延续 Opus 系列，来个 Opus 4.9，而是直接跳到第 5 代？
+
+因为它根本不是 Opus 这个级别的模型了，而是 Anthropic 内部一个更高的等级，叫 **Mythos 级**，能力直接碾压 Opus。
+
+有趣的是，Fable（寓言）这个词本身就源自拉丁语 fabula，和希腊语的 Mythos（神话）是近亲。
+
+简单来说，就是同一把刀，一把开了刃给专业人士，一把套了刀鞘发给大众。
+
+### 2、定价全球最贵
+
+Claude Fable 5 和 Mythos 5 的定价是每百万输入 token 10 美元、输出 50 美元。
+
+听起来你可能没什么感觉，但是对比一下目前主流模型的价格，你就知道有多离谱了：
+
+| 模型 | 输入 / 输出（每百万 token） | 总成本 |
+| --- | --- | --- |
+| DeepSeek V4 | 0.8 | $1.2 |
+| Claude Opus 4.8 | 25 | $30 |
+| GPT-5.5 | 30 | $35 |
+| **Claude Fable 5** | **50** | **$60** |
+
+Fable 5 的总成本直接是 Opus 4.8 的两倍、DeepSeek V4 的 50 倍，稳坐目前主流模型里最贵的位置。官方还特意强调了，这已经比之前的 Mythos Preview 便宜了一半多。
+
+好家伙，便宜一半还是最贵的，以后的模型怕是普通人真的用不起了……
+
+注意，官方说从今天到 6 月 22 号，Pro、Max、Team 这些套餐可以免费使用 Fable 5。但 **6 月 23 号之后就要单独花「用量积分」了**，等产能上来再恢复。所以想白嫖体验的，一定要利用好这两周的窗口期。
+
+### 3、跑分炸裂
+
+每次新模型出来都得看看跑分。官方说 Fable 5 几乎在所有测试过的基准上都是 SOTA，尤其在编程、知识工作、视觉、科学研究这几个方向。而且 **任务越长、越复杂，它领先得越多**。
+
+说实话我已经有点麻了，因为各家基本都说自己是 SOTA 最佳水平……
+
+但这次 Fable 5 的成绩，确实配得上「炸裂」两个字。
+
+![](.evernote-content/68803AE1-167F-49C6-9E0F-45808C90742E/53EB1CE5-A058-4673-8006-E01DC4E04A4E.png)
+
+挑几个亮眼的数据说说：
+
+* SWE-bench Pro（Agent 编程能力）是 80.3%，远超 GPT-5.5 的 58.6% 和 Opus 4.8 的 69.2%
+* FrontierCode（高质量编码）是 29.3%，Opus 4.8 只有 13.4%，GPT-5.5 是 5.7%
+* 视觉能力（GDPpdf 文档推理）是 29.8%，GPT-5.5 是 24.9%，Opus 4.8 是 22.5%。官方让 Fable 5 去玩宝可梦火红版，纯视觉就通关了。
+
+好家伙，这是断层式的提升啊！
+
+不过跑分是一方面，好不好用还是得拿到真实项目里检验才知道。所以老规矩，我带大家动手测一测，拿 Fable 5、Opus 4.8 和 GPT-5.5 同场竞技。
+
+正好 Cursor 第一时间就接入了 Fable 5，每次出新模型都能直接测试，方便得很。
+
+![](.evernote-content/68803AE1-167F-49C6-9E0F-45808C90742E/9C3EF540-C148-4B85-92F2-43F66A7C8E07.png)
+
+我之前写过一套免费开源的 [《AI 编程零基础入门教程》](https://mp.weixin.qq.com/s?__biz=MzI1NDczNTAwMA==&mid=2247580489&idx=1&sn=ea128f6a8c5d79e641133615f85f7ab8&scene=21#wechat_redirect)，里面有 Cursor 的保姆级实战教程，感兴趣的同学可以看看。
+
+![](.evernote-content/68803AE1-167F-49C6-9E0F-45808C90742E/BC2D2D33-584F-4423-AAC0-BBAA9EE0EF36.png)
+
+接下来我准备了两轮实测。第一轮是让 3 个模型一把梭同一个全栈项目；第二轮更硬核，让它们重构 Claude Code 泄露的 50 多万行源码。
+
+好了，我的钱包准备开始烧了。
+
+实战测评一、全栈项目一把梭
+-------------
+
+第一个测评，我选了一个有代表性的全栈项目来测模型的综合编码能力。
+
+项目叫「TaskFlow 任务管理看板」，类似简化版飞书看板，包含 7 个功能需求：用户注册登录、三列看板拖拽、任务增删改查、数据图表面板、搜索筛选、暗色 / 亮色主题切换、响应式设计。技术栈是 React + TypeScript 前端 + Python FastAPI 后端 + SQLite 数据库。
+
+选这个项目的原因是它前后端都有、交互复杂度适中，能同时考察模型的 UI 审美、工程能力和功能完整度。
+
+这次参赛的选手是 **Claude Fable 5**、**Claude Opus 4.8** 和 **GPT-5.5**。3 个模型使用完全相同的提示词，全部开到 High thinking 档位，全程零人工干预。
+
+一段时间后，3 个模型都顺利完成了任务，前后端都能正常运行起来。
+
+先来看看它们各自做出来的效果。
+
+Opus 4.8 的登录页是经典的居中卡片式，可以切换注册和登录 Tab，还贴心地把演示账号密码标在了页面底部：
+
+![](.evernote-content/68803AE1-167F-49C6-9E0F-45808C90742E/9E7240C7-A784-4D3B-BE96-D898F143092D.png)
+
+Opus 4.8 登录页
+
+GPT-5.5 的风格就完全不同了，左边一大块全是文案宣传，右边才是登录表单。符合我对 GPT 的刻板印象，喜欢在页面上堆信息：
+
+![](.evernote-content/68803AE1-167F-49C6-9E0F-45808C90742E/18278C1E-451C-4C17-939E-0644A95DA920.png)
+
+GPT-5.5 登录页
+
+Fable 5 的登录页简洁干净，和 Opus 4.8 风格一致：
+
+![](.evernote-content/68803AE1-167F-49C6-9E0F-45808C90742E/D0E53A3E-42A3-4644-A2DF-90EDE16C731E.png)
+
+Fable 5 登录页
+
+再来看看任务看板页面。
+
+Opus 4.8 的看板有点素，排版整齐，但没什么背景色：
+
+![](.evernote-content/68803AE1-167F-49C6-9E0F-45808C90742E/DA71D731-1A4C-483F-9B01-802A9E32338E.png)
+
+Opus 4.8 看板页
+
+GPT-5.5 直接把看板和数据面板合到了一个页面，用最少的页面完成最多的事。但是任务列的标题直接用了英文，细节上差了点儿意思：
+
+![](.evernote-content/68803AE1-167F-49C6-9E0F-45808C90742E/CED79C47-0B2D-4D34-B7CC-A01AE16A5FFC.png)
+
+GPT-5.5 看板+数据面板
+
+Fable 5 的看板页面中，状态区分得很清晰，颜色比较丰富生动，任务卡片上的信息排布也更合理：
+
+![](.evernote-content/68803AE1-167F-49C6-9E0F-45808C90742E/F30298E8-0939-4D25-9232-E106336BE646.png)
+
+Fable 5 看板页
+
+再看看数据面板，Fable 5 做了环形图、柱状图、折线图，任务卡片通过圆弧元素增加了点缀感：
+
+![](.evernote-content/68803AE1-167F-49C6-9E0F-45808C90742E/4B2FAC3E-AC0F-4C06-86E2-27B7CF3F77E1.png)
+
+Fable 5 数据面板
+
+Opus 4.8 的数据面板则比较朴素：
+
+![](.evernote-content/68803AE1-167F-49C6-9E0F-45808C90742E/3001D379-32CF-4F22-B851-F1DF3897E250.png)
+
+Opus 4.8 数据面板
+
+深色模式下，Fable 5 的图表配色很协调，整体效果是三个里最好的：
+
+![](.evernote-content/68803AE1-167F-49C6-9E0F-45808C90742E/41A8ED5A-D958-4267-AA0D-67B1DF5181B9.png)
+
+Fable 5 深色模式
+
+Opus 4.8 的深色模式则中规中矩，没什么硬伤，但也没什么惊喜：
+
+![](.evernote-content/68803AE1-167F-49C6-9E0F-45808C90742E/66B3999B-BB51-49BF-B043-70E3267324E0.png)
+
+Opus 4.8 深色模式
+
+GPT-5.5 的深色模式就差点儿意思了，一大片灰色：
+
+![](.evernote-content/68803AE1-167F-49C6-9E0F-45808C90742E/09D89DB3-5CE0-4E06-9BA3-B676A7C32114.png)
+
+GPT-5.5 深色模式
+
+看完了 UI 效果，再来说说真正拉开差距的地方。
+
+Fable 5 是三个里面唯一做到「零修改跑通」的。虽然三个模型最终都能把项目跑起来，但 Opus 4.8 和 GPT-5.5 或多或少需要修几个小 Bug、补个缺失的文件、或者调一下依赖版本。而 Fable 5 代码本身能一次通过 TypeScript 编译、后端一次启动成功、全部 API 测试一次通过，做到真正的开箱即用。
+
+而且它的验证方式是最硬核的，不仅用 curl 测了 API，还通过 CDP（Chrome DevTools Protocol）合成了真实的鼠标拖拽事件，在浏览器里实测了看板拖拽的持久化效果，验证深度远超其他模型。
+
+![](.evernote-content/68803AE1-167F-49C6-9E0F-45808C90742E/F6CC1A1E-3F28-4242-9EEE-7A68E48C4DC2.png)
+
+综合来看，Opus 4.8 架构分层最规范、UI 设计感也不错，但有几个小 Bug 需要修复才能跑起来。GPT-5.5 则是老样子，做得快但做得糙，界面偏简陋。Fable 5 的优势主要体现在工程可靠性上，零缺陷、hooks 封装干净、验证深度到位。这种「交付确定性」对效率的影响其实非常大，少一次来回调试可能就省了半小时。
+
+实战测评二、重构 Claude Code 源码
+-----------------------
+
+第二轮测评才是这次的重头戏。
+
+官方反复强调，**任务越长、越复杂，Fable 5 领先得越多**。短平快的 demo 根本测不出代际差距，要测就得上真正的长程任务。
+
+对了，前段时间 Claude Code 不是把自己 50 多万行的源码给泄露了吗？
+
+这份代码是真正的工业级 Agent 架构，拿来做测试再合适不过了。
+
+说干就干。具体做法是把泄露的 Claude Code 源码包提供给模型，让它自主分析里面的架构设计，然后从零重构一个能在终端实际运行的命令行 AI 编程助手「Yupi Code」。全程不需要人工干预，看它能不能一次搞定。
+
+提示词如下：
+
+你是一个资深的 TypeScript 全栈工程师，精通 AI Agent 架构和命令行工具开发。
+claude-code-origin 目录下是 Claude Code 泄露的部分源码，包含完整的实现逻辑，但无法运行。
+你要先阅读并理解这份源码的核心设计，在此基础上重构一个命令行 AI 编程助手「Yupi Code」，放到新目录下。
+要求必须能实际运行，各项功能正常可用。
+
+把三个模型生成的结果分别保存到不同的目录，来看看它们各自的表现。
+
+### Opus 4.8 差在最后一公里
+
+Opus 4.8 通过模拟 Mock Server 跑通了测试流程，自主验证的层次最多。
+
+![](.evernote-content/68803AE1-167F-49C6-9E0F-45808C90742E/B83333E4-405F-48FA-8CB3-44FE6212E07D.png)
+
+但实际运行时需要 Anthropic 的 API Key，没有 Key 就没法使用：
+
+![](.evernote-content/68803AE1-167F-49C6-9E0F-45808C90742E/B367BD57-E318-46EF-ACA3-A682AB940BFF.png)
+
+不好意思，我没有 Key。所以只能让 AI 帮我复用本地 Claude Code 的配置，再修复一遍。
+
+修复完成后我又试了试，给我逗乐了。
+
+且不说界面风格跟原装 Claude Code 有明显区别（注意看那个输入框），AI 输出的内容都不能正确显示，拉了：
+
+![](.evernote-content/68803AE1-167F-49C6-9E0F-45808C90742E/45B92305-D1CD-4EAB-9A3A-4A76FC3C4D97.png)
+
+### GPT-5.5 偷懒大师
+
+GPT-5.5 完成任务的速度是 3 个模型里面最快的。
+
+但问题来了，它生成完之后同样需要 Anthropic 的 API Key 才能运行。哼，就这小子最会偷懒了，输出信息都比 Claude 精简很多：
+
+![](.evernote-content/68803AE1-167F-49C6-9E0F-45808C90742E/43E449D1-EBED-4BC4-8832-6A3DAD004B61.png)
+
+没有 Key 运行不了，所以我让 AI 复用本地 Claude Code 的配置再试试。
+
+虽然能够正常对话，但是这个界面也太简陋了吧，不愧是偷懒大师：
+
+![](.evernote-content/68803AE1-167F-49C6-9E0F-45808C90742E/0D3BA396-CB7D-4B6A-9903-4A96E280FD72.png)
+
+让它读取个本地文件，结果直接报错了，GG：
+
+![](.evernote-content/68803AE1-167F-49C6-9E0F-45808C90742E/1F129D0F-978B-45F9-85F0-6CAC5889D100.png)
+
+### Fable 5 开箱即用
+
+Fable 5 直接读取到了我本地的 Claude 配置，使用了我之前配置好的 DeepSeek 国产模型，不需要 Anthropic 的 API Key。
+
+![](.evernote-content/68803AE1-167F-49C6-9E0F-45808C90742E/BC0AFD88-4DE4-4456-A5AF-D832933468A9.png)
+
+试了一下，体验跟 Claude Code 几乎一模一样！能够普通对话、Agent 模式和工具调用，功能全部正常，**一次交付就能用**，不需要任何二次修复。
+
+![](.evernote-content/68803AE1-167F-49C6-9E0F-45808C90742E/6F00FA6A-EC75-4646-AF67-3A618693FE13.png)
+
+哈哈，咱也是开发过 Claude Code 的人了，简历上又多了浓墨重彩的一笔~
+
+### 开发过程对比
+
+看完了最终效果，我又新开了一个对话，让 AI 帮我分析几个模型各自完成任务的对话记录，看看开发过程到底有什么不同。
+
+最关键的发现是，**Claude Fable 5 是唯一做了 PTY 终端交互式测试的模型**。
+
+![](.evernote-content/68803AE1-167F-49C6-9E0F-45808C90742E/553405CA-2EAB-42A6-B28D-50DE36A462DF.png)
+
+Opus 4.8 虽然写了最多的测试，但所有验证都在非交互环境下进行，从来没有在真实终端里验证过交互效果。结果到用户手里，输出显示就出了问题。
+
+Fable 5 虽然没有写 mock 测试套件，但它做了 Opus 没做的事情，**用 PTY 在真实终端里反复调试交互**（用 script 命令模拟 PTY，验证 /help、/cost、权限对话框、写文件全流程）。它花了大量轮次调通了 PTY 下回车键 `\r` → `\n` 的问题，修复了 API 协议 Bug，这些投入最终换来了最好的用户体验。
+
+这给了我一个很重要的启发。**「AI 自己测试通过」和「用户实际能用」之间，隔着一个巨大的鸿沟**。在 CLI 这种场景下，在真实环境中调通交互，远比在隔离环境中跑测试更能保障最终质量。
+
+### 费用对比
+
+大家肯定很关心，这次测试到底烧了我多少米？
+
+打开 Cursor 后台一看，我的心在滴血啊！
+
+![](.evernote-content/68803AE1-167F-49C6-9E0F-45808C90742E/DA922AC0-91CA-4DE7-8C46-90835B56A61C.png)
+
+三个模型的费用和 token 消耗明细如下：
+
+| 模型 | 总费用 | 总 Token |
+| --- | --- | --- |
+| GPT-5.5 | $4.61 | 530.6 万 |
+| Opus 4.8 | $13.38 | 1685.5 万 |
+| **Fable 5** | **$38.66** | **2146.4 万** |
+
+Fable 5 的费用竟然是 Opus 的 3 倍、GPT-5.5 的 8 倍？！光这一个任务就花了我 200 多块……
+
+贵的原因主要是 thinking token 消耗巨大，而且大量轮次花在了 TUI 的交互调试上。不过反过来想，正是因为它愿意花这些轮次去调试真实环境里的交互效果，最终才成了唯一能交付可用产品的那个。
+
+综合数据对比
+------
+
+两轮测评做完了，我让 AI 帮我根据三个模型完成任务的全过程对话记录和代码产出，做了综合的可视化分析。
+
+![](.evernote-content/68803AE1-167F-49C6-9E0F-45808C90742E/E42FCCE5-C5A1-437B-A7AF-3A9B7EEBB6C1.png)
+
+先看几个核心能力指标的柱状图。可以看到 Fable 5 在验证深度和实测可用性上遥遥领先，Opus 4.8 在工程质量上略胜一筹，GPT-5.5 则全面垫底：
+
+![](.evernote-content/68803AE1-167F-49C6-9E0F-45808C90742E/2257B946-404D-4EA2-BBC8-81A916E9EE1D.png)
+
+通过功能覆盖矩阵，可以更直观地看到差距。Fable 5 做了完整的 Ink TUI、上下文压缩、自动复用本地配置这些其他模型都没做的功能，而 GPT-5.5 连最基本的 Read 工具都报错，功能严重缺失：
+
+![](.evernote-content/68803AE1-167F-49C6-9E0F-45808C90742E/FA64B02A-9C00-417B-9269-CE262EA8772A.png)
+
+从架构理解、工程执行、验证与可用性、开箱即用和性价比这五个维度来打分。Opus 4.8 在架构理解上最强，但 Fable 5 在验证和开箱即用两个维度上直接拉满，形成了明显的差异化优势：
+
+![](.evernote-content/68803AE1-167F-49C6-9E0F-45808C90742E/FDC79E88-6549-461A-B3EF-32E585BBD674.png)
+
+最终综合评分，Claude Fable 5 以 8.3 分排名第一。它不是每项都最强，但光是「唯一能交付可用产品」这一条就压过了其他模型。毕竟我们用 AI 编程，最终目的就是想省心地直接拿到能用的成果，而不是拿到一堆还需要自己修的半成品。
+
+![](.evernote-content/68803AE1-167F-49C6-9E0F-45808C90742E/866A6931-377D-4079-A642-F6975F6C91EE.png)
+
+回头看这三个模型的策略，其实很像一个经典的不可能三角。
+
+**速度、成本、质量，不可能三角。**
+
+GPT-5.5 选了速度和成本，结果不能用；Opus 4.8 选了代码质量和成本，但验证有盲区；Fable 5 选了质量和用户体验，代价就是贵。
+
+当然，这只是我的一次测试，不代表普遍规律。但可见一斑，Fable 5 在「长程任务最终交付可用产品」这件事上，确实比上一代有质的飞跃。
+
+结合这次测评，我可以给到大家一些模型选择的建议。
+
+如果你要做大规模重构、迁移这种又长又复杂的项目，选择 Fable 5 最好，贵有贵的道理。但日常一把梭中小项目，Opus 4.8 的代码质量高、架构完整，性价比明显更高。GPT-5.5 虽然这次表现拉了，但它在终端自动化和命令行相关任务上的跑分还是领先的，适合追求速度的自动化任务。预算比较紧的话，用国产模型也完全可以应付大多数场景。
+
+总之，**别盲目追新，按你的真实需求来选**。最贵的不一定最适合你。
+
+最后哔哔
+----
+
+OK，测试就到这里。我觉得 Fable 5 这次的表现符合我对新一代模型的预期，AI 编程的能力在快速逼近「能独立交付完整项目」的水平了，但这个价格，大多数人是真的用不起。到底值不值，得看你的时间和钱哪个更贵。
+
+但其实这次测评给我印象最深的，不是 Fable 5 本身的实力，而是它背后的发布方式。
+
+同一个模型，套上不同松紧的护栏，然后拆成通用版和解限版发给不同的人。遇到敏感问题时，不直接拒绝，而是降级到上一代模型来回答你。虽然之前也有模型限流时降级的例子，但像这样从产品设计层面就把「分级释放」做成核心机制，Anthropic 算是第一个这么干的。
+
+我的判断是，随着模型能力越来越强，这种模式很可能会被越来越多的厂商抄作业。以后你用的那个「最新最强模型」，用着用着说不定就换成别的模型了。
+
+**作为用户，至少我们得知道这件事。**
+
+我是鱼皮，持续分享 AI 编程干货。觉得有用的话记得点赞收藏和关注~
+
+欢迎在评论区聊聊：你愿意为 Claude Fable 5 模型买单吗？你觉得它是夯还是拉？
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzI1NDczNTAwMA==&mid=2247587782&idx=1&sn=b891396c99d63a8fac39a58c4d1ba20d&chksm=e8a8fd332a8f1700aa27339726f7bbbeca76bc29aa1f6260e0fc3d091e6f7de400a156d33cc9&mpshare=1&scene=24&srcid=0610MWm7JamMEV0gmi0hU8mC&sharer_shareinfo=0a3b3cb89b211bc3f34b3572f3c73f85&sharer_shareinfo_first=0a3b3cb89b211bc3f34b3572f3c73f85&clicktime=1781143059&enterid=1781143059&ascene=14&devicetype=iOS26.5&version=18004a2b&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQ8hxgfY1u+gbedlWsuqcnKxLTAQIE97dBBAEAAAAAAKn3CunVjfIAAAAOpnltbLcz9gKNyK89dVj0YyegoJiXFcvB4mn0cVnIhkRqEQNr8N67ewUA7XCyYyT3kGTXSF5Oip0hVQDh8ECLKbVbILGmA0e+gBwAlNP6KgA8/pkpT+UEQ1PKl7vgUSLc9yap+X1d4fJpW0ZEYApTgWbYZt/4dmx0hWlm08YS1BocnS90wshdgK8+QiwOGZGbf1vybWUjOiJwT7hzXQCPqDtqQ0S2wqFk/F8QoGx94da5p89CavgnWRmxPz0=&pass_ticket=GFKJVgcnSmpZTteoX3TicocD4G0Xs/CuDCwJg42577RAZbITMvtU7WRoEBWLXv4d&wx_header=3)
+
+[📎 在印象笔记中打开](evernote:///view/207087/s1/944f1ec6-ae30-4c06-b78a-98d591f969b0/944f1ec6-ae30-4c06-b78a-98d591f969b0/)

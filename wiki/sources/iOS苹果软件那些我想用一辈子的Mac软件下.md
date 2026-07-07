@@ -3,7 +3,7 @@ title: iOS苹果软件—那些我想用一辈子的Mac软件【下】！
 type: source
 created: 2026-06-14
 updated: 2026-06-14
-source_path: 印象笔记管理工具/iOS苹果软件—那些我想用一辈子的Mac软件【下】！.html
+source_path: 印象笔记管理工具/iOS苹果软件—那些我想用一辈子的Mac软件【下】！.md
 tags: [印象笔记, 其他]
 updated: 2026-06-27
 updated: 2026-06-27

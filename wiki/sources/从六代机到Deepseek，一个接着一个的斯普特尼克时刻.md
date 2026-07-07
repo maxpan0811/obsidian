@@ -4,7 +4,7 @@ type: source
 created: 2026-06-17
 updated: 2026-06-17
 source: 印象笔记管理工具
-source_path: 印象笔记管理工具/从六代机到Deepseek，一个接着一个的斯普特尼克时刻.html
+source_path: 印象笔记管理工具/从六代机到Deepseek，一个接着一个的斯普特尼克时刻.md
 tags: [AI技术]
 updated: 2026-06-27
 updated: 2026-06-27

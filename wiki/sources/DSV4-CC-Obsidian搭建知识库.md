@@ -4,7 +4,7 @@ type: source
 created: 2026-06-08
 updated: 2026-06-08
 sources: [https://mp.weixin.qq.com/s?chksm=c1849598f6f31c8e2f3a409e20e1dcd...]
-source_path: 印象笔记管理工具/保姆级教程：DeepSeek V4 + Claude Code+ Obsidian搭建个人知识库.html
+source_path: 印象笔记管理工具/保姆级教程：DeepSeek V4 + Claude Code+ Obsidian搭建个人知识库.md
 tags: [deepseek, claude-code, obsidian, knowledge-base, tutorial]
 updated: 2026-06-27
 updated: 2026-06-27

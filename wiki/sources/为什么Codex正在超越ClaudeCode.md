@@ -3,7 +3,7 @@ title: 为什么Codex正在超越ClaudeCode
 type: source
 created: 2026-06-14
 updated: 2026-06-14
-source_path: 印象笔记管理工具/为什么Codex正在超越ClaudeCode.html
+source_path: 印象笔记管理工具/为什么Codex正在超越ClaudeCode.md
 tags: [印象笔记, AI/编程]
 updated: 2026-06-27
 updated: 2026-06-27

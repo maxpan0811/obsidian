@@ -3,7 +3,7 @@ title: 毛克疾：原来，这才是印度IT产业的成色与底色…
 type: source
 created: 2026-06-14
 updated: 2026-06-14
-source_path: 印象笔记管理工具/毛克疾：原来，这才是印度IT产业的成色与底色….html
+source_path: 印象笔记管理工具/毛克疾：原来，这才是印度IT产业的成色与底色….md
 tags: [印象笔记, 其他]
 updated: 2026-06-27
 updated: 2026-06-27

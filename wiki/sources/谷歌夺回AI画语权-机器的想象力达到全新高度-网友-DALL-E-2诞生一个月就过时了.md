@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/谷歌夺回AI画语权，机器的想象力达到全新高度，网友：DALL·E 2诞生一个月就过时了？.html
+source_path: 印象笔记管理工具/谷歌夺回AI画语权，机器的想象力达到全新高度，网友：DALL·E 2诞生一个月就过时了？.md
 tags: [印象笔记]
 updated: 2026-06-27
 updated: 2026-06-27

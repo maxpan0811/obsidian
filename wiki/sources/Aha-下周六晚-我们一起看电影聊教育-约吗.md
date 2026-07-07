@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/Aha！下周六晚，我们一起看电影聊教育。约吗？.html
+source_path: 印象笔记管理工具/Aha！下周六晚，我们一起看电影聊教育。约吗？.md
 tags: [印象笔记, 教育]
 updated: 2026-06-27
 ---

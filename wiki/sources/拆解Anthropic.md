@@ -4,7 +4,7 @@ type: source
 created: 2026-05-29
 updated: 2026-05-29
 sources: [拆解Anthropic：最好的AI公司，可能也是一种组织发明.html]
-source_path: 印象笔记管理工具/拆解Anthropic：最好的AI公司，可能也是一种组织发明.html
+source_path: 印象笔记管理工具/拆解Anthropic：最好的AI公司，可能也是一种组织发明.md
 tags: [anthropic, ai, organization, culture]
 updated: 2026-06-27
 updated: 2026-06-27

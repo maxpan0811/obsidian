@@ -3,7 +3,7 @@ title: 1分钟搞明白什么是Agent Skills！！
 type: source
 created: 2026-06-14
 updated: 2026-06-14
-source_path: 印象笔记管理工具/1分钟搞明白什么是Agent Skills！！.html
+source_path: 印象笔记管理工具/1分钟搞明白什么是Agent Skills！！.md
 tags: [印象笔记, AI/编程]
 updated: 2026-06-27
 ---

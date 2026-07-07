@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/AI革命与就业焦虑：我们如何在技术浪潮中找到新机遇？.html
+source_path: 印象笔记管理工具/AI革命与就业焦虑：我们如何在技术浪潮中找到新机遇？.md
 tags: [印象笔记, AI, 科技]
 updated: 2026-06-27
 ---

@@ -3,7 +3,7 @@ title: 为什么Obsidian是笔记高级玩家的最爱？
 type: source
 created: 2026-06-14
 updated: 2026-06-14
-source_path: 印象笔记管理工具/为什么Obsidian是笔记高级玩家的最爱？.html
+source_path: 印象笔记管理工具/为什么Obsidian是笔记高级玩家的最爱？.md
 tags: [印象笔记, AI/编程]
 updated: 2026-06-27
 updated: 2026-06-27

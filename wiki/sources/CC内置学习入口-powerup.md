@@ -4,7 +4,7 @@ type: source
 created: 2026-06-08
 updated: 2026-06-08
 sources: [https://mp.weixin.qq.com/s?__biz=MzAwNTQzOTE2OA==&mid=224748...]
-source_path: 印象笔记管理工具/我之前一直觉得，学 Claude Code 主要靠两件事：自己多用，或者去翻官方文档.html
+source_path: 印象笔记管理工具/我之前一直觉得，学 Claude Code 主要靠两件事：自己多用，或者去翻官方文档.md
 tags: [claude-code, learning, powerup, command]
 updated: 2026-06-27
 updated: 2026-06-27

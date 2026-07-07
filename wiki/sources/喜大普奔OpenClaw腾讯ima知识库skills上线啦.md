@@ -3,7 +3,7 @@ title: 喜大普奔！OpenClaw🦞腾讯ima知识库skills上线啦！
 type: source
 created: 2026-06-14
 updated: 2026-06-14
-source_path: 印象笔记管理工具/喜大普奔！OpenClaw🦞腾讯ima知识库skills上线啦！.html
+source_path: 印象笔记管理工具/喜大普奔！OpenClaw🦞腾讯ima知识库skills上线啦！.md
 tags: [印象笔记, 其他]
 updated: 2026-06-27
 updated: 2026-06-27

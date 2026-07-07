@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/郭世佑在女儿婚礼上的致辞：父亲的压力_请讲_澎湃新闻-The Paper.html
+source_path: 印象笔记管理工具/郭世佑在女儿婚礼上的致辞：父亲的压力_请讲_澎湃新闻-The Paper.md
 tags: [印象笔记]
 updated: 2026-06-27
 updated: 2026-06-27

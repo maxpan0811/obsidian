@@ -1,0 +1,86 @@
+---
+title: 投资的唐僧和买游戏PC的唐僧不是一个唐僧 2
+type: source
+created: 2026-07-06
+updated: 2026-07-06
+source_path: 印象笔记管理工具/投资的唐僧和买游戏PC的唐僧不是一个唐僧 2.md
+tags: [evernote, impression, yinxiang]
+---
+
+# 投资的唐僧和买游戏PC的唐僧不是一个唐僧
+
+---
+
+原文链接: [https://mp.weixin.qq.com/s?\_\_biz=MzkzMDY4MzI5Ng==&mid=224748...](https://mp.weixin.qq.com/s?__biz=MzkzMDY4MzI5Ng==&mid=2247485929&idx=1&sn=ab85bcf5b222800dd66a303d7b7e836f&chksm=c3dabbb2099e743531c8644ca187d134b53325325e08e2d8d746dbd2327a98b516628a5dc200&scene=126&sessionid=1762942220&subscene=90&clicktime=1762943013&enterid=1762943013&ascene=3&devicetype=iOS26.1&version=18004126&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQHzgr02Qv1R1niEocg1VRmhLTAQIE97dBBAEAAAAAAFgbLGVQpIoAAAAOpnltbLcz9gKNyK89dVj0uFfH8+/v7O90TJ5G2c4yZMEFAAZxE53Qapdvmg16b7jZkdMIb7Za97rkkMbRRAZ0dFfRtFy5IjPslYtg6Jh43/YeyJmGi+AIoZB6nlefr8OdaP+k8WhdAcAjF5mQLjE+omVvvniR36vXP2cZjQUcO3TVAlBEV1kmPJm+pZERRlnqRszv0u5/r+DyVr4Bv8GpXf+plAQgsUsZfW3XLrYX7WTdNuCjiaclBP0/o9c=&pass_ticket=tcbpu33dN+bwh4SvX5ZouZx3VJU4I6CRy7XKWFAo3KWg3walm/JH/pKeBQH5E25U&wx_header=3)
+
+Original唐二僧唐僧的碎碎念
+
+---
+
+屁股比脑袋大
+
+---
+
+事情的前因后果是这样的：今年的国庆节没有带娃出游，就在上海刷了几个游乐场。在上海的好处是不用在路上颠簸以及不累，不好的一点是如果天气不好就不知道该干点啥。
+
+于是在娃端着她的IPAD打游戏的时候，唐僧也找出来了20年前高中时候就跟发小们翻墙逃课去网吧打的一款游戏暴雪的《DIABLO II》，人称大菠萝的《暗黑破坏神2》，国庆几天假正好把空余时间拿来打游戏，用10年前的那台老台机练了个NEC吭哧吭哧的把地狱过完了。
+
+发给当年的老朋友们显摆了一下的同时还收到了回应：你怎么还在玩原版啊！2021年有重制版了啊！符文之语更多，玩法更多，而且画面也更好了！现在网易代理国庆节前后刚开了国服！
+
+抱着好奇心态唐僧就交了168买游戏的钱，又吭哧吭哧的把这个20多G的重制版下下来了，你别说画面真的是提升了不止一个量级（如图）：
+
+![](.evernote-content/B7880281-27A6-491C-8C90-AFDDD474F8F2/7A0A2B16-847A-4B9E-949E-2644A6321CDD.png)
+
+问题是PC扛不住，这台陪伴了我10年，平常只拿来写写文章，购买于2015年的老家伙喘气喘的跟70多岁的老头一样。我想了想一咬牙：毕竟都用了十年了，正好双11了咱换一个！也花点钱刺激一下消费！
+
+男人买东西就是简单粗暴，打开某狗直接开始选，半小时不到就搞定了已经很多年没有买PC的我真的是被现在的价格震惊到了。2005年我大学毕业的时候收到别人送的一台IBM THINKPAD当时要2万多，2015年我搞现在用的这台机器的时候花了一万多，结果没想到这次在狗平台上把所有配件买齐只花了不到6000块！
+
+雷神的主机5000多点，华为的27寸屏615，雷神的游戏键盘不到100，鼠标50多，最后一个漫步者的音箱花了169，这些加起来国补一共给补了1000多块钱。我又好奇去狗平台搜了一下这个雷神主机给我用的4060的价格，说也要2000块钱左右......
+
+我当时第一反应是：这个100块钱的键盘和50多的鼠标，还要给我包邮到家，厂商都赚什么钱呢？
+
+![](.evernote-content/B7880281-27A6-491C-8C90-AFDDD474F8F2/57ACF1C5-B750-466D-BFD8-A64E3C21D3C3.png)![](.evernote-content/B7880281-27A6-491C-8C90-AFDDD474F8F2/E6A9FDE4-B935-45AC-B240-E06B3AB83C46.png)![](.evernote-content/B7880281-27A6-491C-8C90-AFDDD474F8F2/3415CC1C-BDE7-4665-8DB5-415C475CC37C.png)
+
+身为一个投资人的时候天天说通缩是不行的，一直通缩物价涨不起来股价就涨不起来，对资本市场不利，内心深处是希望通缩赶紧结束的。但是在那么一瞬间变身游戏佬的时候，就会想着要是同样的价格能买到更好的该多好啊！5090要是能2000块多好啊！都没有2000块的5090，好意思叫什么科技大国，制造业大国么？
+
+买完交完钱以后就觉得这些东西是不是都便宜的有点过分了？有朋友跟我吐槽说，唐僧你这些东西都没好好挑，好好挑一下找好平台再领点券还能便宜不少钱。我赶紧回朋友说：行了差不多得了，也让别人赚点钱吧。
+
+当自己是股民的时候是一个想法希望各种东西都能涨涨价，同样还是我是消费者的时候我又希望价格能便宜更便宜点，这么矛盾的心态同时就是会出现在一个人身上。那那些钓鱼佬买鱼竿，胶佬们买材料，姑娘们买衣服，孩子们买零食的时候是不是也都是同样的想法呢？只是他们不炒股的话可能单纯的不希望物价涨上去吧。通缩的确对经济发展不是很有利，可是换个角度想不也是某种民生福祉么？
+
+屁股决定脑袋才是唯一的真理，你看不到的屁股不代表就不存在，也许这些你看不到的屁股更多、更重要呢？而再上面的决策者，他能够看到的不止是你的屁股，还有更多人的呢？
+
+最后题外话一句，如果有在暗黑国服的读者，我顺便求点东西给我刚开号的冰火法师（10级），值钱的咱也不敢要：
+
+帽子：Shako 一顶；
+
+项链：MARA 一件（全抗不满无所谓）；Tal-Rasha也很棒。
+
+衣服：蛇皮一件（全抗不满无所谓）；如果有土豪送Tal-Rasha那就跪谢；
+
+武器：Orb一根（别无形就行，真无形我不敲人也无所谓）；阿里巴巴有的话也可以给一把；
+
+盾：警戒墙就行，有暗金统盾更好；
+
+鞋：Battleboot一双，MF值无所谓；
+
+腰带：黄金皮和蛛网都要；
+
+手套：法师之拳；Frostburn；以及ChanceGuard各一件。
+
+戒指：乌鸦和SOJ各一只（要SOJ是不是有点过分了？），拿各，矮人有也可以。
+
+底材：精神剑和盾底材有的话非常感谢，如果能送全套RUNE则更感激涕零。
+
+Pet:巴尔快乐叉或者随便什么长柄先来一根，督壳（无形最佳），安头（无形最佳）来一点。
+
+黄宝两颗（IST我没那么大脸不敢要），钻石（UM我也没有那么大脸也不敢要）一颗，其他SC GC若干你们看着给就行......刚毅之类大货的咱就不指望了，反正也是有空随便玩玩的，时间精力跟不上拿了也是浪费。
+
+怎么感觉歪楼歪成了乞讨文......算了就这样吧。
+
+欢迎点赞、关注、转发、打赏~![](.evernote-content/B7880281-27A6-491C-8C90-AFDDD474F8F2/33A58B7E-EDF7-4683-868B-DCC908A2EA41.jpg)                                            以及
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzkzMDY4MzI5Ng==&mid=2247485929&idx=1&sn=ab85bcf5b222800dd66a303d7b7e836f&chksm=c3dabbb2099e743531c8644ca187d134b53325325e08e2d8d746dbd2327a98b516628a5dc200&scene=126&sessionid=1762942220&subscene=90&clicktime=1762943013&enterid=1762943013&ascene=3&devicetype=iOS26.1&version=18004126&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQHzgr02Qv1R1niEocg1VRmhLTAQIE97dBBAEAAAAAAFgbLGVQpIoAAAAOpnltbLcz9gKNyK89dVj0uFfH8+/v7O90TJ5G2c4yZMEFAAZxE53Qapdvmg16b7jZkdMIb7Za97rkkMbRRAZ0dFfRtFy5IjPslYtg6Jh43/YeyJmGi+AIoZB6nlefr8OdaP+k8WhdAcAjF5mQLjE+omVvvniR36vXP2cZjQUcO3TVAlBEV1kmPJm+pZERRlnqRszv0u5/r+DyVr4Bv8GpXf+plAQgsUsZfW3XLrYX7WTdNuCjiaclBP0/o9c=&pass_ticket=tcbpu33dN+bwh4SvX5ZouZx3VJU4I6CRy7XKWFAo3KWg3walm/JH/pKeBQH5E25U&wx_header=3)
+
+[📎 在印象笔记中打开](evernote:///view/207087/s1/114ca797-8ba3-449d-9618-12f1816b2989/114ca797-8ba3-449d-9618-12f1816b2989/)

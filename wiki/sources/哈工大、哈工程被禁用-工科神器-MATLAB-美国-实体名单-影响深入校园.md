@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/哈工大、哈工程被禁用「工科神器」MATLAB，美国「实体名单」影响深入校园.html
+source_path: 印象笔记管理工具/哈工大、哈工程被禁用「工科神器」MATLAB，美国「实体名单」影响深入校园.md
 tags: [印象笔记]
 updated: 2026-06-27
 updated: 2026-06-27

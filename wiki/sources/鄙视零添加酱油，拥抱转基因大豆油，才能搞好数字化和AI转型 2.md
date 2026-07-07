@@ -1,0 +1,92 @@
+---
+title: 鄙视零添加酱油，拥抱转基因大豆油，才能搞好数字化和AI转型 2
+type: source
+created: 2026-07-06
+updated: 2026-07-06
+source_path: 印象笔记管理工具/鄙视零添加酱油，拥抱转基因大豆油，才能搞好数字化和AI转型 2.md
+tags: [evernote, impression, yinxiang]
+---
+
+# 鄙视零添加酱油，拥抱转基因大豆油，才能搞好数字化和AI转型
+
+---
+
+原文链接: [https://mp.weixin.qq.com/s?\_\_biz=MzI5MzMzODE5MQ==&mid=224749...](https://mp.weixin.qq.com/s?__biz=MzI5MzMzODE5MQ==&mid=2247498710&idx=1&sn=43a16458deb7015801f98adebb5ffa3b&chksm=ed6bd9a51e2e618c3bb385b6623f50d4b74c2d98d7ebe729c070125fcfac1bb28051beaf7dc0&mpshare=1&scene=1&srcid=10039RqiGS2553b1KhMrrHDt&sharer_shareinfo=b573e453dc5caf66231b463d422409e5&sharer_shareinfo_first=56b01b218bce61d1a1931030c7d7b0ab&from=groupmessage&isappinstalled=0&clicktime=1759456394&enterid=1759456394&ascene=1&devicetype=iOS26.0.1&version=18004028&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQPPJjMvm3P6OrNuEjf6hKAhLoAQIE97dBBAEAAAAAAAkDEvgh9AAAAAAOpnltbLcz9gKNyK89dVj0WIu7AnioK+W2p3AMvX7Ta2thHCmdo+65JxMnMxR1N6AfxykCz+0vqqz5ZJ8/jhCs5c6ItE3SgxWgc3dT2HhJRFSRp346x+OOCnqSCxo7F4eg0apeboYOBcn8tE/vi8f34OyrDBnB0u3j3lG5Rw2OZXmSPI4yPh8QyAo3ni05h9Jl7BcyQqGXCS+AFbKKPRR4Y2mQPgFrbOKcojLH25+ofrCI8Chly+CLQ7QEpOu8PBX3F17HkLZ6FuPXF8iIwUENYBA=&pass_ticket=BE86//hp79v5ePblTiAEwAYJmKlAsnuRlJxByH8dRvYWt2UVMlyhhaRtFBh7FZuc&wx_header=3)
+
+OriginalGEORGE陈果陈果George
+
+当下，不少人对食品安全心存顾虑。以在超市选购酱油这类日常食品为例，人群态度可分为两类：
+
+一类人对食品安全毫无担忧，选购时十分随意，因为他们坚信正规超市的食品均经过多环节合规检测与监管后才上市，自己并不是信任或者不信任个体的品牌，而是对食品监管体系的信任——相信体系、系统（system）；
+
+另一类人则始终对超市食品的安全性存疑，选购时反复挑选，尤其笃信某些品牌的“酱油零添加”等宣传概念，也认为转基因大豆油存在健康风险，这类人就是缺乏对现有监管体系的信任，愿意被自媒体宣传和品牌宣传来操纵自己的大脑。
+
+对体系（system）的不信任，就是推进数字化转型与AI转型过程中面临的最大障碍。
+
+实际上，对酱油添加剂、转基因大豆油的排斥都是反科学的，甚至国家已经出台政策来遏制“零添加”、“纯天然”一类的产品宣传，参见：
+
+[对“配料表干净”的狂热崇拜，是一场巨大的反智陷阱](https://mp.weixin.qq.com/s?__biz=Mzk0MzMyMzg2OA==&mid=2247547840&idx=1&sn=02b7d8bed5e87769c0ca168f099b2bea&scene=21#wechat_redirect)
+
+[科普 | 明令禁止！别再被“零添加”忽悠了](https://mp.weixin.qq.com/s?__biz=MzA5MzQzNTM5MA==&mid=2658282971&idx=3&sn=3a389e1fa5e228699115481d7fd13e19&scene=21#wechat_redirect)
+
+[统计真相：自家厨房更容易食物中毒](https://mp.weixin.qq.com/s?__biz=Mzk0MzMyMzg2OA==&mid=2247547808&idx=1&sn=f3cfc61376a01c80743b26330e77d098&scene=21#wechat_redirect)
+
+[国家出手了！食品宣传不允许再使用“零添加”“不添加”](https://mp.weixin.qq.com/s?__biz=MzA5NTk1MDMxMg==&mid=2653064785&idx=1&sn=2acee4c4ea69d793e435c65b76074de1&scene=21#wechat_redirect)
+
+对体系的信任，是一种社会现象。如我在[民以食为天](https://mp.weixin.qq.com/s?__biz=MzI5MzMzODE5MQ==&mid=2247498687&idx=1&sn=b3c50195690f8a9111f3e6628673fee6&scene=21#wechat_redirect) 所写，还有大量的人们不信任曼可顿这样的工业食品，进而造成社会危机。
+
+现代社会建立在复杂的抽象系统之上，包括规章制度、专家知识和标准认证（如食品安全标准、QS/SC标志），信任这些体系，是现代人得以正常生活的前提。在超市里闭眼买的个人，本质上是将信任从对店主、商品的个体，转移到了对国家监管、超市品控、品牌声誉等体系。
+
+我们不可能成为所有领域的专家。信任系统就是将食品安全的责任“外包”给监管机构、科学家和生产企业，这是一种社会分工的延伸，极大地降低了个人决策成本。
+
+而“分工”正是社会的工业化和现代化的特点。
+
+西方社会经历了上百年的工业化社会成熟期，而中国社会从农业社会走出来也就几十年时间。中国经历过三聚氰胺等重大食品安全事件，长期以来也存在着地沟油等公共媒体宣传，这些集体记忆严重侵蚀了公众对系统的信任，加剧了焦虑和不安全感，促使他们依赖自己去甄别产品信息。
+
+随着社交媒体发展，成分党、养生派、有机生活等社群形成，“零添加”、“有机”、“非转基因”成为一种新的身份标识和共识，这形成了一套替代性的信任体系，来对抗他们认为已经失灵的官方体系，然而这种体系并没有统一的标准和执行保障，最终还依赖于个体决策。
+
+![](.evernote-content/BE67F3BB-685A-45A8-87A5-350E8FE10174/376BCB9C-A6CA-4D32-87DC-E12B6E81AC8A.jpg)
+
+现代社会追求的是成本与效率的优化。在超市里闭眼买的人群，其决策理性是：为了追求极致的食品安全而付出的时间成本和信息搜寻成本，远高于可能存在的风险成本。他们默认大品牌、在正规渠道销售的产品，为了维护其品牌价值和市场地位，会更注重品控。他们支付的价格中，本身就包含了“安全保障”的溢价。
+
+而对谨慎选择者来说，市场交易价格基于买卖方的信息不对称（生产者知道得多，消费者知道得少）。“零添加”等标签，作为一种市场信号，帮助谨慎者在海量商品中进行筛选。他们愿意为这个“信号”付费。正是这部分谨慎者的存在，商家敏锐地捕捉到这一需求，通过营销“清洁标签”来创造新的利润增长点——或者说，这就是“智商税”。
+
+我认为不信任体系就是小农意识，尽管体系可能不完美，我们交的税就是在购买体系的公共服务，所以我们可以要求改进服务——这正如企业的信息技术投入：
+
+信息技术从它产生第一天，就是全部或者部分替代人类劳动的，所以称为“自动化”。传统意义上的信息技术的自动化含义是记录活动的数据处理（data processing，参见《[ERP 前传 ｜ 企业管理信息系统怎么来的——《计算史》第三章](https://mp.weixin.qq.com/s?__biz=MzI5MzMzODE5MQ==&mid=2247495052&idx=1&sn=f05f34079cc91b57ce41b53760fe6bc6&scene=21#wechat_redirect)》），包括记录的数字化、以及数据的分类、排序、汇总等。
+
+人类从使用计算机的第一天，就存在着对机器处理数据的准确性的怀疑——这种怀疑可能并不是针对计算机处理能力，而是对信息系统（计算机+人）的系统运行机制的可靠性质疑。同时，只有改变组织，才能使得信息技术发挥作用，这是我最近一段时间经常讲的片子：
+
+![](.evernote-content/BE67F3BB-685A-45A8-87A5-350E8FE10174/1FA19959-DC70-4335-A80B-144A6027E4D6.png)
+
+90年代初期我在银行里上班时，曾经在银行柜台一线工作过，亲身经历了从纯手工操作到使用计算机记账的转型，我在我的《业务流程》课程中常讲这个过程，参见《[从对业务流程的理解，谈中国式管理](https://mp.weixin.qq.com/s?__biz=MzI5MzMzODE5MQ==&mid=2247494572&idx=1&sn=ee416a26e1630f190b5e3b53c6f178ae&scene=21#wechat_redirect)》
+
+在转型之初，尽管每笔业务都是用计算机来记账，每天营业结束后，我们这些柜台会计会将当日所有票据按照账户或者科目，用算盘再打一遍汇总，如果算盘账和计算机账能对得拢，才说明计算机账做对了，当天才能下班——这叫“轧账”。
+
+我二十多岁时，就是打算盘的高手：
+
+![](.evernote-content/BE67F3BB-685A-45A8-87A5-350E8FE10174/D9136552-3AB3-4588-A313-2CA483C83BE8.png)
+
+直到90 年代后期，银行业务才完全取消算盘，人们相信当天的计算机账，不要再手工验证一次；即使计算机账查证有误，那么也是从计算机与人的互动体系中去发现问题、解决问题。
+
+所以计算机信息系统在企业中的应用，并不是简单地将手工操作用计算机复制到线上操作，而是对组织、流程的再造，这就是业务流程再造，其中核心的变革理念就是信任系统。
+
+ERP、CRM 等传统信息系统本质上是一个确定性系统。它的运行逻辑是由计算机程序预先定义好的“如果-那么”规则。我们信任ERP系统，是因为它每次输入相同的数据，都会输出完全相同的结果。它的行为是可预测的。这里的信任，类似于我们信任一个极其严谨、永不犯错的会计。
+
+而主流人工智能，特别是机器学习模型（包括我们今天最流行的大语言模型），本质上是一个概率性系统。
+
+它的输出是基于从数据中学习到的模式而产生的推断和预测。我们信任一个AI算法及结果，不是因为它100% 正确，它实际上经常会错，而是因为它在大多数情况下能提供有价值的参考，能发现人类未曾察觉的数据规律和世界真相。这里的信任，类似于我们信任一个经验丰富但偶尔也会判断错误的资深专家。
+
+这种从信任确定性到信任概率性的转变，是根本性的组织变革。 它要求组织文化从追求绝对正确转向拥抱智能辅助下的优化决策。
+
+回到零添加酱油和转基因大豆油的话题，相信国家监管、品牌声誉和超市品控体系而闭眼买的人们，就会相信公司的数据治理、AI伦理和模型管理流程，愿意采纳AI的建议并为之负责。
+
+而成天沉溺于网络上的食品安全流言的人，同样会因为对IT项目失败或对AI的黑箱恐惧，而拒绝数字化转型和AI 转型。
+
+个人观点，仅供参考
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzI5MzMzODE5MQ==&mid=2247498710&idx=1&sn=43a16458deb7015801f98adebb5ffa3b&chksm=ed6bd9a51e2e618c3bb385b6623f50d4b74c2d98d7ebe729c070125fcfac1bb28051beaf7dc0&mpshare=1&scene=1&srcid=10039RqiGS2553b1KhMrrHDt&sharer_shareinfo=b573e453dc5caf66231b463d422409e5&sharer_shareinfo_first=56b01b218bce61d1a1931030c7d7b0ab&from=groupmessage&isappinstalled=0&clicktime=1759456394&enterid=1759456394&ascene=1&devicetype=iOS26.0.1&version=18004028&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQPPJjMvm3P6OrNuEjf6hKAhLoAQIE97dBBAEAAAAAAAkDEvgh9AAAAAAOpnltbLcz9gKNyK89dVj0WIu7AnioK+W2p3AMvX7Ta2thHCmdo+65JxMnMxR1N6AfxykCz+0vqqz5ZJ8/jhCs5c6ItE3SgxWgc3dT2HhJRFSRp346x+OOCnqSCxo7F4eg0apeboYOBcn8tE/vi8f34OyrDBnB0u3j3lG5Rw2OZXmSPI4yPh8QyAo3ni05h9Jl7BcyQqGXCS+AFbKKPRR4Y2mQPgFrbOKcojLH25+ofrCI8Chly+CLQ7QEpOu8PBX3F17HkLZ6FuPXF8iIwUENYBA=&pass_ticket=BE86//hp79v5ePblTiAEwAYJmKlAsnuRlJxByH8dRvYWt2UVMlyhhaRtFBh7FZuc&wx_header=3)
+
+[📎 在印象笔记中打开](evernote:///view/207087/s1/bec0a3cb-81d1-40ab-8609-07464c82fd16/bec0a3cb-81d1-40ab-8609-07464c82fd16/)

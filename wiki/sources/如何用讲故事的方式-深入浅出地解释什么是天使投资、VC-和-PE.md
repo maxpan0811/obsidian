@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/如何用讲故事的方式，深入浅出地解释什么是天使投资、VC 和 PE？.html
+source_path: 印象笔记管理工具/如何用讲故事的方式，深入浅出地解释什么是天使投资、VC 和 PE？.md
 tags: [印象笔记]
 updated: 2026-06-27
 updated: 2026-06-27

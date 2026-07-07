@@ -1459,3 +1459,24 @@ Wiki health check after massive ingest:
 - **无需修复**: broken links 多为引用已被源页面删节的别名/序号，无实质矛盾；空壳页面为单篇短笔记
 - Fixed: 2 bare-directory entries (RAW/Excel/, RAW/PIC/) incorrectly kept because os.path.exists() returns True for directories
 - Final verification: all RAW subdirs match disk file counts
+
+## 2026-07-06 清理 stale wiki source pages (523)
+
+- **事件**: 同步删除源 .md 文件已不存在的 wiki/sources/ 页
+- **数量**: 523 篇删除（其中 449 印象笔记管理工具 + 74 其他来源）
+- **ingested_files.json**: 4892 → 4369
+- **ChromaDB**: 删除 432 条对应向量，剩余 24029
+- **触发**: 用户确认 — "同步删除"
+- **状态**: 清理后 ingest 索引一致，可继续处理新增文件
+
+## 2026-07-06 全量批量 ingest 印象笔记管理工具
+
+- **事件**: 全量入库 13,919 篇新增 .md 文件（印象笔记导出，去图片版）
+- **处理**:
+  - 重新注册 7,031 篇已有 wiki 源页（更新 source_path .html → .md）
+  - 新建 23,706 篇 wiki/sources/ 源页
+  - 同步更新 ingested_files.json（4,368 → 35,105 条）
+  - 删除 523 篇源文件已不存在的 stale 源页
+- **ChromaDB**: 后台运行中（~40,897 篇待索引），PID 6763
+- **触发**: 用户确认 — "全部入库"
+- **状态**: wiki 页面已全量创建，向量索引执行中

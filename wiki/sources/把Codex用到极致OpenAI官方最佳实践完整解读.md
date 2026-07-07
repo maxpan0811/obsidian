@@ -3,7 +3,7 @@ title: 把 Codex 用到极致 ！OpenAI 官方最佳实践完整解读
 type: source
 created: 2026-06-14
 updated: 2026-06-14
-source_path: 印象笔记管理工具/把 Codex 用到极致 ！OpenAI 官方最佳实践完整解读.html
+source_path: 印象笔记管理工具/把 Codex 用到极致 ！OpenAI 官方最佳实践完整解读.md
 tags: [印象笔记, AI/编程]
 updated: 2026-06-27
 updated: 2026-06-27

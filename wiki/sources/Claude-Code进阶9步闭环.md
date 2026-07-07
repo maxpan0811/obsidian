@@ -3,7 +3,7 @@ title: Claude Code进阶9步闭环
 type: source
 created: 2026-06-20
 updated: 2026-06-20
-source_path: 印象笔记管理工具/Claude Code进阶9步闭环.html
+source_path: 印象笔记管理工具/Claude Code进阶9步闭环.md
 tags: [编程, AI]
 updated: 2026-06-27
 ---

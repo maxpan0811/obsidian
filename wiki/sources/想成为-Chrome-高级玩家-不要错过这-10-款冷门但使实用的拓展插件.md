@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/想成为 Chrome 高级玩家，不要错过这 10 款冷门但使实用的拓展插件.html
+source_path: 印象笔记管理工具/想成为 Chrome 高级玩家，不要错过这 10 款冷门但使实用的拓展插件.md
 tags: [印象笔记]
 updated: 2026-06-27
 updated: 2026-06-27

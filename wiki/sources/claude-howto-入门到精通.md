@@ -4,7 +4,7 @@ type: source
 created: 2026-06-08
 updated: 2026-06-08
 sources: [https://github.com/.../claude-howto]
-source_path: 印象笔记管理工具/claude-howto：Claude Code 从入门到精通官方教程，5.9k star.html
+source_path: 印象笔记管理工具/claude-howto：Claude Code 从入门到精通官方教程，5.9k star.md
 tags: [claude-code, tutorial, learning-path, open-source]
 updated: 2026-06-27
 ---

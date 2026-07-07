@@ -1,0 +1,86 @@
+---
+title: GDC25_英伟达如何用AI重塑游戏开发标准？ 2
+type: source
+created: 2026-07-06
+updated: 2026-07-06
+source_path: 印象笔记管理工具/GDC25_英伟达如何用AI重塑游戏开发标准？ 2.md
+tags: [evernote, impression, yinxiang]
+---
+
+# GDC25|英伟达如何用AI重塑游戏开发标准？
+
+---
+
+原文链接: [https://mp.weixin.qq.com/s?\_\_biz=MzIzNzM3NzE2MA==&mid=224774...](https://mp.weixin.qq.com/s?__biz=MzIzNzM3NzE2MA==&mid=2247740557&idx=2&sn=4e95934be366fd8f4584162039b3a53e&chksm=e974b97cbce9d4782d0014104e37135f49181c7e6ac63e6bbe6d703d6d57d9c01fe7090b4ccc&scene=90&xtrack=1&sessionid=1743252038&subscene=93&clicktime=1743252048&enterid=1743252048&flutter_pos=0&biz_enter_id=4&ranksessionid=1743251990&jumppath=39999_1743252016330,1102_1743252035856,1001_1743252036780,1104_1743252039057&jumppathdepth=4&ascene=56&devicetype=iOS18.3.2&version=1800392b&nettype=3G+&abtest_cookie=AAACAA==&lang=zh_CN&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQg4RrCbbjh97YHH1HDui5/BLYAQIE97dBBAEAAAAAANeGKRt+iGcAAAAOpnltbLcz9gKNyK89dVj0xXaXTzZ60Gspka4ZrIKj0sz24KU7Gz9hLQfsg2pnQv61Mk9hYGr0Vgs5G1vglDRPaBsif50Av+Vm3eEDQfSQb2/IaFFF5MrVR2MFPZX/RRzoOlo9iAc0RjOX34OSqs6D9li2H3a9jJ9XqhrXA+9H/zmyTTAL/Avz7vX9w43cudc3HRWr5exzyXCGgESvX7+D7PjNvYFbuIMPYnY35sKKwNadDeGaa5l3FY0h2upynxGZMA==&pass_ticket=h85FCXp/r57qztWD0gWGEZ0b8QywCvG+k16szDNxbm2/Xg5BsigA7AG7ICrD4lII&wx_header=3)
+
+原创 多边形 游戏研究社
+
+![](.evernote-content/5F3AA3B5-33F8-4A14-8AB4-2F7CFCF32A86/FDA64751-7743-437E-8889-4EDE750D8333.jpg)
+
+人工智能（AI）毫无疑问是当下的热点话题，各个领域都在积极拥抱 AI，试图将其引入自己的生产力版图内，游戏开发也不例外。
+
+英伟达的 DLSS 早已被广大玩家所熟知，它就是一项通过 AI 将低分辨率的画面「智能提升」至高分辨率的功能，对提高画面品质和提升画面帧数有着非常显著的帮助。而在最新版本的 DLSS 4 多帧生成中，更是进一步利用 AI 深度学习的强大算力，再一次提高了画面效果和帧数，尤其是在帧数方面，对比之前的技术有着成倍的效率提升。
+
+![](.evernote-content/5F3AA3B5-33F8-4A14-8AB4-2F7CFCF32A86/CAB29256-79DF-4709-B104-EC20ADF0970B.jpg)英伟达结合 AI 加成的 DLSS 4 技术让游戏画面帧数再次获得飞升
+
+在传统的游戏开发流程管线中，想要提高画面的品质，则意味着要投入更多的开发资源，更长的开发时间，同时对终端的显示硬件也提高了要求，英伟达正在试图利用 AI 改变这一切。在今年的游戏开发者大会（GDC）上，英伟达向行业介绍了自家的「神经网络渲染引擎（Neural Rendering Engine）」，它将大大提高游戏的开发效率。
+
+简单来说，神经网络渲染也是一种通过 AI 来生成游戏画面的技术。传统的游戏画面是通过复杂的数学计算来模拟光线、材质和阴影的，而神经网络渲染则通过 AI 来加速甚至取代这些计算。比如，在传统渲染中，一块宝石的反射效果可能需要复杂的多层材质进行模拟。而通过神经网络渲染，开发者只需要用 AI 训练一个神经网络，就能自动生成逼真的宝石反射效果。这不仅简化了开发流程，还让画面更加真实。
+
+在游戏开发中，材质的设计是一个非常重要的环节。材质决定了物体在光照下的表现，比如金属的光泽、木头的纹理、布料的柔软度等。在现实中，物体的材质往往是多层的。比如一块宝石，它的表面可能有微小的裂纹，内部可能有晶体结构，表面还可能有一层透明的涂层。这些复杂的细节在传统游戏中很难实现，因为计算量太大，会严重影响游戏性能。
+
+![](.evernote-content/5F3AA3B5-33F8-4A14-8AB4-2F7CFCF32A86/06690015-00F4-463B-93DD-FEFD9FC89401.jpg)
+
+神经材质在降低系统性能占用的同时，又提高了画面表现品质
+
+而「神经网络材质（Neural Materials）」的出现，彻底改变了这一局面。通过神经网络渲染，开发者可以模拟出多层材质的复杂效果。比如，一块宝石可以同时表现出裂纹、晶体和涂层的反射效果，而这些效果都是由AI自动生成的。这不仅让画面更加逼真，还让艺术家可以自由创作，不再受限于传统渲染的性能需求。
+
+此外，「路径追踪（Path Tracying）」技术的普及，也是近年来游戏画面效果提升的关键技术之一。作为一种模拟光线传播方式的算法，它可以精确计算光线在场景中的反射、折射和散射效果。简单来说，它能让游戏中的光影效果更加真实。
+
+举个例子，在传统的游戏中，光线照射到物体上时，通常只会计算一次反射。而在现实中，光线会在物体之间多次反射，形成复杂的光影效果。路径追踪就是通过模拟这种多次反射，来让画面更加逼真。但路径追踪的计算量非常大，传统的光栅化技术很难在实时游戏中实现。而通过神经网络渲染和硬件加速，路径追踪的性能得到了大幅提升。
+
+在神经网络渲染引擎中，还有一项非常重要的技术「RTX Mega Geometry」。比如，一个古老的城堡可能会有成千上万的砖块，每一块砖都有自己的纹理和形状。在传统的游戏中，这些细节通常是通过贴图来模拟的，也就是说，砖块的表面只是一张图片，而不是真正的几何形状。
+
+![](.evernote-content/5F3AA3B5-33F8-4A14-8AB4-2F7CFCF32A86/F1D364B4-EF97-423C-9CB3-C97628CF42C5.jpg)
+
+RTX Mega Geometry 技术让具有非常复杂细节的材质能够在游戏中得以轻松实现
+
+而 RTX Mega Geometry 技术的出现，让游戏场景的细节更加真实。它允许开发者将大量的几何细节直接导入游戏中，比如每一块砖的形状、每一片叶子的轮廓。这些细节不仅让画面更加细腻，还让光影效果更加真实。
+
+更重要的是，RTX Mega Geometry 还支持完全「路径追踪（Path Tracying）」。也就是说，场景中的每一个细节都会参与光线的计算，形成逼真的光影效果。比如，阳光透过树叶的缝隙照射到地面上，会形成斑驳的光影效果。这种效果在传统游戏中很难实现，而通过 RTX Mega Geometry 和路径追踪，它变得轻而易举。
+
+综上所述，对于游戏开发者来说，神经网络渲染和路径追踪不仅提升了画面质量，还大大提高了开发效率。例如，传统的材质设计需要编写大量的代码，而神经网络材质通过AI自动生成复杂的材质效果，让艺术家可以专注于创作，而不必担心技术细节。
+
+![](.evernote-content/5F3AA3B5-33F8-4A14-8AB4-2F7CFCF32A86/44746014-4E3F-42C3-8432-C25B9B12BD7C.png)
+
+神经网络渲染让阳光穿过带有栅栏的庭院和茂密树叶的复杂光影效果利用 AI 来实现
+
+在传统的游戏开发管线中，开发者需要花费大量时间优化性能，以确保游戏能够流畅运行。而通过神经网络渲染和路径追踪，许多复杂的计算被AI和硬件加速取代，开发者可以更专注于游戏内容的创作。
+
+神经网络渲染和路径追踪也能让画面更加逼真，减少了开发者手动调整光影和材质的工作量。比如，通过路径追踪，开发者无需手动设置光源的位置和强度，光线会自动在场景中传播，形成真实的光影效果。
+
+对于玩家来说，神经网络渲染和路径追踪带来的最直接好处就是更逼真的画面。无论是宝石的反射、阳光的照射，还是场景的细节，这些技术都让游戏世界更加真实，让玩家更容易沉浸其中。
+
+此外，这些技术还让游戏的开发周期更短，开发者可以更快地推出高质量的游戏。同时，由于性能优化的工作量减少，开发者可以将更多精力放在游戏内容和玩法上，为玩家带来更丰富的游戏体验。
+
+而更重要的是，神经网络渲染并非纸上谈兵，而是已经进入到了游戏产业的开发流程里。从四月份开始，微软将在 DirectX 的预览版中增加神经网络着色技术，让开发者能从系统底层直接调用英伟达 RTX GPU 中的 AI Tensor Cores，在游戏的图形渲染管线内加速神经网络渲染。
+
+与此同时，RTX Kit 开发套件也已经正式登陆虚幻引擎 5，支持最新的 RTX Mega Geometry 和 RTX Hair 等功能，开发者可以很方便地在这款流行的游戏开发引擎里调用这些功能。Valve 在 3 月 18 日正式发布了《半条命 2》 的 RTX Demo，在这款 Demo 里，玩家可以看到在最新神经网络渲染增强技术的渲染下，包括全景光线追踪、NVIDIA DLSS 4 多帧生成、RTX Neural Radiance Cache、RTX Skin等，让这款寿命超过 20 年的老游戏如何焕发新生。
+
+![](.evernote-content/5F3AA3B5-33F8-4A14-8AB4-2F7CFCF32A86/F5521586-B32F-49EA-9F82-674942B29772.png)
+
+在英伟达 AI 图形技术的加持下，老游戏也能呈现最新的光影效果
+
+神经网络渲染引擎正在优化游戏开发的规则，它们不仅让画面更加逼真，还大大提高了开发效率。对于玩家来说，这意味着更沉浸的游戏体验；对于开发者来说，这意味着更高效的创作流程。随着技术的不断进步，未来的游戏世界将更加真实、更加精彩。 英伟达正在用 AI 深度改变着游戏行业的未来。
+
+![](.evernote-content/5F3AA3B5-33F8-4A14-8AB4-2F7CFCF32A86/2633E1AD-643E-447B-8DB7-8C673DEABC44.png)
+
+![](.evernote-content/5F3AA3B5-33F8-4A14-8AB4-2F7CFCF32A86/BAA01D7D-AC98-4D4E-8458-9DD6D2D9DF7C.jpg)
+
+![](.evernote-content/5F3AA3B5-33F8-4A14-8AB4-2F7CFCF32A86/EADC63AA-FB4D-4365-AD43-6DF297830FC9.jpg)
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzIzNzM3NzE2MA==&mid=2247740557&idx=2&sn=4e95934be366fd8f4584162039b3a53e&chksm=e974b97cbce9d4782d0014104e37135f49181c7e6ac63e6bbe6d703d6d57d9c01fe7090b4ccc&scene=90&xtrack=1&sessionid=1743252038&subscene=93&clicktime=1743252048&enterid=1743252048&flutter_pos=0&biz_enter_id=4&ranksessionid=1743251990&jumppath=39999_1743252016330,1102_1743252035856,1001_1743252036780,1104_1743252039057&jumppathdepth=4&ascene=56&devicetype=iOS18.3.2&version=1800392b&nettype=3G+&abtest_cookie=AAACAA==&lang=zh_CN&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQg4RrCbbjh97YHH1HDui5/BLYAQIE97dBBAEAAAAAANeGKRt+iGcAAAAOpnltbLcz9gKNyK89dVj0xXaXTzZ60Gspka4ZrIKj0sz24KU7Gz9hLQfsg2pnQv61Mk9hYGr0Vgs5G1vglDRPaBsif50Av+Vm3eEDQfSQb2/IaFFF5MrVR2MFPZX/RRzoOlo9iAc0RjOX34OSqs6D9li2H3a9jJ9XqhrXA+9H/zmyTTAL/Avz7vX9w43cudc3HRWr5exzyXCGgESvX7+D7PjNvYFbuIMPYnY35sKKwNadDeGaa5l3FY0h2upynxGZMA==&pass_ticket=h85FCXp/r57qztWD0gWGEZ0b8QywCvG+k16szDNxbm2/Xg5BsigA7AG7ICrD4lII&wx_header=3)
+
+[📎 在印象笔记中打开](evernote:///view/207087/s1/3d04997b-de32-4a42-8d01-d3411e8d73d3/3d04997b-de32-4a42-8d01-d3411e8d73d3/)

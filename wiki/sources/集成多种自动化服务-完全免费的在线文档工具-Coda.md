@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/集成多种自动化服务，完全免费的在线文档工具：Coda.html
+source_path: 印象笔记管理工具/集成多种自动化服务，完全免费的在线文档工具：Coda.md
 tags: [印象笔记]
 updated: 2026-06-27
 updated: 2026-06-27

@@ -4,7 +4,7 @@ type: source
 created: 2026-06-17
 updated: 2026-06-17
 source: 印象笔记管理工具
-source_path: 印象笔记管理工具/三款电纸本横评！在AI时代，谁算得上是旗舰之选呢？.html
+source_path: 印象笔记管理工具/三款电纸本横评！在AI时代，谁算得上是旗舰之选呢？.md
 tags: [其他]
 updated: 2026-06-27
 updated: 2026-06-27

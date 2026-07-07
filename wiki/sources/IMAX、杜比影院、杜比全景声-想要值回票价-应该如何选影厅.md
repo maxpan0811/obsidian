@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/IMAX、杜比影院、杜比全景声……想要值回票价，应该如何选影厅？.html
+source_path: 印象笔记管理工具/IMAX、杜比影院、杜比全景声……想要值回票价，应该如何选影厅？.md
 tags: [印象笔记]
 updated: 2026-06-27
 ---

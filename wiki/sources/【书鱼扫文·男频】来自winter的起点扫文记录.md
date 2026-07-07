@@ -4,7 +4,7 @@ type: source
 created: 2026-06-17
 updated: 2026-06-17
 source: 印象笔记管理工具
-source_path: 印象笔记管理工具/【书鱼扫文·男频】来自winter的起点扫文记录.html
+source_path: 印象笔记管理工具/【书鱼扫文·男频】来自winter的起点扫文记录.md
 tags: [网文推荐]
 updated: 2026-06-27
 ---

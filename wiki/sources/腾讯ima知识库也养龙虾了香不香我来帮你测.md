@@ -3,7 +3,7 @@ title: 腾讯ima知识库也养龙虾🦞了？香不香，我来帮你测！
 type: source
 created: 2026-06-14
 updated: 2026-06-14
-source_path: 印象笔记管理工具/腾讯ima知识库也养龙虾🦞了？香不香，我来帮你测！.html
+source_path: 印象笔记管理工具/腾讯ima知识库也养龙虾🦞了？香不香，我来帮你测！.md
 tags: [印象笔记, 其他]
 updated: 2026-06-27
 updated: 2026-06-27

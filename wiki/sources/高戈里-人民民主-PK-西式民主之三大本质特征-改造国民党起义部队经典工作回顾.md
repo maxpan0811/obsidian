@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/高戈里：人民民主 PK 西式民主之三大本质特征——改造国民党起义部队经典工作回顾.html
+source_path: 印象笔记管理工具/高戈里：人民民主 PK 西式民主之三大本质特征——改造国民党起义部队经典工作回顾.md
 tags: [印象笔记]
 updated: 2026-06-27
 updated: 2026-06-27

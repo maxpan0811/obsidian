@@ -3,7 +3,7 @@ title: AI Agent + Obsidian 是知识管理的终局
 type: source
 created: 2026-06-08
 updated: 2026-06-08
-source_path: 印象笔记管理工具/知识管理的终局：AI Agent + Obsidian.html
+source_path: 印象笔记管理工具/知识管理的终局：AI Agent + Obsidian.md
 tags: [obsidian, knowledge-base, ai, tutorial]
 updated: 2026-06-27
 updated: 2026-06-27

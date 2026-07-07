@@ -3,7 +3,7 @@ title: 这届打工人，白天给 AI 投毒，晚上蒸馏老板
 type: source
 created: 2026-06-14
 updated: 2026-06-14
-source_path: 印象笔记管理工具/这届打工人，白天给 AI 投毒，晚上蒸馏老板.html
+source_path: 印象笔记管理工具/这届打工人，白天给 AI 投毒，晚上蒸馏老板.md
 tags: [印象笔记, AI/编程]
 updated: 2026-06-27
 updated: 2026-06-27

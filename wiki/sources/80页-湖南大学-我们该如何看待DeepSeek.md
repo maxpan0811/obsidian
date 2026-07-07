@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/80页！湖南大学《我们该如何看待DeepSeek》.html
+source_path: 印象笔记管理工具/80页！湖南大学《我们该如何看待DeepSeek》.md
 tags: [印象笔记]
 updated: 2026-06-27
 ---

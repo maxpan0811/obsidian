@@ -3,7 +3,7 @@ title: Vibe Coding 高级教程（2026.2），2.8万字深度指南
 type: source
 created: 2026-06-08
 updated: 2026-06-08
-source_path: 印象笔记管理工具/Vibe Coding 高级教程（2026.2）.html
+source_path: 印象笔记管理工具/Vibe Coding 高级教程（2026.2）.md
 tags: [vibe-coding, ai-programming, tutorial]
 updated: 2026-06-27
 ---

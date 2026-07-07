@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/RAG企业知识库搭建！看这些就够了~.html
+source_path: 印象笔记管理工具/RAG企业知识库搭建！看这些就够了~.md
 tags: [印象笔记]
 updated: 2026-06-27
 ---

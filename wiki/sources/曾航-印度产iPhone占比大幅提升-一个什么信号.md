@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/曾航：印度产iPhone占比大幅提升，一个什么信号？.html
+source_path: 印象笔记管理工具/曾航：印度产iPhone占比大幅提升，一个什么信号？.md
 tags: [印象笔记]
 updated: 2026-06-27
 updated: 2026-06-27

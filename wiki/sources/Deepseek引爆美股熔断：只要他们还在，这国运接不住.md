@@ -4,7 +4,7 @@ type: source
 created: 2026-06-17
 updated: 2026-06-17
 source: 印象笔记管理工具
-source_path: 印象笔记管理工具/Deepseek引爆美股熔断：只要他们还在，这国运接不住.html
+source_path: 印象笔记管理工具/Deepseek引爆美股熔断：只要他们还在，这国运接不住.md
 tags: [AI技术]
 updated: 2026-06-27
 ---

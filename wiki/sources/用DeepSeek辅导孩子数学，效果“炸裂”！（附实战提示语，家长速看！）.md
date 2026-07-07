@@ -4,7 +4,7 @@ type: source
 created: 2026-06-17
 updated: 2026-06-17
 source: 印象笔记管理工具
-source_path: 印象笔记管理工具/用DeepSeek辅导孩子数学，效果“炸裂”！（附实战提示语，家长速看！）.html
+source_path: 印象笔记管理工具/用DeepSeek辅导孩子数学，效果“炸裂”！（附实战提示语，家长速看！）.md
 tags: [AI技术, 教育]
 updated: 2026-06-27
 updated: 2026-06-27

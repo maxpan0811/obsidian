@@ -4,7 +4,7 @@ type: source
 created: 2026-06-17
 updated: 2026-06-17
 tags: [中美关系, 国际政治]
-source_path: 印象笔记管理工具/美前大使空口污蔑，高志凯反问：我们六代机都有了，偷你PPT吗？.html
+source_path: 印象笔记管理工具/美前大使空口污蔑，高志凯反问：我们六代机都有了，偷你PPT吗？.md
 updated: 2026-06-27
 updated: 2026-06-27
 updated: 2026-06-27

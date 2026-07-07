@@ -3,7 +3,7 @@ title: 腾讯上线 ima skill，知识管理终于可以🦞全自动了
 type: source
 created: 2026-06-14
 updated: 2026-06-14
-source_path: 印象笔记管理工具/腾讯上线 ima skill，知识管理终于可以🦞全自动了.html
+source_path: 印象笔记管理工具/腾讯上线 ima skill，知识管理终于可以🦞全自动了.md
 tags: [印象笔记, 产品/商业]
 updated: 2026-06-27
 updated: 2026-06-27

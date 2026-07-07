@@ -3,7 +3,7 @@ title: SpaceX猎鹰重型火箭升空与中美差距
 type: source
 created: 2026-06-15
 updated: 2026-06-15
-source_path: 印象笔记管理工具/SpaceX猎鹰重型火箭升空与中美差距.html
+source_path: 印象笔记管理工具/SpaceX猎鹰重型火箭升空与中美差距.md
 tags: ["印象笔记", "财经/产业"]
 updated: 2026-06-27
 ---

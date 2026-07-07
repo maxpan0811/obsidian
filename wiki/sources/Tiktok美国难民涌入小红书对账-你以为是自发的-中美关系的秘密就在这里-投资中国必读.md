@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/Tiktok美国难民涌入小红书对账，你以为是自发的？中美关系的秘密就在这里（投资中国必读）.html
+source_path: 印象笔记管理工具/Tiktok美国难民涌入小红书对账，你以为是自发的？中美关系的秘密就在这里（投资中国必读）.md
 tags: [印象笔记, 投资]
 updated: 2026-06-27
 ---

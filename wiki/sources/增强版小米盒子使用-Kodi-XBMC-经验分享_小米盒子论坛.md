@@ -4,7 +4,7 @@ type: source
 created: 2026-06-20
 updated: 2026-06-20
 source: 印象笔记
-source_path: 印象笔记管理工具/增强版小米盒子使用 Kodi（XBMC）经验分享_小米盒子论坛.html
+source_path: 印象笔记管理工具/增强版小米盒子使用 Kodi（XBMC）经验分享_小米盒子论坛.md
 tags: [印象笔记]
 updated: 2026-06-27
 updated: 2026-06-27

@@ -4,7 +4,7 @@ type: source
 created: 2026-06-17
 updated: 2026-06-17
 source: 印象笔记管理工具
-source_path: 印象笔记管理工具/微信读书官方 Skill 和 CLI 出来后，我的一个明显感受是：.html
+source_path: 印象笔记管理工具/微信读书官方 Skill 和 CLI 出来后，我的一个明显感受是：.md
 tags: [AI技术]
 updated: 2026-06-27
 updated: 2026-06-27

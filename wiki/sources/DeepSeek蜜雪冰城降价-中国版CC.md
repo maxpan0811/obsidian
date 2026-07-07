@@ -4,7 +4,7 @@ type: source
 created: 2026-06-08
 updated: 2026-06-08
 sources: [https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&mid=265109...]
-source_path: 印象笔记管理工具/DeepSeek 要用蜜雪冰城的打法，做中国版 Claude Code.html
+source_path: 印象笔记管理工具/DeepSeek 要用蜜雪冰城的打法，做中国版 Claude Code.md
 tags: [deepseek, claude-code, pricing, agent, china-ai, competition]
 updated: 2026-06-27
 ---

@@ -4,7 +4,7 @@ type: source
 created: 2026-06-08
 updated: 2026-06-08
 sources: [https://mp.weixin.qq.com/s?__biz=MzI5MDQxNzE1NQ==&mid=224751...]
-source_path: 印象笔记管理工具/MiniMax 推出了 Mavis，活脱脱的 Agent「三省六部」.html
+source_path: 印象笔记管理工具/MiniMax 推出了 Mavis，活脱脱的 Agent「三省六部」.md
 tags: [minimax, mavis, agent, orchestration]
 updated: 2026-06-27
 ---

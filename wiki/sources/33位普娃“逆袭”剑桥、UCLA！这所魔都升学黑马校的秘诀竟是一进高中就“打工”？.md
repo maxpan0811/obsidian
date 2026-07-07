@@ -4,7 +4,7 @@ type: source
 created: 2026-06-17
 updated: 2026-06-17
 source: 印象笔记管理工具
-source_path: 印象笔记管理工具/33位普娃“逆袭”剑桥、UCLA！这所魔都升学黑马校的秘诀竟是一进高中就“打工”？.html
+source_path: 印象笔记管理工具/33位普娃“逆袭”剑桥、UCLA！这所魔都升学黑马校的秘诀竟是一进高中就“打工”？.md
 tags: [AI技术, 旅游行业, 教育]
 updated: 2026-06-27
 ---

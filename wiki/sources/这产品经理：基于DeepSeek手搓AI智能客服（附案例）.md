@@ -4,7 +4,7 @@ type: source
 created: 2026-06-17
 updated: 2026-06-17
 source: 印象笔记管理工具
-source_path: 印象笔记管理工具/这产品经理：基于DeepSeek手搓AI智能客服（附案例）.html
+source_path: 印象笔记管理工具/这产品经理：基于DeepSeek手搓AI智能客服（附案例）.md
 tags: [AI技术]
 updated: 2026-06-27
 updated: 2026-06-27

@@ -3,7 +3,7 @@ title: Vibe Coding 中文指南收藏版
 type: source
 created: 2026-06-08
 updated: 2026-06-08
-source_path: 印象笔记管理工具/Vibe Coding 中文指南（收藏版）.html
+source_path: 印象笔记管理工具/Vibe Coding 中文指南（收藏版）.md
 tags: [vibe-coding, ai-programming, tutorial]
 updated: 2026-06-27
 ---

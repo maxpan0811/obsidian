@@ -3,7 +3,7 @@ title: 用 AI 自动生成每日股票分析报告
 type: source
 created: 2026-06-14
 updated: 2026-06-14
-source_path: 印象笔记管理工具/用 AI 自动生成每日股票分析报告.html
+source_path: 印象笔记管理工具/用 AI 自动生成每日股票分析报告.md
 tags: [印象笔记, AI/编程]
 updated: 2026-06-27
 updated: 2026-06-27

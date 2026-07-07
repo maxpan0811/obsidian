@@ -4,7 +4,7 @@ type: source
 created: 2026-06-08
 updated: 2026-06-08
 sources: [https://mp.weixin.qq.com/s?__biz=MzYzMjY1OTI0MA==&mid=224748...]
-source_path: 印象笔记管理工具/我装了 gstack，Claude Code 从 1 个人变成 23 个 AI 同事：6 个核心角色全拆解（附安装命令）.html
+source_path: 印象笔记管理工具/我装了 gstack，Claude Code 从 1 个人变成 23 个 AI 同事：6 个核心角色全拆解（附安装命令）.md
 tags: [claude-code, gstack, team, architecture, yc]
 updated: 2026-06-27
 updated: 2026-06-27

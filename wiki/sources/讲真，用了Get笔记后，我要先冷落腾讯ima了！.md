@@ -4,7 +4,7 @@ type: source
 created: 2026-06-17
 updated: 2026-06-17
 source: 印象笔记管理工具
-source_path: 印象笔记管理工具/讲真，用了Get笔记后，我要先冷落腾讯ima了！.html
+source_path: 印象笔记管理工具/讲真，用了Get笔记后，我要先冷落腾讯ima了！.md
 tags: [AI技术, 教育]
 updated: 2026-06-27
 updated: 2026-06-27
