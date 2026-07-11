@@ -1,0 +1,32 @@
+---
+title: ERP 新增机票操作指南（HCG-PW-G001）-wcp 知识库
+type: source
+created: 2026-07-09
+updated: 2026-07-09
+source_path: 印象笔记管理工具/ERP 新增机票操作指南（HCG-PW-G001）-wcp 知识库.md
+tags: [印象笔记]
+---
+
+# ERP 新增机票操作指南（HCG-PW-G001）-wcp 知识库
+
+---
+
+![](.evernote-content/9F3AAC61-A151-436E-B2EA-0AEF4C51856E/6907B000-A54C-48C9-AD5E-2D6464269C84.do)
+
+![](.evernote-content/9F3AAC61-A151-436E-B2EA-0AEF4C51856E/D119E9FA-0C4F-4225-BA0E-4332F0CD0777.png)
+
+![](.evernote-content/9F3AAC61-A151-436E-B2EA-0AEF4C51856E/98B2F108-E0C1-40E9-9820-2315DFF188EE.png)
+
+![](.evernote-content/9F3AAC61-A151-436E-B2EA-0AEF4C51856E/B577B9EC-CE79-4B2D-938B-B7A795B7BD42.png)
+
+![](.evernote-content/9F3AAC61-A151-436E-B2EA-0AEF4C51856E/80EC9110-9378-49A1-AF70-FB37F1C05809.png)
+
+![](.evernote-content/9F3AAC61-A151-436E-B2EA-0AEF4C51856E/51B9C7B0-5786-478D-99F6-D64310F47394.png)
+
+![](.evernote-content/9F3AAC61-A151-436E-B2EA-0AEF4C51856E/82CEDF07-032A-4383-8E2E-ED78366CE89F.png)
+
+---
+
+[🌐 原始链接](http://219.141.169.17:8989/wcp/webdoc/view/Pub402883816f6d0dc9016fbcfb3b970082.html)
+
+[📎 在印象笔记中打开](evernote:///view/207087/s1/9af85314-8b77-4009-adba-71a6bbe500c0/9af85314-8b77-4009-adba-71a6bbe500c0/)

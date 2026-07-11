@@ -1,0 +1,32 @@
+---
+title: ERP 下单操作手册（HCG-XS-G001）-wcp 知识库
+type: source
+created: 2026-07-09
+updated: 2026-07-09
+source_path: 印象笔记管理工具/ERP 下单操作手册（HCG-XS-G001）-wcp 知识库.md
+tags: [印象笔记]
+---
+
+# ERP 下单操作手册（HCG-XS-G001）-wcp 知识库
+
+---
+
+![](.evernote-content/0085FE90-6882-41BD-B29B-E913196D9388/5D03505D-0AD4-43A8-83F1-4627E7AA5ED7.do)
+
+![](.evernote-content/0085FE90-6882-41BD-B29B-E913196D9388/AC650F63-AC65-42A4-9800-6BF57363CEDB.png)
+
+![](.evernote-content/0085FE90-6882-41BD-B29B-E913196D9388/7A9B6CC3-7F89-4565-93DB-BBD79CFF9622.png)
+
+![](.evernote-content/0085FE90-6882-41BD-B29B-E913196D9388/F5C3E219-AA1A-4CEF-BD63-07871F038643.png)
+
+![](.evernote-content/0085FE90-6882-41BD-B29B-E913196D9388/815D61BE-BB99-488C-BEDB-5B90A04C9B23.png)
+
+![](.evernote-content/0085FE90-6882-41BD-B29B-E913196D9388/09075703-A95F-4403-8C5A-FB6B5EC1303E.png)
+
+![](.evernote-content/0085FE90-6882-41BD-B29B-E913196D9388/64A9EE61-D3FD-4464-A652-B6E384E2A463.png)
+
+---
+
+[🌐 原始链接](http://219.141.169.17:8989/wcp/webdoc/view/Pub402883816f6d0dc901708b4a582f03d1.html)
+
+[📎 在印象笔记中打开](evernote:///view/207087/s1/aea2a9e1-4e3e-4840-a97c-99289e608f49/aea2a9e1-4e3e-4840-a97c-99289e608f49/)

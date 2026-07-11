@@ -1,0 +1,32 @@
+---
+title: ERP 购物店操作手册 HCG-QT-G003-wcp 知识库
+type: source
+created: 2026-07-09
+updated: 2026-07-09
+source_path: 印象笔记管理工具/ERP 购物店操作手册 HCG-QT-G003-wcp 知识库.md
+tags: [印象笔记]
+---
+
+# ERP 购物店操作手册 HCG-QT-G003-wcp 知识库
+
+---
+
+![](.evernote-content/41660ED5-855F-4A59-94FF-D5B95A4C0B09/1CCA2554-669E-464D-87BE-7045ECAAA93C.do)
+
+![](.evernote-content/41660ED5-855F-4A59-94FF-D5B95A4C0B09/FD1B5E45-EFA7-467E-A170-EF6B6447631C.png)
+
+![](.evernote-content/41660ED5-855F-4A59-94FF-D5B95A4C0B09/BB429448-05B2-4492-ACEE-B0A3EEDB7DF1.png)
+
+![](.evernote-content/41660ED5-855F-4A59-94FF-D5B95A4C0B09/BC4E26EA-C3B2-4927-A52A-20972084BD50.png)
+
+![](.evernote-content/41660ED5-855F-4A59-94FF-D5B95A4C0B09/0609F75A-1670-408D-9E80-C23CB39B1AA7.png)
+
+![](.evernote-content/41660ED5-855F-4A59-94FF-D5B95A4C0B09/4ECED4E8-5F54-48F7-BD90-BAD4DBA3CCCA.png)
+
+![](.evernote-content/41660ED5-855F-4A59-94FF-D5B95A4C0B09/AF453681-23EC-4645-97AE-E6ABE677E9CC.png)
+
+---
+
+[🌐 原始链接](http://219.141.169.17:8989/wcp/webdoc/view/Pub402883816f6d0dc9017039067c0e0248.html)
+
+[📎 在印象笔记中打开](evernote:///view/207087/s1/b40f1e35-bb7e-40c3-829a-28fd8b48d091/b40f1e35-bb7e-40c3-829a-28fd8b48d091/)

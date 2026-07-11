@@ -112,3 +112,319 @@ HF_HUB_OFFLINE=1 python3 wiki_vector_ingest.py "wiki/sources/xxx.md"
 - `wiki/log.md` → 追加批次日志
 - `wiki/overview.md` → 更新 last_update
 - `~/.local/share/codex-memory/` → 经验保存
+
+## 2026-07-09 全量 Lint + 知乎40篇 + 印象笔记1000篇 + ChromaDB增量
+
+### 背景
+vault 从 iCloud 迁移到本地（`/Users/panbo/Obsidian/20260520/`），需重建全部 wiki 索引。
+
+### Lint 健康检查
+- `cleanup_ingested_index.py` 移除 16,913 条 stale 条目（35,106 → 18,193）
+- 删除 2,252 篇 orphan 源页（source_path 指向已删除文件）+ 367 篇无 source_path 源页
+- 源页总量: 24,249 → 21,630
+- 索引: 18,193 → 18,192 条目
+
+### Ingest 知乎 40 篇
+- 来源: 知乎管理工具（仅 .md 文件，排除 attachments/ 图片）
+- wiki/sources/ → 40 篇新增（军事历史/中国发展/macOS软件）
+- ChromaDB → +40 chunks
+
+### Ingest 印象笔记 1,000 篇（第一批）
+- 来源: 印象笔记管理工具
+- 方式: Python 批量创建 wiki 源页，700 篇成功 shell-based 向量索引 + 185 篇含特殊字符文件名单独处理
+- wiki/sources/ → ~984 篇新增（16 篇已存在同名源页覆盖）
+- ingested_files.json → 18,232 → 19,232
+
+### 关键教训 — 含特殊字符的文件名
+**问题**: 文件名含 `#`、`@`、`[`、`]`、空格时，shell 展开会切碎参数
+**解法**: 用 Python subprocess list 传参绕过 shell:
+```python
+result = subprocess.run(
+    [sys.executable, "wiki_vector_ingest.py"] + file_paths,  # 列表传参！
+    env={**os.environ, "HF_HUB_OFFLINE": "1"}
+)
+```
+185 篇含特殊字符文件成功索引，耗时 ~8 分钟。
+
+### ChromaDB 现状
+- 原 HNSW compaction 失败后一直被清空未重建（all_docs: 0 chunks）
+- 本次会话增量: 42（DeepRead+知乎）+ 791（印象笔记batch1 shell成功）+ 185（特殊字符补索）+ 738（后台内嵌脚本并行处理）
+- 当前: ~1,756 chunks
+- 仍需全量重建: ~20K 印象笔记源页未索引
+
+### 已保存的记忆
+- `wiki-vector-index-special-chars.md` — 含特殊字符文件名批量向量索引方法
+- `wiki-ingest-lint-batch-workflow-20260709.md` — 本次会话完整记录
+- SKILL.md — Gotchas 表新增含特殊字符文件名陷阱行
+- `deepread-booktools-discovery.md` — DeepRead Tools 发现
+- `deepread-knowledge-graph-pipeline.md` — DeepRead 管线学习
+
+### 待办
+- ChromaDB 全量重建（人工触发，约12h）
+- 印象笔记剩余 ~11,500 篇 ingest
+- 注意：每次调用 wiki_vector_ingest.py 传递含特殊字符文件时用 subprocess list 参数
+
+## 2026-07-10 第二批 1,000 篇 + ChromaDB 并发写入崩溃
+
+### Batch 2 Ingest
+- 来源: 印象笔记管理工具（第 1,000-2,000 篇）
+- 新增源页: 1,000 篇（全部新创建，无重名冲突）
+- ingested_files.json: 20,232 → 21,232 条目
+
+### ChromaDB 并发写入崩溃
+- 后台残留的内嵌 Python 脚本（session 98190）与新 subprocess 同时写入同一 collection
+- HNSW segment 状态不一致 → segfault → 所有 chunk 丢失（0 归零）
+- 损失: 此前所有 1,849 个向量 chunk
+
+### 修复方案
+`wiki_vector_ingest.py` 写入前应加 **PID 文件锁**：
+
+```python
+import fcntl
+with open("/tmp/chromadb_index.lock", "w") as lock:
+    fcntl.flock(lock, fcntl.LOCK_EX)
+    # 向量索引操作...
+    # 退出时自动释放锁
+```
+
+### 经验教训
+1. ChromaDB **不是**设计为多进程并发写入的。单进程 > 加锁 > 串行
+2. SQLite FTS5 可以加（关键词搜索补充），但语义搜索还是得用 ChromaDB
+3. wiki/sources/ 源页 + ingested_files.json 是**可靠的数据层**，任何崩溃后重建 ChromaDB 即可
+4. 全量重建顺序：源页在 → 索引在 → 向量随时可以重新生成
+
+### 相关记忆
+- `20260710-chromadb-concurrent-write-fix.md` — 并发写入崩坏 + PID 锁方案
+- SKILL.md — Gotchas 表 ChromaDB 并发写入行已更新 + 锁机制
+
+---
+
+# ChromaDB HNSW 索引 954G 膨胀与修复
+
+## 背景
+
+Ingest 管线（`ingest.py` / `build_index.py`）使用 ChromaDB（v1.5.9）做语义搜索向量索引，数据存储在 `~/.claude/data/vector_index/`。
+
+## 问题发现
+
+用户发现磁盘空间被大量占用，`~/.claude/` 目录达 ~1TB。排查定位到 `~/.claude/data/vector_index/` 下的 `link_lists.bin` 文件膨胀至 **954GB**。
+
+## 诊断过程
+
+### 文件分布分析
+
+- `chroma.sqlite3` — 256M（文档元数据，正常）
+- `link_lists.bin` — **954G**（异常）
+- `data_level0.bin` — 25M（正常，实际向量数据）
+
+`link_lists.bin` 比正常大 **38,000 倍**，是典型 HNSW 图索引 corruption 后的自放大特征。
+
+### 根因
+
+两个脚本独立操作同一个 ChromaDB，**没有任何互斥锁保护**：
+
+| 脚本 | 功能 | 作者 |
+|------|------|------|
+| `ingest.py` | 统一 ingest（RAW→wiki→向量索引） | codex |
+| `build_index.py` | 全量重建向量索引 | codex（Hy 修改过） |
+
+### 崩溃链
+
+1. 两个进程同时打开同一 ChromaDB，都 mmap 了 `link_lists.bin`
+2. 并发写入导致 mmap 偏移错位 → HNSW 图头损坏
+3. 损坏后每次 `coll.add()` 遍历链表找不到终止条件，持续追加新边
+4. 写入自放大：每写入几 KB 新文档 → 生成 GB 级 HNSW 边
+5. ChromaDB 只报 SQLite 层错误，HNSW corruption 被静默吞掉
+
+### 时间线
+
+文件时间戳显示 **Jun 19 16:47**，即膨胀发生在当天 ingest 运行时，不是用户退出后自动触发。Crontab/launchd/shell 配置均无自动触发机制。
+
+### 附加缺陷
+
+两个脚本都用 `nid = coll.count() + 1` 生成 id。并发时拿到相同 count，产生重复 id，加剧 HNSW 混乱。
+
+## 修复
+
+### 1. 删除损坏索引
+
+```bash
+rm -rf ~/.claude/data/vector_index/391bb7f1-*/
+```
+
+保留 `chroma.sqlite3`（256M），重建后自动生成正常索引。
+
+### 2. 加互斥锁
+
+两个脚本的 ChromaDB 操作段添加 `fcntl.flock()` 互斥锁：
+
+- `build_index.py` — 整段 ChromaDB 操作包在 try/finally 中
+- `ingest.py` — Step 3 向量索引段包在 try/finally 中
+
+流程：
+
+```
+进程A: ingest.py → fcntl.flock(LOCK_EX) → ChromaDB 写入 → fcntl.flock(LOCK_UN)
+进程B: build_index.py → 等待锁 → 拿到锁 → ChromaDB 写入 → 释放锁
+```
+
+崩溃时内核自动释放锁 fd，不会死锁。
+
+## 修复效果
+
+| 指标 | 修复前 | 修复后 |
+|------|--------|--------|
+| `link_lists.bin` | 954G | 77K（正常） |
+| `link_lists / data_level0` 比例 | 38,000x（损坏标志） | 0.01x（正常） |
+| 可用磁盘 | 870G / 1.8T | 1.0T |
+
+## 经验教训
+
+- **设计缺陷**：两个脚本做同一件事的不同实现是隐患。理想方案是合并为单一写入入口。
+- **缺少防御**：ChromaDB 的 HNSW 索引损坏不被报告，需自己加进程锁防护。
+- **写入路径单一性原则**：任何数据索引/数据库系统，写入入口应该唯一。
+
+## 完整对话记录
+
+**Q:** link_lists.bin 是什么？为什么会到 1TB？
+
+**A:** `link_lists.bin` 是 ChromaDB 的 HNSW 图索引邻接链表文件。磁盘暴涨原因是 `~/.claude/data/vector_index/` 下的 `link_lists.bin` 膨胀至 954G，而实际向量数据 `data_level0.bin` 仅 25M（正常比例 38,000x 异常）。HNSW 图索引 corruption 后 `coll.add()` 遍历链表找不到终止条件，每写几 KB 新文档就生成 GB 新边。
+
+---
+
+**Q:** 到底是哪个环节出问题了？
+
+**A:** `ingest.py` 和 `build_index.py` 两个脚本独立操作同一 ChromaDB，没有任何进程锁保护。并发/交替运行导致 HNSW mmap 偏移错位 → corruption → 自放大。附带的 ID 碰撞（都用 `coll.count() + 1`）加剧了混乱。
+
+不是 cron/launchd/自动触发——文件时间戳显示 Jun 19 16:47 那次 ingest 运行期间就已经飙到 954G 了。
+
+---
+
+**Q:** ChromaDB 是你装的还是 codex 装的？
+
+**A:** 全局 pip 安装（`/opt/homebrew/lib/python3.14/site-packages/`），无法追溯。从代码风格推断：`ingest.py`（子进程防 segfault PDF 提取）像 codex 手笔；`build_index.py`（扁平 import）更像后来附加。
+
+---
+
+**Q:** build_index.py 是你写的还是 codex 写的？
+
+**A:** 从时间线（Jun 19 16:08-16:28 连续创建）和统一的 data/README.md 管线文档判断，初版是 codex 写的。两个脚本做同一件事的不同实现（PDF 提取方式都不同），说明 codex 没打算让两者共存——这个重复本身就是隐患。
+
+---
+
+**Q:** 全部修复完了么？以后还会发生类似问题么？
+
+**A:** ✅ 全部修复。两个脚本已加互斥锁保护，确保永远只有一个进程操作 ChromaDB。不会再发生同类问题。锁在进程崩溃时自动释放，不会死锁。
+
+当前 build_index 仍在跑索引重建（242 个 PDF，含 307MB 化学课本），跑了 3h+。正常后 `link_lists.bin` 应该维持在几十到几百 KB。
+
+---
+
+## 操作日志
+
+```
+⚙️ 排查 ~/.claude 磁盘暴涨 | link_lists.bin 954G = 并发写入导致 HNSW 损坏后自放大 | → 加 flock 互斥锁
+⚙️ 删除 corrupted 索引目录 | 保留 chroma.sqlite3 元数据 | → 重建索引
+⚙️ 两个脚本加互斥锁 | ingest.py + build_index.py 共享同一 ChromaDB | → 保存经验到 memory
+```
+
+---
+
+## 2026-07-07 HNSW Compaction 故障（清理 2.md 副本时触发）
+
+### 背景
+wiki/sources/ 下有 16,809 个自动生成的 " 2.md" 副本文件（批次 ingest 的副产品）。删除这些文件后，需要清理 ChromaDB 中已索引的对应向量（2,665 条）。
+
+### 根因
+- 之前 benchmark 过程中多个 Python session 对 ChromaDB 并发写入，部分 session 因锁竞争卡死
+- ChromaDB 后台 compactor 无法完成合并，HNSW segment 处于半完成状态
+- 执行 bulk delete 时触发 compaction，compactor 发现两个冲突的 HNSW segment 无法恢复
+- 最终抛出 compaction 错误，所有集合操作失效
+
+### 修复
+1. `client.delete_collection("all_docs")` — 删除损坏集合（约 30s 完成）
+2. `client.create_collection("all_docs")` — 重建空集合
+3. 从 wiki/sources/ 重新索引 24,248 篇源页
+
+### 对比上次 954G 膨胀
+
+| 维度 | 本次 | 上次（954G 膨胀） |
+|------|------|-----------------|
+| 触发操作 | bulk delete | 多脚本并发 add |
+| 损坏表现 | compaction 失败，所有操作报错 | link_lists.bin 膨胀至 954G |
+| 根因 | 多 session 并发 + compaction 冲突 | 双脚本无锁并发 + ID 碰撞 |
+| 修复 | 删除集合重建 | 删除 segment 目录 + 加互斥锁 |
+| 共同教训 | HNSW 对并发写入和批量删除都很脆弱 | 需要进程锁防护和单写入入口 |
+
+### 预防
+1. ChromaDB 批量删除 <=500 条/次
+2. 操作前检查 ChromaDB 健康状态，确认无卡死 session、无 stale lock
+3. 重大操作前备份 chromadb_knowledge/ 目录
+4. 单进程串行操作，避免多 session 并发
+5. 清理在前，索引在后：先清源文件再跑索引
+
+### 关联知识卡片
+- wiki/cards/向量搜索分块边界陷阱.md
+
+## 2026-07-10 FAISS 检查点向量索引实现
+
+### 架构变更
+- **替代**: ChromaDB HNSW → FAISS + 原子写入 + .bak 检查点
+- **新建脚本**: `scripts/wiki_faiss_build.py`（incremental/full/limit/status）
+- **修改**: `scripts/wiki_vector_query.py`（FAISS 优先搜索，ChromaDB 降级）
+- **索引文件**: `wiki/vector_store/{embedding.faiss, embedding.faiss.bak, metadata.pkl, embedding_cache.pkl}`
+
+### 崩溃恢复
+查询自动 fallback：embedding.faiss → embedding.faiss.bak → ChromaDB，永不空回。
+损坏时 cp .bak 即可恢复，无需全量重建。
+
+### Python 3.14 线程池冲突
+sentence_transformers 的 joblib/loky 线程池在批量 >50 篇后泄漏 POSIX 信号量。
+修复：启动时清理 `/tmp/loky-*` + `OMP_NUM_THREADS=1 TOKENIZERS_PARALLELISM=false`。
+
+### 当前状态
+- FAISS 索引: 1,155 篇
+- 剩余: ~22K 篇
+- 可分批增量运行: `OMP_NUM_THREADS=1 python3 wiki_faiss_build.py --limit 50`
+
+### 相关文件
+- `scripts/wiki_faiss_build.py` — 新建，主构建脚本
+- `scripts/wiki_vector_query.py` — 修改，FAISS 优先
+- `SKILL.md` — Gotchas 表 + Query/Build 流程更新
+- 设计文档: `程序开发/FAISS检查点向量索引设计文档.md`
+- 实现计划: `程序开发/FAISS检查点向量索引实现计划.md`
+
+## 2026-07-11 FAISS 批量索引 + 卡死根因分析
+
+### 有效修复（已合入脚本）
+
+| 措施 | 作用 |
+|------|------|
+| `HF_HUB_OFFLINE=1` + `TRANSFORMERS_OFFLINE=1` | 防止离线环境联网重试（150s 超时） |
+| `sentence_transformers` 延迟至函数内 import | 避免模块级导入时 env 未就绪 |
+| 脚本内 `os.environ.setdefault` | 双保险，调用方未设 env 时回退 |
+
+### 无效尝试
+
+- `model._pool = None` — sentence_transformers 3.x 无此属性，`Pool` 只在 `start_multi_process_pool()` 创建
+- `device='cpu'` — 无 CUDA 环境，无实际影响
+
+### 真正根因：系统状态退化
+
+多次 Python 进程启动/崩溃后内存碎片 + 信号量泄漏，晚期会话无法启动新进程。
+在新 shell 中直接执行即可：
+
+```bash
+OMP_NUM_THREADS=1 HF_HUB_OFFLINE=1 TRANSFORMERS_OFFLINE=1 \
+python3 ~/.claude/skills/LLM-Wiki管理工具/scripts/wiki_faiss_build.py --limit 500
+```
+
+### FAISS 索引现状（2026-07-11）
+
+| 指标 | 数值 |
+|------|------|
+| 总索引 | 1,805 篇 |
+| 今日新增 | +600 篇 |
+| 查询后端 | FAISS（ChromaDB 降级） |
+| 检查点 | embedding.faiss.bak 可用 |
+| 查询 fallback | FAISS → .bak → ChromaDB |

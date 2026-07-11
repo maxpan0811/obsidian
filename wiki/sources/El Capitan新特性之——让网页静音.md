@@ -1,0 +1,30 @@
+---
+title: El Capitan新特性之——让网页静音
+type: source
+created: 2026-07-09
+updated: 2026-07-09
+source_path: 印象笔记管理工具/El Capitan新特性之——让网页静音.md
+tags: [印象笔记]
+---
+
+# El Capitan新特性之——让网页静音
+
+---
+
+[![](.evernote-content/898DA3F3-26A1-46A1-83D3-823F8AAAD3B4/C4283EE5-AF21-40F7-A42E-9C74C76A10FE.gif)](http://www.feng.com/apple/tutorial/2015-10-26/El-Capitan-of-the-characteristics-of-the-new----let-web-mute_628177.shtml)
+
+　有时候我们会在视频网站上看看视频，在微博页面中听听音乐，不过当我们打开了多个页面的时候，你就会不知道究竟是哪个媒体源在播放声音，这给我们关闭对应的网页带来了麻烦，不知道你是否曾遇到过这样的烦恼？
+
+![](.evernote-content/898DA3F3-26A1-46A1-83D3-823F8AAAD3B4/C4283EE5-AF21-40F7-A42E-9C74C76A10FE.gif)
+
+在 El Capitan 的 Safari 中，这将不再是问题。现在，你可以直接在智能搜索栏中将其静音。如果你正在聆听某个页面的音频，而这时有其他网站的音频响起，你可以选择将不想听的那个静音。而如果你真的想要静一静的话，也可以选择将浏览器中的所有音频静音。
+
+操作非常简单，用户只需将鼠标指针移动到 Safari 的地址栏中的“喇叭”，点击一下便可将声音源作静音处理。如果想单独静音某一个网页，则长按“喇叭”，找到想要静音的页面，再作静音处理。
+
+[阅读全文](http://www.feng.com/apple/tutorial/2015-10-26/El-Capitan-of-the-characteristics-of-the-new----let-web-mute_628177.shtml)
+
+---
+
+[🌐 原始链接](http://www.feng.com/apple/tutorial/2015-10-26/El-Capitan-of-the-characteristics-of-the-new----let-web-mute_628177.shtml)
+
+[📎 在印象笔记中打开](evernote:///view/207087/s1/ffd30f93-2c8c-41c6-8d3d-8640096b547f/ffd30f93-2c8c-41c6-8d3d-8640096b547f/)

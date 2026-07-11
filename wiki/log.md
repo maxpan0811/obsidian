@@ -1505,3 +1505,58 @@ Wiki health check after massive ingest:
 - **ChromaDB**: 清除 2,665 条对应向量；因 HNSW 索引 compaction 失败导致全量重建
   - all_docs 重置为 0，需重新索引 24,248 篇源页
 - **触发**: 用户确认删除
+
+## 2026-07-09 Lint 清理
+
+上次 lint：2026-06-29
+
+**索引瘦身（步骤 0）**
+- cleanup_ingested_index.py：35,106 → 18,193（-16,913 stale 条目，因去重/清理后文件已删但索引未更新）
+
+**清理孤⽴源页**
+- 删除 source_path 指向已删除文件的 wiki 源页：2,252 页
+- 删除无 source_path 的 wiki 源页（无 YAML / YAML 解析失败 / 缺少 source_path 字段）：367 页
+- wiki/sources/：24,249 → 21,630 页
+
+**索引重建**
+- ingested_files.json：18,193 → 18,192 条目
+
+**遗留问题**
+- ChromaDB 为空（0 chunks），上次 HNSW compaction 失败后清空未重建
+- 所有向量搜索将空回，仅 grep 关键词兜底
+
+## 2026-07-09 Ingest 知乎 40 篇
+
+- **来源**: 知乎管理工具
+- **新增源页**: 40 篇 (wiki/sources/ 21,630 → 21,670)
+- **索引更新**: ingested_files.json 18,192 → 18,232
+- **ChromaDB**: all_docs 42 chunks (含此前 DeepRead)
+- **内容主题**: 军事历史（志愿军/解放军/抗战/苏联）、中国发展、macOS 软件
+
+## 2026-07-09 Ingest 印象笔记 1000 篇（第一批）
+
+- **来源**: 印象笔记管理工具
+- **新增源页**: ~984 篇（16 篇已存在同名源页）
+- **索引更新**: ingested_files.json 18,232 → 19,232
+- **ChromaDB all_docs**: 833 chunks（+791 本批，含此前 42）
+- **部分文件名含 #/@ 等特殊字符**的向量索引未能自动完成，后续单独处理
+- **剩余未入库**: 约 11,525 篇
+
+## 2026-07-09 ChromaDB 增量 - 含特殊字符文件名
+
+- **185 篇** batch 1 中含  等特殊字符的源页成功向量索引
+- **方式**: Python subprocess list args 绕过 shell 解析
+- **ChromaDB all_docs**: 791 → ~1,756 chunks（含背景并行处理的部分 2,909 特字符文件）
+- **仍存在的问题**: 剩余 ~17K 印象笔记源页（原 HNSW compaction 失败的缺口）
+
+## 2026-07-10 FAISS 检查点向量索引切换
+
+- **替代**: ChromaDB HNSW → FAISS + 原子写入 + .bak 检查点
+- **新建脚本**: `scripts/wiki_faiss_build.py`
+  - `--incremental`（默认）— 仅对新文件 embed，重建索引
+  - `--full` — 全量重建
+  - `--status` — 查看索引状态
+- **修改**: `scripts/wiki_vector_query.py` — FAISS 优先搜索，ChromaDB 降级
+- **索引文件**: `wiki/vector_store/{embedding.faiss, embedding.faiss.bak, metadata.pkl, embedding_cache.pkl}`
+- **崩溃恢复**: 查询自动 fallback `.bak`，无需全量重建
+- **注意**: 全量索引构建尚未执行（22K 篇，约 2h）
