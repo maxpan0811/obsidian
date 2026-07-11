@@ -3,6 +3,7 @@ name: Sync to Gitee
 on:
   push:
     branches: [main]
+  workflow_dispatch:
 
 jobs:
   sync:
@@ -13,5 +14,5 @@ jobs:
           fetch-depth: 0
       - name: Force push to Gitee
         run: |
-          git remote add gitee https://maxpan0811:${{ secrets.GITEE_TOKEN }}@gitee.com/maxpan0811/obsidian.git
+          git remote add gitee https://maxpan0811:${{ secrets.GITEE }}@gitee.com/maxpan0811/obsidian.git
           git push -f gitee main
