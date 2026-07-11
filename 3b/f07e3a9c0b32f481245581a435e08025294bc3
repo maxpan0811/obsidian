@@ -1,0 +1,23 @@
+程序开发/FAISS检查点向量索引实现计划.md
+  s_d07764993adfa6::t_e0de8261b143ff 1-3
+程序开发/FAISS检查点向量索引设计文档.md
+  s_d07764993adfa6::t_112ae637ebe7f4 1-3
+程序开发/LLM-Wiki管理工具-ingest索引维护笔记.md
+  s_d07764993adfa6::t_0530115d15fffb 431-502
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.33-trip",
+  "base_commit_sha": "3bf07e3a9c0b32f481245581a435e08025294bc3",
+  "prompts": {},
+  "sessions": {
+    "s_d07764993adfa6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2dc6f55f-6189-49c6-930d-0ccd67a54ff9",
+        "model": "deepseek-v4-pro"
+      },
+      "human_author": "maxpan0811 <maxpan0811@gmail.com>"
+    }
+  }
+}
