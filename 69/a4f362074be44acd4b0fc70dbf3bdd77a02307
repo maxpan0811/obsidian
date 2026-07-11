@@ -1,0 +1,19 @@
+.github/workflows/sync-to-gitee.yml
+  s_20ddbf0b58f1b5::t_815961b7f46b1c 6,17
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.33-trip",
+  "base_commit_sha": "69a4f362074be44acd4b0fc70dbf3bdd77a02307",
+  "prompts": {},
+  "sessions": {
+    "s_20ddbf0b58f1b5": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f5160-28bc-7981-948b-37e474f55341",
+        "model": "deepseek-v4-flash"
+      },
+      "human_author": "maxpan0811 <maxpan0811@gmail.com>"
+    }
+  }
+}
