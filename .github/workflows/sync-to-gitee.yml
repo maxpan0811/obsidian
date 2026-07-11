@@ -3,6 +3,8 @@ name: Sync to Gitee
 on:
   push:
     branches: [main]
+  schedule:
+    - cron: '0 6 * * *'
   workflow_dispatch:
 
 jobs:
@@ -10,9 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
       - name: Force push to Gitee
         run: |
           git remote add gitee https://maxpan0811:${{ secrets.GITEE }}@gitee.com/maxpan0811/obsidian.git
-          git push -f gitee main
+          git push --force-with-lease gitee main 2>&1 || git push -f gitee main
