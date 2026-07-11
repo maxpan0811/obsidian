@@ -1,5 +1,5 @@
-# Pipeline outputs (regeneratable from Zhihu)
-知乎管理工具/
+# 知乎笔记纳入git备份，排除附件（233MB二进制文件）
+知乎管理工具/attachments/
 
 # Duplicate config dir
 .obsidian 2/
