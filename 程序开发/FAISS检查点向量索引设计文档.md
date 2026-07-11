@@ -1,4 +1,6 @@
-# FAISS 检查点向量索引设计方案
+# FAISS 检查点向量索引设计方案（v1，已过时）
+
+> ⚠️ **已由 [FAISS Pipeline v2](FAISS Pipeline v2 设计文档.md) 替代（2026-07-11）。** v2 增加分块+批量编码+checkpoint+版本备份。保留此文档作为设计演进记录。
 
 ## 背景
 

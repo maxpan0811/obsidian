@@ -1,4 +1,6 @@
-# FAISS 检查点向量索引 Implementation Plan
+# FAISS 检查点向量索引 Implementation Plan（v1，已过时）
+
+> ⚠️ **已由 [FAISS Pipeline v2 实现计划](FAISS Pipeline v2 实现计划.md) 替代（2026-07-11）。** 保留此文档作为设计演进记录。
 
 > **For agentic workers:** REQUIRED SUB-SKILL: Use superpowers:subagent-driven-development (recommended) or superpowers:executing-plans to implement this plan task-by-task. Steps use checkbox (`- [ ]`) syntax for tracking.
 

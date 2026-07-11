@@ -428,3 +428,75 @@ python3 ~/.claude/skills/LLM-Wiki管理工具/scripts/wiki_faiss_build.py --limi
 | 查询后端 | FAISS（ChromaDB 降级） |
 | 检查点 | embedding.faiss.bak 可用 |
 | 查询 fallback | FAISS → .bak → ChromaDB |
+
+## 2026-07-11 FAISS Pipeline v2 实现（会话 2dc6f55f）
+
+> 序列号：`2dc6f55f-6189-49c6-930d-0ccd67a54ff9`
+> 模型：DeepSeek V4-Pro
+> 实现计划任务：Task 1-5（build 重写 / query 简化 / 全量构建 / 清理 ChromaDB / SKILL 更新）
+
+### 背景
+
+ChromaDB 已崩 3 次，v1 FAISS 方案（2026-07-10）有 3 个问题：逐文件编码慢（0.9s/文件）、中断丢全部进度（cache 只在最后写）、无分块（大文件单向量检索差）。用 DeepSeek V4-Pro 深入思考后完成 v2 重写。
+
+### 设计决策（brainstorming 产出）
+
+| 决策 | 选项 | 选择 | Why |
+|------|------|------|-----|
+| 分块策略 | A.无分块 B.轻量 C.全量 | **C** | 54% 文件在 10-50KB，单向量无法有效表示 |
+| ChromaDB 去留 | A.保留降级 B.删除 | **B** | FAISS 版本备份比 ChromaDB 更可靠，双轨 = 双倍维护 |
+| 全量构建 | A.一次性 B.分批 | **A** | checkpoint 机制自动续传，无需人工分批 |
+
+### 实现内容
+
+**Task 1: `wiki_faiss_build.py` v2（200→364 行）**
+- 分块：`_chunk_text()` 从 wiki_vector_ingest.py 提取，1000 字/块 + 150 字重叠
+- 批量编码：32 文件一批，收集所有 chunk → 一次 model.encode() → 分配回各文件
+- checkpoint：每 100 文件 `_save_cache()` + `checkpoint.json`，中断自动续传
+- 版本备份：3 份（.faiss → .faiss.1 → .faiss.2 → .faiss.3），`_rotate_backups()` 轮转
+- v1 迁移：`_load_cache()` 检测 `np.ndarray` → 自动包装为 `[np.array]`
+- 原子写入：`_atomic_write()` 先写 .tmp 再 `os.replace()`
+
+**Task 2: `wiki_vector_query.py` 简化（318→286 行）**
+- 去 ChromaDB 导入/fallback 逻辑（~60 行）
+- 分块去重：`_dedup_by_file()` 同文件多 chunk 保留最高分
+- 版本 fallback：.faiss → .faiss.1 → .faiss.2 → .faiss.3
+
+**Task 5: SKILL.md 更新**
+- 热区：状态更新至 2026-07-11，ChromaDB 标记废弃
+- Gotchas：删除 ChromaDB 行，更新 FAISS 行
+- Ingest 步骤 6：替换为 FAISS v2 命令
+- Query 步骤 1：更新 fallback 描述
+
+### 性能对比
+
+| 指标 | v1 | v2 |
+|------|-----|-----|
+| 编码方式 | 逐文件 0.9s | 批量 32 文件 0.09s/文件 |
+| 全量构建 | 3-4 天 | ~17 小时 |
+| 中断恢复 | 从头开始 | 从 checkpoint 续传 |
+| 索引粒度 | 单向量/文件 | 分块（~3 chunks/文件） |
+| 备份 | 1 个 .bak | 3 个版本化备份 |
+| 检索 | 大文件可能漏 | 分块匹配更精准 |
+
+### 验证记录
+
+```
+--limit 5:  ✅ 5 文件嵌入，v1 2305 条自动迁移
+--limit 100: ✅ 100 文件，6.4 chunks/文件，一致性 ✓
+--status:   ✅ 2,410 文件，2,953 chunks，索引=metadata ✓
+query:      ✅ FAISS 源，分块去重正常，5 结果
+```
+
+### 待办
+
+- [ ] 全量构建：`nohup python3 -u scripts/wiki_faiss_build.py --incremental > /tmp/faiss_build.log 2>&1 &`（~17h）
+- [ ] 全量构建完成后清理 ChromaDB（~1.7GB freed）
+- [ ] `wiki_vector_ingest.py` 标记 deprecated
+
+### 相关文件
+
+- 设计文档：`程序开发/FAISS Pipeline v2 设计文档.md`
+- 实现计划：`程序开发/FAISS Pipeline v2 实现计划.md`
+- 记忆：`20260711-faiss-pipeline-v2.md`
+- 旧版设计：`程序开发/FAISS检查点向量索引设计文档.md`（v1，已过时）
