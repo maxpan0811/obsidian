@@ -1,0 +1,41 @@
+# Fw:App of the week | MeetInOne
+
+---
+
+|  |  |
+| --- | --- |
+|  | 潘渤 |
+| maxpan0811@hotmail.com | |
+
+签名由
+[网易邮箱大师](https://mail.163.com/dashi/dlpro.html?from=mail81)
+定制
+
+--------- Forwarded Message ---------
+
+From： 
+
+[Setapp Team <hello@setapp.com>](mailto:hello@setapp.com)
+
+Date： 
+01/22/2021 00:02
+
+To： 
+
+[Max Pan <maxpan0811@hotmail.com>](mailto:maxpan0811@hotmail.com)
+
+Subject： 
+App of the week | MeetInOne
+
+Google Meet arrives on desktop
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  | | --- | |  | |  | | Finally, there’s a Mac app for Google Meet | | MeetInOne is a desktop app for Google Meet with auto-join, picture-in-picture, meeting statistics, and other features on top of the familiar video conferencing tool. Forget browser. MeetInOne lets you join and set up calls by clicking on the menu bar icon. Now is the best time to give Google Meet another try — or enhance your experience if you’ve already used it. | | [See how it works](https://apac01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsetapp.cmail20.com%2Ft%2Fd-l-cukhhkl-jykhhikhut-j%2F&data=04%7C01%7C%7Cd32b5947581d43694d6708d8be25fbcd%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637468417636456969%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=PQ8G5SldaylUf9qMe5YA8oDzh6KoXeCkHDEO8eclgPI%3D&reserved=0) | |  | | Why MeetInOne | | * Join calls and toggle mic & video from the menu bar * Use multiple accounts to join/set up meetings * Push-to-talk mode for quick unmute * Dashboard for all your meeting stats | | [See how it works](https://apac01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsetapp.cmail20.com%2Ft%2Fd-l-cukhhkl-jykhhikhut-t%2F&data=04%7C01%7C%7Cd32b5947581d43694d6708d8be25fbcd%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637468417636466928%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=5JV2ZGDap6AKAjRJDvvo1S4tU2U7dg8p7uujv8FzmHE%3D&reserved=0) | |  | | You might also like | | |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Mimir | | | |  | | --- | | Explore and listen to podcasts in Mimir. Enjoy recommendations based on your interests.  [Learn more](https://apac01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsetapp.cmail20.com%2Ft%2Fd-l-cukhhkl-jykhhikhut-d%2F&data=04%7C01%7C%7Cd32b5947581d43694d6708d8be25fbcd%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637468417636466928%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=cq%2Bc3gdHYEzupQC4nbJkda87N5q1%2B5jQQUl%2BF0hhdL8%3D&reserved=0) | |  |  |  |  | | --- | --- | --- | | |  | | --- | |  | | DevUtils.app | | | |  | | --- | | No more pasting JSON strings to random sites. Solve every development task offline.  [Learn more](https://apac01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsetapp.cmail20.com%2Ft%2Fd-l-cukhhkl-jykhhikhut-k%2F&data=04%7C01%7C%7Cd32b5947581d43694d6708d8be25fbcd%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637468417636476878%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=wmNOZ4954uaY%2BbXgWchMI8DvGAwbOv%2FJBOHTx31SuCU%3D&reserved=0) | | | | | |  | | --- | |  | | Trending on blog | | |  | | --- | |  | | Top-tier photo editing apps that are not called Adobe | | You don’t always need professional software to edit photos like a pro. Discover affordable high-quality apps for photo editing. | | [Read on blog](https://apac01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsetapp.cmail20.com%2Ft%2Fd-l-cukhhkl-jykhhikhut-o%2F&data=04%7C01%7C%7Cd32b5947581d43694d6708d8be25fbcd%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637468417636486836%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=Z0BgKVFkc2EKY55PPiUGT5UIGXZr22WPpvmUXmyBwoE%3D&reserved=0) | | | |  | | --- | |  | | How to move Google Contacts to iPhone | | Here’s a quick shortcut on syncing Google Contacts with iPhone. Spoiler: You can use this method to transfer any content across devices. | | [Read on blog](https://apac01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsetapp.cmail20.com%2Ft%2Fd-l-cukhhkl-jykhhikhut-n%2F&data=04%7C01%7C%7Cd32b5947581d43694d6708d8be25fbcd%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637468417636486836%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=IAwMZUwY0Kw9ms5v%2Ftv9wB2iOiVNric7uSaTLMjxqNE%3D&reserved=0) | | | What did you think of this email? | |  | |  | | This email was sent by Setapp Ltd. | | [Manage subscriptions](https://apac01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsetapp.updatemyprofile.com%2Fd-cukhhkl-E5349AC7-jykhhikhut-f&data=04%7C01%7C%7Cd32b5947581d43694d6708d8be25fbcd%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637468417636506751%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=CTO3iUzdTLVqcETUg%2Fnglk3kwoeB92FDrnPq%2Bpq80rs%3D&reserved=0) [Unsubscribe](https://apac01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsetapp.cmail20.com%2Ft%2Fd-u-cukhhkl-jykhhikhut-z%2F&data=04%7C01%7C%7Cd32b5947581d43694d6708d8be25fbcd%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637468417636506751%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=5hcZ55U7HyLLH3kT8hiG%2FQqLms8Tf2w4sZ2m3wq9eic%3D&reserved=0) | | NSC Campus, Mahon, Cork, T12 XY2N, Ireland | |  | | | |
+
+[📎 在印象笔记中打开](evernote:///view/207087/s1/a7718e21-42d9-4083-b32f-16e08170436d/a7718e21-42d9-4083-b32f-16e08170436d/)

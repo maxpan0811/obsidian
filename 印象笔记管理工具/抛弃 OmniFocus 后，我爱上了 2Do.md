@@ -1,0 +1,232 @@
+# 抛弃 OmniFocus 后，我爱上了 2Do
+
+---
+
+抛弃 OmniFocus 后，我爱上了 2Do
+=======================
+
+2016 年 09 月 28 日
+
+[![](.evernote-content/3D7EA7DE-7D65-43FC-90B8-B032FEEB6A4C/DF91994E-F366-4C6A-9363-B52DE704D655)](https://sspai.com/user/726152/updates) 
+
+#### [赵赛坡](https://sspai.com/user/726152/updates)
+
+和 [2Do](https://sspai.com/tag/2do) 结识很久，但一直没有进入我的主力任务管理体系。原因在于，过去几年，我在 [OmniFocus](https://sspai.com/post/tag/OmniFocus) 上构筑了一套我自以为完美的任务管理体系，OmniFocus 无限细分任务的特点以及强大的透视功能，一度让我爱不释手。特别要提到的一点就是，OmniFocus 里的检查功能看似简单，实则完成了 GTD[1](https://sspai.com/post/35620#fn1) 最重要的回顾检查环节，让整个任务体系更加完整。
+
+> 特别说明：本文的写作全程在 iPad Pro 上完成，因此本文所谈的所有场景以及所有截图都基于 iPad，关于 iPad 生产力相关的内容，详见[《iPad 生产力指南》](https://sspai.com/34707)。
+
+**文章目录：**
+
+* [「力不从心」的 OmniFocus](https://sspai.com/post/35620#toc_0)
+* [低调的 2Do](https://sspai.com/post/35620#toc_1)
+* [整体逻辑](https://sspai.com/post/35620#toc_2)
+* [每个任务的构成要素](https://sspai.com/post/35620#toc_3)
+* [智能列表](https://sspai.com/post/35620#toc_4)
+* [其他](https://sspai.com/post/35620#toc_5)
+  + [同步](https://sspai.com/post/35620#toc_6)
+  + [iPad Pro 的分屏](https://sspai.com/post/35620#toc_7)
+  + [将网页抓取为任务](https://sspai.com/post/35620#toc_8)
+* [写在最后](https://sspai.com/post/35620#toc_9)
+
+「力不从心」的 OmniFocus
+-----------------
+
+随着我的工作生活状态的变化，之前全职工作的任务管理体系并不能适应当下的情境。这种情况当然不是首次出现，实际上，几年来我的工作生活一直在变，每次的变化也同样体现在我的任务管理体系上，下图是我今年调整后的 OmniFocus 透视图 [2](https://sspai.com/post/35620#fn2)：
+
+![](.evernote-content/3D7EA7DE-7D65-43FC-90B8-B032FEEB6A4C/C82A199D-F25C-4F84-A02B-885FEA7D51A1.jpg)
+
+上述的透视图基本就是我现在每天都会查看的任务系统，这里只介绍几个我自已定制的 [3](https://sspai.com/post/35620#fn3)：
+
+* **Today**：通过 Flag （旗标）、到期日筛选出必须要完成以及即将过期的任务，这也是我每天最重要的任务清单；
+* **Next**：没有星标和到期日限制的任务，我会在清闲的时候去里面找任务，一旦添加 Flag 之后就进入「Today」的透视表；
+* **5 分钟和 1 个番茄钟**：分别筛选需要 5 分钟和 25 分钟完成的工作；
+* **Planning**：筛选有明确开始日期的任务；
+* **选题**：通过聚焦某个项目筛选近期关注的话题，比如苹果的人工智能项目、Twitter 生死劫等等，或许会做为一篇文章的由头；
+* **他人**：这个透视里包括一切需要协作的工作，通过筛选沟通工具呈现出来，换句话说，这个透视表里任务都是通过沟通工具，如微信、电话、邮件、面对面来完成的。
+
+上述透视图也是我对于任务管理系统的基本逻辑：**首先是自上而下的文件 / 项目 / 任务体系；其次是横向的筛选机制，通过优先级、时间、标签实现。**
+
+但这套任务管理系统在运行过程出现了几个问题：
+
+首先，不管是任务还是项目，在优先级安排上缺乏有效的补充。OmniFocus 的优先级设置体现在是否加 Flag（旗帜），但现实生活的复杂远远超出「0」或「1」的范畴；另一方面，OmniFocus 的标签在每个任务中只能够选一个，这非常不利于后期的透视。
+
+举个例子来说：我想在淘宝上买个东西。平常我会在 iPhone、iPad 上用淘宝，但此时我该如何为这次买东西选择一个标签呢？我是选择 iPhone 还是 iPad 呢？或许我该选一个不涉及设备的标签，比如我完成该任务所需的时间，假设为 25 分钟，如此设置后该任务会自动进入上图「一个番茄钟」的透视里，那么问题又来了，假如我正在用 Macbook 下载电影，并想利用 25 分钟在 Macbook 上做点东西从而打开这个任务时，这个任务完全不适合当下的工作状态。[4](https://sspai.com/post/35620#fn4)
+
+在我看来，我要完成在淘宝购物的任务，可以通过 iPhone，或者通过 iPad，必要时还要加上优先级安排或者与人协作的选项，所以，OmniFocus 略显简单的任务要素机制无法应对越来越复杂的现实工作生活需求。
+
+其次，OmniFocus 经常出现重复任务的重复出现。这句话有点绕，简而言之，当我设置了多个重复任务时，一段时间之后发现，很多重复任务「自动复制」成了两个，出现这个 bug 的情况非常随机，多年来这个问题一直没有改观。由于我每天、每周有大量重复性的任务，这个问题会非常影响效率。
+
+在这样的背景下，我开始思考新的任务管理机制，我曾经在 [Todoist](https://todoist.com/) 做尝试，但 iOS 上的 Todoist 的过滤器问题太多 [5](https://sspai.com/post/35620#fn5)，几乎不可用，比如下图：
+
+![](.evernote-content/3D7EA7DE-7D65-43FC-90B8-B032FEEB6A4C/A43E13DA-7D18-41B7-981A-B4D039A82067.png)
+
+低调的 2Do
+-------
+
+目前互联网上关于 2Do 的教程或使用心得分享很少，中文互联网里只有爱范儿去年的一篇 [简单介绍](http://www.ifanr.com/app/528944)。在英语世界，最早可追踪到的是 Macstories 博客站长 Frderico Viticci 在去年 12 月发布的 [一篇使用心得](https://www.macstories.net/stories/why-2do-is-my-new-favorite-ios-task-manager/) ；今年 1 月份，Ben Brooks 也在自己博客上写了篇 [Moving to 2Do](https://brooksreview.net/2016/01/2do/)，而 Tim Nahumck 写的[「Move Your Thoughts to 2Do」](https://nahumck.me/move-your-thoughts-to-2do/)则更具像一篇教程。涵盖了所有 2Do 的基本用法以及一些潜在技巧。而在今年 8 月份，Ben 参与一档播客节目 [Canvas](https://www.relay.fm/canvas/17)[6](https://sspai.com/post/35620#fn6)，又系统介绍了自己使用 2Do 的感受。
+
+2Do 在 YouTube 上有一系列官方介绍[视频](https://www.youtube.com/channel/UC9BtOq3VI8_I51HxICdOBYg)，每个视频都不长，大概 2 分钟左右，强烈建议大家去看看。
+
+整体逻辑
+----
+
+下图是 2Do 在 iPad Pro 上的样子：
+
+![](.evernote-content/3D7EA7DE-7D65-43FC-90B8-B032FEEB6A4C/6C6A16F3-9F89-4126-ADB0-9452778BD201.png)
+
+左侧部分是列表或列表组，类似于文件夹，中间部分是列表里的具体任务，右侧是日历界面。
+
+借用 nahumck 手绘的一幅图来展示 2Do 遵循的任务管理逻辑：
+
+![](.evernote-content/3D7EA7DE-7D65-43FC-90B8-B032FEEB6A4C/3E2C53AE-CCCC-4049-B578-9BCC25802158.jpg)
+
+* **列表组 （Group）**：第一级类别。我将其划分为「家庭」、「个人」、「工作」三大列表组，以此来划分我对目前生活工作事情的划分。每个列表组里可以包含一个或多个列表；
+
+![](.evernote-content/3D7EA7DE-7D65-43FC-90B8-B032FEEB6A4C/4D6CB437-609D-46EC-A694-10805D98ACF2.jpg)
+
+* **列表（list）**：第二级类别。与文件夹的概念类似，每个列表可以包含项目、清单或单独的任务。比如我在「个人」列表组里设置如下列表；
+
+![](.evernote-content/3D7EA7DE-7D65-43FC-90B8-B032FEEB6A4C/77B40DA9-7521-4C12-BD5A-62DD12B5AF58.jpg)
+
+* **项目 / 清单**：第三级类别。这一层就比较好理解了，这里可以包含可执行的任务。2Do 和清单的机制稍有不同，清单里任务没有独立的开始日期和结束日期，而项目里的各个任务都可以单独设置开始日期。下图是我每天的阅读清单项目，也是我每天信息的主要来源；
+
+![](.evernote-content/3D7EA7DE-7D65-43FC-90B8-B032FEEB6A4C/5B53981F-8B48-4AD7-8BB8-F25EB7D5E601.jpg)
+
+* **任务**：2Do 里最小的单位，也应该是可执行、具体化的描述，比如「在支付宝里买电」。
+
+每个任务的构成要素
+---------
+
+正如上文所言，现实生活中的各个任务，其面临的情况非常复杂，与之相对的，一个任务构成要素越多，也就越有可能反应真实情况下各种状况。而 2Do 在每个任务构成要素方面非常丰富，下图是一个任务：
+
+![](.evernote-content/3D7EA7DE-7D65-43FC-90B8-B032FEEB6A4C/E7FA96A5-537A-4E73-9BF2-03C2CF35BC4A.jpg)
+
+这个任务是在 iOS 10 更新之后添加进去的，过去很长一段时间，我都是 Spotify 的高级用户，但 iOS 10 带来了 Apple Music 的升级优化，因此，我在思考是否转移过去。  
+ 这个任务的构成要素包括：
+
+* 列表归属：
+* 备注：
+* 标签：
+* 开始时间和结束时间：
+* 所需时间：
+* 提醒设置：
+* 优先级：
+* 操作：
+
+相比于 OmniFocus，2Do 在任务要素中增加了三个维度：多标签、优先级和操作。这三个维度能玩出的非常多的花样，这些「花样」最后都体现在提高工作效率层面。其中这里主要谈谈非常有特色「操作」：
+
+![](.evernote-content/3D7EA7DE-7D65-43FC-90B8-B032FEEB6A4C/190D2BFE-893B-4E03-BAB6-E817ADEDD758.jpg)
+
+所谓「操作」，实际上就是提供了一种快速完成任务的方式。我在执行任务时，只需执行「操作」执行这个动作。目前，2Do 提供了六种类型动作：
+
+* **致电**：可以添加电话号码，可一键拨打电话；
+* **消息提醒**：类似于致电，直接发送短信；
+* **邮件**：直接发送邮件；
+* **网址**：通过添加网址直接打开某个网站，而且利用 URL Scheme [7](https://sspai.com/post/35620#fn7) 调取第三方 App，比如还是上文提到的我要在淘宝上买个东西，只需在这里填入淘宝的 URL Scheme，便可以直接在 2Do 里一键打开淘宝客户端；
+* **访问**：可以添加联系人和地理位置；
+* **谷歌**：可以一键搜索任务。
+
+智能列表
+----
+
+智能列表是我最喜欢 2Do 的部分，所谓智能列表与 OmniFocus 的透视、Todoist 的过滤器作用一样，利用横向筛选形成新的任务查看机制，在 2Do 里，智能列表其实就是保存的搜索，而 2Do 提供了非常多的筛选机制，点击顶部搜索栏下面三个竖条的图案，就会看到 2Do 的筛选条件：
+
+![](.evernote-content/3D7EA7DE-7D65-43FC-90B8-B032FEEB6A4C/6D43A093-EB07-4D9D-ACD3-DA9525BF3C86.gif)
+
+* **项目／任务相关**：筛选是否显示项目、清单、任务子任务，并筛选是否是空项目或空清单；
+* **事件相关**：开始日期和到期日，包括今天、明天、本周以及有无日期限制的任务；
+* **优先级**：筛选是否有星标以及其他优先级的任务；
+* **标签**：是否含标签；
+* **附件类**：是否有图片或是否有音频；
+* **动作相关**：是否有动作或某个直接的动作。
+
+上述条件可以随意组合，你还可以通过逻辑运算符，如「与（AND）」、「或（OR）」来优化组合机制：
+
+`type: browse AND nodue`
+
+上述这个例子的意思就是「没有日期但需要浏览网页的任务」。
+
+当任务筛选出来之后，点击那个带 ➕ 号的图标，就可以在最左侧的智能列表处建立一个新的列表。
+
+![](.evernote-content/3D7EA7DE-7D65-43FC-90B8-B032FEEB6A4C/2F7635D0-FBEB-452E-AB58-DF25E73D02EB.jpg)
+
+就像 OmniFocus 的透视一样，2Do 的智能列表有不小的使用门槛，一方面需要结合你的工作生活状态，另一方面还要不断将自己的需求与 2Do 之间进行不断的磨合和优化。事实上，我对 2Do 智能列表的研究花了大概两个多月，才形成了当下最适合我工作状态的智能列表。
+
+![](.evernote-content/3D7EA7DE-7D65-43FC-90B8-B032FEEB6A4C/4B0A3BF2-1DE3-4C29-AD17-2020E3CA65C3.png)
+
+* **ing**：筛选今天内所有正在进行的任务；
+* **Planning**：正在进行中的以及未来所有已经安排的任务；
+* **Today**：今天开始或今天到期的任务；
+* **To Read**：通过打开「pockt」的动作筛选需要阅读的任务；
+* **Overdue**：过期的任务；
+* **Tomorow**：明天开始的任务；
+* **Work**：通过筛选一个标签直接查看带着个标签的任务；
+* **Notes**：通过筛选某个标签直接查看一些随机记录的心得；
+* **Others**：交给别人做的；
+* **Week**：未来一周开始或结束的任务；
+
+每个智能列表里的任务排序也有很多讲究，2Do 提供了 十三个排序方式，如图：
+
+![](.evernote-content/3D7EA7DE-7D65-43FC-90B8-B032FEEB6A4C/422822A4-CCE0-4C11-89AD-7424591A5A90.jpg)
+
+其他
+--
+
+### 同步
+
+2Do 官方不提供同步服务器，但是有多个第三方同步服务可用，如下图：
+
+![](.evernote-content/3D7EA7DE-7D65-43FC-90B8-B032FEEB6A4C/075602E0-8146-4E38-BD54-C5C48BA26BA9.png)
+
+不管是官方建议还是其他用户的反馈，Dropbox 的同步机制稳定、快速，这也是我最推荐的同步方式 [8](https://sspai.com/post/35620#fn8) 。
+
+### iPad Pro 的分屏
+
+下图是 OmniFocus 与 2Do 在 9.7 寸 iPad Pro 上的分屏效果：
+
+![](.evernote-content/3D7EA7DE-7D65-43FC-90B8-B032FEEB6A4C/A826386F-2E89-4F88-9C9D-FB3556BB1189.png)
+
+对比后你会发现，OmniFocus 在分屏状态下显示的内容非常少，这也意味着会增加不少操作，反观 2Do，最左侧依然是列表组，剩下大幅区块展示项目或任务，而且，右侧的项目或任务列表也可以拖住来回滑动，下图是本文撰写时的场景：
+
+![](.evernote-content/3D7EA7DE-7D65-43FC-90B8-B032FEEB6A4C/66F8F241-311F-414C-BCBA-DBE1CD6DE1BE.png)
+
+### 将网页抓取为任务
+
+2Do 的 Safari 分享功能很强大，当你需要将网页转化为任务时，这个分享功能可以快速完成任务添加，如下图展示的那样：
+
+![](.evernote-content/3D7EA7DE-7D65-43FC-90B8-B032FEEB6A4C/2BCA32C4-661B-4BE0-987F-3BD171564653.gif)
+
+写在最后
+----
+
+随着年龄的增长，改变习惯是一件很难的事情。从 [OmniFocus](https://sspai.com/post/tag/OmniFocus) 转向 [2Do](https://sspai.com/post/tag/2Do) 的过程对我来说并非一帆风顺，与 OmniFocus 相比，2Do 项目里的各个任务设置关系不能设置「顺序」、「平行」；其次，2Do 没有「检查」功能，无法定期 Review。前者的功能我用的不多，倒还没有问题，对于后者，我设置了每周回顾的定期任务，「强迫自己」检查所有的任务。
+
+另外，由于本文中只以 iPad 为主要场景，实际上，[macOS 平台的 2Do](https://itunes.apple.com/cn/app/2do/id477670270?mt=12) 无论是功能还是颜值都非常赞，其内置的大量快捷键能够大幅提升效率，非常建议同时使用。
+
+---
+
+1. 关于 GTD 的详细介绍，建议直接阅读《Getting Things Done》一书。  [↩](https://sspai.com/post/35620#fnref1)
+2. OmniFocus 的透视可以简单理解为一种查看任务的方式，与传统的文件夹、项目查看相比，可更灵活地定制。  [↩](https://sspai.com/post/35620#fnref2)
+3. 像「附近」「检查」「预测」都是 OmniFocus 系统自带的透视。  [↩](https://sspai.com/post/35620#fnref3)
+4. 随着淘宝全面拥抱移动端，网页版的淘宝购物体验已经非常非常差。  [↩](https://sspai.com/post/35620#fnref4)
+5. 这些都是我在 MacBook 上设置好的过滤器，在 iOS 平台却无法使用。  [↩](https://sspai.com/post/35620#fnref5)
+6. 这档节目由 Federico Viticci 和 Fraser Speirs 主持，关注 iPad Pro 和 iOS 生产力相关的内容。  [↩](https://sspai.com/post/35620#fnref6)
+7. 关于 URL Scheme 的详细介绍，参见这篇文章： [URL Schemes 使用详解](https://sspai.com/31500)。 [↩](https://sspai.com/post/35620#fnref7)
+8. Dropbox 在国内几乎不可用，这并非本文讨论的范围。  [↩](https://sspai.com/post/35620#fnref8)
+
+1. [↩](#)
+2. [↩](#)
+3. [↩](#)
+4. [↩](#)
+5. [↩](#)
+6. [↩](#)
+7. [↩](#)
+8. [↩](#)
+
+[#应用推荐](https://sspai.com/tag/%E5%BA%94%E7%94%A8%E6%8E%A8%E8%8D%90)[#2Do](https://sspai.com/tag/2Do)[#GTD](https://sspai.com/tag/GTD)[#iOS](https://sspai.com/tag/iOS)[#Mac](https://sspai.com/tag/Mac)[#任务管理](https://sspai.com/tag/%E4%BB%BB%E5%8A%A1%E7%AE%A1%E7%90%86)[#效率工具](https://sspai.com/tag/%E6%95%88%E7%8E%87%E5%B7%A5%E5%85%B7)[#评测](https://sspai.com/tag/%E8%AF%84%E6%B5%8B)
+
+---
+
+[🌐 原始链接](https://sspai.com/post/35620)
+
+[📎 在印象笔记中打开](evernote:///view/207087/s1/019324ce-8ad6-4934-a36b-b40d65cdfc67/019324ce-8ad6-4934-a36b-b40d65cdfc67/)

@@ -1,0 +1,78 @@
+# 初高中化学教辅用书点评&祝中考满分高考A+
+
+---
+
+原文链接: [https://mp.weixin.qq.com/s?\_\_biz=MzkwMDY2NzIxNQ==&mid=224749...](https://mp.weixin.qq.com/s?__biz=MzkwMDY2NzIxNQ==&mid=2247491012&idx=1&sn=18a8139773f3dc5985f3bbbc264f057a&chksm=c1a360de14541fc9b215cc350e747f58d01eb9feab48983496551d67b86a907602f9aba551bc&mpshare=1&scene=24&srcid=0622aTDsTSFwoiq3Pk1LgE6X&sharer_shareinfo=3ca8091335e0037f7528d244ef779a7f&sharer_shareinfo_first=3ca8091335e0037f7528d244ef779a7f&clicktime=1782178496&enterid=1782178496&ascene=14&devicetype=iOS26.5&version=18004b29&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQ3tX+fEG3KuCRT/iAUI4ghhLJAQIE97dBBAEAAAAAALNyBUZ8bbwAAAAOpnltbLcz9gKNyK89dVj0i/8PTfx0Dt67eUEf8E2Ndcfeimq4VXHKbkyzm52E/mBMSk5MvIHYozWu+XxUyNV7kYouvPx7HE8YouJV2ugLsxLMh1GhXvYb6B23rErvHRdb+Mm3d/yJ1CriibL12gw+bhjfj8k+OKAG5rdwPNCmV8EajDFzb49o+aq226sjcq3Lp+QULy4lWF8FLrnXNeCY1stwHHyfsp97T2oHETmHjFYtrA==&pass_ticket=ajMLh8iZojtyOF+iDPOlaFSVCxhVAEmo0S8eKp3yHaLTeFhOxO454zvl5MtveEkb&wx_header=3)
+
+Original5号魔渊MY
+
+**ABOUT US**
+
+魔渊由清北毕业教师创立，这里有前国家集训队竞赛大神，也有中、高考状元级别的高分王者，致力做最有深度的K12教育自媒体，与我同风起！
+
+![](.evernote-content/A848C06A-B197-489D-8A41-667091E90AD7/A4166F26-1914-49C6-8642-1DB7ED1F8A41.png)每次发这类教辅点评与推荐的文章，都有家长私信找我们买。我们不是带货，纯粹是做一些推荐，希望你找到合适的用书，需要的可以在网上随便都能买得到。![](.evernote-content/A848C06A-B197-489D-8A41-667091E90AD7/B064AB94-E312-49CD-BFA1-1E653EE3B05D.png)  
+笔者认为，一本合格的教辅应该起到辅助作用，用少数的知识要点和配套练习，帮助同学理清知识体系，检查知识点漏洞。而非挤占过多的宝贵课后时间，用大篇幅的“知识总结”使得本不多的知识点臃肿复杂化。本文推荐的几本教辅在上海的使用范围、口碑和实际效果均经得起考验，希望家长们结合自家娃的实际情况按需选择，贵精不贵多。
+
+* 基础同步类
+* 纯习题类
+* 拓展提升类
+
+**基础同步类**
+
+---
+
+**（初、高中）《辅导与训练》（又称新思路）上海科学技术出版社**
+
+![](.evernote-content/A848C06A-B197-489D-8A41-667091E90AD7/33BEF4E1-B8FA-4625-AA93-293A3E6187D8.png)
+
+新思路是从很多同学一直和教材配套使用的经典教辅。特点是每一节都有本章节的知识点总结梳理，精炼而完整，知识成体系。例题解析清晰准确，课后习题量足且难度总体不高。本书适用于大部分0基础同学同步和预习阶段作为教科书的优秀搭档，课前预习+课中总结+课后练习均可使用本书。也适用于基础不牢，巩固知识点的同学的复习用书。**（初、高中）《金典导学案》天津人民出版社**
+
+![](.evernote-content/A848C06A-B197-489D-8A41-667091E90AD7/A6AD4F81-1982-4550-8215-776AD7DA9384.png)
+
+同步导学+课后作业+单元试卷分别独立，方便使用和整理。导学部分为填空形式方便同步重要知识点，单元试卷题型和难度中等，题型经典没有偏题怪题，贴合非四校八大校内期末的总体难度水平。适用于校内知识点比较扎实，希望通过刷题提高答题速度和正确率的同学。**（高中）《五年高考三年模拟同步版》 首都大学师范出版社**
+
+![](.evernote-content/A848C06A-B197-489D-8A41-667091E90AD7/145FE143-A498-4C94-9F75-8EF172907051.png)
+
+全国广泛使用的同步教辅，综合难度同步人教版，略高于沪教版平均难度。其优点是非常详细的知识概括和思维导图，各项考点整理十分详尽。习题的考察范围全面，解析和易错点强调都很到位。适合学习能力较强的同学预习或者四校八大同学作为同步教辅使用。缺点是只有人教版，部分章节顺序略有差异，但总体差异不大。**纯习题类**
+
+---
+
+**（初高中）《一课一练》华东师大出版社**
+
+![](.evernote-content/A848C06A-B197-489D-8A41-667091E90AD7/7572EFDD-ED34-4432-92A9-21586B28CBF6.png)
+
+本书作为经典的上海教辅品牌涵盖了K12的全部年级段，章节安排和教材完全同步。作为纯习题册，题型经典，题量合理，基础为主伴有部分提高训练题型，适用于绝大部分学员同步阶段课后练习使用。**（初中）《上海名校名卷》华东师范大学出版社**
+
+![](.evernote-content/A848C06A-B197-489D-8A41-667091E90AD7/9E6F943F-87CE-414F-AC6A-FE859BE9FADA.png)
+
+由于初中教材改革，初中化学内容和难度都有所提升，学有余力的同学可以增加适当的练习提高学习效果。对于初中化学的习题册，推荐以一模二模的真题蓝本进行练习。本套练习以综合性练习和考题为主，包含上海各校各区的真题和模拟题，难度贴近各区模考和中考。**（高中）《全A计划》江西科学技术出版社**
+
+![](.evernote-content/A848C06A-B197-489D-8A41-667091E90AD7/A9D48964-AB07-4114-BF81-63152ACE8EBA.png)
+
+复习阶段用书，知识点梳理较多，习题较少，难度贴合学业水平测试。适用于基础一般的同学考前集中突击复习使用。总体习题难度较低，不推荐拓展提升使用。**（高中）《五年高考三年模拟》（五三）首都大学师范出版社**
+
+![](.evernote-content/A848C06A-B197-489D-8A41-667091E90AD7/720BEF63-DF95-4984-ABA6-208689FB73A0.png)
+
+高考一轮复习用书，难度贴合人教版，约为四校平行班难度。优点在于每道习题均有完整的解析，考点囊括的非常完善，可以作为基本完成中学化学学习，且校内富有余力的同学自学拓展使用。里面有全国高考的各类经典题型，可以拓宽解题思路，但题型和上海略有不同。**拓展提升类**
+
+---
+
+**（初中）《天原杯竞赛教程》 浙江大学出版社**
+
+![](.evernote-content/A848C06A-B197-489D-8A41-667091E90AD7/E273E9C3-36FF-4B05-86E9-F641E634C4B9.png)
+
+天原杯作为上海地区老牌的初中化学竞赛，虽然在改革后影响力和对升学的帮助不如之前，但其出题方向和解题技巧仍对头部学校自招考有指导作用。本教材并不涉及高中知识，多是对初中内容的深化拓展，可以很好的锻炼同学的化学思维。适合完成初中化学学习的同学课后拓展或备战自招使用。**（高中）《高中学科强基丛书》上海教育出版社**
+
+![](.evernote-content/A848C06A-B197-489D-8A41-667091E90AD7/A2D50B50-3B1A-4673-9C49-A93E7B0076B9.png)
+
+本书作为强基方向教材用书，总体难度介于高考与竞赛之间。题型难度范围广、有梯度：从零基础到高考难度均有涉及，也不乏一些早年竞赛真题，总体约为四校八大期末题水平。适用于四校八大同学课后拓展题型使用，也可作为对化学学科较有天赋、有竞赛方向发展意向的同学作为高中教科书的替代，速通高中化学使用，配合专门的习题解析可以达到很好的自学效果。**（高中）《精英化学 入门/基础/提高读本》世界图书出版公司**
+
+![](.evernote-content/A848C06A-B197-489D-8A41-667091E90AD7/BA803B21-84E2-4582-A177-0FE6E1622666.png)
+
+本书是纯竞赛方向教材用书，也是笔者搞竞赛的时候就高频使用过的书籍。三本书难度由高考到强基到竞赛逐级提升，知识点完整且成体系，课后习题设计颇有巧思，有助于化学思维的培养与拓宽。适合学有余力同学拓展和深入学习使用，也可作为梳理化学体系，拓展难题思路的工具书。注意本书的提高读本内容涵盖虽广，但知识体系不够深入，缺少深入浅出的讲解，尤其是有机化学部分。竞赛阶段的系统学习仍应以大学教材为主。**如果纯竞赛生请参考更全面的竞赛类教辅，下文由我们化学学科组组长撰写：**[原集训队队员、先首席教练员对化学竞赛的学业规划建议&教辅用书全面推荐](https://mp.weixin.qq.com/s?__biz=MzkwMDY2NzIxNQ==&mid=2247489260&idx=1&sn=c433d69c97aab8a3f11bfc2af637fd71&scene=21#wechat_redirect)
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzkwMDY2NzIxNQ==&mid=2247491012&idx=1&sn=18a8139773f3dc5985f3bbbc264f057a&chksm=c1a360de14541fc9b215cc350e747f58d01eb9feab48983496551d67b86a907602f9aba551bc&mpshare=1&scene=24&srcid=0622aTDsTSFwoiq3Pk1LgE6X&sharer_shareinfo=3ca8091335e0037f7528d244ef779a7f&sharer_shareinfo_first=3ca8091335e0037f7528d244ef779a7f&clicktime=1782178496&enterid=1782178496&ascene=14&devicetype=iOS26.5&version=18004b29&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQ3tX+fEG3KuCRT/iAUI4ghhLJAQIE97dBBAEAAAAAALNyBUZ8bbwAAAAOpnltbLcz9gKNyK89dVj0i/8PTfx0Dt67eUEf8E2Ndcfeimq4VXHKbkyzm52E/mBMSk5MvIHYozWu+XxUyNV7kYouvPx7HE8YouJV2ugLsxLMh1GhXvYb6B23rErvHRdb+Mm3d/yJ1CriibL12gw+bhjfj8k+OKAG5rdwPNCmV8EajDFzb49o+aq226sjcq3Lp+QULy4lWF8FLrnXNeCY1stwHHyfsp97T2oHETmHjFYtrA==&pass_ticket=ajMLh8iZojtyOF+iDPOlaFSVCxhVAEmo0S8eKp3yHaLTeFhOxO454zvl5MtveEkb&wx_header=3)
+
+[📎 在印象笔记中打开](evernote:///view/207087/s1/c901fd4e-ce01-4f49-bda4-1fcc1159bf00/c901fd4e-ce01-4f49-bda4-1fcc1159bf00/)

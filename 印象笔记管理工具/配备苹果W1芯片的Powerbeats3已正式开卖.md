@@ -1,0 +1,21 @@
+# 配备苹果W1芯片的Powerbeats3已正式开卖
+
+---
+
+威锋网讯，据本站从苹果官网了解到，Powerbeats3 无线耳机目前已经在苹果在线商店开卖，现在订购的话最早可以在 11 月初进行配送。
+
+![](.evernote-content/52F5D5C4-E693-4B31-AFE9-51157D51A119/E14158D5-6428-49BF-BFE5-D9F25F46B39C.png)
+
+在苹果收购 Beats 后，Beats 的产品也更多地出现在了有苹果在场的场合中。在今年举行的 iPhone 发布会上，苹果宣布 Powerbeats3 等新品将会在晚些时候到来，值得一提的是和苹果 AirPods 一样，Powerbeats3 同样配备了 W1 芯片。
+
+Powerbeats3 可随时待命，你只需打开耳机电源并将它靠近 iPhone，立即便可完成设置，然后可将它同时连接到你的 Apple Watch、iPad 和 Mac。在高能效的 Apple W1 芯片的驱动下，Powerbeats3 的电池使用时间最长可达 12 小时。采用 Fast Fuel 技术，用户只需充电 5 分钟即可持续播放 1 小时。抗汗防水溅设计让耳机更持久耐用，双驱动声学设计营造出变化丰富的音效，为运动增添动力。
+
+Powerbeats3 入耳式耳机总共有 5 个配色可选，分别是白色、黄色、蓝色、黑色和红色，售价为 1488 元，感兴趣的朋友可以到苹果官网进一步了解相关产品信息。
+
+[阅读全文](http://www.feng.com/iPhone/news/2016-10-26/Equipped-with-apple-W1-chip-Powerbeats3-has-officially-on-sale_660243.shtml)
+
+---
+
+[🌐 原始链接](http://www.feng.com/iPhone/news/2016-10-26/Equipped-with-apple-W1-chip-Powerbeats3-has-officially-on-sale_660243.shtml)
+
+[📎 在印象笔记中打开](evernote:///view/207087/s1/f522c268-9257-497d-a50b-1662863f7fa6/f522c268-9257-497d-a50b-1662863f7fa6/)

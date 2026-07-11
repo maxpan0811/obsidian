@@ -1,0 +1,45 @@
+# 牢A的“超能力”
+
+---
+
+原文链接: [https://mp.weixin.qq.com/s?\_\_biz=MzA3NzY3NjUzNQ==&mid=265014...](https://mp.weixin.qq.com/s?__biz=MzA3NzY3NjUzNQ==&mid=2650143356&idx=1&sn=cc3df157ea1fb36921e9488a5b4d2a3b&chksm=86ddfab4181449ca93ce9deea85736ea355ed8712a7dc442c419044953975316528432591b08&scene=126&sessionid=1768606735&subscene=90&clicktime=1768607090&enterid=1768607090&ascene=3&devicetype=iOS26.2&version=1800432e&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQz1CmrXcF/U+TcVkTCpe7YRLTAQIE97dBBAEAAAAAAHYROSGkQyYAAAAOpnltbLcz9gKNyK89dVj0KwTFarWOfwJm1T6zQaDHj+ZoJTSS8PZdzhPVkRFQ4xS0cVUt36z8RyKBLMeG7AyvYb7a6MrSIz31C1Mn2yq6EX1EZLyVB3jdY0vF82oGaI5U3fMMCW+2Bn6/oRl2enVG02/QazcK6liIWkPdijDmITsA1NB5AGu0ZaOvib/BnxHGT+ghCtS7Qv97BW3pQ9QE8AYWfC4TqFan0zklZVnvhZweiN7RQDQ6ibaS9ng=&pass_ticket=jNcLy/kQty1hpfHG+F6Ntjv/saBSHW5SWc/FBZhKiPl93TBYjZZa8HjEwm0GrsG9&wx_header=3)
+
+Original申鹏平原公子
+
+牢A身上，有很多过人之处，值得普通年轻人学习。  
+  
+灵视高，不是开玩笑，这是一种优秀的素质，意味着他有透过现象看本质的能力。  
+  
+首先，他对自我的认知非常清醒，他不是名校出身，资质也很一般，自己承认“不是做科研的料”……能认识到自己不是天才，而是是个普通人的人，已经是非常清醒的少数了。  
+  
+其次，他搞科研不行，但是搞人脉关系非常行，年纪轻轻就“世事洞明，人情练达”没有被公知们几十年来宣传的“美国不需要人情世故”这种谎言忽悠瘸，而是实事求是，因地制宜，能够伺候好教授，能够干脏活累活，和师兄弟、室友关系都非常好……师兄弟都叫他“九千岁”，这就不是一般人了。  
+  
+他在他的领域里如鱼得水，不内耗，不焦虑，甚至还很有吸引力，这就是真正看透现实、明白自己想要什么的人，他是个真正的聪明人……聪明和学历、做题能力无关，聪明是一种本能，越聪明的人，越能适应危险、压抑、陌生的环境。  
+  
+更重要的是，这个人世俗、圆滑，却又能保持赤子之心，没有失掉人民立场……他明白资本主义的生存规则，也能适应这种游戏规则，却并不认可这种规则，精神上没有与之同流合污，而是保持了一颗悲悯、警觉之心。  
+  
+所以，当他看到高达爆仓、小天使降临新罗马、下水道史莱姆的时候，那种作为人的“物伤其类”的悲怆感就诞生了。  
+  
+他是个有人性、有良知的人，他和那些冷漠的“高华”不一样，和那些撒谎欺诈的留学移民中介不一样，不是说“见惯了”，就能忽视，不是说“美国从来如此”，就回避不讲……从来如此，就对吗？  
+  
+他看不得这些不把人当人的事情，所以他就在一次次看似随意的直播闲聊中把这些告诉大家……让太平洋西岸那些生在红旗下、长在春风里的孩子都听一听，美国这个世界霸主还有大家不知道的一面，资产阶级的灯红酒绿纸醉金迷之外，还有一个邪恶血腥吃人的旧社会……美国几十年来号称自由灯塔，动辄以民主自由人权的名义发动战争、侵略、颠覆别的国家，然而它自己的普通民众，却在“斩杀线”前拼命奔跑，稍有不慎，就坠入炼狱、万劫不复。把这些告诉普通人，传播出去，让在美国的人提高警惕，给向往美国的人启蒙开智，就是在行善积德。  
+  
+最后，牢A还是个非常聪明、机警的人，他知道美国的底线在哪里，他知道美国的容忍度在哪里，他真懂资本主义……所以，他早就做好了准备，当《纽约时报》、《经济学人》开始报道他的时候，他就已经警觉了，当高华举报他，当ICE开始上门调查，当室友给他打电话的时候……他根本没有任何犹豫，东西不要了，学历不要了，辛辛苦苦经营的一切都不要了，转身拔腿就跑。这就是“灵视”高的好处，在很多人还浑浑噩噩、犹豫不决的时候，他脑子里全是尖锐的警报声。  
+  
+这就是本能反应比知识和思考能力还强的典型，也是他在资本主义克苏鲁世界锻炼出来的超能力……“古神”的注视，是很可怕的。什么学历，什么美国的前途，能比生存更重要吗？  
+  
+他能在短时间内做出决策，一下子跳出来，海阔凭鱼跃，天高任鸟飞，这说明这个人确实是个人才，他做出了正确的选择，其实大家都知道，聪明人根本不需要选，这是唯一的路。  
+  
+老一辈人夸奖小孩子，经常说“这个小子机灵”，机灵指的就是这种天生的本能反应。  
+  
+想要成为“传奇调查员”并不容易，海外的留学生、记者、企业工作人员千千万，有几个能做到的？聪明、理智、圆滑、独立思考、长袖善舞、有正义感、有同情心、机变百出、有决断能力……综合起来，是万里挑一，非常难得的素质。  
+  
+这些素质，不是读书做题能够训练出来的。  
+  
+需要多想、多做、多实践。
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzA3NzY3NjUzNQ==&mid=2650143356&idx=1&sn=cc3df157ea1fb36921e9488a5b4d2a3b&chksm=86ddfab4181449ca93ce9deea85736ea355ed8712a7dc442c419044953975316528432591b08&scene=126&sessionid=1768606735&subscene=90&clicktime=1768607090&enterid=1768607090&ascene=3&devicetype=iOS26.2&version=1800432e&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQz1CmrXcF/U+TcVkTCpe7YRLTAQIE97dBBAEAAAAAAHYROSGkQyYAAAAOpnltbLcz9gKNyK89dVj0KwTFarWOfwJm1T6zQaDHj+ZoJTSS8PZdzhPVkRFQ4xS0cVUt36z8RyKBLMeG7AyvYb7a6MrSIz31C1Mn2yq6EX1EZLyVB3jdY0vF82oGaI5U3fMMCW+2Bn6/oRl2enVG02/QazcK6liIWkPdijDmITsA1NB5AGu0ZaOvib/BnxHGT+ghCtS7Qv97BW3pQ9QE8AYWfC4TqFan0zklZVnvhZweiN7RQDQ6ibaS9ng=&pass_ticket=jNcLy/kQty1hpfHG+F6Ntjv/saBSHW5SWc/FBZhKiPl93TBYjZZa8HjEwm0GrsG9&wx_header=3)
+
+[📎 在印象笔记中打开](evernote:///view/207087/s1/432d8b34-eb7d-438f-960e-8e78639bc0d4/432d8b34-eb7d-438f-960e-8e78639bc0d4/)

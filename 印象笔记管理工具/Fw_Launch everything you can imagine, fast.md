@@ -1,0 +1,37 @@
+# Fw:Launch everything you can imagine, fast
+
+---
+
+|  |  |
+| --- | --- |
+|  | 潘渤 |
+| maxpan0811@hotmail.com | |
+
+签名由
+[网易邮箱大师](https://mail.163.com/dashi/dlpro.html?from=mail81) 定制
+
+--------- Forwarded Message ---------
+
+From：
+[Setapp Team <hello@setapp.com>](mailto:hello@setapp.com)
+
+Date： 
+01/16/2020 00:23
+
+To： 
+[Max Pan <maxpan0811@hotmail.com>](mailto:maxpan0811@hotmail.com)
+
+Subject：
+Launch everything you can imagine, fast
+
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | | |  | | Organization begins here | | At the start. If you're not a fan of the macOS Launcher, there's a new way to find and open all of your favorite files and applications. | | Start is like Spotlight, but more visual. Its customizable display shows you exactly what you need, when you need it. The perfect pair with Setapp. | | | [Open Start](https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsetapp.cmail20.com%2Ft%2Fd-l-xuilitt-jykhhikhut-j%2F&data=02%7C01%7C%7C8aa16c0ca4654671227e08d799d74917%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637147022237094458&sdata=lh%2FEbnnFgCnPUcUTAWJ9XNZ9gro6UhjcwGzOXYE9Rxg%3D&reserved=0) | |  | | |  | | --- | | The feature list | | * Tag anything * Add easily-accessible comments and notes * Highlight with pretty colors * Assign hotkey quick access * Favorite items * And, of course, drag and drop | | | [Open Start](https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsetapp.cmail20.com%2Ft%2Fd-l-xuilitt-jykhhikhut-t%2F&data=02%7C01%7C%7C8aa16c0ca4654671227e08d799d74917%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637147022237104463&sdata=jq14PNp85lR16cPLNnWO%2BqDg7q0tDY2sCzRQFGj6WY0%3D&reserved=0) | |  | | We've also added | | |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Mission Control Plus | | | |  | | --- | | A huge upgrade to the already-powerful Mission Control screen.  [Learn more](https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsetapp.cmail20.com%2Ft%2Fd-l-xuilitt-jykhhikhut-d%2F&data=02%7C01%7C%7C8aa16c0ca4654671227e08d799d74917%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637147022237124485&sdata=Ciyn5noKdw4bdMlNQLY9a97fYdsnTUnDpyY7LZS5rIY%3D&reserved=0) | |  |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Mockuuups Studio | | | |  | | --- | | 500+ high-quality mockup templates to show off your designs. [Learn more](https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsetapp.cmail20.com%2Ft%2Fd-l-xuilitt-jykhhikhut-k%2F&data=02%7C01%7C%7C8aa16c0ca4654671227e08d799d74917%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637147022237154512&sdata=mFZXS4z6oskbP8eDDTEkFU5SqB6lsp1BGItyIidXpD0%3D&reserved=0) | | | | |  | | Major updates | | |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | |  | Unite | | | |  | | --- | | Create native Mac apps out of your favorite websites.  [Learn more](https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsetapp.cmail20.com%2Ft%2Fd-l-xuilitt-jykhhikhut-o%2F&data=02%7C01%7C%7C8aa16c0ca4654671227e08d799d74917%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637147022237184527&sdata=aJgamWbONLxZw8qXhTd7JGVhiC%2Bf7HPHCqDCLuAw23U%3D&reserved=0) | |  |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | |  | CameraBag Pro | | | |  | | --- | | Edit videos or photos using ultra-intuitive tools. [Learn more](https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsetapp.cmail20.com%2Ft%2Fd-l-xuilitt-jykhhikhut-n%2F&data=02%7C01%7C%7C8aa16c0ca4654671227e08d799d74917%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637147022237214548&sdata=O53oXQkN6fKNJ%2BTVO4prS%2FwW9m3OdHQ7fW%2Bs9MXgvAM%3D&reserved=0) | | | | | What did you think of this email? | | |  | | --- | | This email was sent by Setapp Ltd.  NSC Campus, Mahon, Cork, T12 XY2N, Ireland  [Manage subscriptions](https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsetapp.updatemyprofile.com%2Fd-xuilitt-E5349AC7-jykhhikhut-f&data=02%7C01%7C%7C8aa16c0ca4654671227e08d799d74917%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637147022237254580&sdata=XkMYf6tVIOwYYW9tOiXncNcEpmq4mwVokqDR7LcHvRI%3D&reserved=0)  [Unsubscribe](https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsetapp.cmail20.com%2Ft%2Fd-u-xuilitt-jykhhikhut-z%2F&data=02%7C01%7C%7C8aa16c0ca4654671227e08d799d74917%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637147022237264591&sdata=q9porgiISMjzsZzhKfyOr4M9d4sRym9DRfEVnGEmkqE%3D&reserved=0) | | |
+
+![](.evernote-content/A235C1DD-F6F0-42F4-9B11-109A24A166AD/7BA08002-88C5-4E9B-B6B1-08A9449686BF.gif)
+
+[📎 在印象笔记中打开](evernote:///view/207087/s1/d7c3235b-5e1a-4cf0-99a7-1ddd7212c860/d7c3235b-5e1a-4cf0-99a7-1ddd7212c860/)

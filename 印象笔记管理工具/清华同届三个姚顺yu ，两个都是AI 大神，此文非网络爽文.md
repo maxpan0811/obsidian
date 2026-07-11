@@ -1,0 +1,261 @@
+# 清华同届三个姚顺yu ，两个都是AI 大神，此文非网络爽文
+
+---
+
+原文链接: [https://mp.weixin.qq.com/s?\_\_biz=MzYyNDAxMjcyNw==&mid=224748...](https://mp.weixin.qq.com/s?__biz=MzYyNDAxMjcyNw==&mid=2247484835&idx=1&sn=243500e679f4318740e4ba62efa56805&chksm=f1e88c431cae8c2aa455e4dc79fb7e0d1281532a82c2b5330018de083bd3bc20e0b675c40202&mpshare=1&scene=24&srcid=0226vHsavKUbBs3iVaYau86M&sharer_shareinfo=d40c522125a402dbe7ad5485cf91ffc7&sharer_shareinfo_first=d40c522125a402dbe7ad5485cf91ffc7&clicktime=1772101047&enterid=1772101047&ascene=14&devicetype=iOS26.3&version=1800452c&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQspmn8ewOBaWkGbIQW1HeyRLTAQIE97dBBAEAAAAAAHkWNFSBP+EAAAAOpnltbLcz9gKNyK89dVj0GSlevy1FQ+aBOC3AZf3SyPPXNOaD34F4K41nadQy+jhhtCK/T3gp4wt5YGGIAPx42EqkDOQO+9IBKYnewWd7VZOWwiTMHauG6+5p65eYAFYSMgW5U7/ROoyAzzNpaXItIGNMTtS+ymayPxo6GP8I3K9P/ecIKKC4uo8p9YWr54uLcl2DeRIdnprKvIxp4IFgPvAr+WGWMZ7Jy2ac7/JKbk5hAmboosT8NbmpcSw=&pass_ticket=p2lx7Io54cn1vQ8dy4qnaqcJ9xql/M8+PAur+Pvnh8iOkdXHQ0F459y+ZW0+Zt1M&wx_header=3)
+
+Original刘7架构师刘7
+
+清华同一届三个姚顺yu。
+
+一个从Anthropic怒摔离职，留下一句“没有你会更好”。
+
+一个从OpenAI转身回国，说“AI上半场结束了”。
+
+同名不同命，同校不同路。
+
+更神奇的是：他们同年入学清华，同届毕业，2019年穿着学士服，站在同一片操场上拍过毕业照——却互不相识。
+
+半年后，一个做出Gemini 3 Deep Think，拿下全球第八；
+
+一个写出《AI下半场》，震动整个硅谷。
+
+两个中国人，正在定义AI的未来。
+
+00 写在前面：三个“姚顺yu”
+
+说出来你可能不信，名字带风水？。
+
+2019年清华毕业季，学校官微发了一条微博，晒出三位同名毕业生的合照。
+
+照片里，两男一女，都叫Yao Shunyu——两个“姚顺yu”，外加一个日语专业的女生“姚顺雨”。
+
+左边那个，物理系特奖，本科发两篇PRL，后来去了Anthropic、DeepMind。
+
+右边那个，姚班学霸，高考704分，后来去了OpenAI、腾讯。
+
+中间那个女生，后来去了哪儿，没人知道。
+
+三个同名的人，穿着学士服站在清华的阳光下。
+
+左边那位不知道右边那位未来会和他齐名。
+
+右边那位也不知道左边那位会和自己一样，杀穿AI圈。
+
+命运的草蛇灰线，从那一刻就埋下了。
+
+01 你叫姚顺yu？我也叫姚顺yu
+
+2015年，北京。
+
+两个姓姚的男生，从不同的方向考入清华。
+
+一个来自安徽合肥，初中合肥45中，高中合肥一中。高考704分，安徽省理科第三。本来能当状元，结果数学太简单，做完检查一遍后睡着了，丢了十几分。出分后他还专门跑回学校找领导“忏悔”：“老师，我让母校错过了一个全省头名。”
+
+可爱得让人没法生气。
+
+另一个来自哪里，没人知道确切信息。只知道他进了清华物理系，大二开始选修研究生理论物理课，期末直接满分。后来在周期驱动系统拓扑场论这种听都听不懂的领域，以第一作者身份在Physical Review Letters上发表论文——物理圈的顶刊，很多教授一辈子都上不了一次。而且，他本科发了两篇。
+
+有个211大学物理系副教授在网上感叹：“这文章每句话都值得反复琢磨。我们学校所有教授加起来，单论物理水平，可能都比不上这个大二学生。”
+
+两个姚顺yu，就这样在同一年进入清华。
+
+一个在姚班写代码，一个在物理系推公式。
+
+一个在南，一个在北。
+
+直线距离不到1公里。 但谁也不知道对方的存在。
+
+02 平行时空：同届毕业，同框合影
+
+2019年夏天，清华毕业季。
+
+物理系的姚顺宇拿到了本科生特等奖学金——这是清华本科生的最高荣誉。他的简历上写着：本科期间以第一作者在PRL发表论文两篇、PRB一篇。毕业去向：斯坦福大学，博士。
+
+姚班的姚顺雨也不遑多让。担任姚班联席会主席，联合创办清华学生说唱社。毕业去向：普林斯顿大学，计算机博士。
+
+两个人都拿到了世界顶尖大学的offer。
+
+一个去西海岸的斯坦福，一个去东海岸的普林斯顿。
+
+一个研究物理，一个研究AI。
+
+毕业典礼那天，学校官微把三个“姚顺yu”叫到一起拍了张合照。两个男生，一个女生，都穿着学士服，对着镜头笑。
+
+那是他们第一次同框。
+
+也是唯一一次。
+
+拍完照，各奔东西。
+
+一个飞往加州帕洛阿尔托，一个飞往新泽西普林斯顿。
+
+直线距离：约4000公里。
+
+03 一个往里走，一个往外走
+
+2024年，AI圈正在上演史上最疯狂的抢人大战。
+
+![](.evernote-content/9037E92E-B95B-43C0-A638-916D1A87C004/5ADB033D-1971-44E5-9AFC-7BE535D2F129.jpg)
+
+姚顺宇（物理）从斯坦福博士毕业，又在伯克利做完博士后，决定改行做AI。对理论物理学家来说，AI的数学就像喝水一样简单。2024年10月，他加入了Anthropic的Claude团队。
+
+![](.evernote-content/9037E92E-B95B-43C0-A638-916D1A87C004/C0B5F0C8-9A87-4FF7-B0DE-F1309353AEE4.jpg)
+
+姚顺雨（姚班）则从普林斯顿博士毕业，2024年8月加入OpenAI，成为研究科学家。
+
+全球最火的两家AI公司，各收了一个姚顺yu。
+
+一个在旧金山的Anthropic，一个在西雅图的OpenAI。
+
+直线距离：约1300公里。
+
+比清华到北大的距离远了1000倍，但这一次，他们终于进入了同一个赛道。
+
+如果故事这么顺，就不是爽文了。
+
+2025年4月，姚顺雨突然发了一篇长文 《The Second Half》 ，直接给硅谷泼了盆冷水：
+
+“AI上半场卷模型、卷参数的游戏该结束了。下半场是谁能把AI用起来，解决真实问题。”
+
+5月，他入选《麻省理工科技评论》“35岁以下科技创新35人”，是最年轻入选者。
+
+12月，他宣布离开OpenAI，回国加入腾讯，担任首席AI科学家，直接向总裁刘炽平汇报。
+
+消息一出，圈内炸锅——放弃OpenAI回国？ 这是多少人想进都进不去的地方。
+
+更炸的还在后面。
+
+姚顺宇（物理）也走了——但不是回国，而是从Anthropic跳槽去了Google DeepMind。离职时他在博客里写了句话，让所有人倒吸一口凉气：
+
+“没有你会更好。”
+
+他说，离职原因40%是强烈反对Anthropic将中国列为“敌对国家”的反华言论，剩下60%涉及内部机密，不便多说。
+
+一个往里走（DeepMind），一个往外走（腾讯）。
+
+一个还在巨头里换座位，一个直接掀了桌子。
+
+两个姚顺yu，在AI的十字路口分道扬镳。
+
+04 半年后，双双封神
+
+就在昨天，姚顺宇（物理）参与开发的 Gemini 3 Deep Think 重磅升级发布。
+
+这个模型有多强？
+
+· “人类终极测试”拿下48.4%，刷新纪录
+
+· ARC-AGI-2测试拿下84.6%，碾压级高分
+
+· Codeforces编程平台Elo评分3455，全球第八
+
+意味着地球上只有7个人能在编程比赛中正面击败它。
+
+它还通过了国际物理奥林匹克竞赛和化学奥林匹克竞赛的笔试部分——金牌级别。
+
+谷歌CEO Sundar Pichai亲自在X平台发文宣布。姚顺宇自己也发了一条：“来体验我们开发的新模式。”
+
+而姚顺雨（姚班）呢？
+
+他回国后的第一个大动作还没官宣，但江湖上到处是他的传说。《The Second Half》被翻译成十几种语言，成了AI圈必读。他提出的“AI进入下半场”的判断，正在深刻影响腾讯乃至中国AI产业的布局。
+
+他创造的ReAct框架和思维树（Tree of Thoughts），已经衍生出市面上几乎所有Agent产品。
+
+业内都在猜：腾讯今年憋的那个大招，十有八九跟他有关。
+
+一个用代码给AI铺路，一个用模型给AI划时代。
+
+两个姚顺yu，一个都没掉队。
+
+05 为什么是他们？是名字起得好吗
+
+有人问：两个姓姚的，怎么都这么猛？
+
+答案藏在他们的选择里。
+
+姚顺宇（物理）离开Anthropic时，有人酸溜溜地在网上说：凭什么他博士毕业就能直接进谷歌当L7，我们混了这么多年还是L5？
+
+底下有人回：人和人的智商，有的时候比人和狗的智商还差得远。
+
+但智商只是一部分。更重要的是，他们都不满足于当一颗螺丝钉。
+
+姚顺宇（物理）说：
+
+“大规模AI模型的研究，就像17世纪的热力学——那时人们甚至不知道‘热’究竟是什么，照样做实验、总结定律，最终推动热机发明，改变世界。”
+
+他不满足于执行，他想做那个定义规则的人。
+
+姚顺雨（姚班）说得更直接：
+
+“OpenAI大多数人都会考虑创业——总不能一辈子给模型调参吧？”
+
+他也不满足。
+
+两个姚顺yu，路径相反，但野心出奇一致：不甘心只当执行者，要当定义者。
+
+一个在DeepMind继续深挖模型底层，一个在腾讯推动AI落地应用。
+
+一个想搞清楚“热”到底是什么，一个想直接用“热”造出发动机。
+
+殊途同归。
+
+06 命运的交织还在继续
+
+2015年，他们同时踏入清华，直线距离不到1公里。
+
+2019年，他们同时毕业，穿着学士服拍了同框合照。
+
+2024年，他们同时博士毕业，一个去Anthropic，一个去OpenAI，直线距离1300公里。
+
+2025年，一个去DeepMind，一个回腾讯，一个在西海岸，一个在太平洋对岸。
+
+两个姚顺yu的人生轨迹，像两条纠缠的线——
+
+有时平行，有时交错，有时远离。
+
+但每一次靠近，都会擦出更大的火花。
+
+有人问：那个和他们同框合影的女生姚顺雨，现在在哪儿？
+
+不知道。
+
+但如果是“姚顺yu”，大概也不会差吧。
+
+有人说，AI的下半场是中美对决。
+
+但这两个姚顺yu的故事告诉我们：顶尖人才的流动，从来不是国界能限制的。
+
+一个留在美国顶级实验室，一个回到中国顶级企业。
+
+他们在不同的战场，做同一件事——定义人工智能的下一个十年。
+
+姚顺宇（物理）在博客里写过一段话：
+
+“理论物理让人追求真理，AI让人创造价值。两者不矛盾。只要你能想清楚，自己到底想要什么。”
+
+姚顺雨（姚班）则在离开OpenAI时说：
+
+“人生就是一个无限流游戏。”
+
+你听，这话多有意思。
+
+但如果是他们说的，你可能真得信。
+
+两个姚顺yu，一个在DeepMind，一个在腾讯。
+
+一个叫宇，一个叫雨。
+
+一个在天，一个入地。
+
+但他们共同证明了一件事：
+
+中国人，可以在任何地方，定义任何未来。
+
+修改于
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzYyNDAxMjcyNw==&mid=2247484835&idx=1&sn=243500e679f4318740e4ba62efa56805&chksm=f1e88c431cae8c2aa455e4dc79fb7e0d1281532a82c2b5330018de083bd3bc20e0b675c40202&mpshare=1&scene=24&srcid=0226vHsavKUbBs3iVaYau86M&sharer_shareinfo=d40c522125a402dbe7ad5485cf91ffc7&sharer_shareinfo_first=d40c522125a402dbe7ad5485cf91ffc7&clicktime=1772101047&enterid=1772101047&ascene=14&devicetype=iOS26.3&version=1800452c&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQspmn8ewOBaWkGbIQW1HeyRLTAQIE97dBBAEAAAAAAHkWNFSBP+EAAAAOpnltbLcz9gKNyK89dVj0GSlevy1FQ+aBOC3AZf3SyPPXNOaD34F4K41nadQy+jhhtCK/T3gp4wt5YGGIAPx42EqkDOQO+9IBKYnewWd7VZOWwiTMHauG6+5p65eYAFYSMgW5U7/ROoyAzzNpaXItIGNMTtS+ymayPxo6GP8I3K9P/ecIKKC4uo8p9YWr54uLcl2DeRIdnprKvIxp4IFgPvAr+WGWMZ7Jy2ac7/JKbk5hAmboosT8NbmpcSw=&pass_ticket=p2lx7Io54cn1vQ8dy4qnaqcJ9xql/M8+PAur+Pvnh8iOkdXHQ0F459y+ZW0+Zt1M&wx_header=3)
+
+[📎 在印象笔记中打开](evernote:///view/207087/s1/94977bc3-c74a-4e20-ae01-2b1618295ef5/94977bc3-c74a-4e20-ae01-2b1618295ef5/)

@@ -1,0 +1,102 @@
+# “AI取代程序员”的暴论翻车了：杰文斯悖论正在上演
+
+---
+
+原文链接: [https://mp.weixin.qq.com/s?\_\_biz=MjM5NDkxMTgyNw==&mid=265308...](https://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653085915&idx=1&sn=bf75e07b254a1b3f5a7027ab4a4dae87&chksm=bccd99fb586d2842367a54505a1cf0e0054b946bc94099fc4e939fe28842eb5704694e1bd2ac&mpshare=1&scene=1&srcid=0330Um8dNZoK0obQzdnyUHPU&sharer_shareinfo=564064d16358cdc9239ab073f818fd0b&sharer_shareinfo_first=ac5fb4a6321d92e7651eaa79866b6960&from=groupmessage&isappinstalled=0&clicktime=1774870938&enterid=1774870938&ascene=1&devicetype=iOS26.4&version=18004629&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQGtUWRfl9YyxGLXOSqjwINBLmAQIE97dBBAEAAAAAAHWfGswuHeUAAAAOpnltbLcz9gKNyK89dVj0XDalXVPOjjI/m/Jwx15s/7SGBE9OZpYq3IH51CQzKJdSThId/cqQncBcKvPh/WDcssLSMhM/JSVO9IeKpldnOlzCEsy16VAA1dUU5pMiQ9HMgBHVeP8f1piQGuGm/r0aVoAvLGvATYIqecgz8QG9P1T2tkkzbMCS/M+fWFMfmTou+FpC/1ZzMeRr4L1ygk72XVmOS4EkM5rVClmLtp/l54eO8nC6WgJgeOQ3SLpAP12AgzgAUwh5JO649sOtAqiS&pass_ticket=HKA5HLj+RQjK3MhzUyQONWgdMCE+s8DfK6UrbLa8OpX1/eZ4lXF6APHACqseioCI&wx_header=3)
+
+Originalloonggg 非著名程序员
+
+最近，Box 的 CEO Aaron Levie 在 X 上发了一条引发大量讨论的帖子。他引用了 Lenny Rachitsky 分享的一组数据：全球科技公司目前有超过 67000 个工程师岗位在招聘，仅美国就有 26000 个，这个数字达到了三年来的最高点。
+
+很多人看到这个数据的第一反应可能是困惑。AI 不是要取代程序员吗？怎么工程师的需求反而在涨？
+
+Levie 给出的解释只有两个字：杰文斯悖论。
+
+![](.evernote-content/DE5559F4-11A8-4FEC-A149-A873C0CC7FEF/758FCF6E-F4CA-4F5C-BA37-C03E10BC432E.jpg)
+
+什么是杰文斯悖论
+--------
+
+这个概念最早来自 19 世纪的经济学家 William Stanley Jevons。他发现了一个反直觉的现象：当蒸汽机的效率提高之后，煤炭的消耗量并没有下降，反而大幅增加了。原因很简单，效率提升让蒸汽机的使用成本降低了，于是更多的行业开始用蒸汽机，总需求反而爆发了。
+
+Levie 说，同样的事情正在 AI 和软件领域实时上演。AI 让写代码、做软件的成本大幅下降，结果是什么呢？那些以前觉得「做个软件太贵了，算了」的公司，现在突然发现自己也能承担得起了。于是大量新的软件项目被启动，对工程师的需求不降反升。
+
+这个逻辑其实很好理解。想象一下，如果盖房子的成本突然降到了原来的十分之一，会发生什么？肯定不是建筑工人失业，而是到处都在盖房子，建筑工人反而更抢手了。软件行业现在正在经历类似的事情。
+
+哪些领域在爆发新需求
+----------
+
+Levie 具体描述了几个正在发生变化的场景。
+
+大公司的市场营销团队开始配备工程师，帮他们自动化各种工作流程。以前这些团队可能连提都不会提「我们需要一个工程师」，因为预算批不下来，或者觉得没必要。现在 AI 把开发成本拉低了，这些需求就冒出来了。
+
+生命科学和医疗领域的工程师开始用 AI 来自动化研究流程。这些行业以前对软件的使用是相当保守的，很多环节还停留在手工操作或者 Excel 表格的阶段。当软件开发变得足够便宜和快速，这些行业也开始拥抱数字化了。
+
+小企业第一次开始雇佣工程师来打造更好的数字体验。这一点特别值得关注。以前小企业要做一个像样的网站或者应用，可能要花几十万甚至上百万，根本不敢想。现在有了 AI 辅助开发，成本可能降到了原来的几分之一，小企业也能玩得起了。
+
+评论区有人把这个趋势量化了一下：随着 AI 让每行代码的单位成本持续下降，未来世界上存在的「有经济价值的软件」可能会是现在的 10 倍到 10000 倍。这个数字听起来夸张，但仔细想想，全世界有多少行业、多少流程、多少场景其实都可以用软件来优化，只是以前太贵了没人做而已。
+
+工程师不会消失，但角色在变
+-------------
+
+Levie 在帖子里特别强调了一点：只要 AI 智能体还需要人类来管理，工程师就不会被取代。
+
+他列举了几个 AI 目前还离不开人类的环节：你得知道怎么给 AI 下指令（prompt），你得能在 AI 跑偏的时候发现问题并把它拉回来，你得维护 AI 构建出来的系统，你得修复不断出现的 bug。这些事情都需要懂技术的人来做。
+
+所以他的结论很明确：那些劝年轻人不要学编程的建议是错的。未来的世界会越来越多地由软件构成，而最懂软件的人会处于一个非常有利的经济位置。
+
+评论区有一条回复把这个观点说得更漂亮：我们迎来的可能不是一场软件末日，而是一场通才的文艺复兴。当构建软件的成本趋近于零的时候，知道「该构建什么」的价值就达到了历史最高点。
+
+这句话值得反复品味。技术能力当然重要，但在 AI 时代，更稀缺的可能是那种能在技术可能性和人类真实需求之间架起桥梁的能力。纯粹的代码执行力在贬值，但判断力、品味、对业务的理解、对用户需求的洞察，这些东西在升值。
+
+硬币的另一面：初级工程师怎么办
+---------------
+
+不过，评论区也有人泼了冷水，而且泼得很有道理。
+
+一个叫 Null Hype 的账号指出，67000 个岗位、同比增长 78% 这个数字是对的，但如果你看数字背后的结构，故事就没那么乐观了。他引用了两组数据：斯坦福数字经济实验室的研究显示，在 AI 影响较大的岗位上，22 到 25 岁的年轻工程师就业率相对下降了 13%。欧洲科技行业的薪酬数据也显示，初级工程师（P1/P2 级别）的处境在变差。
+
+这就引出了一个很现实的问题：杰文斯悖论确实在发生，软件的总需求确实在增长，但增长的需求可能更多地流向了有经验的、能驾驭 AI 工具的资深工程师，而不是刚入行的新人。
+
+如果 AI 能帮一个资深工程师完成以前三个初级工程师的工作量，那公司的理性选择就是雇一个资深的加上 AI，而不是雇三个初级的。总的岗位数可能在增长，但岗位的分布在发生结构性变化。
+
+这对正在学编程或者刚入行的年轻人来说，信号其实很清楚：学编程依然是对的，但你不能只满足于「会写代码」。你需要尽快建立起对业务的理解能力、对系统的架构能力、以及熟练使用 AI 工具的能力，让自己跳过那个正在被压缩的初级阶段。
+
+一个更深层的问题：这些需求是真的「新」吗
+--------------------
+
+评论区还有一个很有意思的视角。有人指出，Levie 描述的很多场景，比如营销自动化、研究工具、小企业数字化，这些其实不算什么全新的软件品类。它们更像是「早就该存在但因为太贵而一直没做」的东西。
+
+这个区分很重要。如果 AI 释放出来的主要是「补课」型需求，也就是把以前做不起的事情补上，那这波需求虽然很大，但终究是有天花板的。补完了就补完了。
+
+真正让人兴奋的应该是那些因为 AI 而变得可能的、以前根本想象不到的全新软件品类。比如，当 AI 能理解自然语言、能自主执行任务、能实时处理多模态信息的时候，会催生出什么样的全新产品形态？这些才是没有天花板的增长空间。
+
+不过话说回来，即便只是「补课」，这个市场也已经大得惊人了。全世界有多少中小企业还在用纸笔和 Excel 管理业务？有多少传统行业的流程还停留在上个世纪？光是把这些存量需求消化掉，就足够支撑好几年的增长了。
+
+编程智能体会吃掉垂直智能体？
+--------------
+
+评论区还有一个有趣的预测：编程智能体（coding agents）在未来一年会打败几乎所有的垂直智能体（vertical agents）。
+
+这个观点的逻辑是这样的：与其为每个行业、每个场景单独做一个 AI 智能体，不如做一个强大的编程智能体，让它根据需求现场写代码来解决问题。因为代码本身就是最通用的「解决方案语言」，一个足够强的编程智能体理论上可以覆盖无数个垂直场景。
+
+这跟之前林俊旸说的「从推理到智能体」的趋势是一脉相承的。AI 的价值正在从「回答问题」转向「解决问题」，而编程恰好是解决问题最强大的工具之一。如果 AI 能自己写代码、自己测试、自己部署，那很多以前需要专门开发的垂直应用，可能直接被一个通用的编程智能体给替代了。
+
+写在最后
+----
+
+Levie 这条帖子之所以引发这么大的讨论，是因为它触及了一个很多人都在焦虑的问题：AI 到底是在消灭工作，还是在创造工作？
+
+杰文斯悖论给出的答案是：当一种资源的使用效率大幅提升时，对这种资源的总需求往往不减反增。蒸汽机时代的煤炭如此，AI 时代的软件也如此。
+
+但这个答案有一个重要的前提：你得是那个能驾驭新工具的人。蒸汽机让马车夫失业了，但让火车司机成了新的热门职业。AI 可能会让一部分只会写基础代码的程序员处境变难，但会让那些能用 AI 来构建复杂系统、解决真实问题的人变得更加抢手。
+
+世界上的软件总量即将迎来一次爆发式增长。问题只在于，你是站在这波浪潮上面，还是被它卷走。
+
+原文链接：*https://x.com/levie/status/2036832183131033977*
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653085915&idx=1&sn=bf75e07b254a1b3f5a7027ab4a4dae87&chksm=bccd99fb586d2842367a54505a1cf0e0054b946bc94099fc4e939fe28842eb5704694e1bd2ac&mpshare=1&scene=1&srcid=0330Um8dNZoK0obQzdnyUHPU&sharer_shareinfo=564064d16358cdc9239ab073f818fd0b&sharer_shareinfo_first=ac5fb4a6321d92e7651eaa79866b6960&from=groupmessage&isappinstalled=0&clicktime=1774870938&enterid=1774870938&ascene=1&devicetype=iOS26.4&version=18004629&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQGtUWRfl9YyxGLXOSqjwINBLmAQIE97dBBAEAAAAAAHWfGswuHeUAAAAOpnltbLcz9gKNyK89dVj0XDalXVPOjjI/m/Jwx15s/7SGBE9OZpYq3IH51CQzKJdSThId/cqQncBcKvPh/WDcssLSMhM/JSVO9IeKpldnOlzCEsy16VAA1dUU5pMiQ9HMgBHVeP8f1piQGuGm/r0aVoAvLGvATYIqecgz8QG9P1T2tkkzbMCS/M+fWFMfmTou+FpC/1ZzMeRr4L1ygk72XVmOS4EkM5rVClmLtp/l54eO8nC6WgJgeOQ3SLpAP12AgzgAUwh5JO649sOtAqiS&pass_ticket=HKA5HLj+RQjK3MhzUyQONWgdMCE+s8DfK6UrbLa8OpX1/eZ4lXF6APHACqseioCI&wx_header=3)
+
+[📎 在印象笔记中打开](evernote:///view/207087/s1/44d3e11d-c728-4210-ab52-a7620a0e0261/44d3e11d-c728-4210-ab52-a7620a0e0261/)

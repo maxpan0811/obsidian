@@ -1,0 +1,21 @@
+# El Capitan新特性之——固定标签页
+
+---
+
+[![](.evernote-content/2B15D169-7B0D-4453-BD1E-778BAC5BD188/15F44C0C-F71A-494E-B03B-A1166C0FBB0F.gif)](http://www.feng.com/apple/tutorial/2015-10-26/El-Capitan-of-new-features---fixed-TAB_628173.shtml)
+
+　El Capitan 中的 Safari 获得了很多的升级，除了打开页面更加迅速和性能更高稳定之外，它还新增了很多实用的小功能。
+
+![](.evernote-content/2B15D169-7B0D-4453-BD1E-778BAC5BD188/15F44C0C-F71A-494E-B03B-A1166C0FBB0F.gif)
+
+和书签不同，El Capitan 中新增的 Safari 功能-固定标签页可以更直观地展示日常经常登录的网页，除了能够起到书签的功能之外，它还可以及时地更新状态，就像用图钉固定东西一般，你经常喜欢访问的那些网站，比如网页邮件、新浪微博和 QQ 空间，现在也能够以类似的方式保持打开，让访问更方便。它们将在后台保持活动状态，并固定在标签栏的左侧。
+
+操作非常简单，只需点击当前网页的标签，并对标签进行鼠标右键操作，便会出现“固定标签页”的选项，点击即可将标签固定在左侧。相反，如果想要取消，同样右键标签页则可以出现“取消固定标签页”的字眼。
+
+[阅读全文](http://www.feng.com/apple/tutorial/2015-10-26/El-Capitan-of-new-features---fixed-TAB_628173.shtml)
+
+---
+
+[🌐 原始链接](http://www.feng.com/apple/tutorial/2015-10-26/El-Capitan-of-new-features---fixed-TAB_628173.shtml)
+
+[📎 在印象笔记中打开](evernote:///view/207087/s1/257ecf3b-95e6-48b6-843c-cee2dea2d936/257ecf3b-95e6-48b6-843c-cee2dea2d936/)

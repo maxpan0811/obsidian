@@ -1,0 +1,157 @@
+# 阿里搞了个免费报志愿Agent，40万AI考生提前把坑踩完了
+
+---
+
+原文链接: [https://mp.weixin.qq.com/s?\_\_biz=MzA3MzI4MjgzMw==&mid=265103...](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651038310&idx=1&sn=b434db5e47cd09f64af37831ac7e7fee&chksm=85150cbd08a1df3dbabf306a94e4006a125a066dfe78733af19e88a5ad24c6e862f5cde371b6&mpshare=1&scene=24&srcid=0613HwsyS2Vs3h5SnPrwi4zw&sharer_shareinfo=7413ee886fbb4ae589c7679674d686c6&sharer_shareinfo_first=7c79ed0e54a806900df17d76e2f1bcc2&clicktime=1781366078&enterid=1781366078&ascene=14&devicetype=iOS26.5&version=18004a2d&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQ1PKYtmlFhNoeVum/Qd8BGBLTAQIE97dBBAEAAAAAAPjkMqKeHCIAAAAOpnltbLcz9gKNyK89dVj0COeS58/qfukAjrKBYIOLfbdXdE+liMBB+zB41xdXNIeVL9jlI3abM3A7WtG3Edxyl372tvs/iOmBNcLLY4A543BHJu74y4YAz39GkkYj1TwX4HVy7pOXK42o4IvqLaDRhQfCC8tNgcWS9jQBSlsoPMp1w2m17YCayZzzHsTrBbNAbGws9Zkcp62y1CoNvPkjE1Bc1JM/1iTHoE9oZk1Jfk/mUjE0/uvQjO8Y5ZU=&pass_ticket=UVHfNLLmLBgkiHUSldDOiANB4DHt0+ONqND+lncAc2fjl157j/PokL6qtutgFX5y&wx_header=3)
+
+Original关注AI的机器之心
+
+![](.evernote-content/B1BD3CEC-8B97-43EC-ABD7-1000258A6C16/FCF99D49-E85C-4140-AFCC-9AA6124BA861.png)编辑｜杨文、泽南  
+
+Agent 这个词，今年突然变得具体。
+
+过去一年，各家大模型厂商都在谈 Agent，但很多人对它的感知，还停留在演示视频里。
+
+直到最近，一些真实场景开始跑出来，人们才逐渐看清 Agent 到底能解决什么问题，普通 chatbot 又卡在哪里。
+
+高考志愿填报，就是这样一个场景。它的复杂程度，远超大多数人想象。
+
+今年，全国共有 1290 万考生，平均每位考生需要填写约 50 个专业志愿，辽宁省最多要填 112 个，相当于两三页 A4 纸。
+
+他们要在有限的时间窗口里，从近 3000 所高校、2000 多个专业里作出选择，且几乎没有容错空间。
+
+偏偏在这个关口，考生能依赖的有效信息极为不足。
+
+6 月 10 日，千问上线国内首个全周期高考志愿填报 Agent，面向全国 1290 万考生免费开放。
+
+该 Agent 具备「志愿报告」、「志愿日历」、「志愿问答」三项核心能力，从查分、填报到录取跟进，全程在线，随时响应。
+
+![](.evernote-content/B1BD3CEC-8B97-43EC-ABD7-1000258A6C16/8EEB2C5A-AFA3-4780-8D81-262FEAE872D0.jpg)
+
+接下来，我们就实际上手体验一番，看看在这个高复杂度的真实场景里，千问高考志愿 Agent 究竟做了什么，又是怎么做到的。
+
+填一份志愿，Agent 要做多少事？
+
+去年，阿里首创 AI 高考志愿报告，领取量近 1300 万份，几乎覆盖全部考生。今年，这套能力在全周期 Agent 的框架下进一步升级。
+
+![](.evernote-content/B1BD3CEC-8B97-43EC-ABD7-1000258A6C16/41F694C9-A27C-48B7-982D-27FF88516989.jpg)
+
+先看一个具体例子：北京考生，理化生选科，高考成绩 660 分，地域首选北京，专业瞄准人工智能，有出国深造的打算，性格是 ESTJ，可以报考哪些院校？
+
+一打开千问高考，系统自动跳出一份志愿日历。查分时间、填报窗口、录取进度等事项逐一排列，整个填报周期一目了然。
+
+![](.evernote-content/B1BD3CEC-8B97-43EC-ABD7-1000258A6C16/0C896459-8311-4D78-8B4C-326812B1D6EC.gif)
+
+使用这个 Agent，第一步要完善个人档案。省份、选科、成绩和排名四项必填，成绩录入后系统自动对照一分一段表换算位次。
+
+![](.evernote-content/B1BD3CEC-8B97-43EC-ABD7-1000258A6C16/221FA991-B290-4BEB-869D-2EE3DD5621F2.jpg)
+
+选填部分则延伸至目标院校、地域偏好、院校属性、学费倾向、专业偏好、职业倾向、毕业规划和性格类型。其中性格类型方面，千问联合北师大引入 MBTI 职业性格测试，可在页面内直接完成。
+
+这类信息填写越完整，后续生成的方案针对性就越强。
+
+![](.evernote-content/B1BD3CEC-8B97-43EC-ABD7-1000258A6C16/11FF0687-5073-4B97-AFE9-CD276E02FFCD.jpg)
+
+档案确认后，Agent 自动输出一份完整报告，涵盖院校推荐、专业分析与冲稳保策略。
+
+报告同时附有个性化提示，建议该考生进一步厘清方向侧重，是人工智能核心研发，还是数学、统计学、电子信息等支撑方向。
+
+![](.evernote-content/B1BD3CEC-8B97-43EC-ABD7-1000258A6C16/373079DF-B685-424C-8224-79638911B697.jpg)
+
+报告生成后，页面下方的「调整」功能可随时收集修改意见，Agent 据此实时更新方案。
+
+![](.evernote-content/B1BD3CEC-8B97-43EC-ABD7-1000258A6C16/F45C6B8E-FE73-4900-BEAA-DF31E47A3314.jpg)
+
+千问的记忆系统也会实时捕捉对话中的偏好信息。比如考生起初设置地域偏好为北京，后面又提到「如果学校特别好，去外地也可以」，Agent 推荐列表随之调整，除北京高校外，武汉大学也出现在了冲刺层。
+
+![](.evernote-content/B1BD3CEC-8B97-43EC-ABD7-1000258A6C16/410B074D-1FA3-4B4C-8774-1DD03FF112F2.jpg)
+
+走完这整套流程，它给人的感觉更像是一套从信息收集到方案迭代、全程主动介入的决策系统，档案在对话中不断完善，方案随偏好实时迭代，每一次交互都在让下一次推荐更准一点。
+
+为什么必须是 Agent
+
+不能只是 Chatbot ？
+
+很多人第一反应，报志愿直接问 ChatGPT 不就好了？
+
+但实际情况是，用户不再缺信息，他们缺的是一个真正了解自己情况、能帮自己决策的专属顾问。
+
+Chatbot 模式是你问它才答，答完交互停止。
+
+Agent 模式则是有三个核心区别：
+
+第一，Agent 有持久记忆，它能记住用户说过的话，不需要每次重复，结果就是用户越问越好用。
+
+第二，Agent 会主动规划，例如千问的志愿日历会主动提醒什么时候该做什么。
+
+第三，Agent 能调用工具并反思，让回答更精准。
+
+简言之，Chatbot 实现的是被动响应需求，Agent 实现的则是主动解决问题的能力转变。
+
+![](.evernote-content/B1BD3CEC-8B97-43EC-ABD7-1000258A6C16/804BCB9C-FC88-474C-8A01-317A20C076D2.jpg)
+
+千问算法负责人蒋冠军介绍，去年千问团队去县中做公益填报辅导时发现，当地考生能感知到的职业基本只有医生、老师、公务员，对于新兴行业、社会人才需求结构知之甚少。
+
+千问数据也印证了这种差距。35% 用户只填了省份、选科、分数、位次四个基本要素；仅有 20% 用户填写了 5 个条件以上。
+
+因此，等着用户提问的聊天机器人，在这里行不通。
+
+Agent 的优势正在于此。它可以主动规划、调用工具、核验结果、追问澄清。面对一个模糊的输入，它能像人类志愿规划师一样，先拆解用户的真实需求，逐步缩小决策范围，最后给出附带理由的建议。
+
+40 万「AI 考生」压测出来的可信度
+
+Agent 的架构解决了「怎么执行」的问题，但执行得够不够准，同样关键。
+
+为此在千问大模型基础上，千问做了专项训练和优化，目标是在知识掌握、工具使用和专家经验三个维度上，达到资深志愿规划师的水平。
+
+![](.evernote-content/B1BD3CEC-8B97-43EC-ABD7-1000258A6C16/896D313E-3B58-433A-85CB-84350B8663CC.jpg)
+
+模型正确决策的前提是掌握权威、全面的高考信息。阿里深耕高考服务已有 8 年，目前千问构建了覆盖全国近 3000 所高校、超 2000 个专业的知识库，同时引入政府规划研判的行业人才缺口与头部企业用人数据。
+
+![](.evernote-content/B1BD3CEC-8B97-43EC-ABD7-1000258A6C16/EC162B5A-B7BD-439D-9A73-4F877B85E5D4.jpg)
+
+后训练过程中，千问通过对抗强化学习的方式让模型学习人类专家经验，并设计七类奖励函数。其中三类针对客观能力，包括事实核查、工具使用、冲稳保梯度，这些有明确标准答案，模型答对得分、答错扣分，能力可稳定提升。
+
+另外三类是学习专家经验的关键奖励函数，分别对应规划、反思和结果有效性。
+
+以结果有效性为例，阿里每年聘请数百位高考志愿填报专家，对模型生成的填报结果进行标注点评，评估单个志愿与用户需求的匹配度、整体冲稳保分布是否合理、有无遗漏优质院校或存在落档风险。专家反馈反向训练模型，形成螺旋式迭代，初始时模型处理简单问题，第二轮专家针对更难的问题纠偏，最终使模型内生能力达到人类专家水平。
+
+最后一类奖励函数则确保输出风格符合人类的阅读习惯。
+
+高考志愿的复杂性，在于组合空间极其庞大。院校、专业、省份、分数段、选科组合、就业方向…… 理论上的组合空间高达上亿种，模型必须对几乎每一种情况都能给出靠谱的判断。
+
+千问的做法是用 AI 考生来压测 AI。
+
+算法团队构建一套覆盖近 40 万种组合空间的「AI 考生」体系，从任务类型、考情模拟、行为模拟、边界异常四个维度出发，在上线前对模型进行反复对抗测试。
+
+这种「以 AI 攻 AI」的压测方式，让模型在真实用户到来之前，就已经历海量极端场景的磨练。
+
+知识库、模型、Agent 调度体系三层架构，分别解决数据够不够用、判断够不够专业、执行够不够可靠三个问题。缺少任何一层，都无法在高考这个极端严肃的场景里，获得真正的信任。
+
+结语
+
+高考是中国规模最大的公平性考试，但到了报志愿这步，家庭背景和信息获取能力的差距被急剧放大。
+
+在北京、上海，一对一志愿辅导动辄数千乃至上万元，而全国近 60% 的普通高中生在县中就读，他们的父母面对厚厚的招生简章，往往都不知道该从哪里看起。
+
+![](.evernote-content/B1BD3CEC-8B97-43EC-ABD7-1000258A6C16/31027384-5FA2-4691-BA3F-88D3DECD4DA8.png)
+
+志愿填报的信息鸿沟问题，不能只靠考生自己去填平，而是需要像千问这样的 AI 应用，乃至全社会的力量来共同努力。
+
+这也是科技的真正价值，不只是让强者更强，也在于让更多人获得曾经只属于少数人的资源。
+
+1290 万考生，每一个都值得一次公平的机会，去认识自己、了解选择、规划未来。
+
+  
+
+© THE END 
+
+转载请联系本公众号获得授权
+
+投稿或寻求报道：liyazhou@jiqizhixin.com
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651038310&idx=1&sn=b434db5e47cd09f64af37831ac7e7fee&chksm=85150cbd08a1df3dbabf306a94e4006a125a066dfe78733af19e88a5ad24c6e862f5cde371b6&mpshare=1&scene=24&srcid=0613HwsyS2Vs3h5SnPrwi4zw&sharer_shareinfo=7413ee886fbb4ae589c7679674d686c6&sharer_shareinfo_first=7c79ed0e54a806900df17d76e2f1bcc2&clicktime=1781366078&enterid=1781366078&ascene=14&devicetype=iOS26.5&version=18004a2d&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQ1PKYtmlFhNoeVum/Qd8BGBLTAQIE97dBBAEAAAAAAPjkMqKeHCIAAAAOpnltbLcz9gKNyK89dVj0COeS58/qfukAjrKBYIOLfbdXdE+liMBB+zB41xdXNIeVL9jlI3abM3A7WtG3Edxyl372tvs/iOmBNcLLY4A543BHJu74y4YAz39GkkYj1TwX4HVy7pOXK42o4IvqLaDRhQfCC8tNgcWS9jQBSlsoPMp1w2m17YCayZzzHsTrBbNAbGws9Zkcp62y1CoNvPkjE1Bc1JM/1iTHoE9oZk1Jfk/mUjE0/uvQjO8Y5ZU=&pass_ticket=UVHfNLLmLBgkiHUSldDOiANB4DHt0+ONqND+lncAc2fjl157j/PokL6qtutgFX5y&wx_header=3)
+
+[📎 在印象笔记中打开](evernote:///view/207087/s1/08346ff0-5720-4c4d-bf04-77cf0ce27b4a/08346ff0-5720-4c4d-bf04-77cf0ce27b4a/)

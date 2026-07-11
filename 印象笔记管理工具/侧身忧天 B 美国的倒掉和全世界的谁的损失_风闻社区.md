@@ -1,0 +1,297 @@
+# 侧身忧天 B 美国的倒掉和全世界的谁的损失_风闻社区
+
+---
+
+![](.evernote-content/C723167F-B6EC-46E3-91F8-65CFC6FE7A21/0D92F9F9-D1D4-4140-8985-F050219017CF.png)观察者App点击下载
+
+[![](.evernote-content/C723167F-B6EC-46E3-91F8-65CFC6FE7A21/958AB872-A3C7-478E-B1DF-9DCD10B4D354.png)](http://www.guancha.cn/?s=fwdhguan)
+[风闻](http://user.guancha.cn/?s=fwdhfw)
+
+* [首页](https://user.guancha.cn/main/index?s=fwdhsy)
+* [话题](https://user.guancha.cn/topic/attention-topic?s=fwdhht)
+* 发帖
+
+* [登录/注册](https://user.guancha.cn/main/content?id=349443#)
+
+热门话题：
+[新型冠状病毒](https://user.guancha.cn/topic/attention-topic?follow-topic-id=116120&s=fwrmhtdb)[伊朗局势](https://user.guancha.cn/topic/attention-topic?follow-topic-id=110169&s=fwrmhtdb)[ACG](https://user.guancha.cn/topic/attention-topic?follow-topic-id=105&s=fwrmhtdb)[垃圾分类](https://user.guancha.cn/topic/attention-topic?follow-topic-id=103129&s=fwrmhtdb)[军事](https://user.guancha.cn/topic/attention-topic?follow-topic-id=113&s=fwrmhtdb)
+
+[国际](https://user.guancha.cn/topic/attention-topic?follow-topic-id=110)
+
+侧身忧天 B 美国的倒掉和全世界的谁的损失
+=====================
+
+![](.evernote-content/C723167F-B6EC-46E3-91F8-65CFC6FE7A21/2BF3BEE4-1E5A-49F1-ACF0-0EA5245417F9.jpg)
+
+#### [周道](https://user.guancha.cn/user/personal-homepage?uid=56355)
+
+天崩地裂谁具英雄胆
+沧海桑田我住行者心4小时前
+
+侧身忧天 B 美国的倒掉和全世界的谁的损失
+
+美国的财富不是美国大众的，而是全世界的各种剥削者的。只是因为是财富的聚集之地，所以带动了相关产业的配套的工资。这个不是财富的再分配，类似于服务费和小费的水涨船高。就像煤矿大市附近房价的高企。
+
+所以拿到酬劳的跟人家一条心无可非议，钱放到人那里的替人家说话也无可非议。就是既没钱放人那里，也赚不到小费的，紧着替人家的说话，就令人费解：鲁迅先生概括过这类人，但是我们也还是令人费解，都经济社会了，都没利益，为啥还这么自欺欺人呢？
+
+或许真的是那种斯德哥尔摩综合征，关键是还没被人家欺上身就得这病咋算呢？姑且按照鲁迅先生的说法：是乏（走狗）症，就是说这些假想去投怀送抱这类假的伟光正和高富帅且还没实现就精神委身的状况的。
+
+那么，就不管这类乏(走狗）症的犯贱，他们自欺且欺人不管，因为他们还有自己的私心，尽管犯傻。但是，咱们这平民里面的跟着起哄的就有些不可理解了。
+
+过去也好，将来也罢，踏实生活在咱们这里没有闲钱放到人家那的升斗小民就别再上当了，精神上的当上了就太磕碜了，就像做梦中奖，醒了你还真觉得富了，借给人家钱啊。
+
+这就是我们为什么爱国的原因，也是有人爱别人的国家而别人的国家却不被爱的原因——自作多情不说，重要的是不论愿不愿意，没这个资格爱人家是关键。
+
+美国如果倒掉了，我们是指它金融的崩溃，当然军事霸权也就完蛋了，这时候倒霉的不仅仅是美国大众，而是全世界的大小吸血虫们，他们的损失不仅仅是金钱，失去的是对世界大众的盘剥的实力；以及那么多乏症患者的病源。
+
+免责声明
+
+以上内容为用户在观察者网风闻社区上传并发布，仅代表发帖用户观点。
+
+[打开观察者网APP，阅读体验更佳](https://user.guancha.cn/main/content?id=349443#)
+
+![](.evernote-content/C723167F-B6EC-46E3-91F8-65CFC6FE7A21/2BF3BEE4-1E5A-49F1-ACF0-0EA5245417F9.jpg)
+
+#### [周道](https://user.guancha.cn/user/personal-homepage?uid=56355)
+
+天崩地裂谁具英雄胆
+沧海桑田我住行者心 |
+[14篇文章](https://user.guancha.cn/user/personal-homepage?uid=56355&click=my-article)
+|
+55人关注
+
+[+关注](https://user.guancha.cn/main/content?id=349443#)
+
+观察者网用户社区
+
+[作者文章](https://user.guancha.cn/user/personal-homepage?uid=56355&click=my-article&s=fwzwyzzwz)[查看全部>>](https://user.guancha.cn/user/personal-homepage?uid=56355&click=my-article&s=fwzwyzzwzckqb)
+
+* [侧身忧天 B 美国的倒掉和全世界的谁的损失](https://user.guancha.cn/main/content?id=349443&s=fwzwyzzwzbt)
+* [侧身忧天 A 美国的制裁和它的傲慢根源](https://user.guancha.cn/main/content?id=349028&s=fwzwyzzwzbt)
+* [自知呓语 壬 CRYPTO、五眼联盟、棱镜门和华为](https://user.guancha.cn/main/content?id=347969&s=fwzwyzzwzbt)
+* [自知呓语 丙 动物国王、房地产商总统、学霸小心机和民主](https://user.guancha.cn/main/content?id=344808&s=fwzwyzzwzbt)
+* [自知呓语 丁  印度、美国、台湾和民主](https://user.guancha.cn/main/content?id=336461&s=fwzwyzzwzbt)
+
+* 分享到：
+
+* |
+  [举报](https://user.guancha.cn/main/content?id=349443#)
+
+[收藏
+5](https://user.guancha.cn/main/content?id=349443#)
+[评论 0](https://user.guancha.cn/main/content?id=349443#)
+[赞
+7](https://user.guancha.cn/main/content?id=349443#)
+
+#### 最近更新的专栏
+
+* ![](.evernote-content/C723167F-B6EC-46E3-91F8-65CFC6FE7A21/B878A195-2C12-4E01-8D35-9FC87CFB45D4.jpg)
+
+  #### [严珊珊](https://user.guancha.cn/user/personal-homepage?uid=842268&s=fwtjgznc)
+
+  关注
+  + [还剩2天！电影院要回来了，多部新老影片重新定档](https://user.guancha.cn/main/content?id=349514&s=fwtjgzwz)
+  32分钟前
+* ![](.evernote-content/C723167F-B6EC-46E3-91F8-65CFC6FE7A21/31678027-6A24-4184-BE1A-0C485FA6E357.jpg)
+
+  #### [镜像娱乐](https://user.guancha.cn/user/personal-homepage?uid=555090&s=fwtjgznc)
+
+  关注
+  + [当代年轻人追求的“浪慢”，都在爱奇艺的这几档生活类综艺里了](https://user.guancha.cn/main/content?id=349512&s=fwtjgzwz)
+  32分钟前
+* ![](.evernote-content/C723167F-B6EC-46E3-91F8-65CFC6FE7A21/ADD82CC0-5325-430B-90EE-34FA0D412F38.jpg)
+
+  #### [网上冲浪记事](https://user.guancha.cn/user/personal-homepage?uid=551204&s=fwtjgznc)
+
+  关注
+  + [活在你表情包里的神烦狗Doge，本体现在过得怎么样？](https://user.guancha.cn/main/content?id=349511&s=fwtjgzwz)
+  34分钟前
+* ![](.evernote-content/C723167F-B6EC-46E3-91F8-65CFC6FE7A21/9A26B68C-F301-4F9B-B125-7998A5541E58.jpg)
+
+  #### [后沙月光](https://user.guancha.cn/user/personal-homepage?uid=224018&s=fwtjgznc)
+
+  关注
+  + [逼英国拒绝华为后，美国又威胁德国后果自负](https://user.guancha.cn/main/content?id=349509&s=fwtjgzwz)
+  39分钟前
+* ![](.evernote-content/C723167F-B6EC-46E3-91F8-65CFC6FE7A21/91A8F6AC-B385-4A0C-9FDB-0B2B0142B381.jpg)
+
+  #### [王骁Albert](https://user.guancha.cn/user/personal-homepage?uid=61198&s=fwtjgznc)
+
+  国际关系观察者
+
+  关注
+  + [骁话一下：土耳其绿萝狂喜，为什么埃尔多安要在2020年做“新苏丹”？](https://user.guancha.cn/main/content?id=349297&s=fwtjgzwz)
+  43分钟前
+* ![](.evernote-content/C723167F-B6EC-46E3-91F8-65CFC6FE7A21/A84460FD-9608-4CA1-B03D-A0AB208AE462.jpg)
+
+  #### [游戏研究社](https://user.guancha.cn/user/personal-homepage?uid=235131&s=fwtjgznc)
+
+  每天发点儿有意思的内容，基本都和游戏有关。
+
+  关注
+  + [美军游戏频道用虚假抽奖征兵，遭到Twitch强制叫停](https://user.guancha.cn/main/content?id=349507&s=fwtjgzwz)
+  45分钟前
+* ![](.evernote-content/C723167F-B6EC-46E3-91F8-65CFC6FE7A21/99FF3AA1-C64C-464D-9867-6E52B463C53A.jpg)
+
+  #### [音乐先声](https://user.guancha.cn/user/personal-homepage?uid=245194&s=fwtjgznc)
+
+  解读音乐产业，见证黄金年代。
+
+  关注
+  + [首创音乐人零门槛自助发行数字专辑，这是属于音乐人的黄金时代](https://user.guancha.cn/main/content?id=349504&s=fwtjgzwz)
+  46分钟前
+* ![](.evernote-content/C723167F-B6EC-46E3-91F8-65CFC6FE7A21/8A4020EA-9E47-4218-982C-7688A3E67E4A.jpg)
+
+  #### [差评](https://user.guancha.cn/user/personal-homepage?uid=238729&s=fwtjgznc)
+
+  Debug the World
+
+  关注
+  + [这个被人分尸的企业家，原本能大有作为。](https://user.guancha.cn/main/content?id=349500&s=fwtjgzwz)
+  54分钟前
+* ![](.evernote-content/C723167F-B6EC-46E3-91F8-65CFC6FE7A21/C42DAE59-6A47-4F53-A545-E0D63F5C1B50.jpg)
+
+  #### [西部城事](https://user.guancha.cn/user/personal-homepage?uid=234579&s=fwtjgznc)
+
+  关注
+  + [四川亮牌！成都做强极核，七大中心城市正式就位](https://user.guancha.cn/main/content?id=349499&s=fwtjgzwz)
+  56分钟前
+* ![](.evernote-content/C723167F-B6EC-46E3-91F8-65CFC6FE7A21/2F9CC998-0D74-4568-908D-206F3C5F5E17.jpg)
+
+  #### [卢克文工作室](https://user.guancha.cn/user/personal-homepage?uid=325915&s=fwtjgznc)
+
+  字彦祖
+
+  关注
+  + [中国扶贫实地调研报告](https://user.guancha.cn/main/content?id=349491&s=fwtjgzwz)
+  58分钟前
+
+查看全部
+
+#### 24小时最热
+
+* [![](.evernote-content/C723167F-B6EC-46E3-91F8-65CFC6FE7A21/698F1470-BCA5-42A9-B368-45F46BC0A83E.jpg)
+
+  1](https://user.guancha.cn/main/content?id=349089)
+
+  [“喝茶抗癌”获奖女孩父亲李红良，曾差点被...](https://user.guancha.cn/main/content?id=349089)
+  评论 253   赞 37
+* [![](.evernote-content/C723167F-B6EC-46E3-91F8-65CFC6FE7A21/DE8F5ACA-B05E-4B3E-9631-1EDD2AC2BA65.jpg)
+
+  2](https://user.guancha.cn/main/content?id=349366)
+
+  [称快递员为“快递小哥”是性别偏见吗？网友...](https://user.guancha.cn/main/content?id=349366)
+  评论 189   赞 5
+* [![](.evernote-content/C723167F-B6EC-46E3-91F8-65CFC6FE7A21/15844978-9FB8-4CD2-B104-1659AA640CC6.jpg)
+
+  3](https://user.guancha.cn/main/content?id=348962)
+
+  [前两年去日本参观学习，发现他们一个厂投资...](https://user.guancha.cn/main/content?id=348962)
+  评论 177   赞 41
+* [![](.evernote-content/C723167F-B6EC-46E3-91F8-65CFC6FE7A21/81547E74-4BF5-48A6-AB72-A854EFA98FF3.jpg)
+
+  4](https://user.guancha.cn/main/content?id=349467)
+
+  [耗资26亿卢比，印度8年建成大桥1个月被...](https://user.guancha.cn/main/content?id=349467)
+  评论 171   赞 37
+* [![](.evernote-content/C723167F-B6EC-46E3-91F8-65CFC6FE7A21/14DFF563-0D06-4633-A8C0-D61DEA2F2E0D.jpg)
+
+  5](https://user.guancha.cn/main/content?id=349200)
+
+  [“双赢”就是中国赢两次，这话还真不是金灿...](https://user.guancha.cn/main/content?id=349200)
+  评论 171   赞 57
+* [![](.evernote-content/C723167F-B6EC-46E3-91F8-65CFC6FE7A21/20C276E4-C83A-4CB8-AEF3-8DFF0E5F5579.jpg)
+
+  6](https://user.guancha.cn/main/content?id=348993)
+
+  [扎克伯格对话福奇：对美国应对新冠疫情感到...](https://user.guancha.cn/main/content?id=348993)
+  评论 129   赞 7
+* [![](.evernote-content/C723167F-B6EC-46E3-91F8-65CFC6FE7A21/05949963-2E42-4394-8ECD-2344A91CC171.jpg)
+
+  7](https://user.guancha.cn/main/content?id=349009)
+
+  [小学生研究茶多酚抗肿瘤获奖 武汉科协：认...](https://user.guancha.cn/main/content?id=349009)
+  评论 121   赞 0
+* [![](.evernote-content/C723167F-B6EC-46E3-91F8-65CFC6FE7A21/5AC78A3A-86BA-496E-84BE-6BB68961E3D5.jpg)
+
+  8](https://user.guancha.cn/main/content?id=349074)
+
+  [高中生获一等奖的研究与硕士论文雷同，重庆...](https://user.guancha.cn/main/content?id=349074)
+  评论 106   赞 14
+
+查看全部
+
+#### 全部专栏
+
+* ![](.evernote-content/C723167F-B6EC-46E3-91F8-65CFC6FE7A21/603FF08D-1300-4F25-A3AF-63A646331A1E.jpg)
+
+  #### [人大教授金灿荣](https://user.guancha.cn/user/personal-homepage?uid=210048&s=fwtjgznc)
+
+  你知道吧？
+
+  关注
+* ![](.evernote-content/C723167F-B6EC-46E3-91F8-65CFC6FE7A21/AF1BD2AD-8ED3-4F20-97AB-91E11A4C7FC4.jpg)
+
+  #### [王文评论](https://user.guancha.cn/user/personal-homepage?uid=215802&s=fwtjgznc)
+
+  中国人民大学重阳金融研究院执行院长
+
+  关注
+* ![](.evernote-content/C723167F-B6EC-46E3-91F8-65CFC6FE7A21/C4614DC9-273F-47DD-9163-D2C54870B64C.png)
+
+  #### [席亚洲](https://user.guancha.cn/user/personal-homepage?uid=1208&s=fwtjgznc)
+
+  公众号：亚洲火车总站
+
+  关注
+* ![](.evernote-content/C723167F-B6EC-46E3-91F8-65CFC6FE7A21/552720D8-2DDC-40AA-9E7F-D229030E0E2C.jpg)
+
+  #### [陈经](https://user.guancha.cn/user/personal-homepage?uid=218155&s=fwtjgznc)
+
+  关注
+* ![](.evernote-content/C723167F-B6EC-46E3-91F8-65CFC6FE7A21/04BB6B03-7846-49B0-BF88-FED83960636A.jpg)
+
+  #### [这个我慧](https://user.guancha.cn/user/personal-homepage?uid=1018043&s=fwtjgznc)
+
+  聚焦时事政治，解读硬核新闻。
+
+  关注
+* ![](.evernote-content/C723167F-B6EC-46E3-91F8-65CFC6FE7A21/90C8D9C1-7233-4849-8119-F71A04BE6898.jpg)
+
+  #### [王炳忠讲台](https://user.guancha.cn/user/personal-homepage?uid=1018023&s=fwtjgznc)
+
+  关注
+* ![](.evernote-content/C723167F-B6EC-46E3-91F8-65CFC6FE7A21/9872CEF3-9FAF-4572-9F5A-A5635A5C1B9E.jpg)
+
+  #### [乌合麒麟](https://user.guancha.cn/user/personal-homepage?uid=1017423&s=fwtjgznc)
+
+  关注
+* ![](.evernote-content/C723167F-B6EC-46E3-91F8-65CFC6FE7A21/CAD817CF-C7FD-460A-A0EC-98774AABCC89.jpg)
+
+  #### [以理扶人hhh](https://user.guancha.cn/user/personal-homepage?uid=1017167&s=fwtjgznc)
+
+  观察者网原创视频栏目《以理扶人》
+
+  关注
+
+查看全部
+
+* [联系我们](http://www.guancha.cn/about/ManuscriptDelivery.shtml)
+* [关于我们](http://www.guancha.cn/about/about.shtml)
+* [版权声明](http://www.guancha.cn/about/Copyright.shtml)
+* [服务条款](http://www.guancha.cn/about/TermsOfService.shtml)
+* [刊登广告](http://www.guancha.cn/about/Advertise.shtml)
+* [联系微博](http://weibo.com/newoutlook)
+* [加入我们](http://www.guancha.cn/life/2012_09_05_74361.shtml)
+* [网站地图](http://www.guancha.cn/about/sitemap.shtml)
+* [举报制度规范](http://www.guancha.cn/broken-news/2017_03_28_400912_3.shtml)
+* [《网站自律管理承诺书》](http://www.guancha.cn/life/2018_02_11_446706.shtml)
+
+Copyright © 2018 观察者 All rights reserved。  
+沪ICP备10213822号 互联网新闻信息服务许可证：[31220170001](tel:31220170001)   违法及不良信息举报电话：[021-62376571](tel:021-62376571)
+
+---
+
+[🌐 原始链接](https://user.guancha.cn/main/content?id=349443)
+
+[📎 在印象笔记中打开](evernote:///view/207087/s1/c6d5fa21-69c8-47e3-8812-267b8784b349/c6d5fa21-69c8-47e3-8812-267b8784b349/)

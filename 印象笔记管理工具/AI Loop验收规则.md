@@ -1,0 +1,17 @@
+# AI Loop验收规则
+
+---
+
+原文链接: [https://mp.weixin.qq.com/s?\_\_biz=MzkyNzY5MTM5OA==&mid=224748...](https://mp.weixin.qq.com/s?__biz=MzkyNzY5MTM5OA==&mid=2247489662&idx=1&sn=4c818ef55e6f61927b30b93a2b8d1a04&chksm=c3bea5c3def08db34e5e33c1f5e642c700579586af9f312ac6a171a539c2db10c7fdf786accc&scene=90&xtrack=1&req_id=1782205385197482&sessionid=1782205475&subscene=93&clicktime=1782205980&enterid=1782205980&flutter_pos=4&biz_enter_id=4&ranksessionid=1782205489&jumppath=WAWebViewController_1782205846302,WAWebViewController_1782205846816,20020_1782205869662,1104_1782205976322&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=18004b29&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQK7+Z/bz93Ng/yMaQynBbQRLTAQIE97dBBAEAAAAAACPLBOy4KaAAAAAOpnltbLcz9gKNyK89dVj0U6ADheu/y0e7ElOeT9GHB204w5zupcx0zZS6mXgB+0wsO1Ni4gnKwxOgq5iiEOmV5oV4pGKPnVxPN3CNyROGt4WPG7duoKeqKQVdKVIU6bsO67mcAIzCYMvcZxHRdhWB9nRJ5dea/XI+KbSNzanC3orAGYdfVtS5DDyGf3Twnw3wEuvgM3etWo7G8PMzhj6F4Z78llMmWb+fXT/j235VJAA7IGp+D1jERpYOWcs=&pass_ticket=DmTl6OXWG9Q3cBl/E0DK/a4x1Sw/SpSEjA6xNct+UHaWDuF60BnDWIvnZLqylIow&wx_header=3)
+
+![](.evernote-content/BAAE5C27-8135-4E84-8E96-5654EB370693/55717D0B-3A70-4070-BE7A-42819899FB33.png)![](.evernote-content/BAAE5C27-8135-4E84-8E96-5654EB370693/46CD9990-40BF-4615-A385-753EF53EE64E.png)![](.evernote-content/BAAE5C27-8135-4E84-8E96-5654EB370693/8F0D72A6-9AEC-467A-9701-7B0552B78BA1.png)![](.evernote-content/BAAE5C27-8135-4E84-8E96-5654EB370693/F7AE41CD-AD43-4152-B98F-9E913E1C5696.png)![](.evernote-content/BAAE5C27-8135-4E84-8E96-5654EB370693/346581E0-3491-46E3-A630-87B4051E4F80.png)![](.evernote-content/BAAE5C27-8135-4E84-8E96-5654EB370693/E78624F4-5479-4985-BBD6-23378ECDDD5B.png)![](.evernote-content/BAAE5C27-8135-4E84-8E96-5654EB370693/4FBD2B6A-8056-4CE3-BF1B-934369BCA524.png)![](.evernote-content/BAAE5C27-8135-4E84-8E96-5654EB370693/8B92D6B9-1EF9-4EB2-A93F-74575477C9EB.png)![](.evernote-content/BAAE5C27-8135-4E84-8E96-5654EB370693/EFE81178-55AC-4DF3-B040-425FEBDFEB8D.png)
+
+AI loop不是让AI无限自动干活，而是让AI围绕目标反复规划、执行、验证、修补，直到达标。真正决定loop价值的，不是执行，而是验证、状态和止损。没有能判“不及格”的闸门，agent只是在自我点头；没有状态记录，它会反复犯同样的错；没有硬上限，它会安静烧钱。代码最先跑通loop，因为测试、类型检查、编译天然可验证。成本也不是跑几轮这么简单，每轮都要重读上下文，接受率低于一半，loop就是负收益。真正稀缺的正从会干活的模型、prompt和规模化团队，转向能定义“达标”、守住验收闸门、计算接受率与成本的人。对多数人来说，暂时不必搭重loop，先用轻量自检循环prompt：设任务、定标准、打分、找弱点、重写，直到过线。
+
+Close
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzkyNzY5MTM5OA==&mid=2247489662&idx=1&sn=4c818ef55e6f61927b30b93a2b8d1a04&chksm=c3bea5c3def08db34e5e33c1f5e642c700579586af9f312ac6a171a539c2db10c7fdf786accc&scene=90&xtrack=1&req_id=1782205385197482&sessionid=1782205475&subscene=93&clicktime=1782205980&enterid=1782205980&flutter_pos=4&biz_enter_id=4&ranksessionid=1782205489&jumppath=WAWebViewController_1782205846302,WAWebViewController_1782205846816,20020_1782205869662,1104_1782205976322&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=18004b29&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQK7+Z/bz93Ng/yMaQynBbQRLTAQIE97dBBAEAAAAAACPLBOy4KaAAAAAOpnltbLcz9gKNyK89dVj0U6ADheu/y0e7ElOeT9GHB204w5zupcx0zZS6mXgB+0wsO1Ni4gnKwxOgq5iiEOmV5oV4pGKPnVxPN3CNyROGt4WPG7duoKeqKQVdKVIU6bsO67mcAIzCYMvcZxHRdhWB9nRJ5dea/XI+KbSNzanC3orAGYdfVtS5DDyGf3Twnw3wEuvgM3etWo7G8PMzhj6F4Z78llMmWb+fXT/j235VJAA7IGp+D1jERpYOWcs=&pass_ticket=DmTl6OXWG9Q3cBl/E0DK/a4x1Sw/SpSEjA6xNct+UHaWDuF60BnDWIvnZLqylIow&wx_header=3)
+
+[📎 在印象笔记中打开](evernote:///view/207087/s1/5aa8b1a5-2ab8-4b14-ba86-01a559235c78/5aa8b1a5-2ab8-4b14-ba86-01a559235c78/)
