@@ -20,3 +20,5 @@ Thumbs.db
 
 # Include obsidian-git config for backup
 !.obsidian/plugins/obsidian-git/data.json
+wiki/vector_store/
+wiki/vector_store
