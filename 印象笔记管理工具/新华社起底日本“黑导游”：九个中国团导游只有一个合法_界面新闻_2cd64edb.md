@@ -1,0 +1,219 @@
+# 新华社起底日本“黑导游”：九个中国团导游只有一个合法|界面新闻
+
+---
+
+[![](.evernote-content/6018037E-2FA1-47C4-90DF-07CA62D0CB57/1AB9ECEC-7A8C-4F0B-994C-B2A964AB4390.gif)](http://m.jiemian.com/)
+
+[界面新闻](http://m.jiemian.com/)
+
+[只服务于独立思考的人群](http://m.jiemian.com/)
+
+[下载APP](http://a.jiemian.com/index.php?m=App&a=redirect)
+
+新华社起底日本“黑导游”：九个中国团导游只有一个合法
+==========================
+
+视频中，赴日中国旅游团的游客们与导游吵起来：游客们说导游把保健品称作药，诱导大家买；导游辩称，他说的是“药监局专卖的保健品”。
+
+[新华社](http://m.jiemian.com/article/1337031.html?from=groupmessage&isappinstalled=0) 2017/05/21 17:43 | [评论(*17*)](https://a.jiemian.com/mobile/index.php?m=article&a=login&aid=1337031&type=2&source=index)A+
+
+![](.evernote-content/6018037E-2FA1-47C4-90DF-07CA62D0CB57/C611B15A-9BCF-40CD-8D41-A84CCD16EE70.jpg)
+
+端午假期快来了，准备出国玩的朋友可要注意了：
+
+有一类人，自称是你的“可靠同胞”，明着向你提供“优质导游服务”，实际并没有导游资格，暗搓搓变着花样坑你的钱。等你回过神来，他们立马变脸，各种狡辩。
+
+这些非法的黑心导游，就是“黑导游”。
+
+“黑导游”都有哪些宰客套路？他们来自哪里、因何兴起、怎样与监管者“过招”、内部如何组织？
+
+请看新华社记者在中国游客多的五国调查。
+
+今天我们先看邻国日本的情况。
+
+![](.evernote-content/6018037E-2FA1-47C4-90DF-07CA62D0CB57/71CC8547-A677-49A4-B61C-1F78CB90E3D1.jpg)
+
+### 正规导游稀缺
+
+视频中，赴日中国旅游团的游客们与导游吵起来：游客们说导游把保健品称作药，诱导大家买；导游辩称，他说的是“药监局专卖的保健品”。这种争执并非个例。随着近年来日元贬值，赴日游逐渐成为国人出境游的主要选择之一。
+
+在访日中国游客猛增的背景下，日本的中文导游数量却远远未能跟上。日本首都圈以外的地区，通过资格认证的中文导游十分稀缺。
+
+在日本，外语导游和律师、医生一样，都需经过国家级考试。
+
+除精通外语，这些导游还必须熟知相关的日本历史、地理、政治、经济、文化等知识，需通过笔试、口试等多个环节考核，合格者寥寥无几。
+
+截至2016年，日本全国拥有该资格的导游仅有约两万人，其中英语导游占67.8%，而需求高涨的中文导游仅占12%。九州地区7个县内，取得资格的中文导游仅有一百余人。
+
+### “黑导游”遍布
+
+日本政府计划放宽限制，允许没有资格认证的人提供导游服务，以填补导游缺口。不过，一些业内人士认为，此举会导致“无良导游”增加，影响游客体验。
+
+记者日前在东京银座商业区询问了9名带中国旅游团的导游，结果只有1人持有资格证，其他人都是“无证导游”，有些人甚至说不知道要考证。
+
+据日本有关机构估计，目前在日本接待中国游客的导游有数千人，其中大部分都是“无证导游”。
+
+### 揭开“黑导链”
+
+一位不愿公开姓名的日本旅游业资深人士告诉记者，在日本，地接社接到团单后通常会与导游头头、业内俗称“大哥”的人联系，以一团两万到三万日元（约合人民币1200元到1800元）的价格委托给“大哥”，再由“大哥”分配给“小弟”。
+
+这些“小弟”多数来自中国港台地区，也有一些来自内地。他们中绝大多数没有正规外语导游（通译案内士）资格，仅接受过短期“陪团员”培训，结业后匆忙上岗。
+
+有“黑导游”透露，在日本干3个月，就可以捞到300万日元（约合人民币18万元）的收入。
+
+### 转换身份逃监管
+
+日本《外语导游法》明确规定，除志愿者外，不持有外语导游资格的人不得从事旅游景点讲解等导游工作。
+
+另外，该法规定，导游不得向顾客推销商品或强制游客前往景点或商店；导游禁止以任何名义拿回扣，违者将被逮捕。
+
+而“黑导游”们也有对策：在无人监管的大巴上对游客大肆推销洗脑，到达景点时就装成普通随团陪同，不讲解。这让很多日本调查员无从追究。
+
+### 忽悠手法“因地制宜”
+
+在日“黑导游”的“盈利模式”跟国内差不多，都是路上洗脑，消费提成。
+
+但他们的忽悠手法“因地制宜”，比如“提前铺垫”：“日本的物价在哪里都几乎一样，这是观光厅定的。买东西去哪里都一样，所以不用拘泥于在哪家店买。”
+
+再比如“神吹日货”：“日本人开发了新一代化妆品，世界上唯一获得诺贝尔奖的，这种化妆品只有日本有，因为绝对不会出口。”
+
+这些纯属瞎掰的话一路猛灌，引诱游客冲动消费。就算游客购物后意识到上当，“黑导游”也早准备好了“应对之策”，各种狡辩，誓不退钱。
+
+### 三大“购物陷阱”
+
+业内人士说，在日本旅游，导游设下的“购物陷阱”主要有以下几种，游客务必提高警惕：
+
+一是行业内俗称的“车售”，即导游在大巴车上兜售所谓的“健康食品”和“高科技产品”。
+
+从业内人士提供的一份商品介绍及价目表可看出，这类商品种类繁多，既有化妆品、小电器，也有保健用品、营养品等，售价少则高出进货价三到五倍，多则近十倍。
+
+更有些无良导游勾结不法厂商，从厂商处直接提取不经过日本安全认证的准“三无”产品，花言巧语向游客兜售。
+
+二是忽悠游客进店购物。
+
+不少中国游客被带去购物的“免税店”，并不是日本大商业公司开办的，而是中国人和韩国人开的。
+
+这些“免税店”的利润分成一般是店家五成，地接社和导游按五五分或三七分拿取剩下的利润。
+
+例如，开在东京新大久保地区的韩国观光社，这家免税店采取完全预约制，记者想要进店采访时，店员以“没有预约”为由拒绝。
+
+业内人士透露，这家所谓免税店的商品价格往往是同类商品市价的数倍。
+
+一名导游证实，导游们接团后会把各个团进店购物时间设为一致，让游客在店里以为人山人海都在抢购，进而产生购物欲望。
+
+再如，有家LAOX免税店商品价格比市价贵，但中国游客络绎不绝，这自然和“黑导游”脱不了干系。
+
+很多导游在接团后立即与免税店联系，将团内游客的姓名、性别、护照号等个人信息透露给免税店，再带游客进店购物。游客在收银台使用护照免税时，回扣自动计入导游账上。
+
+三是私下添加进店购物行程，俗称“滑店”。
+
+例如，前往东京浅草寺观光时，导游事先就给游客洗脑“浅草有一家老店铺的南部铁壶非常好”，到达目的地时暗示司机巧妙停在店铺旁，自然而然诱哄游客进店。
+
+该店的南部铁器均价约是市价的3倍。游客自以为买到了好货，其实在不知不觉间上当受骗。
+
+### 三类“榨油”途径
+
+在购物环节外，行程安排也有不少“猫腻”。
+
+有导游透露，赴日游线路一般为6到7天，东京-静冈-京都-大阪的大致线路被业内称为“东进阪出”的黄金线路。
+
+旅行社却安排下午出发晚上抵达东京的航班，回程则安排上午的航班，回程前一晚就把游客拉到机场酒店，所谓的“5夜6天游”在日本真正的逗留时间只有4天。
+
+另外，游客到日本后，会发现到哪里地陪导游都要收钱。
+
+去迪斯尼乐园，收1万日元（约合人民币618元）；到银座购物，收4000日元（约合人民币247元）……
+
+几天下来，游客发现，实际交给旅行社和导游的钱，比旅游费多了一倍。
+
+有些“黑导游”还在餐饮上竭力榨取油水，通过事先铺垫、给游客洗脑等方法，替换行程规定的餐饮内容。
+
+例如，“黑导游”忽悠游客放弃行程内的2000日元（约合人民币124元）和牛午餐，转而带团前往“特别好吃有名”的1000日元（约合人民币62元）拉面店，从而捞到游客餐费差价。
+
+“报了填坑团，谁能不挨宰？”
+
+### 为何会有如此乱象？
+
+业内人士说，由于恶性竞争，日本接待社纷纷压低接待中国旅游团的价格，甚至以亏本价接团。
+
+例如，有旅行社推出“日本黄金旅游线5晚6天”的线路，从东京到京都、大坂的旅游项目报价只有人民币3000多元，远远低于实际所需费用。
+
+业内一般称这种团为“填坑团”或“赌团”。这种团的“亏本”部分，旅行社当然不会自己承担，最终还是要想办法从游客身上找补回来，并实现盈利。
+
+这就让导游诱导游客高价购物成为近乎必然的选择。有导游告诉记者：“报了填坑团，想不挨宰几乎不可能。”
+
+### 别把保健品当药买
+
+中国驻日大使馆提醒中国游客，在日旅游购物时，对于导游的劝导、商家的宣传和口头承诺，要保持应有的警惕，勿听信其夸大宣传，将保健食品当药品购买。
+
+购买保健品前，应做好功课，通过各种渠道充分了解产品的价格、功效，做到心中有数、理性消费。
+
+如已购买高价保健品需退货的游客，请通过领队与商家协商。
+
+如被拒绝，可拨打12301向国内旅游监督部门投诉。
+
+来源：新华社
+
+原标题：[新华社起底日本“黑导游”：9个中国团导游只有1个合法](http://www.sina.com.cn/midpage/mobile/index.d.html?docID=fyfkqiv6612479&url=news.sina.cn/gj/2017-05-21/detail-ifyfkqiv6612479.d.html)
+
+*最新更新时间：05/21 18:17*
+
+[新闻报料](https://a.jiemian.com/index.php?m=broke&a=index)[商务合作](http://m.jiemian.com/about/business.html)
+
+更多专业报道，请[点击下载“界面新闻”APP](http://a.jiemian.com/index.php?m=app&a=redirect)
+
+分享 [评论
+*(17)*](https://a.jiemian.com/mobile/index.php?m=article&a=login&aid=1337031&type=2&source=index)
+
+[by Taboola](http://popup.taboola.com/zh-CN/?template=colorbox&utm_source=jiemian-mobile&utm_medium=referral&utm_content=alternating-thumbnails-m:Mobile%20Below%20Article%20Thumbnails:)[by Taboola](http://popup.taboola.com/zh-CN/?template=colorbox&utm_source=jiemian-mobile&utm_medium=referral&utm_content=alternating-thumbnails-m:Mobile%20Below%20Article%20Thumbnails:)
+
+[Sponsored Links](http://popup.taboola.com/zh-CN/?template=colorbox&utm_source=jiemian-mobile&utm_medium=referral&utm_content=alternating-thumbnails-m:Mobile%20Below%20Article%20Thumbnails:)[Sponsored Links](http://popup.taboola.com/zh-CN/?template=colorbox&utm_source=jiemian-mobile&utm_medium=referral&utm_content=alternating-thumbnails-m:Mobile%20Below%20Article%20Thumbnails:)
+
+[Promoted Links](http://popup.taboola.com/zh-CN/?template=colorbox&utm_source=jiemian-mobile&utm_medium=referral&utm_content=alternating-thumbnails-m:Mobile%20Below%20Article%20Thumbnails:)[Promoted Links](http://popup.taboola.com/zh-CN/?template=colorbox&utm_source=jiemian-mobile&utm_medium=referral&utm_content=alternating-thumbnails-m:Mobile%20Below%20Article%20Thumbnails:)
+
+你可能会喜欢
+
+[探秘日本的情侣酒店](http://m.jiemian.com/article/1081405.html "探秘日本的情侣酒店")
+
+[首富王健林支招年轻人 未来瞄准这三个行业才有大钱赚](http://m.jiemian.com/article/542925.html "首富王健林支招年轻人 未来瞄准这三个行业才有大钱赚")
+
+[同性恋、女装癖、死胖子、毒舌……日本版金星完美上演loser的逆袭](http://m.jiemian.com/article/593884.html "同性恋、女装癖、死胖子、毒舌……日本版金星完美上演loser的逆袭")
+
+[赵薇事件持续发酵，“政治正确”已成影视行业达摩克利斯之剑？](http://m.jiemian.com/article/748649.html "赵薇事件持续发酵，“政治正确”已成影视行业达摩克利斯之剑？")
+
+[与韩国对手玩自拍受热捧 朝鲜运动员回国会受罚吗？](http://m.jiemian.com/article/793793.html "与韩国对手玩自拍受热捧 朝鲜运动员回国会受罚吗？")
+
+[一款名叫黑鲨的“民用装甲车”成为中国富豪新玩具](http://m.jiemian.com/article/208551.html "一款名叫黑鲨的“民用装甲车”成为中国富豪新玩具")
+
+推荐阅读
+
+[![](.evernote-content/6018037E-2FA1-47C4-90DF-07CA62D0CB57/44CEE194-C42F-4B04-AF8B-55A6B19D51F8.jpg)](http://m.jiemian.com/article/1337165.html)
+
+### [人人快递帮快递网点送件 同城配市场整合开始](http://m.jiemian.com/article/1337165.html)
+
+[![](.evernote-content/6018037E-2FA1-47C4-90DF-07CA62D0CB57/6C0E808A-B7EB-4222-BAD2-BC7BE38A4957.jpg)](http://m.jiemian.com/article/1336637.html)
+
+### [体育旅游风口下 马拉松旅游能跑起来吗？](http://m.jiemian.com/article/1336637.html)
+
+[![](.evernote-content/6018037E-2FA1-47C4-90DF-07CA62D0CB57/AF8D6D48-13A1-48AE-ABA1-ABC6738185D6.jpg)](http://m.jiemian.com/article/1336644.html)
+
+### [东航客机在日本冲绳机场遇飞机相向滑行 已避免冲突](http://m.jiemian.com/article/1336644.html)
+
+[![](.evernote-content/6018037E-2FA1-47C4-90DF-07CA62D0CB57/99BC7017-7FCF-4E7A-AF49-184726E15054.jpg)](http://m.jiemian.com/article/1336585.html)
+
+### [圆通超10亿港元收购先达国际 否认再次借壳上市](http://m.jiemian.com/article/1336585.html)
+
+[![](.evernote-content/6018037E-2FA1-47C4-90DF-07CA62D0CB57/13582966-A9D9-4064-A832-AF39F83C3FB9.jpg)](http://m.jiemian.com/article/1335763.html)
+
+### [京版网约车新政今起实施 将逐步推进车辆司机持证上岗](http://m.jiemian.com/article/1335763.html)
+
+[![](.evernote-content/6018037E-2FA1-47C4-90DF-07CA62D0CB57/5BDDCF3C-023D-4DDE-850C-E6C5E6D89F4F.jpg)](http://m.jiemian.com/article/1335358.html)
+
+### [山东省出台条例：风景名胜区刻字立碑最高罚20万](http://m.jiemian.com/article/1335358.html)
+
+[关注界面](http://m.jiemian.com/about/follow.html)[APP下载](http://a.jiemian.com/index.php?m=app&a=redirect)
+
+---
+
+[🌐 原始链接](http://m.jiemian.com/article/1337031.html?from=groupmessage&isappinstalled=0)
+
+[📎 在印象笔记中打开](evernote:///view/207087/s1/2cd64edb-b1fe-4912-835c-cc252ed4786d/2cd64edb-b1fe-4912-835c-cc252ed4786d/)

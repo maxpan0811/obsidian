@@ -1,0 +1,11 @@
+# 导游领队派团流程（HCG-QT-P001）-wcp 知识库
+
+---
+
+![](.evernote-content/41069303-7BB1-4E20-BDFB-328B66E591AF/01AB2505-D2E3-4AC4-B14E-BB793059BFAA.do)
+
+---
+
+[🌐 原始链接](http://219.141.169.17:8989/wcp/webdoc/view/Pub402883816f6d0dc9017039566e730281.html)
+
+[📎 在印象笔记中打开](evernote:///view/207087/s1/65b0afcf-dfca-445f-9f1c-2f1be83add71/65b0afcf-dfca-445f-9f1c-2f1be83add71/)
