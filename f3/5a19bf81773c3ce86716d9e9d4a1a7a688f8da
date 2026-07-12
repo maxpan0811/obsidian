@@ -1,0 +1,19 @@
+程序开发/重庆联盟欧洲营收分析报告.md
+  s_45dc05fe3254ec::t_a935dbae84c428 333-396
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.33-trip",
+  "base_commit_sha": "f35a19bf81773c3ce86716d9e9d4a1a7a688f8da",
+  "prompts": {},
+  "sessions": {
+    "s_45dc05fe3254ec": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "bf235fd0-295f-4039-9d95-8a4430d56d32",
+        "model": "DeepSeek-V4-Flash"
+      },
+      "human_author": "maxpan0811 <maxpan0811@gmail.com>"
+    }
+  }
+}
