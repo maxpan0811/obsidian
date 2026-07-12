@@ -1,0 +1,19 @@
+"程序开发/FAISS Pipeline v2 实现计划.md"
+  s_d0662c5805f375::t_540f973bb723ff 988-1024
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.33-trip",
+  "base_commit_sha": "0d6905f857034b5dfd970187c31034803a7aaca7",
+  "prompts": {},
+  "sessions": {
+    "s_d0662c5805f375": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f52edae5-dba6-4311-ae70-49d13bf7f58a",
+        "model": "deepseek-v4-pro"
+      },
+      "human_author": "maxpan0811 <maxpan0811@gmail.com>"
+    }
+  }
+}
