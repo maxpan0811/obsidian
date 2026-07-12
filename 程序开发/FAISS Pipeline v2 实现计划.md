@@ -986,3 +986,39 @@ for f in to_remove:
 - [ ] ChromaDB 数据已移到废纸篓
 - [ ] vector_store 中无 ChromaDB 残留
 - [ ] SKILL.md 已更新
+
+---
+
+## 执行日志
+
+### 2026-07-12 上午 · 会话 `f52edae5`
+
+**上溯会话**：`2dc6f55f`（2026-07-11 晚，设计+实现+启动构建）
+
+**中断原因**：macOS 系统更新，凌晨自动重启，构建进程被杀。
+
+**重启时状态**：
+- cache: 3,210 文件 / 8,947 chunks
+- FAISS 索引: 2,953 chunks（上次 rebuild 时 cache 只有 2,410 文件）
+- checkpoint: `files_done=800`, `total_files=21258`, `last_file=-索罗斯们的民主梦-_2108.md`
+- 索引 vs cache 不一致：cache 里有 8,947 chunks，但 FAISS 索引还停留在 2,953 chunks。**数据没丢，只是最后一次 rebuild 没来得及跑。**
+
+**当前进度**（2026-07-12 12:18）：
+- 在 Warp 终端续跑 `--incremental`
+- 进程 PID 18564，内存 16GB，已跑 ~26 分钟
+- 剩余 ~20,458 文件待 embed
+
+**已完成任务**：
+- [x] Task 1: 构建脚本 `wiki_faiss_build.py` v2（364 行）
+- [x] Task 2: 查询脚本 `wiki_vector_query.py`（286 行，去 ChromaDB）
+- [-] Task 3: 全量构建 — 🔄 进行中
+- [ ] Task 4: 清理 ChromaDB — 等待构建完成
+- [ ] Task 5: 更新 SKILL.md — 已部分更新（热区/Ingest/Query/Gotchas），ChromaDB 残留引用已清理
+
+**本次会话操作**：
+1. `--status` 确认中断点和数据完整性
+2. 分析 cache vs FAISS 索引不一致的原因（rebuild 时机）
+3. 在 Warp 终端续跑 `--incremental`
+4. 更新 memory `20260711-faiss-pipeline-v2.md`
+5. 更新 SKILL.md（`ChromaDB 向量索引` → `FAISS 向量索引`，构建时间 ~17h → ~1.8h）
+6. 追加本执行日志
