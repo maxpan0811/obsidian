@@ -2,14 +2,14 @@
 title: "想一小时上手obsidian？这一篇就够了。【玩转Obsidian的保姆级教程】"
 author: Wyatt
 source: zhihu
-date: 2026-06-27
+date: 2026-07-14
 url: https://zhuanlan.zhihu.com/p/428519519
 type: zhihu-article
 ---
 
 # 想一小时上手obsidian？这一篇就够了。【玩转Obsidian的保姆级教程】
 
-> ✍️ Wyatt · 📅 2026-06-27 · [原文](https://zhuanlan.zhihu.com/p/428519519)
+> ✍️ Wyatt · 📅 2026-07-14 · [原文](https://zhuanlan.zhihu.com/p/428519519)
 
 ---
 
@@ -23,7 +23,7 @@ type: zhihu-article
 > 使用前的忠告：
 > -  不要刚下好obsidian就想着使用插件，大部分插件只是增强一些功能，建议先熟悉一下ob的基本使用功能。
 > - 个人认为外观设置没那么重要，如果以记录为主最好不要纠结CSS怎么写！再说一遍，不要纠结CSS怎么写！
-> - 刚开始用可以不用了解[mermaid](https://zhida.zhihu.com/search?content_id=183355731&amp;content_type=Article&amp;match_order=1&amp;q=mermaid&amp;zhida_source=entity)、dataview、yaml等语法，先掌握[Markdown语法](https://zhida.zhihu.com/search?content_id=183355731&amp;content_type=Article&amp;match_order=1&amp;q=Markdown%E8%AF%AD%E6%B3%95&amp;zhida_source=entity)为重中之重。
+> - 刚开始用可以不用了解[mermaid](https://zhida.zhihu.com/search?content_id=183355731&amp;content_type=Article&amp;match_order=1&amp;q=mermaid&amp;zd_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ6aGlkYV9zZXJ2ZXIiLCJleHAiOjE3ODQxNjg2NjgsInEiOiJtZXJtYWlkIiwiemhpZGFfc291cmNlIjoiZW50aXR5IiwiY29udGVudF9pZCI6MTgzMzU1NzMxLCJjb250ZW50X3R5cGUiOiJBcnRpY2xlIiwibWF0Y2hfb3JkZXIiOjEsInpkX3Rva2VuIjpudWxsfQ.ftV-kjWLSl5j7wBC2qvJnJDWRK6eVkPMR4elpr9FK8g&amp;zhida_source=entity)、dataview、yaml等语法，先掌握[Markdown语法](https://zhida.zhihu.com/search?content_id=183355731&amp;content_type=Article&amp;match_order=1&amp;q=Markdown%E8%AF%AD%E6%B3%95&amp;zd_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ6aGlkYV9zZXJ2ZXIiLCJleHAiOjE3ODQxNjg2NjgsInEiOiJNYXJrZG93buivreazlSIsInpoaWRhX3NvdXJjZSI6ImVudGl0eSIsImNvbnRlbnRfaWQiOjE4MzM1NTczMSwiY29udGVudF90eXBlIjoiQXJ0aWNsZSIsIm1hdGNoX29yZGVyIjoxLCJ6ZF90b2tlbiI6bnVsbH0.oZvEr6oMMDpRSqOX6oBR1cQqlsfdupoFWzH-k_756Po&amp;zhida_source=entity)为重中之重。
 > - 注重笔记内容。
 **如果你使用obsidian是为了搭建自己的知识管理系统，欢迎关注我最近正在更新的专题：**
 
@@ -159,7 +159,7 @@ obsidian中的插件分为两种：
 
 ![](attachments/966fe040d14e5c45eedcc588bde1cb62.jpg)其实这时候，你再次点开库文件，你会发现，在库文件中多了一个录音文件：
 
-![](attachments/750a7f21b8a99156405625e715599854.jpg)###  四.什么是[双向链接](https://zhida.zhihu.com/search?content_id=183355731&amp;content_type=Article&amp;match_order=1&amp;q=%E5%8F%8C%E5%90%91%E9%93%BE%E6%8E%A5&amp;zhida_source=entity)？
+![](attachments/750a7f21b8a99156405625e715599854.jpg)###  四.什么是[双向链接](https://zhida.zhihu.com/search?content_id=183355731&amp;content_type=Article&amp;match_order=1&amp;q=%E5%8F%8C%E5%90%91%E9%93%BE%E6%8E%A5&amp;zd_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ6aGlkYV9zZXJ2ZXIiLCJleHAiOjE3ODQxNjg2NjgsInEiOiLlj4zlkJHpk77mjqUiLCJ6aGlkYV9zb3VyY2UiOiJlbnRpdHkiLCJjb250ZW50X2lkIjoxODMzNTU3MzEsImNvbnRlbnRfdHlwZSI6IkFydGljbGUiLCJtYXRjaF9vcmRlciI6MSwiemRfdG9rZW4iOm51bGx9.Fhdf-u-3_ZcrlaKRPyQaRg7Mb8z2vCJRJPGFqm_GsFw&amp;zhida_source=entity)？
 
 > 你可以理解为双向链接是一种更高级的引用
 只不过，这里的引用是双向的

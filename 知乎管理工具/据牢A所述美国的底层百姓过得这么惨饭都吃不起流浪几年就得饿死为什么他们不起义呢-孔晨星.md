@@ -2,20 +2,20 @@
 title: "据牢A所述，美国的底层百姓过得这么惨，饭都吃不起流浪，几年就得饿死，为什么他们不起义呢？"
 author: 孔晨星
 source: zhihu
-date: 2026-06-27
+date: 2026-07-14
 url: https://www.zhihu.com/question/1986425185302247189/answer/1987482011485610425
 type: zhihu-article
 ---
 
 # 据牢A所述，美国的底层百姓过得这么惨，饭都吃不起流浪，几年就得饿死，为什么他们不起义呢？
 
-> ✍️ 孔晨星 · 📅 2026-06-27 · [原文](https://www.zhihu.com/question/1986425185302247189/answer/1987482011485610425)
+> ✍️ 孔晨星 · 📅 2026-07-14 · [原文](https://www.zhihu.com/question/1986425185302247189/answer/1987482011485610425)
 
 ---
 
 这个问题问得好，问到骨子里了。
 
-很多人看美国，看的是自由女神像、[华尔街](https://zhida.zhihu.com/search?content_id=762583396&amp;content_type=Answer&amp;match_order=1&amp;q=%E5%8D%8E%E5%B0%94%E8%A1%97&amp;zhida_source=entity)、硅谷的珠光宝气，以为那是美国的全部。
+很多人看美国，看的是自由女神像、华尔街、硅谷的珠光宝气，以为那是美国的全部。
 
 但稍微把镜头往下移一移，对准那些锈带废弃的工厂街区、阳光加州桥洞下的帐篷城、南部乡村里靠救济食品券过活的斩杀线以下或者接近斩杀线的人群，
 
@@ -37,7 +37,7 @@ type: zhihu-article
 
 美国的底层逻辑，根子上是另一套东西。
 
-这套东西，我们可以称之为 **“[现代封建制](https://zhida.zhihu.com/search?content_id=762583396&amp;content_type=Answer&amp;match_order=1&amp;q=%E7%8E%B0%E4%BB%A3%E5%B0%81%E5%BB%BA%E5%88%B6&amp;zhida_source=entity)”** ，
+这套东西，我们可以称之为 **“现代封建制”** ，
 
 或者说，是欧洲老贵族那套分封玩法的新时代豪华版。
 
@@ -291,7 +291,7 @@ type: zhihu-article
 
 总统、州长、议员们的背后，是盘根错节的利益网络，
 
-[军工复合体](https://zhida.zhihu.com/search?content_id=762583396&amp;content_type=Answer&amp;match_order=1&amp;q=%E5%86%9B%E5%B7%A5%E5%A4%8D%E5%90%88%E4%BD%93&amp;zhida_source=entity)、华尔街、大药厂、石油巨头、[硅谷科技财阀](https://zhida.zhihu.com/search?content_id=762583396&amp;content_type=Answer&amp;match_order=1&amp;q=%E7%A1%85%E8%B0%B7%E7%A7%91%E6%8A%80%E8%B4%A2%E9%98%80&amp;zhida_source=entity)、庞大的律师和游说集团。
+军工复合体、华尔街、大药厂、石油巨头、硅谷科技财阀、庞大的律师和游说集团。
 
 这些利益集团之间当然有斗争，就像中世纪的公爵、伯爵们也会为地盘打仗。
 

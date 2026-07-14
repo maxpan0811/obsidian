@@ -2,14 +2,14 @@
 title: "为什么有些人不相信牢A（斯奎奇大王）讲的美国底层人民地狱惨状？"
 author: 进步思潮
 source: zhihu
-date: 2026-06-27
+date: 2026-07-14
 url: https://www.zhihu.com/question/1983544707767366292/answer/1986063727817142420
 type: zhihu-article
 ---
 
 # 为什么有些人不相信牢A（斯奎奇大王）讲的美国底层人民地狱惨状？
 
-> ✍️ 进步思潮 · 📅 2026-06-27 · [原文](https://www.zhihu.com/question/1983544707767366292/answer/1986063727817142420)
+> ✍️ 进步思潮 · 📅 2026-07-14 · [原文](https://www.zhihu.com/question/1983544707767366292/answer/1986063727817142420)
 
 ---
 
@@ -65,13 +65,13 @@ type: zhihu-article
  
 甚至有人用一个非常形象的比喻：
 
-> **“美国像[克苏鲁](https://zhida.zhihu.com/search?content_id=762002610&amp;content_type=Answer&amp;match_order=1&amp;q=%E5%85%8B%E8%8B%8F%E9%B2%81&amp;zhida_source=entity)，观察久了会掉 SAN 值。”**
+> **“美国像克苏鲁，观察久了会掉 SAN 值。”**
 >  
 这不是讽刺，而是一种**真实的认知崩溃反应**。
 
 ## 二、为什么“斩杀线”解释不够？
 知乎上一个很流行的说法是：
- **美国存在“[生活斩杀线](https://zhida.zhihu.com/search?content_id=762002610&amp;content_type=Answer&amp;match_order=1&amp;q=%E7%94%9F%E6%B4%BB%E6%96%A9%E6%9D%80%E7%BA%BF&amp;zhida_source=entity)”**——
+ **美国存在“生活斩杀线”**——
  房租、医疗、保险一旦跌破某个收入阈值，生活就会迅速崩盘。
 
 这个解释**不完全错误**，但它解释不了三个关键现象：
@@ -89,7 +89,7 @@ type: zhihu-article
 
 **被误读的“地狱”：工业党视角的盲区**
 
-在知乎乃至整个中文互联网上，存在一个长期且普遍的困惑：当我们谈论美国底层的惨状——比如[费城肯辛顿大道](https://zhida.zhihu.com/search?content_id=762002610&amp;content_type=Answer&amp;match_order=1&amp;q=%E8%B4%B9%E5%9F%8E%E8%82%AF%E8%BE%9B%E9%A1%BF%E5%A4%A7%E9%81%93&amp;zhida_source=entity)（Kensington Avenue）上那些如同丧尸般扭曲的瘾君子，或者洛杉矶Skid Row成片的帐篷城时，总会有大量质疑的声音出现。
+在知乎乃至整个中文互联网上，存在一个长期且普遍的困惑：当我们谈论美国底层的惨状——比如费城肯辛顿大道（Kensington Avenue）上那些如同丧尸般扭曲的瘾君子，或者洛杉矶Skid Row成片的帐篷城时，总会有大量质疑的声音出现。
 
 这些质疑通常基于极其理性的**物理数据**：
 
@@ -136,7 +136,7 @@ type: zhihu-article
 
 这里的底层，是**去工业化（De-industrialization）**后的直接产物。
 
-案例分析：铁锈带的“绝望之死” 根据安格斯·迪顿（Angus Deaton）在《绝望之死与资本主义的未来》中的详实数据：美国白人蓝领阶层的预期寿命正在历史性地下降。 在西弗吉尼亚州或肯塔基州，曾经的钢铁厂和煤矿关闭后，没有任何新兴产业能够吸纳这些低学历男性。对于华尔街驱动的美国经济体而言，这群人失去了作为劳动力的价值。 他们不是被剥削了，而是被“开除”了。 当一个人无法通过出卖劳动力来换取尊严时，系统给他留下的唯一通道就是——致幻剂。 [普渡制药](https://zhida.zhihu.com/search?content_id=762002610&amp;content_type=Answer&amp;match_order=1&amp;q=%E6%99%AE%E6%B8%A1%E5%88%B6%E8%8D%AF&amp;zhida_source=entity)（Purdue Pharma）的[奥廷康](https://zhida.zhihu.com/search?content_id=762002610&amp;content_type=Answer&amp;match_order=1&amp;q=%E5%A5%A5%E5%BB%B7%E5%BA%B7&amp;zhida_source=entity)（OxyContin）曾像糖果一样在这些社区分发。当处方药被管控后，更廉价、更致命的芬太尼（Fentanyl）和[甲苯噻嗪](https://zhida.zhihu.com/search?content_id=762002610&amp;content_type=Answer&amp;match_order=1&amp;q=%E7%94%B2%E8%8B%AF%E5%99%BB%E5%97%AA&amp;zhida_source=entity)（Xylazine，俗称“僵尸药”）填补了真空。
+案例分析：铁锈带的“绝望之死” 根据安格斯·迪顿（Angus Deaton）在《绝望之死与资本主义的未来》中的详实数据：美国白人蓝领阶层的预期寿命正在历史性地下降。 在西弗吉尼亚州或肯塔基州，曾经的钢铁厂和煤矿关闭后，没有任何新兴产业能够吸纳这些低学历男性。对于华尔街驱动的美国经济体而言，这群人失去了作为劳动力的价值。 他们不是被剥削了，而是被“开除”了。 当一个人无法通过出卖劳动力来换取尊严时，系统给他留下的唯一通道就是——致幻剂。 普渡制药（Purdue Pharma）的奥廷康（OxyContin）曾像糖果一样在这些社区分发。当处方药被管控后，更廉价、更致命的芬太尼（Fentanyl）和甲苯噻嗪（Xylazine，俗称“僵尸药”）填补了真空。
 
 现象级景观：肯辛顿的“折叠人” 在肯辛顿大道，你会看到无数保持着诡异姿势的“折叠人”——他们站立着，腰部弯曲近90度，像断了线的木偶一样静止不动。这是吸食甲苯噻嗪后的典型生理反应。
 
@@ -163,7 +163,7 @@ type: zhihu-article
 底层不仅是社会的基座，更是中产阶级的噩梦投射区。一个社会的底层长什么样，决定了这个社会的顶层在害怕什么。
 
 ### 终极恐惧——在“无底的磨盘”与“失控的疯人院”之间
-**摘要：** 底层生态的差异，最终内化为中美两国中产阶级截然不同的焦虑模型。中国社会的驱动力源于对“阶层跌落后被无限汲取”的恐惧，这种恐惧是理性的、线性的，它催生了极致的内卷与对秩序的病态依恋。美国社会的驱动力源于对“[社会契约崩塌](https://zhida.zhihu.com/search?content_id=762002610&amp;content_type=Answer&amp;match_order=1&amp;q=%E7%A4%BE%E4%BC%9A%E5%A5%91%E7%BA%A6%E5%B4%A9%E5%A1%8C&amp;zhida_source=entity)后陷入混沌”的恐惧，这种恐惧是非理性的、传染性的，它催生了极端的空间隔离与对他者的妖魔化。一个是关于“生存”的苦难叙事，一个是关于“存在”的恐怖叙事。
+**摘要：** 底层生态的差异，最终内化为中美两国中产阶级截然不同的焦虑模型。中国社会的驱动力源于对“阶层跌落后被无限汲取”的恐惧，这种恐惧是理性的、线性的，它催生了极致的内卷与对秩序的病态依恋。美国社会的驱动力源于对“社会契约崩塌后陷入混沌”的恐惧，这种恐惧是非理性的、传染性的，它催生了极端的空间隔离与对他者的妖魔化。一个是关于“生存”的苦难叙事，一个是关于“存在”的恐怖叙事。
 
 **3.1 中国式恐惧：列维坦的磨盘与“可预见的死亡”**
 

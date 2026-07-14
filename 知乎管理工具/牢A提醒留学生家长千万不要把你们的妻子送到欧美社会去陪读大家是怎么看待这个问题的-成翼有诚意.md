@@ -2,24 +2,24 @@
 title: "牢A提醒留学生家长：千万不要把你们的妻子送到欧美社会去陪读，大家是怎么看待这个问题的？"
 author: 成翼有诚意
 source: zhihu
-date: 2026-06-27
+date: 2026-07-14
 url: https://www.zhihu.com/question/1996939001437906264/answer/1998036082487490214
 type: zhihu-article
 ---
 
 # 牢A提醒留学生家长：千万不要把你们的妻子送到欧美社会去陪读，大家是怎么看待这个问题的？
 
-> ✍️ 成翼有诚意 · 📅 2026-06-27 · [原文](https://www.zhihu.com/question/1996939001437906264/answer/1998036082487490214)
+> ✍️ 成翼有诚意 · 📅 2026-07-14 · [原文](https://www.zhihu.com/question/1996939001437906264/answer/1998036082487490214)
 
 ---
 
-牢A这一波输出，最狠的地方不在于他揭露了美国的黑暗，而在于他一手制造了中国婚恋市场上的**“[柠檬市场](https://zhida.zhihu.com/search?content_id=766645054&amp;content_type=Answer&amp;match_order=1&amp;q=%E6%9F%A0%E6%AA%AC%E5%B8%82%E5%9C%BA&amp;zhida_source=entity)效应”**。
+牢A这一波输出，最狠的地方不在于他揭露了美国的黑暗，而在于他一手制造了中国婚恋市场上的**“柠檬市场效应”**。
 
 先说结论：牢A把“留美经历”从一个“镀金项”，硬生生打成了一个需要自证清白的“案底”。从此以后，海归女在相亲市场上的“定价权”，彻底崩盘了。
 
-经济学原理：当“海归”变成“柠檬” 在经济学里，有一个著名的理论叫**“柠檬市场”**（The Market for Lemons），也就是[次品市场](https://zhida.zhihu.com/search?content_id=766645054&amp;content_type=Answer&amp;match_order=1&amp;q=%E6%AC%A1%E5%93%81%E5%B8%82%E5%9C%BA&amp;zhida_source=entity)。
+经济学原理：当“海归”变成“柠檬” 在经济学里，有一个著名的理论叫**“柠檬市场”**（The Market for Lemons），也就是次品市场。
 
-它的逻辑是这样的：当买家无法分辨商品的好坏（[信息不对称](https://zhida.zhihu.com/search?content_id=766645054&amp;content_type=Answer&amp;match_order=1&amp;q=%E4%BF%A1%E6%81%AF%E4%B8%8D%E5%AF%B9%E7%A7%B0&amp;zhida_source=entity)）时，为了规避风险，买家会倾向于认为所有的商品都是次品，从而只愿意出最低的价格。
+它的逻辑是这样的：当买家无法分辨商品的好坏（信息不对称）时，为了规避风险，买家会倾向于认为所有的商品都是次品，从而只愿意出最低的价格。
 
 以前，海归女是**“桃子”（优质品）。 大家默认的标签是：家境好、眼界宽、独立、知性、英语流利、精英教育。 这时候，男方愿意支付高溢价**——高彩礼、高房产、高情绪价值。
 
@@ -45,7 +45,7 @@ type: zhihu-article
 
 牢A的那些故事，就像是在海归这个群体的脑门上贴了一个**“高风险资产”**的标签。
 
-以后在相亲局上，可能会出现极其魔幻的一幕： 女方还在聊[常春藤](https://zhida.zhihu.com/search?content_id=766645054&amp;content_type=Answer&amp;match_order=1&amp;q=%E5%B8%B8%E6%98%A5%E8%97%A4&amp;zhida_source=entity)的校训、聊曼哈顿的艺术展、聊[加州](https://zhida.zhihu.com/search?content_id=766645054&amp;content_type=Answer&amp;match_order=1&amp;q=%E5%8A%A0%E5%B7%9E&amp;zhida_source=entity)的阳光。 男方表面点头微笑，心里却在疯狂盘算：
+以后在相亲局上，可能会出现极其魔幻的一幕： 女方还在聊常春藤的校训、聊曼哈顿的艺术展、聊加州的阳光。 男方表面点头微笑，心里却在疯狂盘算：
 
 “她在国外这几年，有没有去过那种party？” “她有没有嗑过哪怕一次那个‘软糖’？” “她那个所谓的‘外国前男友’，到底是什么成色？” 这种**“有罪推定”**的眼神，对于那些真正洁身自好的好女孩来说，是极大的侮辱。 但没办法，市场是不讲感情的，市场只讲风险控制。
 

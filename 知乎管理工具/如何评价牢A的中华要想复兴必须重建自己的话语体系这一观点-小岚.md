@@ -2,20 +2,20 @@
 title: "如何评价牢A的“中华要想复兴必须重建自己的话语体系”这一观点？"
 author: 小岚
 source: zhihu
-date: 2026-06-27
+date: 2026-07-14
 url: https://www.zhihu.com/question/1998187915432440528/answer/2000338468354668056
 type: zhihu-article
 ---
 
 # 如何评价牢A的“中华要想复兴必须重建自己的话语体系”这一观点？
 
-> ✍️ 小岚 · 📅 2026-06-27 · [原文](https://www.zhihu.com/question/1998187915432440528/answer/2000338468354668056)
+> ✍️ 小岚 · 📅 2026-07-14 · [原文](https://www.zhihu.com/question/1998187915432440528/answer/2000338468354668056)
 
 ---
 
-今天，如果你站在东部大港口的[自动化码头](https://zhida.zhihu.com/search?content_id=767514354&amp;content_type=Answer&amp;match_order=1&amp;q=%E8%87%AA%E5%8A%A8%E5%8C%96%E7%A0%81%E5%A4%B4&amp;zhida_source=entity)上。
+今天，如果你站在东部大港口的自动化码头上。
 
-几千辆崭新的国产[新能源车](https://zhida.zhihu.com/search?content_id=767514354&amp;content_type=Answer&amp;match_order=1&amp;q=%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6&amp;zhida_source=entity)像钢铁洪流一样静默地排队，巨大的红色岸桥在[AI调度](https://zhida.zhihu.com/search?content_id=767514354&amp;content_type=Answer&amp;match_order=1&amp;q=AI%E8%B0%83%E5%BA%A6&amp;zhida_source=entity)下精准抓取集装箱。
+几千辆崭新的国产新能源车像钢铁洪流一样静默地排队，巨大的红色岸桥在AI调度下精准抓取集装箱。
 
 那种机械运转的低频轰鸣，让人本能地感到一种力量——这是属于世界工厂的硬实力，是几十年血汗浇灌出来的工业肌肉。
 
@@ -73,7 +73,7 @@ type: zhihu-article
 
 美国说你的终身雇佣制是僵化的，日本就改；美国说你的护航船团模式是不公平竞争，日本就拆。
 
-结果呢？日本把自己独特的组织优势当成弊端给阉割了，还要乖乖签订[广场协议](https://zhida.zhihu.com/search?content_id=767514354&amp;content_type=Answer&amp;match_order=1&amp;q=%E5%B9%BF%E5%9C%BA%E5%8D%8F%E8%AE%AE&amp;zhida_source=entity)，换来的是失去的三十年。
+结果呢？日本把自己独特的组织优势当成弊端给阉割了，还要乖乖签订广场协议，换来的是失去的三十年。
 
 当你接受了对方的定义，你就在逻辑上自杀了。
 
@@ -83,7 +83,7 @@ type: zhihu-article
 
 这才是最可怕的地方——话语权能把强盗逻辑合法化。
 
-回到我们自己。新疆棉花事件是关于棉花的吗？[碳排放权](https://zhida.zhihu.com/search?content_id=767514354&amp;content_type=Answer&amp;match_order=1&amp;q=%E7%A2%B3%E6%8E%92%E6%94%BE%E6%9D%83&amp;zhida_source=entity)的争夺是关于地球的吗？
+回到我们自己。新疆棉花事件是关于棉花的吗？碳排放权的争夺是关于地球的吗？
 
 记得丁仲礼院士那次对柴静振聋发聩的反问吗？中国人是不是人？
 
@@ -135,13 +135,13 @@ type: zhihu-article
 
 夺取话语权的关键，在于夺取议题设置权。
 
-当对方谈论[程序正义](https://zhida.zhihu.com/search?content_id=767514354&amp;content_type=Answer&amp;match_order=1&amp;q=%E7%A8%8B%E5%BA%8F%E6%AD%A3%E4%B9%89&amp;zhida_source=entity)时，我们不要顺着谈，我们要谈[实质正义](https://zhida.zhihu.com/search?content_id=767514354&amp;content_type=Answer&amp;match_order=1&amp;q=%E5%AE%9E%E8%B4%A8%E6%AD%A3%E4%B9%89&amp;zhida_source=entity)。
+当对方谈论程序正义时，我们不要顺着谈，我们要谈实质正义。
 
 当对方谈论选举形式时，我们要谈治理绩效。
 
 实力与结果之上，真金不怕火炼，真理越辩越明，只是辩题已经不是不是那些旧世界的陈词滥调。
 
-**价值锚点：[民本思想现代化](https://zhida.zhihu.com/search?content_id=767514354&amp;content_type=Answer&amp;match_order=1&amp;q=%E6%B0%91%E6%9C%AC%E6%80%9D%E6%83%B3%E7%8E%B0%E4%BB%A3%E5%8C%96&amp;zhida_source=entity)，构建广义人权。**
+**价值锚点：民本思想现代化，构建广义人权。**
 
 西方的人权观往往异化为天赋票权，而中华文明的底层逻辑是民本。
 

@@ -2,14 +2,14 @@
 title: "macOS 有哪些冷门但是一但发现就无法自拔的软件？"
 author: 林也
 source: zhihu
-date: 2026-06-27
+date: 2026-07-14
 url: https://www.zhihu.com/question/35050387/answer/166314681
 type: zhihu-article
 ---
 
 # macOS 有哪些冷门但是一但发现就无法自拔的软件？
 
-> ✍️ 林也 · 📅 2026-06-27 · [原文](https://www.zhihu.com/question/35050387/answer/166314681)
+> ✍️ 林也 · 📅 2026-07-14 · [原文](https://www.zhihu.com/question/35050387/answer/166314681)
 
 ---
 
@@ -23,15 +23,15 @@ type: zhihu-article
 
 下载地址：[WALTR 2 Download](https://link.zhihu.com/?target=https%3A//softorino.com/w2/download)
 
-![](attachments/cd0f45f8ee6a9f989d19c14d081347e1.jpg)
+![](attachments/fca3534022caf7d10791b232f8e7f437.jpg)
 > 用 iTunes传输文件大家都知道有多不方便，WALTR 就是为解决这个问题诞生的。WALTR 2在第一代的基础上，增加了wifi无限传输功能，同时增加了许多支持的文件传输类型。
 > 
 > 在官网上下载WALTR 2之后，可以使用邮箱申请，邮箱收到一份序列号，使用它注册成功后就可以开始有效期为1天的使用。正式购买需要270元。
 > 
-> 打开WIFI [传输模式](https://zhida.zhihu.com/search?content_id=60304548&amp;content_type=Answer&amp;match_order=1&amp;q=%E4%BC%A0%E8%BE%93%E6%A8%A1%E5%BC%8F&amp;zhida_source=entity)之后，同一Wi-Fi 环境下的设备之间可以开始文件传输，唯一的操作步骤就是把文件拖进传输界面，完成之后文件就会在iOS相对应的设备中显示了，相当方便快捷啊！
-![](attachments/24eca9903c9fc00cd8441925f0b2f5c3.jpg)果粉必备，对工作太有帮助了
+> 打开WIFI 传输模式之后，同一Wi-Fi 环境下的设备之间可以开始文件传输，唯一的操作步骤就是把文件拖进传输界面，完成之后文件就会在iOS相对应的设备中显示了，相当方便快捷啊！
+![](attachments/a567cb3e620375275267d02a44308de1.jpg)果粉必备，对工作太有帮助了
 
-**Cleaner One——磁盘清理、[系统优化](https://zhida.zhihu.com/search?content_id=60304548&amp;content_type=Answer&amp;match_order=1&amp;q=%E7%B3%BB%E7%BB%9F%E4%BC%98%E5%8C%96&amp;zhida_source=entity)类软件**
+**Cleaner One——磁盘清理、系统优化类软件**
 价格：免费
 下载地址：
 
@@ -43,8 +43,8 @@ type: zhihu-article
 
 下载地址：[HazeOver • 干扰调节器：在 Mac App Store 上的内容](https://link.zhihu.com/?target=https%3A//itunes.apple.com/cn/app/hazeover-%25E5%25B9%25B2%25E6%2589%25B0%25E8%25B0%2583%25E8%258A%2582%25E5%2599%25A8/id430798174%3Fmt%3D12%26at%3D1001ldFh%26ct%3DpzhihuLM)
 
-![](attachments/823b5c294bb1046423a757ffd87b9b32.jpg)
-> HazeOver的功能是在你打开了多个窗口时，通过将不活跃窗口的亮度降低，自动突出显示活动窗口或应用程序，帮助更好地专注工作。可以设置亮度和软件工作的时间，软件还支持夜间模式，在降低亮度的同时却不会影响前窗的[可读性](https://zhida.zhihu.com/search?content_id=60304548&amp;content_type=Answer&amp;match_order=1&amp;q=%E5%8F%AF%E8%AF%BB%E6%80%A7&amp;zhida_source=entity)或颜色精度。
+![](attachments/2c7791a01006cc2e2a67d785047c7ad3.jpg)
+> HazeOver的功能是在你打开了多个窗口时，通过将不活跃窗口的亮度降低，自动突出显示活动窗口或应用程序，帮助更好地专注工作。可以设置亮度和软件工作的时间，软件还支持夜间模式，在降低亮度的同时却不会影响前窗的可读性或颜色精度。
 > 
 > 这个功能看似可有可无，但实际体验却非常好，如果你非常不喜欢桌面同时有很多窗口，但又嫌每次关闭和打开需要的软件非常麻烦，那HazeOver对你来说就不可或缺了。使用过程中真的可以减少很多焦虑感，提高工作效率。
 ![](attachments/45b6e52fadca4ec5f7b2296bca347ce4.jpg)
@@ -72,4 +72,4 @@ type: zhihu-article
 
 **觉得有用的话  请赏个赞啊！！！**
 
-![](attachments/20a627d331c6707ab6077c408a7bff85.jpg)时隔两年[软件库](https://zhida.zhihu.com/search?content_id=60304548&amp;content_type=Answer&amp;match_order=1&amp;q=%E8%BD%AF%E4%BB%B6%E5%BA%93&amp;zhida_source=entity)更新了不少，补充一波！
+![](attachments/20a627d331c6707ab6077c408a7bff85.jpg)时隔两年软件库更新了不少，补充一波！
