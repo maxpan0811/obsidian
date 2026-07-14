@@ -1,3 +1,7 @@
+---
+tags: [★★★★★]
+---
+
 # 真正的思考技术：来自德国社会学 Niklas Luhmann 的 Zettelkasten 方法
 
 ---

@@ -1,3 +1,7 @@
+---
+tags: [★★★★★]
+---
+
 # Claude Code 七层约束（2）：任务开始前的准备/Hook+Skill+CLAUDE.md 分层设计全拆解
 
 ---

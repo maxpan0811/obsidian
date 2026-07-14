@@ -1,3 +1,7 @@
+---
+tags: [★★★★★]
+---
+
 # Claude Code新手必看：8个经验让你的CLAUDE.md更精准
 
 ---

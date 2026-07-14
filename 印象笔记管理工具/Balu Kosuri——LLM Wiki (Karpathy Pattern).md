@@ -1,3 +1,7 @@
+---
+tags: [★★★★★]
+---
+
 # Balu Kosuri——LLM Wiki (Karpathy Pattern)
 
 ---

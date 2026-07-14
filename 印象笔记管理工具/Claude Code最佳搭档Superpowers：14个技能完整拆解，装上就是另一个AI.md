@@ -1,3 +1,7 @@
+---
+tags: [★★★★★]
+---
+
 # Claude Code最佳搭档Superpowers：14个技能完整拆解，装上就是另一个AI
 
 ---

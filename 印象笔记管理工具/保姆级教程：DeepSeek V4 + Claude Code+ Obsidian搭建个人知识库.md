@@ -1,3 +1,7 @@
+---
+tags: [★★★★★]
+---
+
 # 保姆级教程：DeepSeek V4 + Claude Code+ Obsidian搭建个人知识库
 
 ---

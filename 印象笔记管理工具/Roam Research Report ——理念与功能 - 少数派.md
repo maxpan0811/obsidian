@@ -1,3 +1,7 @@
+---
+tags: [★★★★★]
+---
+
 # Roam Research Report ——理念与功能 - 少数派
 
 ---

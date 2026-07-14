@@ -1,3 +1,7 @@
+---
+tags: [★★★★★]
+---
+
 # 终端里的仪表盘Claude Code Statusline
 
 ---

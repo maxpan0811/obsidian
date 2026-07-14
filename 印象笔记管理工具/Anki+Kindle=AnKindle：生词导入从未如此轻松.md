@@ -1,3 +1,7 @@
+---
+tags: [★★★★★]
+---
+
 # Anki+Kindle=AnKindle：生词导入从未如此轻松
 
 ---

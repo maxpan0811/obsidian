@@ -1,3 +1,7 @@
+---
+tags: [★★★★★]
+---
+
 # 2026 年真正能让你 coding 效率起飞的 10 个 Claude Code / Codex 高星 GitHub 仓库
 
 ---

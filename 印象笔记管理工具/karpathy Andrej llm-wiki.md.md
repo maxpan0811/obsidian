@@ -1,3 +1,7 @@
+---
+tags: [★★★★★]
+---
+
 # karpathy Andrej llm-wiki.md
 
 ---

@@ -1,3 +1,7 @@
+---
+tags: [★★★★★]
+---
+
 # OpenClaw与ProcessOn Skill深度整合的完整实践！附详细操作教程～
 
 ---

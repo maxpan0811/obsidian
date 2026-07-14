@@ -1,3 +1,7 @@
+---
+tags: [★★★★★]
+---
+
 # 一套记忆系统，横跨所有Agent（Hermes/OpenClaw/Codex/ClaudeCode/etc.）
 
 ---
