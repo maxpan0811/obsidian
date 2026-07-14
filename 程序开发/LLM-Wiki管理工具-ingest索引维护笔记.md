@@ -500,3 +500,74 @@ query:      ✅ FAISS 源，分块去重正常，5 结果
 - 实现计划：`程序开发/FAISS Pipeline v2 实现计划.md`
 - 记忆：`20260711-faiss-pipeline-v2.md`
 - 旧版设计：`程序开发/FAISS检查点向量索引设计文档.md`（v1，已过时）
+
+---
+
+## 2026-07-14 FAISS v3: Ollama Embedding 引擎切换
+
+### 背景
+FAISS v2 使用 sentence_transformers + bge-m3 + PyTorch CPU 编码，遇到三个致命问题：
+1. **macOS 多线程崩溃**：Python 3.14 + torch + OpenMP → SIGSEGV，OMP_NUM_THREADS=1 绕行导致极慢
+2. **单线程太慢**：实测 0.08 files/s，23,668 文件需 82 小时
+3. **多进程内存爆炸**：每个进程复制完整缓存（12,810 条），4 进程合计 39GB，Swap 满
+
+### 方案过程
+- 尝试 MPS GPU：速度 2.0 files/s 但内存碎片化，运行 176 文件后 OOM 崩溃
+- 尝试 CPU 多线程（OMP_NUM_THREADS=4）：同样 SIGSEGV
+- 尝试多进程并行（4 进程 × 单线程）：内存爆炸（每个进程加载完整缓存）
+- **最终方案：Ollama + bge-m3 (Metal GPU) + FAISS 存储**
+
+### 架构变更
+```
+旧：sentence_transformers/bge-m3 (PyTorch CPU) → FAISS
+新：Ollama/bge-m3 (Metal GPU, HTTP API) → FAISS
+```
+
+改动范围：仅 `_load_model()` 和 `model.encode()` 两处，其他全保留。
+
+### 性能对比
+
+| 指标 | 旧 (sentence_transformers) | 新 (Ollama) |
+|------|--------------------------|-------------|
+| 速度 | 0.08 files/s | 2.0 files/s |
+| 加速比 | 1× | 25× |
+| 23k 全量构建 | ~82 小时 | ~2 小时 |
+| 内存 | 崩溃/泄漏 | 700MB 稳定 |
+| 稳定性 | Python 3.14 SIGSEGV | ✅ 无崩溃 |
+
+### Ollama vs ST 精度对比
+- 7 个查询 Top-5 重叠：5/5 (100%)
+- 得分差异：≤ 0.0006（可忽略）
+- 旧缓存（12,810 条 ST 向量）完全可用，无需 `--full` 重建
+
+### 遇到的坑
+
+1. **超长段落导致 Ollama 400 错误**
+   - 一个文件包含 659,531 字符的 base64 SVG 图片数据，被当作段落
+   - 修复：`MAX_PARA_CHARS=4000` 硬上限 + 无标点超长段落跳过
+
+2. **多进程内存爆炸**
+   - 每个 shard 进程 `_load_cache()` 加载完整 303MB pickle
+   - 修复：shard 模式从 checkpoint.json 读取文件名，不加载 pickle
+
+3. **checkpoint 不续传**
+   - `--limit 10` 测试后 checkpoint 标记 `completed: True`
+   - 正式跑时被跳过，从零开始
+   - 修复：重写为纯增量模式，去 shard 代码
+
+### 关键指标监控清单
+
+任何长时间任务必须主动监控（不等用户问）：
+
+| 指标 | 正常范围 | 检查命令 |
+|------|---------|---------|
+| 进程 RSS | < 2GB | `ps aux \| grep` |
+| 系统 Swap | < 1GB | `sysctl vm.swapusage` |
+| 日志新鲜度 | < 2 分钟 | `ls -lt` |
+| 速率偏差 | > 50% 预期 | 对比日志中的 files/s |
+
+### 当前状态 (2026-07-14)
+- 进行中：增量构建，Ollama 引擎，~2,800/10,858 文件完成
+- 会话 ID：`f52edae5-dba6-4311-ae70-49d13bf7f58a`
+- 终端命令：`nohup python3 -u wiki_faiss_build.py --incremental > /tmp/faiss_build.log 2>&1 &`
+- 脚本：`scripts/wiki_faiss_build.py` (v3, 386 行), `scripts/wiki_vector_query.py` (Ollama 适配)
