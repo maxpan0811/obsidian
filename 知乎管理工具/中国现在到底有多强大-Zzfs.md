@@ -2,14 +2,14 @@
 title: "中国现在到底有多强大？"
 author: Zzfs
 source: zhihu
-date: 2026-06-27
+date: 2026-07-14
 url: https://www.zhihu.com/question/36011633/answer/114867388
 type: zhihu-article
 ---
 
 # 中国现在到底有多强大？
 
-> ✍️ Zzfs · 📅 2026-06-27 · [原文](https://www.zhihu.com/question/36011633/answer/114867388)
+> ✍️ Zzfs · 📅 2026-07-14 · [原文](https://www.zhihu.com/question/36011633/answer/114867388)
 
 ---
 
@@ -31,16 +31,16 @@ type: zhihu-article
 
 [http://scimago.com](https://link.zhihu.com/?target=http%3A//scimago.com)处获得。下图是所有大类学科领域里citable documents的排名，中国稳居第二。
 
-![](attachments/daf46fc7f179205ec4a01b163d0640b1.jpg)下图是中国各学科的实力，越往右上角，圈圈越大越强。
+![](attachments/b9116a02f90c9589a7dbbbfb0cc3e662.jpg)下图是中国各学科的实力，越往右上角，圈圈越大越强。
 
 ![](attachments/9392cb70e9593ba0b4bd0ac8937a3a48.jpg)
 可见工程类和能源类中国的科研还是很活跃的，见下面两张图，中国的这两个领域citable documents力压美国。
 
-![](attachments/2e179ffaed280df9e2d2dcbf2d37835c.jpg)![](attachments/61a63160db62a0a826762fc2096a1a07.jpg)
+![](attachments/a32a6763e9c65b451611b588cce422f5.jpg)![](attachments/c59a1056945e1acdd63f71618869f110.jpg)
 
 好吧你们可能注意到了这个H index, 它是h篇被引用了h次的论文的数量，这个指数中国确实不能排第二。但是要论论文质量报告，请移步自然指数（简单理解为在最顶尖的几十个期刊里发表的论文数量），见下图(2015年全年数据）：
 
-![](attachments/d24aca14466b4e0bc1855879cf0b74b4.jpg)中国再次稳居第二。综上，我不敢说中国科研质量很高，但至少量多，质也不差。
+![](attachments/08c7662b76d0a29cc79eae23adadefe3.jpg)中国再次稳居第二。综上，我不敢说中国科研质量很高，但至少量多，质也不差。
 
 再看获得专利的数量，见下图（出处：World Intellectual Property Organization[WIPO]):
 
@@ -48,7 +48,7 @@ type: zhihu-article
 
 下图是专利数量的世界地图(出处：WIPO):
 
-![](attachments/3f904649c987c1105d171ac304a4f2bc.jpg)下图是
+![](attachments/38615697923cb21f366c8c2cc40f0e97.jpg)下图是
 
 [http://batelle.org](https://link.zhihu.com/?target=http%3A//batelle.org)发布的世界各国研发投入报告，横坐标是研发投入占GDP之比，纵坐标是每百万人口中科学家和工程师的数量，圈圈大小表示直接的研发投入值：
 
@@ -62,14 +62,14 @@ type: zhihu-article
 
 一、位于贵州的全球最大射电望远镜（FAST）已经完工
 
-![](attachments/55423862b8d2d869645c77c0f3a63b79.jpg)![](attachments/74bf7e2a88fce7cef8dad190b2d781ef.jpg)
+![](attachments/55423862b8d2d869645c77c0f3a63b79.jpg)![](attachments/87284437f73ad70813748e89a62a9753.jpg)
 (出处：BBC）
 
 二、世界最屌粒子加速器将在2028年前在中国完工，届时将是欧洲粒子加速器（CERN）的七倍powerful （来源：nature官网）。暂时无图
 
 三、大亚湾核反应堆中微子探测装置。技术和原理跳过，光看图片就够震撼（出处：BBC）：
 
-![](attachments/e52a1c7133d8fd73d06bdedc983881e0.jpg)
+![](attachments/6f61ab0d3ce7d1216a7e98dc0b879751.jpg)
 
 四、上海光源
 
@@ -79,7 +79,7 @@ type: zhihu-article
 
 五、实验用核聚变反应装置（EAST） 
 
-![](attachments/4a8221962d5aa412706db659b78dd0e2.jpg)
+![](attachments/eba9903d5c514ab05f3186b6c9df6533.jpg)
 （出处：[http://china.org.cn](https://link.zhihu.com/?target=http%3A//china.org.cn))
 
 核聚变可能还很陌生，具体我也不懂，但是绝对可以肯定的是，一旦这个技术在本世纪末能够用于商业发电，将比第一，第二，第三次工业革命加起来还更具有革命性！人类相当于获得了万世不竭的能源！
@@ -114,18 +114,18 @@ While the relationship between science and the state is politicized and complex 
 
 中国是下图红色国家的第一大贸易伙伴，是橙色国家的第二大贸易伙伴。若欧盟作为整体，则中国为欧盟的第二大贸易伙伴和最大进口国。图片来源：
 
-[http://ecdpm.org](https://link.zhihu.com/?target=http%3A//ecdpm.org)![](attachments/5ba8529f54a03b0e3e04e929f95344f6.jpg)由此看来，美国准备搞的跨太平洋贸易协定把中国剔除在外，根本就是搞笑好吗。
+[http://ecdpm.org](https://link.zhihu.com/?target=http%3A//ecdpm.org)![](attachments/ad6c4f823bb3ade38588d88c0011057f.jpg)由此看来，美国准备搞的跨太平洋贸易协定把中国剔除在外，根本就是搞笑好吗。
 
 美国各州的第一贸易伙伴如下图：
 
-![](attachments/c48d6f2d5dce547fd8a9f7ae4ce06e06.jpg)
+![](attachments/8eb228a830c8609b062ec7f64f332ce7.jpg)
 顺带黑一下三哥，下图是亚洲各国的主要出口商品（出处：mentalFloss）。我书读的少你不要骗我，precious stones是什么鬼？（回答评论区：我是知道是宝石啦，可是印度也算有点份量的国家，难道最大宗的出口商品是宝石？？）
 
 ![](attachments/b8b1ad92d4a0e2e3941c6979a89e2886.jpg)下图是最新的2016世界财富500强(中国名下数字未包括香港台湾企业）（出处：wikepedia):
 
 ![](attachments/45049746d1685a0dc138ee1d37501537.jpg)再看财富500强的世界分布地图(出处：Fortune）：
 
-![](attachments/d6428cbf176f7862f4b9f4e9ac493e1a.jpg)---8/5/16--更新--开始—
+![](attachments/7a67b15ebfd0f5f0969f27d34275f602.jpg)---8/5/16--更新--开始—
 
 **经济**
 
@@ -138,7 +138,7 @@ While the relationship between science and the state is politicized and complex 
 
 继续看下图，中国生产了一半的 船（按吨位算）、煤、猪肉，六成的鞋、水泥，七成的手机、太阳能电池板，八成的节能灯、空调，和九成的个人电脑。（出处：the Atlantics）：
 
-![](attachments/deac9b21f0242071143a7df3639b939c.jpg)
+![](attachments/6ba8f1d63cf4cb0857adc0a657d41d6f.jpg)
 很多人说（很多国人也是这么说），中国制造抄袭，质量差，没技术含量，血汗工厂。那么请捂好你们的脸——下面几张图是德勤 2016发布的制造业竞争力报告： 
 
 下图：圈圈大小代表制造业出口的产值；浅蓝、绿、深蓝分别代表 低、 中、 高技术含量的比重；横坐标是高技术含量的占比，纵坐标是工人人均GDP产出。
@@ -153,7 +153,7 @@ While the relationship between science and the state is politicized and complex 
 
 ![](attachments/4c92332cd823674d777ad735ea9d2fab.jpg)下图是各制造业大国的劳动力素质。横坐标是每百万人研发人员的数量，纵坐标是平均受教育年数：
 
-![](attachments/84247730f446c74eff64a5b54eb90957.jpg)
+![](attachments/1c9c2976cf48b6600e0901068e32ed2e.jpg)
 可见，中国在劳动力素质普遍较低的情况下，仍然在高新技术领域制造业取得重要地位，加上是近十几年高校扩招，越来越多的大专，本科，硕士、博士人才将不断为劳动力大军补充新鲜血液。中国智造刚刚起步！
 
 值得注意的是，中国2015年人均名义GDP才8000美元，而美国为56000多美元，中国相当于美国七分之一不到，经济正开始昂首迈进，已经消耗了接近半数的矿产资源，工业产值已经世界第一，所以说，西方的中国威胁论真的不完全是为黑中国而黑中国，而是真的吓出翔了。
@@ -166,12 +166,12 @@ While the relationship between science and the state is politicized and complex 
 
 下图是世界遗产最多的前几个国家（出处：wikipedia）：
 
-![](attachments/9f44327953700375f71b512b991dc25f.jpg)
+![](attachments/66cce2dac0499de1f35235cab4f31f0c.jpg)
 咋一看中国在世界遗产方面排在第二，落后于意大利。这其中有两个原因：1. 发源于意大利的罗马帝国是整个西方世界总想传承的荣耀，一下子超越了意大利这个西方国家的老脸往哪搁；2. 世界遗产组织规定每个国家每年只有两个遗产可以入围，而中国据说还有60多项遗产准备申请，更多重磅还在后头。
 
 要说世界遗产，特别是世界文化遗产，就不能不说一个国家的历史和文化。如果以文字的产生的城市的出现作为文明的开始，而且要基于考古证据的话，那么西方历史学界普遍认为商朝是中国最早的文明（若不是殷墟的发现，他们打算把商朝也否定了）。而最早的文明，位于两河流域的苏美尔滥觞于公元前3400年，古埃及，古印度河文明，古巴比伦，亚述等较晚一些，然后商朝更晚（公元前1600年），大概跟赫梯，爱琴海的米诺斯等同期，如下图（出处：youtube）但是，可以肯定的是，现在世界上现存的文明里，中华文明是最悠久的。知乎里有个问题“你从哪里感受到越南的强大”，里面有知友答案说，北方有个史诗般的国度，而且没有变成自古以来，足以证明其强大。
 
-![](attachments/daf56afeee1468246fb67f5e523509bd.jpg)![](attachments/30aa3a7298fd767bd6ff17792005fac1.jpg)
+![](attachments/b8ce8db86ca1b54915fcf83694799cca.jpg)![](attachments/7d1b202306cf8372c186a1fbc8186945.jpg)
 之所以称之为史诗般的国度，并不是说它一直很辉煌，而是因为在人类历史长河中，无数文明昙花一现，并最终消失于历史的尘埃中，而中国无论经历怎样的灾难和困难，依然浴火重生。中国天灾人祸绵延不断，旱灾，洪灾，蝗灾，地震，冰雹，史书中充满“岁大饥，人相食”；人祸方面，各种战争，内乱，分裂，数不胜数：匈奴，突厥，回纥，契丹，女真，蒙古；五胡乱华，侯景之乱，安史之乱，靖康之耻……让人感慨为什么华夏生在这个hard模式。然而给中国一两百年，还你一个盛世太平，刘邦的白登之围后有汉武帝缔造的封狼居胥和漠南无王庭；唐渭水之辱后有东西突厥的灭亡，蒙元的铁蹄后有永乐盛世和七下西洋；满清的屠戮后有康乾盛世；鸦片战争之后200年，我们期待下一个盛世。
 
 中国用粗俗的话说，是打不死的小强，用高雅的话说，是涅槃的凤凰。
@@ -182,7 +182,7 @@ While the relationship between science and the state is politicized and complex 
 
 最近两年美国提出的**G2**，有没有似曾相识的感觉？
 
-![](attachments/35b48cfc44800c6ca7e366fc5046187f.jpg)![](attachments/2416c3496c73b472fe9368ee6ce3c111.jpg)![](attachments/af7af14007132412b8a8f18815cf4b54.jpg)
+![](attachments/35b48cfc44800c6ca7e366fc5046187f.jpg)![](attachments/e19b0671d5996174991c9af1c19757e4.jpg)![](attachments/02f9ed87f481cc307ec9b631da62b990.jpg)
 环顾四周，确实如此：
 
 俄国：塚中枯骨；
@@ -201,39 +201,39 @@ While the relationship between science and the state is politicized and complex 
 
 然而这个坑我们是不入的：我们永远是发展中国家的一员（微笑脸）
 
-![](attachments/aaae7eb9b176b8cece100f9fd27158a0.jpg)**5. 全球布局**
+![](attachments/2ca9135f9915f926499a6610fa00cbea.jpg)**5. 全球布局**
 
 下图为计划中的中泰合作修建的卡拉运河（出处：
 
 [http://2point6billion.com](https://link.zhihu.com/?target=http%3A//2point6billion.com)），未来可绕过马六甲：
 
-![](attachments/ac22b62be3f5763dd1d0b66405911023.jpg)下图为计划中的中国投资的尼加拉瓜运河（出处：parallels），未来可绕过美国控制的巴拿马运河：
+![](attachments/f5081cabb51a02a5186b8e2cbb388c6a.jpg)下图为计划中的中国投资的尼加拉瓜运河（出处：parallels），未来可绕过美国控制的巴拿马运河：
 
 ![](attachments/d9ef58418dd84eb95c7b06a858a29412.jpg)下图为中国在南美的铁路计划（出处：quartz）：
 
-![](attachments/5528a0b608d62510b5951ea62a3b12af.jpg)下图为中国在非洲的交通设施建设计划，中国与非盟达成协议帮助54个国家修建道路，铁路，机场（出处：quartz）：
+![](attachments/c48121f985d5ea196addb5c4f0eb058b.jpg)下图为中国在非洲的交通设施建设计划，中国与非盟达成协议帮助54个国家修建道路，铁路，机场（出处：quartz）：
 
 ![](attachments/157cf3b250592e4bb7dd8da153ad4db6.jpg)
 下图为中巴走廊（出处：quartz）：
 
-![](attachments/57c9a0f5e64f968ca0468dfdd3bf5d49.jpg)![](attachments/8904437559d8e9825df097d2106f14fb.jpg)
+![](attachments/cd278a1b0f6438bf0fbff5c1b150044b.jpg)![](attachments/3f606d79768f41235d2a00255a9b7a1e.jpg)
 下图为中缅走廊（出处：hktdc）：
 
-![](attachments/08bec23eec35e22238a64660e4c4f350.jpg)下图为中国近二十年在全球的油气资源布局（出处：theChinaAnalyst）：
+![](attachments/1710fc1228200bd56eaeb7894513fae7.jpg)下图为中国近二十年在全球的油气资源布局（出处：theChinaAnalyst）：
 
-![](attachments/c34b7f1d2f2863dd69bc11d65c07e87c.jpg)下图为中国对外累计投资占比情况（出处：the New York Times）：
+![](attachments/1e4ddb198b709046c073976df01c1f1d.jpg)下图为中国对外累计投资占比情况（出处：the New York Times）：
 
-![](attachments/93cd2b493ccb55efbf3ee8d4bb0118b8.jpg)
+![](attachments/2d61c1ba97f4d472a4523bd5d40ff06b.jpg)
 
 ----8/4/16-----第一次更新开始------------------
 
 下图更直观反映中国在非洲的基建（出处：business insider):
 
-![](attachments/96a39cf8691dae7631d213d70c972d53.jpg)
+![](attachments/de1ddfb45829584314310d41253318c5.jpg)
 
 下图是中国几个大基建项目，投资都是十亿美元为单位（出处：the New York Times):
 
-![](attachments/6467e4a78ec3b70094f8aa1ca829c218.jpg)
+![](attachments/a304734786062db1cc6e60f9558e6a2d.jpg)
 ![](attachments/ccf8dfaae2cb5ed8d62b68d478651057.jpg)
 
 ----8/4/16-----第一次更新结束-------------------
@@ -254,11 +254,11 @@ While the relationship between science and the state is politicized and complex 
 
 还有就是奉劝一下大家，各种什么什么指数排名的，主观性太强的话，还是别看了吧，都是各种指标凑一起算个加权。随便举两个例子，看下面的康奈尔大学联合wipo发布的2015"创新指数"排名：
 
-![](attachments/36b88e6a865b7da6f2daaf28aa224e71.jpg)尼玛，中国的创新指数不如马耳他啊，不如斯洛文尼亚啊，不如香港啊，不如爱沙尼亚啊；日本的创新指数不如爱尔兰啊，不如卢森堡啊，不如香港啊。。。已经哭晕在厕所。
+![](attachments/df1637ec82722ddbc881a131c80ebdc3.jpg)尼玛，中国的创新指数不如马耳他啊，不如斯洛文尼亚啊，不如香港啊，不如爱沙尼亚啊；日本的创新指数不如爱尔兰啊，不如卢森堡啊，不如香港啊。。。已经哭晕在厕所。
 
 再看更雷人的2015经济繁荣指数（来自legatum institute):
 
-![](attachments/c8f3bc6f94884ce0237ad230e8e1c044.jpg)不好意思这个指数前50名找不到中国。不过既然这些国家都比中国繁荣的话，如果给你一笔钱，你会去哥斯达尼加投资呢，还是去塞浦路斯投资呢，还是去拉脱维亚投资呢，还是去巴拿马投资呢，还是去葡萄牙投资呢，还是去罗马尼亚，特立尼达和多巴哥呢……
+![](attachments/5d3564b16545b21c3d023acf6b6094f6.jpg)不好意思这个指数前50名找不到中国。不过既然这些国家都比中国繁荣的话，如果给你一笔钱，你会去哥斯达尼加投资呢，还是去塞浦路斯投资呢，还是去拉脱维亚投资呢，还是去巴拿马投资呢，还是去葡萄牙投资呢，还是去罗马尼亚，特立尼达和多巴哥呢……
 
 -----------------------------------------------------------------------------------------------
 
