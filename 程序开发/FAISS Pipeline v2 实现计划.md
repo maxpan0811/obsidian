@@ -1022,3 +1022,40 @@ for f in to_remove:
 4. 更新 memory `20260711-faiss-pipeline-v2.md`
 5. 更新 SKILL.md（`ChromaDB 向量索引` → `FAISS 向量索引`，构建时间 ~17h → ~1.8h）
 6. 追加本执行日志
+
+---
+
+### 2026-07-15 · FAISS v3 OOM 修复（Claude Code 会话）
+
+**系统任务序列号:** PID 55213（FAISS build），Claude Code 会话 ID: 本 session
+
+**问题:** 增量构建 47,819 个新文件时，跑至 8,128/47,819（17%）被 macOS OOM killer（Jetsam）SIGKILL。原因：BATCH_SIZE=32 下 batch embedding 峰值内存过高，系统 64GB RAM 占用 ~56GB，Swap 6GB 近满。
+
+**根因分析:**
+- macOS 日志无 Python 异常，进程被外部终止
+- 8128 个文件的 embedding 向量累积 + batch buffer + index merging 线性增长
+- ETA ~162min，到 17% 时系统判定内存压力过大直接砍
+
+**修复（修改 wiki_faiss_build.py）:**
+```
+BATCH_SIZE:       32 → 8      （单次 batch 峰值内存降至 1/4）
+CHECKPOINT_EVERY: 100 → 50    （更频繁存盘，减少丢失）
+每批后:           del 变量 → del + gc.collect() + time.sleep(0.5) （显式释放 Python 和 Metal GPU 内存）
+```
+
+**执行结果（修复后首次运行）:**
+- 从 checkpoint 续跑：31678 files done, 39820 remaining
+- 速度：~3.0 files/s（略降，但消除了 OOM 风险）
+- 仅 288 个文件后因 Ollama 被前次 OOM 连带杀死而报 HTTP Connection refused 失败
+- 重启 Ollama 后重新提交构建
+
+**提权经验:**
+- 纯 `del` 变量不够——必须显式 `gc.collect()` + `time.sleep()`，因为 Metal GPU 内存释放是异步的
+- Ollama 被 OOM 杀后会留下 runner 僵尸进程，主服务不可用但 ps 能看到 runner；此时需 kill 僵尸 runner + `ollama serve` 重启
+- 64GB RAM 下 ~48k 文件 batch_size=8 可以跑通，>16 可能触发 OOM
+
+**相关文件:**
+- 脚本: `~/.claude/skills/LLM-Wiki管理工具/scripts/wiki_faiss_build.py`
+- 构建日志: `/tmp/faiss_build.log`
+- Memory: `.claude/projects/-Users-panbo/memory/faiss-v3-oom-fix.md`
+- 更新: SKILL.md 的 FAISS 构建行 (BATCH_SIZE=8, checkpoint 每 50 文件, +gc.collect sleep)
