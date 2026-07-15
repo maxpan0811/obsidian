@@ -655,3 +655,37 @@ Ollama 模型目录从 51GB 降至 ~6GB。HuggingFace 缓存 9.8GB 未清理（b
 - 进度：960/47,819 (2.0%)
 - 会话 ID：`f52edae5-dba6-4311-ae70-49d13bf7f58a`
 - 终端命令：`nohup python3 -u wiki_faiss_build.py --incremental > /tmp/faiss_build.log 2>&1 &`
+
+---
+
+### 2026-07-15 桌面看板设计（brainstorming 阶段）
+
+受叁笙文章启发，设计携程市占率桌面看板。
+
+**数据源：**
+- `/Users/panbo/Documents/artnova/2026年1-12月携程渠道海外跟团游订单明细(自营&代理)YYYYMMDD.xlsx`
+- `/Users/panbo/Documents/artnova/2025年1-12月携程渠道海外跟团游订单明细(自营&代理)YYYYMMDD.xlsx`
+- 每周一更新文件（日期后缀变化），跑脚本刷新看板
+
+**布局：**
+
+| 板块 | 显示方式 |
+|------|---------|
+| 欧洲 | 全宽堆叠，6 大区 + 汇总 |
+| 美洲 | 全宽堆叠，6 大区 + 汇总 |
+| 澳新 | 全宽堆叠，6 大区 + 汇总 |
+| 中东非 | 全宽堆叠，6 大区 + 汇总 |
+| 中亚高加索 | 全宽堆叠，6 大区 + 汇总 |
+
+每板块 4 行：华程市占 → 华程市占率同比 → 华程营收同比 → 大盘营收同比
+
+**交互：** 顶部 [月][季][半年] 按钮切换，月模式下显示月份选择条
+
+**技术路线：** Übersicht (macOS 桌面 widget) + Python 数据采集脚本
+
+**会话 ID：** f52edae5-dba6-4311-ae70-49d13bf7f58a
+
+**相关 mockup 文件：**
+- layout-v7.html（设计定稿）
+- layout-v12.html（浅色主题 + PingFang 字体）
+- 路径：`~/.superpowers/brainstorm/38651-1784078818/content/`
