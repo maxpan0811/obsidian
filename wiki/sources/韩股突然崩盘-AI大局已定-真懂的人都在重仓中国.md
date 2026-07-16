@@ -114,3 +114,9 @@ FP8算力达8E FLOPS，FP4算力达16E FLOPS，互联带宽达16PB/s，相当于
 赚不到钱单纯是因为你对中国一无所知。100+深度文章尽在《中国力量》合集。
 
 ![](attachments/46d8a6b2782814dc.jpg)
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzI3Njg3MzQ4Nw==&mid=2247492483&idx=1&sn=22875a94eed56220950264540744f5e2&chksm=ea0624e5674e5e577edf8c928025cbb1456d3b527db9de473dc9ac224a2c2deae03c6b7ad600&scene=90&xtrack=1&req_id=1772791056361235&sessionid=1772791150&subscene=93&clicktime=1772791230&enterid=1772791230&flutter_pos=3&biz_enter_id=4&ranksessionid=1772791056&jumppath=1102_1772791146350,1106_1772791147556,1001_1772791148482,1104_1772791150769&jumppathdepth=4&ascene=56&devicetype=iOS26.3&version=1800452d&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQLQELF6nszuT/aU2Y+7zfWBLTAQIE97dBBAEAAAAAAGErNrcjsjUAAAAOpnltbLcz9gKNyK89dVj09ijoDqxYklfOyRFAopGElcyckE6owiQB1vn69gE3SKcluIZqlqFT0Ako3qZ8VSkzbaDljhdSyIFOpXW9KlVq/Rzv2sfiTv9T/Uh0UreyJOGC97HsYnDdVSKEXieGvI3/pn6IsqvyPTrtA0OjsO1hyjT8mU/i0Fzehkep932XUPGgGN0eTznnFfB7IYXGoaNaF6NaiXgO/z+Tb9CHF3vhIvDkeveT2AcYcdKdBJo=&pass_ticket=zoogQ3Iu+ys4tQnTZYoY0TAQFnEO5MVDUcoOKVQk62GvPuqw76FPMmKfSJHjpDu0&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/f854d5b5-ea7d-4654-bb6e-a4a89b0c3700/f854d5b5-ea7d-4654-bb6e-a4a89b0c3700/)

@@ -39,3 +39,9 @@ guid: 32d4eee9-e394-458b-b930-3047a3974d2f
 #AI#AI提示词#英文播客#提示词工程#提示词技巧
 
 Close
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzI2MTI4NTYxMA==&mid=2247506187&idx=1&sn=eaafeea1267a2ab572644d77c329b546&chksm=ea5e2a8edd29a3985c0d191c4f320bef5a66356115f716611af64b81140cc006272217706131&exptype=servicebox_7458314898044104704&subscene=0&scene=288&clicktime=1778200848&enterid=1778200848&flutter_pos=1&biz_enter_id=5&ascene=56&devicetype=iOS26.4.2&version=18004921&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQ0EWXQP2k5TzRXsTQNCTxVxLVAQIE97dBBAEAAAAAABiwAVQ93Q4AAAAOpnltbLcz9gKNyK89dVj0cNHUUc02wUUjJYUr1fFsNgkmqb5BgkTo5LmLDW3ZdJu0bCFFfmlP3WJLEnrqZBvTIg/mRV5KREsRSyuujGZQqp5vzDadNejbyj8NJPlw1jZYuncq0t4orMCAfCPozSUObZFh2f3Z+euAMgqb9xJKzNbz0VQxpI+3RtR4DhNXYfHOsyhKOKz410XK9vIsNy7jZ7DMmUrjKDCW01tIUYRSEgpsb0AkxHXizOBDUA2V6w==&pass_ticket=+EP17rKIrwfFn5IlZN0Itdsu0cGaie+Jzq6BMnMxrbAQkgIhoN0FMvn4lrbgL0P1&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/32d4eee9-e394-458b-b930-3047a3974d2f/32d4eee9-e394-458b-b930-3047a3974d2f/)

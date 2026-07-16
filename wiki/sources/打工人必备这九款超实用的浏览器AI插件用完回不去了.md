@@ -227,3 +227,9 @@ SKetchRemaker：AI 草稿图生成图片
 ![](attachments/8e3a6725e52d764a.jpg)
 
 附上 Chrome 浏览器插件下载地址：https://chromewebstore.google.com/detail/sketchremaker-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%8D%89%E7%A8%BF%E5%9B%BE%E7%94%9F%E6%88%90%E5%9B%BE%E7%89%87/ojdgejhgkempfgblgopbdfpadpkhhakm?hl=zh-CN
+
+
+---
+
+[🌐 原始链接](http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&mid=2651008798&idx=1&sn=f3b97920eac6cdfa10b1eda4edd46956&chksm=bd5b1db98a2c94af192d81b752e825d370538561a283fafdb3651133a4adb16638c447d1ef84&mpshare=1&scene=1&srcid=07205wBXy4j8K4VAaa1Kqsf8&sharer_shareinfo=e69f7c1eb4d30b3a47cbdc9ef3cbe19b&sharer_shareinfo_first=e69f7c1eb4d30b3a47cbdc9ef3cbe19b#rd)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/cffaa0c1-ce2b-49da-bfec-94b99b57952f/cffaa0c1-ce2b-49da-bfec-94b99b57952f/)

@@ -86,3 +86,9 @@ Basic 中配置 API Keys -> Set Keys
 参考资料[1]
 
 地址:*https://platform.deepseek.com*
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzI3NzcwOTY4MQ==&mid=2247488296&idx=1&sn=e5b644a3b5b8300b1a224f6724d2137d&chksm=ea62ac9a08d5db09d2fede36f59d49ab598d3a69c62433ff49ffd592d4202adeb563cff29a95&scene=90&xtrack=1&req_id=1776255841822100&sessionid=1776253836&subscene=93&clicktime=1776259220&enterid=1776259220&flutter_pos=10&biz_enter_id=4&ranksessionid=1776255841&jumppath=30024_1776255926503,1104_1776255960767,20020_1776255972535,1104_1776259211553&jumppathdepth=4&ascene=56&devicetype=iOS26.4.1&version=18004637&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQYNpeVvyZwZQFTq0tSBY+XxLVAQIE97dBBAEAAAAAABIKKCUu39IAAAAOpnltbLcz9gKNyK89dVj0LjSJEo3q4KZzQGXIMGRPpozDNuwFAhslsVq/dIoETudHyusHlDfm2H7K8k4prXz4UABoB1IR7+mHGsfyy8JDmfb1ejh9UMcZvzHxVF1Up42YbSQLG+UnCTE6oCicKdCoN5/8nkQ+u2o1ZdlZor+Uze9RmHErJiaE0FYpWvXTFXkjSDtBHfwcnse6JKm6/PMHPrPvvpMYQeR2qKGxX4Ui0sbp7Oas3UPmGaYLohbhEg==&pass_ticket=83pCMiDchRfQkK6XC4ENn4r/xPv2rINXz+OXxsBganpoM/nfZEBpU9hcy6MWrRPM&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/39b88bce-0ade-4ec8-a2cc-7fd0a6d104f2/39b88bce-0ade-4ec8-a2cc-7fd0a6d104f2/)

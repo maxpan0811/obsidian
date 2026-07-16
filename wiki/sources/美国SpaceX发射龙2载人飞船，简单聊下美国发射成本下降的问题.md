@@ -113,3 +113,9 @@ Boeing also defended its higher CCtCap（Commercial Crew Transportation Capabili
 亚马逊电子书：
 
 ![](attachments/709e83d5988285c6.jpg)
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s/lJCNC28ckWO5FAAzDrpMsQ)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/09a00138-1886-4723-9ae3-90c6ed654e03/09a00138-1886-4723-9ae3-90c6ed654e03/)

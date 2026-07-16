@@ -168,3 +168,9 @@ MLCC，片式多层陶瓷电容器
 **图片源于网络，侵删**
 
 **- END -**
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzA3NjAyMDM5OA==&mid=2649944432&idx=1&sn=2584d6e1fbce6ae78b2fecaf9c42f22c&chksm=86a3e7acf94b2f80f91aa9b3494232ca9d921c2a309d260a569691a56f2e63747e67a19fa572&scene=90&xtrack=1&req_id=1781529337212199&sessionid=1781527535&subscene=93&clicktime=1781529381&enterid=1781529381&flutter_pos=25&biz_enter_id=4&ranksessionid=1781529337&jumppath=20020_1781529219997,1104_1781529238868,20020_1781529336657,1104_1781529353562&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=18004a2f&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQeI5CIaela+D0G5ZnQAG6ARLTAQIE97dBBAEAAAAAAI/zBvvoJScAAAAOpnltbLcz9gKNyK89dVj0R9PG9zf/KZK7R/bE+4c7TdVoDTrCnnDl2MGnJZtMG9fdRWHvLgYRnHHvjXbPdUq1ecspZt+Aqmjxm7UyUMHwgJKRqJgDcIPfuPt6SgaWtUU+7yvv5j8f5agfugu+vcObxlM9n1w9edqqGgpn7mdcur3hQeT7EOmlyojQZ9l3ESSzULNAV8K7g0Q4RoufvL7RV+qFtk1Jl4aovaqBT4cQ6/UXeWq4WxhQQrYxPWk=&pass_ticket=Y94EV9m5a5oCa9D8J7UcMCkqdQ+uNeGg0P+0ZQ0t0mfia5YHUl71utwsovBqPqY7&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/01a174b4-4d77-456a-9fff-3157f36ba028/01a174b4-4d77-456a-9fff-3157f36ba028/)

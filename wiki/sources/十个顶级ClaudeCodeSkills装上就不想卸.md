@@ -185,3 +185,9 @@ GitHub: https://github.com/anthropics/claude-plugins-official/tree/main/plugins/
 - • Awesome Claude Skills 社区列表：https://github.com/travisvn/awesome-claude-skills
 - • Claude Code Skills 文档：https://code.claude.com/docs/en/skills
 - • Skills 市场：https://skillsmp.com/
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s/b-0ppca5YhiGgxR_mWJNVA?clicktime=1774845598&enterid=1774845598&exptype=unsubscribed_card_recommend_article_u2i_mainprocess_coarse_sort_pcfeeds&ranksessionid=1774845430_1&req_id=1774845430540093&scene=169&subscene=200)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/ba308127-794a-4b71-96cd-1fe5d632c09b/ba308127-794a-4b71-96cd-1fe5d632c09b/)

@@ -89,3 +89,9 @@ guid: c25f9c4d-ec89-42b7-837d-c4cf741009e3
 *吉迪恩•拉赫曼(Gideon Rachman)是英国《金融时报》首席外交事务评论员。他的新书《东方化》(Easternisation)日前由英国Bodley Head出版社出版*
 
 译者/何黎
+
+
+---
+
+[🌐 原始链接](http://www.ftchinese.com/story/001068907?full=y)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/c25f9c4d-ec89-42b7-837d-c4cf741009e3/c25f9c4d-ec89-42b7-837d-c4cf741009e3/)

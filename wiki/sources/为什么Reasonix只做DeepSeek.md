@@ -36,3 +36,9 @@ guid: 7d6af4d8-3f1a-4a49-b50f-00db82e16568
 #DeepSeek-Reasonix #Reasonix#DeepSeek#AI编程#CodingAgent#开源项目#终端工具#PrefixCache#缓存命中率#低成本AI#长会话#开发者工具#Token成本#CLI工具#AI工具#项目解读#一分钟看懂#技术科普#开源推荐#程序员
 
 Close
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzkwMjE5ODUxNg==&mid=2247484896&idx=1&sn=f9ea3f3f31b164538ceab2c863104d82&chksm=c1a82c0212060be61a85c148e033b09242619a5d59d2e488b49360adf79dd50859e0f14ed406&scene=90&xtrack=1&req_id=1779522096563956&sessionid=1779522314&subscene=93&clicktime=1779523252&enterid=1779523252&flutter_pos=5&biz_enter_id=4&ranksessionid=1779522588&jumppath=20020_1779523185893,1104_1779523186768,20020_1779523192291,1104_1779523237651&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=18004931&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQRedDCb5fsrZvd/nl/v+gABLTAQIE97dBBAEAAAAAAF2KM4QoL4MAAAAOpnltbLcz9gKNyK89dVj0gq/e6vvqJNk1CXkOElE1g/j02FVeQyiR9YtYVmMijvnS1oWkz6yIVK0AirDygxhAnc3Ur1ETfaswflEx/bgcDsc2IVQQJpsJDnz76yw0YEXLHLwzKeywHpbOt6M31vfBBccB6K0sCP6ET1E2h8gfN2gqk1jRJaVxNjNTOd8cgzU03v5a9C+GJik/xjESNcBzUCu8/00+XEDGz1aZZWHr7d/hYv72lTYz9lAzXVI=&pass_ticket=DKQJWD3eB7PNB+yUlJhK5IfFsb2pMz3VEo/gKg3/b7OB0iM2RryRyyQ7IfZCLk4C&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/7d6af4d8-3f1a-4a49-b50f-00db82e16568/7d6af4d8-3f1a-4a49-b50f-00db82e16568/)

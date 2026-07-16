@@ -276,3 +276,9 @@ AI淘汰的是流程搬运工，不是复杂交易的负责人
 接下来真正值钱的，不是谁手里房源多。  
   
 而是谁能让客户在最大的一笔交易里，少一点慌。
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzAwODI5Njk5MA==&mid=2247484739&idx=1&sn=1a7d74f93e197124cd087a313563f528&chksm=9a4a14e6154f853c59c6014129aa10f0f58cf7654298587682ace2d1902d49b2ca3453346025&scene=90&xtrack=1&req_id=1781763608574762&sessionid=1781763307&subscene=93&clicktime=1781763769&enterid=1781763769&flutter_pos=18&biz_enter_id=4&ranksessionid=1781763608&jumppath=20020_1781763607896,1104_1781763665452,1101_1781763681582,1104_1781763685788&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=18004b25&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQSwUUsvcCEiiee/FSJv766RLTAQIE97dBBAEAAAAAAF4ZOCpRFN4AAAAOpnltbLcz9gKNyK89dVj0zSo6Rv6fm7RisMBhoE0ZKj8XSomi/XCeBs5Olhw2vKkpUYpVm2RDSDyg+DEo+1tegohHebXyPkgIPaeHPrGNkzSEBSELJD5O7cA9GGvgelQxqPOCUVWaHFjSIW0TnMi19lQDJ1mv94WbrmxGcFfyR0PkQpMiAXLJ1dH61bvu3LsmmKUIrxopT+GUn7vlaCUBa4JnmxTcGhveWZnoJWXX5DgCiyvOYQzU2dFXc5Q=&pass_ticket=JwqoP3bqqP0q7Q4U90i4dtwnTNliGptYTO71bejPefr9axU1odO1O6uDFUh2m0B0&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/0f105e68-a865-45af-9e33-fd646721e38e/0f105e68-a865-45af-9e33-fd646721e38e/)

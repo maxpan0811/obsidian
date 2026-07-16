@@ -244,3 +244,9 @@ LangChain 把 AI 工程分为四层：
 评论区说说：**你最想用 Loop 自动化哪个重复任务？**
 
 我先来：我最想自动化的是"回复合作咨询邮件"——每天至少有 5 封类似的邮件，完全可以交给 Loop 处理。
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&mid=2247723482&idx=1&sn=52522523fc778c878f71c1d9061535e3&chksm=e99d8dcb28c56142a0a1b409964970caa7f5d0a522dcd7639ebb8b6f16bb9185e5d7bba00910&scene=90&xtrack=1&req_id=1781481180240491&sessionid=1781481346&subscene=93&clicktime=1781481356&enterid=1781481356&flutter_pos=1&biz_enter_id=4&ranksessionid=1781481180&jumppath=1001_1781481329913,1104_1781481347188,20020_1781481349673,1104_1781481354016&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=18004a2f&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQHGH12cKK+CAMN1iy82FMkBLTAQIE97dBBAEAAAAAAFSgE67IwOMAAAAOpnltbLcz9gKNyK89dVj0V3nK4EEjV6kNwukHSwEhkjYXRzBjkTnCu1MdTprajM3qZD0I04xpoYoEDh9y9EM7tyl3hFgn0iN20KVW0ZcPgZK0mtzCnsznDyMIF263OZMwwPbj4fuF0CuqFkCq1TWxap1ItEWEecU6/ViepVhme55nedU0ay5Wxt7uAVHbLj2AyloSim3W3SHhbLoiUhVopaEu1fiZsw4l3ARS8f9rxvD1W628/tZ1U/ipafk=&pass_ticket=KGug9bo/3RHMfWuG8NGJzGBGKD8E4JW070IspUpc37oFkxathCquI9sNk5vZsunh&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/306d63ca-2c54-42ab-8d0f-3440e1041e84/306d63ca-2c54-42ab-8d0f-3440e1041e84/)

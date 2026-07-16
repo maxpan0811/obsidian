@@ -314,3 +314,9 @@ GE的衰落，象征着美国工业实力仍然在不以人的意志为转移地
 [以金融视角看世界：从万历十五年到2017年，大国衰落的轮回又将重演？](http://mp.weixin.qq.com/s?__biz=MzUwOTA4MjQ4Ng==&mid=2247484409&idx=1&sn=90c1c6db2c7e8553f724abd28a1fab1e&chksm=f916ede0ce6164f6c5a1ef2c1304957f4568bbafe16f3fe78ffc84a53b58b4f4b5097379fdfb&scene=21#wechat_redirect)
 
 [马云和刘强东不约而同开始谈论马克思主义，对世界意味着什么？](http://mp.weixin.qq.com/s?__biz=MzUwOTA4MjQ4Ng==&mid=2247484407&idx=1&sn=5d1e4837ca41e42b48ef354f291ccba7&chksm=f916edeece6164f836625e1d219e1139fb6515ae495f6dba2caf9ea070f72d1542bccdacd499&scene=21#wechat_redirect)
+
+
+---
+
+[🌐 原始链接](http://mp.weixin.qq.com/s?__biz=MzUwOTA4MjQ4Ng==&mid=2247487036&idx=1&sn=79673fd1ef3bf679a0ee8cc16c401488&chksm=f916e025ce616933309ce98650c9bab7a4a20032caa0992d9668389f91835e3f3cf494c1e120&mpshare=1&scene=1&srcid=0702mdIXk3yIPbeyJRDB6yQP#rd)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/98c129b4-9fd1-4fc8-89bc-819a81192e3f/98c129b4-9fd1-4fc8-89bc-819a81192e3f/)

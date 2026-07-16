@@ -107,3 +107,9 @@ Moom ($15 买断)：如果你屏幕上总是开了十几个窗口乱成一团，
 | **Indigo** | 自动过滤重复内容的聚合社交时间线 | *新品预告期*，需关注开发者 TestFlight 动态 |
 | **Parcel** | 跨平台、多端同步的全网快递追踪 | 官网 `parcelapp.net` 或 Mac App Store |
 | **Moom** | 预设布局、键盘驱动的窗口网格管理 | 官网 `manytricks.com/moom` 或 Mac App Store |
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzA4MzM1NjI4OA==&mid=2650563200&idx=1&sn=91e0003f00bc5e903d3a22cd4fc35698&chksm=8665e33d637d4c16eabbf04947ee29cb7683c47241ca43e87d142abbecc3dc63756173fa3a2f&scene=90&xtrack=1&req_id=1779628133881425&sessionid=1779628183&subscene=93&clicktime=1779628433&enterid=1779628433&flutter_pos=1&biz_enter_id=4&ranksessionid=1779628133&jumppath=WAWebViewController_1779628279879,20020_1779628399631,MMSnackBarWindowViewController_1779628401980,1104_1779628403652&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=18004933&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQBhadkT0fK/9l+aHbP06cuxLTAQIE97dBBAEAAAAAAPonD8zVUA4AAAAOpnltbLcz9gKNyK89dVj0Kll6A/4JRLEPup3fHQFnmHaTTMVicoqw6iKxBGhkrUvBRjrDYAdeHbz250Moxyz/YmEFN1YR3p0R7D4IlfwBw9+RsQcIxs1GAGjy0bz0b2daL2gcVkIy5w4aRpey9nXvuRlhKSZW7TfGsgc8GLwta9nZjySIHbgQBKJPXQ3O0t3cNJJRp0PBh+Irf2PeyC2O7+rTRFthNPMzxpMLN4m46IMYNvyUUb6Bdw5HClo=&pass_ticket=AFuhcMvKpROEeAOxFMAtKKhZa8WK/VoqH9MW8aIKqzE0AnyXIkFHEyxA5CZ6Ny6O&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/b8e7b236-ee33-460f-99c9-b79a49adf155/b8e7b236-ee33-460f-99c9-b79a49adf155/)

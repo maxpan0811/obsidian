@@ -217,3 +217,8 @@ https://codexapp.cc
 掀Claude Code的桌子！Codex 一键搬家功能
 
 Fable 5 下架，但它的工作流被 Codex 继承下来了！
+
+
+---
+
+[📎 在印象笔记中打开](evernote:///view/207087/s1/20b87bb3-a3ef-48e1-b82d-428bbc72c8ca/20b87bb3-a3ef-48e1-b82d-428bbc72c8ca/)

@@ -101,3 +101,9 @@ ProNotes 提供类似 Spotlight 的快捷搜索窗口，用户可通过快捷键
 ### ProNotes 官网地址
 
 https://www.pronotes.app/
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?chksm=f2405db0c537d4a65baaa0248e76daf5767b33e06a6350e879037204ed57e4a33693a7461c1b&exptype=unsubscribed_card_recommend_article_u2i_mainprocess_coarse_sort_tlfeeds&ranksessionid=1745934793_3&scene=169&mid=2650483427&sn=555cb17182ce0a308758cc1be36dd7a5&idx=1&__biz=MzI2MjEyODE4OA==&sessionid=1745933309&subscene=200&clicktime=1745936062&enterid=1745936062&flutter_pos=57&biz_enter_id=5&jumppath=20020_1745935990900,1104_1745936020888,20020_1745936031789,1104_1745936048427&jumppathdepth=4&ascene=56&devicetype=iOS18.4.1&version=18003b24&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQuGuY3cwcVJJW8mEBf/9CARLVAQIE97dBBAEAAAAAACKNE+/SWCcAAAAOpnltbLcz9gKNyK89dVj0i9HNBmTrcpRF1NBesle+xmZQENAriI8mAQdC04XM9wu8Xp7FF37QhZ5ka9DH4+K8+sM0rKxsdDZPDPKwc817s2UifBEOg97/Ac7LqQlujp05cuX/UlcWReh7uSFrNmxNx4tgHOsOhvIZZiGXUNSSdixRGFyJM8tyX9Mej9b5aP//5AbRcnQMmWpaY3dReTKHLke17jezJXp1e+/J5I0eAUS7ebvuoyOrkXx1oglJyQ==&pass_ticket=rBv1tCoGXESuIXZBDm7h7VkolKORIbblksfdo+6nHmWkPmbA6nFZwMxc+ZM2LGkN&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/14889e49-fdac-4123-a98f-2026d579a613/14889e49-fdac-4123-a98f-2026d579a613/)

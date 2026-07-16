@@ -185,3 +185,9 @@ Agent 要从玩具变成基础设施，差的就是这层外壳。
 ![](attachments/30dd10ec00f2ec8a.png)
 
 **一起“**点****赞”****三连**↓**
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&mid=2247723078&idx=1&sn=fc963b3ad9acb1ce115e0c554d40d330&chksm=e99afb6feafd646da7eda3b3f2304c04b8628b566495a63e2719f1ad4ea6b0b8b5a68b7de143&scene=90&xtrack=1&req_id=1779924948851122&sessionid=1779923471&subscene=93&clicktime=1779925556&enterid=1779925556&flutter_pos=8&biz_enter_id=4&ranksessionid=1779924948&jumppath=20020_1779925379162,1101_1779925379391,20020_1779925383683,1104_1779925553290&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=18004935&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQ7yfSzASljXkf/vvDAIXlWhLTAQIE97dBBAEAAAAAAClKNmYsLxsAAAAOpnltbLcz9gKNyK89dVj0MYYw/KYDpxfAHzQI+kpqXRNMeDIWd0/8sKx2xHVUDaBQhkgaORoJSIOzYoR1dvbgRUyxgZKgvuFoJaIK/ZF4O6/rps33zb1bUnStxywwk5ogOP+RD9ztx/Y8tSlHRjR2eX2jIFz65y01z5//DOViIoLTVTmIvthA85A4Bql+RwctrfjeG4/THg7Iq3l8MohXP0oWKwIvfhI6HLYvrxXV676HHgxfqo1ujjQNJ1g=&pass_ticket=Wu7Rfoo7yG2Szq5Fo25IXoZPwemzn6u5IJq6mtmYcYbe29e9Kyx8aBm8ySuHJJsD&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/824d972f-f19f-4730-8b91-7df0a8b39b6e/824d972f-f19f-4730-8b91-7df0a8b39b6e/)

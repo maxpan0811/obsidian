@@ -92,3 +92,9 @@ guid: e30c823c-1bbd-4f65-8ada-1bdd2ac3c68d
 将 Obsidian 与 NotebookLM 结合，是笔记管理和内容分析的绝佳策略。通过 Obsidian 的 **Better Export PDF** 插件，用户可以将多篇笔记合并为一个 PDF 文件，再导入 NotebookLM，充分利用其 AI 聊天功能实现深度内容探索。这种方法对于需要频繁使用笔记进行写作或研究的用户尤为实用，既提升了笔记管理效率，也为写作灵感提供了源源不断的支持。
 
 无论你是学生、作家还是研究人员，尝试这一方法都能为你的笔记管理带来显著的提升。马上试试，把你的 Obsidian 笔记导入 NotebookLM，开启 AI 助力的知识之旅吧！
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s/uCuEV6EpSYzZXDptU9MpCg?clicktime=1775188104&enterid=1775188104&exptype=unsubscribed_card_recommend_article_u2i_mainprocess_coarse_sort_pcfeeds&ranksessionid=1775187979_1&req_id=1775187661674879&scene=169&subscene=200)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/f1080ba1-81fd-43b6-9b27-1755b51844d6/f1080ba1-81fd-43b6-9b27-1755b51844d6/)

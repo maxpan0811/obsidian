@@ -346,3 +346,9 @@ RED Skill也支持转载，也就是说，如果你用到好的Skill，也可以
 **欢迎在评论区留下你的想法！**
 
 — **完** —
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247896042&idx=1&sn=2d44f5d7b95c60603e0c46c4c6416b6a&chksm=e904b5cd7912904f499b9bbbcdacd907ff0381055ba003095481ccba3082c68fa4921dab9938&scene=90&xtrack=1&req_id=1780917401464386&sessionid=1780917408&subscene=93&clicktime=1780917511&enterid=1780917511&flutter_pos=1&biz_enter_id=4&ranksessionid=1780917401&jumppath=WAWebViewController_1780917485643,WAWebViewController_1780917486133,20020_1780917507183,1104_1780917507817&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=18004a2a&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQCzEiwlDXICg5kshsHRnmuBLTAQIE97dBBAEAAAAAAJG0BNgP8xEAAAAOpnltbLcz9gKNyK89dVj0as79v6R/HCnkcWCk5rI1VQ/Vcp7JkFGrLvUBhuopaLGt6lwD1hmGc8Jsinzo1mQ4JP6t6Ut1nSLJOSpmuVANE5kuPgBnuNZHPhiPYUyVDZK2LTsw12Aj7S+wcHgRxjn0Kkj9kVU2RCBA/xSj16OUE6T435V8iYkDEJem01BuTbj1Gv/A+TlR935QhVzxwFqGwC9Ar5/0bOYeahxVC0/yBYq7jgREGj+lsjS5TIQ=&pass_ticket=k6aAiE7ksVA4zjwa4pXO4GRN9LSvutsOxrBQtI1mZasronpFeu67lg2bg26dkFj4&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/bc28799d-c063-4650-a60d-8e9679e1df61/bc28799d-c063-4650-a60d-8e9679e1df61/)

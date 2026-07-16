@@ -66,3 +66,9 @@ guid: 8f7211bd-7e39-4e00-92db-d7e7461d819d
 公司旗下拥有遨游网、遨游旅行APP、中青旅签证、新域假期、智慧旅游平台、中青旅定制、中国签证申请中心等行业名品。公司依托专业的产品设计和运营能力，为游客提供全业态的旅游产品服务体系，公司线上以遨游网（aoyou.com）和遨游旅行APP为主要服务载体，同时拓展飞猪、抖音、携程等多平台矩阵模式，为用户提供出境游、国内游、签证办理、定制游、跟团游、自由行、机票、酒店、邮轮、当地玩乐、亲子研学、康养度假等多业态的旅行产品服务，年服务数百万人次，公司线下在北京、上海、广州、山西、山东、陕西、湖北等10多个省市设有区域中心和线下门店，同时在埃塞俄比亚、菲律宾、以色列、沙特阿拉伯等国家设有分公司，业务辐射全球。遨游旅行坚持品牌化、品质化、差异化的发展策略，并以“透明价格、阳光行程、安全保障、购物承诺、应急响应、服务追访”等旅游服务标准，向消费者提供全面、可信赖、高品质的旅游度假服务，打造了线上线下一体化旅游服务商（OTS）领先品牌。
 
 公司先后荣获中国旅游集团20强、中国旅行社品牌20强、全国旅游服务质量标杆单位、互联网风云榜十大在线旅行商、中国互联网电子商务诚信示范企业、中国品牌力指数旅行服务业第一名、中国旅行社协会行业榜单“数字文旅精品案例”奖项、中国文旅IP大会“科技之光”“城市之光”奖项、中国文旅风尚榜“2021智慧旅游标杆企业”奖项、品橙旅游2021年度“红色旅游优秀企业”“交旅融合优秀企业”“2022年度优选乡村文旅”“年度最佳智慧旅游服务平台”2023年国家旅业“最佳数字文旅企业”等奖项，受到广泛好评和赞誉。
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=Mzg2MDc3NzE4Mw==&mid=2247591545&idx=3&sn=9d8a48a909dd35b120553fc99078dc03&chksm=cfa75a407337a64db43224596e9be1f9f56da58afd5a69dcca7305e0944319ba58853be419b0&mpshare=1&scene=1&srcid=0219U867VbrDim02abelJWGw&sharer_shareinfo=7fa8db64f331b0edefa2785daf580617&sharer_shareinfo_first=7fa8db64f331b0edefa2785daf580617&from=groupmessage&isappinstalled=0&clicktime=1739957095&enterid=1739957095&ascene=1&devicetype=iOS18.3.1&version=18003831&nettype=3G+&abtest_cookie=AAACAA==&lang=zh_CN&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQ3zDNH3vLdm9FqQlVJ8kXhBLsAQIE97dBBAEAAAAAAGkQOBju5dAAAAAOpnltbLcz9gKNyK89dVj0998oGW2pBX5lxiUwh2xCSOJ7NA4oANOENk0CGr6DL97o6qbjcNqDZss37dXoFZ3g+Jp/aEnjQqwbxenng2PIB1PShPBWXJ2aP2WHUrmH4dTov5dEirkdDlmEd62eg+gmL5VUVPW+c6vXJ7U8Pt3tJkzGe3o0CsSHoTzMmGbym4TQhYH77BEhVfAXkMtPOvEy3YsK1j27x+9itih63HHjk/oKhIeGTRp5D/E0YcNyULs4BHBLjBd7plgbTrGeH8vp3s1ZeSL+&pass_ticket=0WXPkmOHD50i3Yt6EeVJxm6zxi63J7KL3UztGVLXWd7dgQoe8KS7peyOB02kAvN7&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/8f7211bd-7e39-4e00-92db-d7e7461d819d/8f7211bd-7e39-4e00-92db-d7e7461d819d/)

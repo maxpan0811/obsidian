@@ -64,3 +64,9 @@ RMB 7,788
 
 ## 相关页面
 
+
+
+---
+
+[🌐 原始链接](http://www.apple.com/cn/iphone-6/specs/)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/16c15d73-a320-4ae4-b5c0-3ba310cbb74b/16c15d73-a320-4ae4-b5c0-3ba310cbb74b/)

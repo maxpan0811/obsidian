@@ -236,3 +236,9 @@ Original丶沉梦昂志 畅游书海的老刘
 **关注老刘，书荒不迷路。主页还有更多都市异能神作推荐，每一本都亲测，每一篇都用心。**
 
 **如果这篇推文帮你打开了都市异能的大门，欢迎点赞、转发、收藏、评论。你心中还有哪些不能错过的都市异能神作？评论区告诉我，让更多好书被看见！**
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzkwNzY3MzU5Mw==&mid=2247551670&idx=1&sn=a80da6f7d07351fbc461b63cdbb492e4&chksm=c1afb7befc778f0a9fdd94280f52f2c7eed7fa00f121ae6938e8eb82b75eafd7e2ebb40bb2b7&scene=90&xtrack=1&req_id=1781971871230201&sessionid=1781970365&subscene=93&clicktime=1781972500&enterid=1781972500&flutter_pos=10&biz_enter_id=4&ranksessionid=1781971871&jumppath=30024_1781972432204,1104_1781972470249,30024_1781972475291,1104_1781972495136&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=18004b28&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQ+s2TXTf1p72k/KBxOhCZJRLTAQIE97dBBAEAAAAAAES9AkF/v4EAAAAOpnltbLcz9gKNyK89dVj0X+zlVMBFi6VWd8orzgdiVKIVATkG3mE+Nk8CRCT83sXSWxQaEMjs2SWhi5yb9rqAe3cXGE8KXAxJCWMtTVJ17ewzPdOWFv+47vABhQPu7Sp5b0suyA9tluS98VX18eM0bZwgcYgZyofwNwbfSlhr7qr0NUHLktI8BIqPRa8w9UOH19ObLmemCODqVZQ4FuOT0qZdJ7F5ClpL3beJiLty4c4uTqdGW7inqdVRy44=&pass_ticket=StIsksAO/4xdEX5pcIr4osr0VJxboUrC0OiGXz4HdKQ33UUmS0gvhBM4Mzfj3HB4&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/ee0809e7-4e09-4842-a12e-41acef06a67d/ee0809e7-4e09-4842-a12e-41acef06a67d/)

@@ -43,3 +43,9 @@ https://github.com/openai/codex/releases/tag/rust-v0.142.0
 #AI工具#Codex#开发者工具
 
 Close
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzI0MTEyODEzMA==&mid=2648669348&idx=1&sn=cc40afc035ec66866cc4fcbefd455a7b&chksm=f0e095f12e8824387240ca5ac493a2c7afd85245ae9076b76775c49d525520037673bea9b6c8&scene=90&xtrack=1&req_id=1782205385197482&sessionid=1782205475&subscene=93&clicktime=1782206450&enterid=1782206450&flutter_pos=4&biz_enter_id=4&ranksessionid=1782205489&jumppath=20020_1782206216095,1104_1782206306937,20020_1782206315828,1104_1782206439392&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=18004b29&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQOCPUh0ojUbXhcNyNNyDNYhLOAQIE97dBBAEAAAAAANHJMLstKuQAAAAOpnltbLcz9gKNyK89dVj02ywNQYmYCTUy/Y+FbQjzL2s3GssOBF7ojMs3osSpTV+Fk+VJCZVc2uVuCluHns9YB6GGAXWkYd8ycszKamO6MPILrchr6Y4bMZ3pQWqdaQi2QQMID551o15Pe+WWsD2bI547eErBwmd4jOlrNwa+vjpIeq688zv+LeiF8LiC4R51BXIwY7nzrIyd66lCvqiT4kvgPgfNaFI3/H4XF1yuhROw9NVqg4uI&pass_ticket=H//H6si2eXrFFVwcc7TKzQvT7rhQw8a6cDwQx06baHsaROWiXQPc7qzvs/tbOb+6&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/f3771be7-f57a-49c6-8c56-5c4aee6e1c3d/f3771be7-f57a-49c6-8c56-5c4aee6e1c3d/)

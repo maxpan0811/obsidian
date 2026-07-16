@@ -41,3 +41,9 @@ guid: eef72757-70a7-4d20-a8d0-b56eba71d7c7
 关注几何构造师，后面我们一起继续聊AI应用、投资研究、方法论拆解。
 
 Close
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzU0Mjk2ODM1MQ==&mid=2247485863&idx=1&sn=d1570fc1536f2d6a2c4a567927c067e7&chksm=fa09dcbbd39b5ce85a9b1caab2df173f0ba60d4a7be4f12ddc0d68147c215078055ff0170223&scene=90&xtrack=1&req_id=1781880912425545&sessionid=1781882816&subscene=93&clicktime=1781885441&enterid=1781885441&flutter_pos=3&biz_enter_id=4&ranksessionid=1781882825&jumppath=20020_1781885361371,1104_1781885408249,20020_1781885412194,1104_1781885438363&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=18004b27&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQdiGCIiC49s2Px4T4acTgnxLTAQIE97dBBAEAAAAAAFrzIBkzs24AAAAOpnltbLcz9gKNyK89dVj0YhGzI00/t6gfVtsFda5kah+o0eVEBhvxiO3nCFmYWjm1XUww/TwJrwuHL3lcwmND/vVp53wbimPT3Yi73O8AiiOiZn+gqc4lFPUOlyerzX3Gr0utmMs8yrnz22rRGCxGyMAD7axW5Y9bu+iqalmFEmumcXCrQm5vjpjcnNkmrwRO91Amr8R7hcb5TC4bW1oj5qaPC2KBSKZTxC6m5JYfTQBQj9sjDh0lm035fzU=&pass_ticket=RhOQTSTVmxenUZkqr6BsfiNwvJVLm5DcETY/aL7tyHMmj3R5mcCWB4xW8pXTXoHI&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/eef72757-70a7-4d20-a8d0-b56eba71d7c7/eef72757-70a7-4d20-a8d0-b56eba71d7c7/)

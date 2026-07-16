@@ -149,3 +149,9 @@ AI + Obsidian，让笔记才算真的“活”了起来。
 如果你也在用 Obsidian，也在思考如何更好地搭建个人的知识体系，不妨试试这套思路。
 
 温馨提示：本文为品牌特邀推广，内容由品牌方提供。
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzI3NzcwOTY4MQ==&mid=2247487958&idx=1&sn=843a3dc20a3b4c4d8b667ce484682dda&chksm=eab8d516f551bf5c3501db814fd24fd18876f2b86fe9be7a3dd5373bb4a3a1813f665e5ca260&scene=90&xtrack=1&req_id=1768229700355766&sessionid=1768229041&subscene=93&clicktime=1768230371&enterid=1768230371&flutter_pos=23&biz_enter_id=4&ranksessionid=1768229700&jumppath=20020_1768230251868,1104_1768230306728,20020_1768230346693,1104_1768230366526&jumppathdepth=4&ascene=56&devicetype=iOS26.2&version=1800432e&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQFsXeVyomcmT4BzpgJvTXBRLTAQIE97dBBAEAAAAAAD8oKtK5FfYAAAAOpnltbLcz9gKNyK89dVj0/LHTAvNYwraahU5QlrjmWF0AnW8tQtNUBR6CeQW6aTY/FGRU9Qh8F0mMmlrjgODnMjJ622r8cXVlte2QADSbaStobgc5tEe4f5FqmBubwS84qFgvaTiCJY70HP+J+4hi2AvFw+ZRubqUvYLPQOfKQffS7UnwAjRAUYZltWUGMhLgolW4HfZPoe8rxGPpqOVYN85PZTpoEEILlv3Sb4SQVf9O8kk/6+JORbse3eo=&pass_ticket=hZoxutLo0e07uAh6cMxSduQ/PpXBSFjBpJc/mgqAhZcj0aVghNEpa3dR9JpjC7IT&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/52914b5e-14d3-4588-b749-4194084e49c5/52914b5e-14d3-4588-b749-4194084e49c5/)

@@ -300,3 +300,9 @@ BBC 的纪录片《逻辑的乐趣》（The Joy of Logic）用生活中的例子
 ## 开启亲子阅读记录 每月为孩子获得免费阅读报告 扫码下载小花生App👇
 
 **![](attachments/3daa7795c62794f4.png)**
+
+
+---
+
+[🌐 原始链接](http://mp.weixin.qq.com/s?__biz=MjM5MTgzNDM0MA==&mid=2652690181&idx=1&sn=9f9b9e456962d145a5373fa6f6ed13f7&chksm=bc2ddba73d700cf6d595763c59a9034bdf6d63b31bbbbeaca1fb4ee4b8581dec91e788c29794&mpshare=1&scene=1&srcid=1214ZClqc5FbhunTJfaQqWE7&sharer_shareinfo=3910b6debed3af8aaf01185ed349b1c2&sharer_shareinfo_first=3910b6debed3af8aaf01185ed349b1c2#rd)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/a1ff14d6-3b9c-4590-a1f8-e408f666de8e/a1ff14d6-3b9c-4590-a1f8-e408f666de8e/)

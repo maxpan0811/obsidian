@@ -851,3 +851,9 @@ AI 现在做所有的打字。
 注：我不是传统开发者。我是自学的。这篇指南中的一切都来自艰难地构建东西、打破它们、弄清楚为什么，并写下实际有效的东西。如果有什么错了、缺失或过时了，告诉我。这是一份活的文档，我宁愿修复它也不愿让某人基于坏建议构建。
 
 ---
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?chksm=eafd1983dd8a9095a2d937d7e9c3c32d3986199903368394c5011759593960a95401ac0a0933&exptype=unsubscribed_card_recommend_article_u2i_mainprocess_coarse_sort_tlfeeds&ranksessionid=1773298303_1&req_id=1773298303108810&scene=169&mid=2247493238&sn=f5515f59161a3d79228c00f77d2d4d90&idx=1&__biz=MzI2NzM4MTQwMg==&sessionid=1773298302&subscene=200&clicktime=1773298591&enterid=1773298591&flutter_pos=4&biz_enter_id=5&jumppath=BrandSubHistoryFlutterViewController_1773298450860,20020_1773298473091,BrandSubHistoryFlutterViewController_1773298480742,1104_1773298501401&jumppathdepth=4&ascene=56&devicetype=iOS26.3.1&version=1800452f&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQpywpFVMhBDHyvxu8jNiBlRLVAQIE97dBBAEAAAAAABkTE+u59MEAAAAOpnltbLcz9gKNyK89dVj0JAtI44M71qUaRDU+6Y4A/smdtpD5hVTkfNIwUCRGZJ79ZmrJjpgLf7y8NIhNOGm252PnzpNaelAqPDbszX63uKHyuzaddM7nSyi1g5x13slFM3xP8dap5TCNqrP9q5npTxF7xQHTjByVB4uRpbmMJKMytOQbxsgSuQVoEkeWBKK3ECHsPlI6ngAZbsdvemAXvXHtdQfaAtSwwV3nZ8cUuVLZBA8EIA8wRm8B4V/sJg==&pass_ticket=aQNAGVPQHdQ20b4C1ufXNaSjRZ/s+RKZteVyKzmtFXM4vZrFWM8fMuZznCFSLviw&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/dd98c851-4f3a-4af7-ba67-e5d2ad20a6f4/dd98c851-4f3a-4af7-ba67-e5d2ad20a6f4/)

@@ -1521,3 +1521,9 @@ CS05
 ![](attachments/f04f70958f016052.png)
 
 seg = dhs - page = pd - product = alienware-17-r2![](attachments/56398e76be6355ad.gif)![](attachments/56398e76be6355ad.gif)![](attachments/d3e941fe204d0a9c.gif)![]()![](attachments/325472601571f31e.gif)![]()![](attachments/fc94fb0c3ed8a8f9.gif)![](attachments/56398e76be6355ad.gif)
+
+
+---
+
+[🌐 原始链接](http://china.dell.com/cn/p/alienware-17-r2/pd)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/9cf0ffba-7644-4473-bef9-8bf1e334dc96/9cf0ffba-7644-4473-bef9-8bf1e334dc96/)

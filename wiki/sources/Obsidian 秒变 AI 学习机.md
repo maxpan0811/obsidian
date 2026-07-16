@@ -192,3 +192,9 @@ Obsidian 正在从一个笔记工具，
 后面会继续分享更多测试效果。
 
 Close
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzI0MTEyODEzMA==&mid=2648669236&idx=1&sn=3b40bb4802b1e10b6f55524879cf7cd3&chksm=f13b9b99c64c128f0399ec9be30ac29a0d55638e585712b42c1676da51439954ef062d672ad3&exptype=servicebox_1782171825849604&subscene=0&scene=288&clicktime=1782172489&enterid=1782172489&flutter_pos=10&biz_enter_id=5&ascene=56&devicetype=iOS26.5&version=18004b29&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQKYBpfnT7D50JK8vjoRUdKRLTAQIE97dBBAEAAAAAABlUJhxnIQUAAAAOpnltbLcz9gKNyK89dVj0dJ0xVka/0NN4nUxAjlzz5IB/l0tGSA/7u2uPE2PN5rOw2ISGKEkoqLI+Zo+4sMl4mIh7KCawydCxjGlvfu+mpLzATCClYi+XASG6YLXh33/ownKWaMo8d/uMevSx3zsE9Z0NuvsSrn0M7BK3zBUvdlRd/VpuQWLjW1kTqSMC08kbUSg4KLpq0DBawfAJ+OrDhSYBzog1nUQn3PwxbjfkAAhoABAgGExbVBusu+I=&pass_ticket=3KrAUQTNvGxWlT2QRUf5C+ZZ+GtX+njyrk4G44xfG5wVJG/blqK3GdeNBFeaVT5E&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/6147f5b1-ad02-4445-a616-25a53b5c42bc/6147f5b1-ad02-4445-a616-25a53b5c42bc/)

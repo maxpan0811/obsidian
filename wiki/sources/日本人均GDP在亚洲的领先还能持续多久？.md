@@ -187,3 +187,9 @@ guid: e832a259-ce72-4f98-8f39-f206e5429e57
 我自己，以及身边很多人也是这方面的受益者，其实干的是同样的活，能力也不见得就突然飙升了，就是因为换了个行业，换了个公司，长期下来收益就能够差数倍，甚至有的人因为赶上了分股票，收益差在10倍以上。
 
 以上是今天的一些随想。
+
+
+---
+
+[🌐 原始链接](http://mp.weixin.qq.com/s?__biz=MzI0Mjc2NDc2OQ==&mid=2247488676&idx=1&sn=7dfc49f870482276a80a63f48612f7ae&chksm=e9760a2ade01833cf88887931eb2ef013dadb8833ebd19e334dca16297fec76c94aee331d6f7&mpshare=1&scene=1&srcid=0804kjgTQRjScZg0faeq2CAK&sharer_sharetime=1659612573698&sharer_shareid=ee47b9411760e9070f0b59d8d8655fa1#rd)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/e832a259-ce72-4f98-8f39-f206e5429e57/e832a259-ce72-4f98-8f39-f206e5429e57/)

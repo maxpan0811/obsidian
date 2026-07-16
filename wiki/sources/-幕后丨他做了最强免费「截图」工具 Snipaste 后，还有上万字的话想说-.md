@@ -304,3 +304,9 @@ Snipaste 是我独立开发的，开发中遇到的很多问题，都是通过 G
 少数派（ <http://sspai.com> ）
 
 [![](attachments/fd99a01be35fb191.jpg)](http://aos.prf.hn/click/camref:111l75A/pubref:beats_unity/destination:http%3A%2F%2Fwww.apple.com%2Fcn%2Fshop%2Fproduct%2FMMHM2%2Fbeats-studio-wireless-%25E5%25A4%25B4%25E6%2588%25B4%25E5%25BC%258F%25E8%2580%25B3%25E6%259C%25BAunity-%25E7%2589%2588-%25E7%25BA%25A2%25E9%2585%258D%25E9%25BB%2584%25E8%2589%25B2%3Ffnode%3D42)
+
+
+---
+
+[🌐 原始链接](http://sspai.com/35097)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/8bd7b107-d762-4b73-8f3a-fec0f0637a7a/8bd7b107-d762-4b73-8f3a-fec0f0637a7a/)

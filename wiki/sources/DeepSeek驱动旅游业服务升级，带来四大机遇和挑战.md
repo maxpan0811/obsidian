@@ -78,3 +78,9 @@ DeepSeek发布后，各地政府机构、大型企业率先宣布接入，从旅
 ![](attachments/180632b2105e6415.jpg)
 
 阅读原文
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzA3MDEzOTMwMw==&mid=2658782420&idx=1&sn=49db7375a2830b1809e31ecf5cab19dc&chksm=849d339d6d9d610cfd6e53a4c8bc48dfa2c48a77fb72cba1bc5525c81fb7cc68266d881eea52&scene=126&subscene=91&forbs=1&sessionid=1741591466&clicktime=1741591676&enterid=1741591676&flutter_pos=0&biz_enter_id=5&ascene=56&devicetype=iOS18.3.1&version=18003836&nettype=WIFI&abtest_cookie=AAACAA==&lang=zh_CN&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQwDMwoC1AJC0PS3n71LrmCRLYAQIE97dBBAEAAAAAAEZ9Kyk9b/IAAAAOpnltbLcz9gKNyK89dVj0mmNAh9GNsQs6j5cs6qUeq4bfRgPH3dlusr5la/UG1Nk+rWIl5/9iG5x8vsxSAobei7UhKPIMlptOOJged3FW8U7bg81W+9RVniGwDAzmsvGc5HJVueG+WUF5GztY3t+Z5nw2Qwn+K+9ycztJk4QPP60rISzjj6nqW/Sw8R5CUZyVNi9EgjRNkvKcw+34G158keCBwXEo0GmIrVyEBCAsh9sZJ9A4GmPyNgY5yw55q7VnEQ==&pass_ticket=CXd3T3MEqZvnSgT1g17kskvgSU8h1pk86sFMwuQKqj4dfz8zu8qWu/Bc3YwbAmVE&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/93c23bef-f54f-4c6d-a2f7-15752bfaf435/93c23bef-f54f-4c6d-a2f7-15752bfaf435/)

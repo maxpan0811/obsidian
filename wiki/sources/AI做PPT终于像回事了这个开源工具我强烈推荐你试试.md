@@ -311,3 +311,8 @@ Nano Banana 提示词：你的PPT有多丑，它就能改多好看
 NotebookLM+Nano Banana Pro：你的下一个PPT，何必是PPT？
 
 年度最佳PPT提示词好在哪？学会这套方法你也能写
+
+
+---
+
+[📎 在印象笔记中打开](evernote:///view/207087/s1/d010e8a5-e032-4716-9519-ebc6699d0bc9/d010e8a5-e032-4716-9519-ebc6699d0bc9/)

@@ -255,3 +255,9 @@ https://console.groq.com/playground?model=deepseek-r1-distill-llama-70b
 也可长按下方图片，关注我在其它社交网站的帐号：
 
 ![](attachments/e5e520df133f651c.jpg)
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?chksm=b16d1b6e861a927878e5eba1f0ea1e082f1deff47534dc6838ce1a06afde5950717660d464a0&exptype=unsubscribed_card_recommend_article_u2i_mainprocess_coarse_sort_tlfeeds&ranksessionid=1738510260_4&scene=169&mid=2452242857&sn=a08c99aeb3ac1776c3a5bb99cc1567d9&idx=1&__biz=MjM5MTU0MzIwOA==&sessionid=1738509696&subscene=200&clicktime=1738544530&enterid=1738544530&flutter_pos=38&biz_enter_id=5&ascene=56&devicetype=iOS18.3&version=1800382d&nettype=WIFI&abtest_cookie=AAACAA==&lang=zh_CN&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQUQTrffdlN23tt1/TcUM8ghLWAQIE97dBBAEAAAAAAMMNKK3uzCcAAAAOpnltbLcz9gKNyK89dVj0sPPvcjpJyMeEtHDpZGexa2spTtvtRaYDoXJLRz5Hqrq+PAGmbCo1Z3ksmaZcZp/XGzs05nc9VFUELdfc+h5aJss3PZmemUwDDhBwLph7JqU1Azt7haUnmXTeQJtHOMN7v1O873emcWBzMeHkebMF2HespAF2XehkEiyMJFadRE+Dn0Fx88koX6yhjMipX3uxYcYGjy36J3a+zzrm4QpIzdAhMxfCfjKh9DFaRat+4YY=&pass_ticket=h79rPyrIZvEA533Ua3PKWyw+HMcvNarpeemeefG4ivLixcGeqBIRj9XYR7Y0jbwE&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/2dc5b7a8-1752-4623-aa55-77ffc7d41a74/2dc5b7a8-1752-4623-aa55-77ffc7d41a74/)

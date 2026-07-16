@@ -134,3 +134,9 @@ Glenn对市场的叙事逻辑是，目前AI产品（如Priceline的AI助手Penny
 Glenn的说法，不会每个人都认。不管认不认，未来2-3年将是关键验证期。
 
 【本文为评论员个人观点表达，不代表环球旅讯立场】
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MTEzMzIzODIyMQ==&mid=2654968785&idx=1&sn=5501c9fa0970d34f7b0ae85c167f7c03&chksm=71431b8298e8a19452d11519f05823f123806988ab6b1a2cd08d531e8308394e424c34e9b088&scene=90&xtrack=1&sessionid=1740657655&subscene=93&clicktime=1740658139&enterid=1740658139&flutter_pos=5&biz_enter_id=4&ranksessionid=1740657912&ascene=56&devicetype=iOS18.3.1&version=18003833&nettype=3G+&abtest_cookie=AAACAA==&lang=zh_CN&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQdW1DG7OYiwRR8MZrPc1B/xLYAQIE97dBBAEAAAAAALT4Kd6zficAAAAOpnltbLcz9gKNyK89dVj03ofzlotNzO2O3+G5ItAdNDEetrawm5uE61qcWlYwbJogBtH0bSpea1NLaPQ2zRYsOfR2uHEZoDCg6ikXLiDC3Kttp6vIkMjeFCn2vvw/lVyHd9hnqUEm3qGBQC9+KilblDdUpnfOEdGF7ZVGCKgwY/m2AUOD+eEdtXqmnFTZtgK6TPmy3Rlsx6rfPjwNtxfAYgIZ0WOwT04dQ3aCn9r9NOZir0x5LX1BDBYCiuQ4SkJ/5g==&pass_ticket=wjDXm4TfabTRXrpBx9ed0omGFujU6zsMkkTxNTh4EUyUc180bH8WyxOqOFZ4Nz/0&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/4104d828-ea43-42ba-90a9-2c617642e1ed/4104d828-ea43-42ba-90a9-2c617642e1ed/)

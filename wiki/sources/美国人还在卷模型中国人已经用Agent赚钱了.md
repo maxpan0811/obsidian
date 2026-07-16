@@ -164,3 +164,9 @@ Manus、OpenClaw已经用事实证明，好的Harness可以创造独立于模型
 那些已经在小巷子里闷声跑起来的中国开发者，正在用Agent一笔一笔地赚钱。
 
 而这，可能才是中国AI真正厉害的地方。
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MjM5OTU4MDk0OA==&mid=2449550081&idx=1&sn=2fe0a4fc0c30751c83359ac6866bbb7b&chksm=b1c151bf27a60cd72b9878031d335c6faeeaed8c9c02d9256f6e28a9ec365ba56d40c777017b&scene=90&xtrack=1&req_id=1781317355867497&sessionid=1781317381&subscene=93&clicktime=1781317436&enterid=1781317436&flutter_pos=1&biz_enter_id=4&ranksessionid=1781317355&jumppath=1001_1781317379087,1104_1781317382082,20020_1781317397942,1104_1781317403962&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=18004a2d&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQuSTxD3oaA/ItzTHdt2uJVxLTAQIE97dBBAEAAAAAALpEBq+K59cAAAAOpnltbLcz9gKNyK89dVj03lSStO1Nr7Ku69U7l5cVnrk+f4RTLxcno8NYPpFyIpu4z1bLNHVNpCV7nY6EGMQRNFZ9l6ASZBcU8s8pzxRaH0sS9ifsRjbndpgXO70tbrpPBGdqRQhtnZDlqWG9e7WRDQ+tk+N9+d9K/OgQIA1vaUERfYLMQt0l55qOh/Gl5GxKtecRPnUwquBvVoUHGZVue1uyJptivl4zatmyWRGwqQdwlOSh3o7LSx68VUM=&pass_ticket=xhfMgjIbW7TqxAJ6L8Bx324UBdNuGUselizsho9bSzbo6tAxKMcL81nRZSQjIgqp&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/53cd13c4-2218-4eae-ab84-ea771f81cc20/53cd13c4-2218-4eae-ab84-ea771f81cc20/)

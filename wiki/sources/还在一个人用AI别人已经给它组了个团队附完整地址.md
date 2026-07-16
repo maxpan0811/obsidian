@@ -101,3 +101,9 @@ https://github.com/VoltAgent/awesome-agent-skills
 ![](attachments/6e13feb0cb097bd1.png)
 
 关注「AI 落地手记」，后续更多干活。
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzYzMjY1OTI0MA==&mid=2247484467&idx=1&sn=2e4246081483b2ba4e11de88bd5a3ca8&chksm=f13d4cf4a90f89ee2cc903bc4b123b8ced997c80f4136bb7f869ed52daa075eb544f2335213a&scene=90&xtrack=1&req_id=1776010104394686&sessionid=1776007097&subscene=93&clicktime=1776010141&enterid=1776010141&flutter_pos=42&biz_enter_id=4&ranksessionid=1776010104&jumppath=20020_1776010094436,1104_1776010095134,20020_1776010103899,1104_1776010117439&jumppathdepth=4&ascene=56&devicetype=iOS26.4&version=18004635&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQYv0N+cUtGrkLBcCpS62LVBLTAQIE97dBBAEAAAAAADxsLDgNifsAAAAOpnltbLcz9gKNyK89dVj08CR4ZsMQ2GRkC5jmJxPU8m4a8DxhwXxul5ptwaXVwDPb2dPt/DKH/7KUPtUn9kjq0vrtnX4vhE1J6eg866ztXv8BfnN5jFQOHfXE1//5UBrrJdwnZ+KWIMm0anllUj2nZyz+W5u/2/nRrFI/VgmpOpjjbLrf1hrs1LlgFvSELtGXK2cx1Ij+CQKO2ndI5pCIgpgKibKKk7MLsVw3HcbqKlNblERG9M08TPbFTtw=&pass_ticket=ZA1yZ1aYyVzaq6njJC/Pf/pz6szcKWChtxnV6wnOjRd9ATUbUcGYL0IrJg2wkCnA&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/ba229c00-48a8-4805-ba2c-b8aeb1f95cfb/ba229c00-48a8-4805-ba2c-b8aeb1f95cfb/)

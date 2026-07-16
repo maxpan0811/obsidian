@@ -211,3 +211,9 @@ OpenAI则是推出Triton编译器，试图绕开CUDA的“语言垄断”。
 国产芯片“能用”了，“好用”还会远吗？
 
 ![](attachments/0190413580304aab.png)
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzI2NDk5NzA0Mw==&mid=2248887480&idx=1&sn=acdbcf879456feff2ada1c4e5318628b&chksm=e893a09a396d950d77929b55f0b0388436a1955ac625bc8568b9a8cb2ae4739211f9c9febae6&scene=90&xtrack=1&req_id=1777679713447801&sessionid=1777679692&subscene=93&clicktime=1777680547&enterid=1777680547&flutter_pos=6&biz_enter_id=4&ranksessionid=1777679713&jumppath=WAWebViewController_1777680490496,20020_1777680505407,20020_1777680528330,1104_1777680532212&jumppathdepth=4&ascene=56&devicetype=iOS26.4.2&version=18004822&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQjpb12DaAT5yame1TBM1okxLVAQIE97dBBAEAAAAAAM/2NrX5hU8AAAAOpnltbLcz9gKNyK89dVj0KXUYG50Obmf5ULVF0NMmnnbV368ph7+qt4lbNULnt0CSsKmikzwFT8e7N8jeWiuZaZ6NUISGOzq7IkvVzvZt8OTFuteBcS+61iULoVphty7Z0N5YJmdWZTnitt2gRWm0m1JVLcXQ1phWOWi/ztm9LTvgy1vjev75et0XHXCccRmsUEARhimsm6h76yY7hghYSqUZH9mahYpbhm3mFBBd5EoXDxrJUv0+wjt2U56w4Q==&pass_ticket=Dl0uZx9gxeSl7J104oQA4s7Lzdc/2F6II8/q1RSgJw/YIBsciWAquPK1C8Sa0TWz&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/16cd6caa-8009-4d6c-ba1b-4a2eb9686642/16cd6caa-8009-4d6c-ba1b-4a2eb9686642/)

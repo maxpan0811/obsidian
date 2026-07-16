@@ -232,3 +232,9 @@ AGENTS.md规则
 Codex负责高强度执行，你负责工程判断。
 
 Close
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzA5NDA1MDYwNA==&mid=2247485038&idx=1&sn=298123491c2765e61f90c6fd9ffeae38&chksm=9055c62da7224f3b959a9b5a3c30c6c825f100cb99bc20b4757d132246b53f0172f63b1c7d65&exptype=servicebox_1782171823058596&subscene=0&scene=288&clicktime=1782171973&enterid=1782171973&flutter_pos=2&biz_enter_id=5&ascene=56&devicetype=iOS26.5&version=18004b29&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQQ/S/LYD3m0iYFIIKzN2etRLTAQIE97dBBAEAAAAAAEhzOKZcW1gAAAAOpnltbLcz9gKNyK89dVj0/7wVetfRpNVrVH32HaQD42sFzRYcpHaTPht6v4nyz2Yu/pJZy2FJAHXiYKa4uMSe1kn5RpXsYTPK4aIybD+q3OQnXO+EZ0OeRCDPBcb1NxZfGbElKLsAINi0xgrkFkAJ4vwTT1g2mvDNIJWuSyI49mQ50fGb+W9grlmxEDFXJq3XGNSLukQO7zXMnP2l7ZFrEYW3z6RND67WrEyGA7TuR/bUwUrhI6pSr+OBffE=&pass_ticket=n+OIEPt7JlYs54u+orMp7esIxy0V46bxI+chaq9DAAfTmYJGynAsGdXc2EnAiKpt&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/8dec0a8d-032a-47ec-931b-488790b47200/8dec0a8d-032a-47ec-931b-488790b47200/)

@@ -268,3 +268,9 @@ The following article is from 正解局Author 正解局
 7.日本2024年统计年鉴
 
 8.毕业等于就业，日本应届生赢麻了？\_日本东方新报
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzA4NjMxMzcwNg==&mid=2247584002&idx=1&sn=04c774054bde39e68273488bfd1c77ee&chksm=9edf064ddfeae5eaeffed2cad92502d3ac418d192da8c1b33fef454db1edaceb11fb84255d2e&mpshare=1&scene=1&srcid=05239hriL3UseHveHJdzz3Vu&sharer_shareinfo=acabb168ea5266c3a67dac01901a59f3&sharer_shareinfo_first=acabb168ea5266c3a67dac01901a59f3&from=groupmessage&isappinstalled=0&clicktime=1747993849&enterid=1747993849&ascene=1&devicetype=iOS18.5&version=18003b2a&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQHRTcaPt6sD9D0M8/kwuruBLmAQIE97dBBAEAAAAAAJZPOPBYP9gAAAAOpnltbLcz9gKNyK89dVj0mdaojS9Ck5D9ULMyzGOi+f+FIf7G3/mSrHBxqAJsZrujnA+n10rZ9wmljOTBi37vNbEQXvSg8iP/Ynar2LYOr5oIe75SIW0w03f0WTn39RO/u7DUSiGrv8p4xev7etL2s9XiMDW7w0/TsnKJ5+dj6GIFgWASCE6LekWMcWoTm0m87CT7sX5LPwFpCT9ahYbd0YjygH4eh0EwJV+lN3VdrJfr3Z4B3RJ3nOj4afxSw3xxZBKvZmXixBaqs4j44Fxn&pass_ticket=7S45avkcFMK1qDrmZ8VosHWq3mLKeUcxZeM1UvR7K4bMSAgFBMnm9vg1Id2EcOp+&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/65eb67f1-4110-40de-a6e3-068160e5eb81/65eb67f1-4110-40de-a6e3-068160e5eb81/)

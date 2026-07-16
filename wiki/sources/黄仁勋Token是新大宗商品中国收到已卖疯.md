@@ -151,3 +151,9 @@ Kimi新架构让马斯克叹服！17岁高中生作者一战成名 https://mp.we
 20天收入超2025全年，龙虾爆火的受益者Kimi能否弯道超车？ https://mp.weixin.qq.com/s/mKkNhbKE4af6HWc-CMZWww?scene=1&click\_id=8
 
 ![](attachments/2f484b6b133725c0.png)
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=Mzg5ODU4OTU3MQ==&mid=2247501438&idx=1&sn=3efd4277515b473a19644112940d5876&chksm=c1d3c82d8c741a1833e5479cef96d741ced589584e2893dbed92476d211dfc5446be6b183b7e&mpshare=1&scene=24&srcid=0608wIGfFerryK7W4SyeKJnS&sharer_shareinfo=34bf363c056cf421d4e7dc58c3b385b1&sharer_shareinfo_first=34bf363c056cf421d4e7dc58c3b385b1&clicktime=1780933892&enterid=1780933892&ascene=14&devicetype=iOS26.5&version=18004a2a&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQf96yebxU8mLQrAa6F4SllRLTAQIE97dBBAEAAAAAAPKSJJ/3j8IAAAAOpnltbLcz9gKNyK89dVj02cCK9mSFGb2EHIFh+M6AWO++tp2asGDvEQ78lDbZmMLwUFgyz/MVmmIbpMI6Ue6v5ZBfIfFPO4I1BWzo6Ea9OKmSCBQHS8f7n1+SQOnSpWvibw/C0SqW9v1xQgLYcF+BPYzmpLX1bs0CpXf9upwsMMETNGknW0EcIocuCvNBSKxd1u48R4TUA11R32oNhtG2zOOmx0t3s1cGqJ29jeA+uqtvRyyUl0+v9WE0YXY=&pass_ticket=fHWA9JMy2xNzvZ3kFiCu1DqT3Sp0pqkje5kU5iZIUjW8996/96Gg1mQanc6bap4Q&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/46341c7b-a244-4c33-9c20-c30fbcf735b9/46341c7b-a244-4c33-9c20-c30fbcf735b9/)

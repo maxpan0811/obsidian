@@ -38,3 +38,9 @@ Anthropic 更需要基建工程师，而不是研究科学家。只有 13.7% 的
 #ai#人工智能#招聘#anthropic#claude #agent
 
 Close
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzI2NTI4MDczMA==&mid=2247489668&idx=1&sn=c01f95506be73eb3000f20162585f7b2&chksm=ebd0616553a39b7e06b47b784725808b6b93e467fb802b32078b2dc073af11d529bf6348a04b&scene=90&xtrack=1&req_id=1781516523008470&sessionid=1781516531&subscene=93&clicktime=1781516846&enterid=1781516846&flutter_pos=3&biz_enter_id=4&ranksessionid=1781516537&jumppath=20020_1781516642779,1104_1781516763429,20020_1781516771909,1104_1781516836413&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=18004a2f&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQaCufrC17Cc6m6t0EztyLPhLTAQIE97dBBAEAAAAAAM+IL+Lpg5IAAAAOpnltbLcz9gKNyK89dVj0w3kC+fbOYjofAZwu/ZpQK3Ouyo7HBnmIEz4T3SU7hXC78CP80MAiow15cmdE4SZ0NRvuySd704d/72gXsUF2m6Wqkli3LKj9IqKEg3t5k+4oqzZ/o7Vg23vUMTcq7/zqFbu1k1x3w3qMBErFlYl0miG9P8XDTX4V+xXugrwUjSUhZmUe2eImorlt4yeZJFKYFsKYDhW41ggBStonpOSSsvyWLXgR3XKc3Wg4+Ow=&pass_ticket=FvYkgr+Pw4da4RJ50O8TYHZcHyBs9acCHJs8DODq1/pRYliT0LfA2SOwgdLYqQiw&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/6a6d2b9a-106f-4789-9b0e-2f1ba5d7b9e7/6a6d2b9a-106f-4789-9b0e-2f1ba5d7b9e7/)

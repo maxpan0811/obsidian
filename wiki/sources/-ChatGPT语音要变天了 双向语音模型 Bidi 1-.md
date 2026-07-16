@@ -57,3 +57,9 @@ guid: efb19205-4c44-40e6-b52e-53982027f5e3
 #ChatGPT#OpenAI#AI资讯#人工智能#AIGC#GPTBidi1#语音AI#AI工具#科技前沿#效率工具#数字化办公#未来科技
 
 辽宁,3 hours ago,
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzA5NDA1MDYwNA==&mid=2247485167&idx=1&sn=7ecb69e583d20c081c254c1fe4e35b27&chksm=9138018c26c3cfea565450f56c1276eadc8b9775caad59e5d035dafa3cd0ad92f54354ad3314&scene=90&xtrack=1&req_id=1782304277226080&sessionid=1782304295&subscene=93&clicktime=1782306264&enterid=1782306264&flutter_pos=8&biz_enter_id=4&ranksessionid=1782305433&jumppath=20020_1782306217254,1104_1782306220050,MMWebViewController_1782306225437,1104_1782306260241&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=18004b2b&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQOValmXK8xVkiVZY1WzTEahLTAQIE97dBBAEAAAAAAMxgKR6EgdkAAAAOpnltbLcz9gKNyK89dVj0R0EqzjAHUpoRU4cW5B+f+z6sjk1BEPdMo35XoDJBeAYixMGeo9eAwIPnCz78F8BqZX/6CH4W/NzaC1yl21PeVYqHYlTrGnyDQ3Mi+3aBWXzV4ubyXMeBB3MS2krWeNaHE5MilCnYn8lc5fbc3bmh4wvqJN/w8rhseBSHxddcM+GsZT3N4tdiqRGZkV/KApsOAwPA9p8zuQTTivJMyWImbkxgsVTSJEhtzhmEpGY=&pass_ticket=QeKR/IJ4Wq6nXPtiph1JbXgMCJ/ltAqZ+ztFv3tLOG4cJ8Jg6/WyZUUBW20HYYDF&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/efb19205-4c44-40e6-b52e-53982027f5e3/efb19205-4c44-40e6-b52e-53982027f5e3/)

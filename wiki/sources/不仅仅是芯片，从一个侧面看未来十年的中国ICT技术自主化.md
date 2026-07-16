@@ -179,3 +179,9 @@ https://docs.github.com/en/site-policy/other-site-policies/github-and-trade-cont
 本文讲的数据库，和操作系统，芯片一样，都是底层根技术中的一环，
 
 而不管是国际环境还是发展的客观需求，都需要有真正的高性能国产根技术提供给市场，这样才能真正的实现国内未来长期发展的经济安全。
+
+
+---
+
+[🌐 原始链接](http://mp.weixin.qq.com/s?__biz=MzI0Mjc2NDc2OQ==&mid=2247489550&idx=1&sn=c44800fc3e692773476ccea640608fda&chksm=e9760680de018f96f44380435678a44c9d65f91ba409a4ef7e9af2787b4197dca709b32bdd76&mpshare=1&scene=1&srcid=1109T67d6hvGwlrNnWO04Mwf&sharer_sharetime=1667956901668&sharer_shareid=ee47b9411760e9070f0b59d8d8655fa1#rd)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/b5f56280-0185-4969-bfcc-fac9c5ef759f/b5f56280-0185-4969-bfcc-fac9c5ef759f/)

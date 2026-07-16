@@ -328,3 +328,9 @@ VR技术即虚拟现实技术
 请长按下方二维码关注我们or回到文章顶部，点击环球时报 （微信公众号ID：hqsbwx）
 
 ![](attachments/ce685b6a4ce7100d.jpg)
+
+
+---
+
+[🌐 原始链接](http://mp.weixin.qq.com/s?__biz=MjM5MDk1NzQzMQ==&mid=2653713801&idx=3&sn=97d74f414d1430241660d7826e4c5e03&chksm=bd643f918a13b687d4f1bc10a8af395eff6146adac87c2b3182fa092ca9b8725678e9ea4b9d8&mpshare=1&scene=1&srcid=1212mEtfKowUFR06ttOrK1Ce&sharer_sharetime=1670813578510&sharer_shareid=ee47b9411760e9070f0b59d8d8655fa1#rd)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/4d3c802d-4cce-4ea4-9eab-33467136968a/4d3c802d-4cce-4ea4-9eab-33467136968a/)

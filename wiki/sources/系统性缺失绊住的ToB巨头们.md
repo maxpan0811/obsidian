@@ -378,3 +378,9 @@ To B 系统虽然复杂，但应该没有造原子弹复杂。”他山之石可
 《IDC：2028年中国数字化转型总体市场规模将超7,300亿美元》
 
 《飞书2024年收入预计超过3亿美元，仍未盈利》
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzA3MTk5Mzg3Ng==&mid=2247484232&idx=1&sn=3bd7497ad53ca72dc8fbed522cbb721a&from=groupmessage&isappinstalled=0&scene=1&clicktime=1746237787&enterid=1746237787&ascene=1&devicetype=iOS18.4.1&version=18003b25&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQYZ0e39//w83RHkiJsR0V6xLoAQIE97dBBAEAAAAAABNxI0pnDx4AAAAOpnltbLcz9gKNyK89dVj0XP/Dwi/KBJ+TTm4viH7PnE5wA38ewjwkT7LFx1XGJhuqBpdSyS7Gat/pqIdEkX3XqegQ8Qq6ntw6vM6FtvLF8sCwxqgw4Bw1LoGYEktVfGbDwBm0DKtnfj1auV3pIimDJSJ/jmqm1zuFIowk50u5G4cXjcLD9/L/la6wCD7ymXFVLEpHcbxlk8bMVOFoHB5UmFKblAT65EMMD0Rtg0MK63SW30m2fNulY/Rox3T9+MsblO2WryAXWU0N643pGJlss7Q=&pass_ticket=JNo8OmzBp/03rJm4BUVmyxZ0n4eHR+l6mwJjCGI+O1XHi/WibOb9h6zLieUcmWXC&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/f090c94d-bd53-4e08-8171-db8264e873f6/f090c94d-bd53-4e08-8171-db8264e873f6/)

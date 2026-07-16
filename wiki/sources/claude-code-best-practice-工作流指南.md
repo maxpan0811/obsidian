@@ -101,3 +101,9 @@ OriginalwsleepybearGit Trend
 ### 引用链接
 
 [1]*https://github.com/shanraisshan/claude-code-best-practice*
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?chksm=c093b6d1f7e43fc7a72f9219110fbf86380813a25fe0674a5b56beb55b75b476fc1a43b1b708&exptype=unsubscribed_card_recommend_article_u2i_mainprocess_coarse_sort_tlfeeds&ranksessionid=1774916204_1&req_id=1774911368136129&scene=169&mid=2247484837&sn=c51c38f6cb8e49fd6e4e406753e055d0&idx=1&__biz=MzkwMzY1Mjg5MQ==&sessionid=1774917255&subscene=200&clicktime=1774919662&enterid=1774919662&flutter_pos=15&biz_enter_id=5&jumppath=20020_1774919637376,1104_1774919637725,20020_1774919647736,1104_1774919653165&jumppathdepth=4&ascene=56&devicetype=iOS26.4&version=18004629&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQFnnAhqgaRVtmUQY3q2yUfBLTAQIE97dBBAEAAAAAAFOzA4TIKNgAAAAOpnltbLcz9gKNyK89dVj0qcQY7CYpC/l7sPA3v0tIePddb4i0QsdoWYRrXre2CpJ4cE/vpege9gND29TcmSLk3gTID9fscHREHfG68wUhMUyAeQeQ8WaLkUgA+7bh958j3N0Bt49UgCd5NM7G13ECaGg/B92tu53pbG7umtLXSgVWOQElm0CSJdmnkRclEC45C1Ncf5lpOTbi1Kfu/9mZOVuYS7Rf58Y+62n9KvjCZg/RWdYRNXuIwa9zWgE=&pass_ticket=Opn93icMsraxEfb26kcMPBXdIVYlKjc7VWFojCU9JPuTp9IlVDignUmUOOi4ukPp&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/0bb52732-3a47-422a-83eb-e1f1250d2583/0bb52732-3a47-422a-83eb-e1f1250d2583/)

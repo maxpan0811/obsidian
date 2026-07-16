@@ -20,3 +20,9 @@ tags: [mac, software, screen-studio, lookout, heic-converter, pro-notes]
 
 - [[sources/Mac高质量软件推荐-1]]
 - [[sources/Mac高效工具系统增强推荐]]
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=Mzk0MzU5NzQ4Mw==&mid=2247490454&idx=1&sn=f2a931d72b9613fa1d018d8a2494efd6&chksm=c251b66e3d9f72df4a6372b340045cfdd7c47052c6834bbbd9a986105d868d7915d10c436354&scene=90&xtrack=1&sessionid=1743828594&subscene=93&clicktime=1743828597&enterid=1743828597&flutter_pos=0&biz_enter_id=4&ranksessionid=1743828568&jumppath=1102_1743828590610,1106_1743828591432,1001_1743828593203,1104_1743828594622&jumppathdepth=4&ascene=56&devicetype=iOS18.3.2&version=1800392c&nettype=WIFI&abtest_cookie=AAACAA==&lang=zh_CN&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQN9oBDaUsLHCqK4+04p7DJhLYAQIE97dBBAEAAAAAAHXBOXKVGX4AAAAOpnltbLcz9gKNyK89dVj0vrA4Mjj1LrJVHV1wtzXU3VQNapXK0w+1IWRZTG+W1sUVew+WcbEffxTAnnWRMV+UXJp9YfNHbJJOaiQehHWqfDzWXAYBK6BbpHdPTbWG9AHuyypXpBbPhLk5eMCAs9dha2cGYOYzrM8DUhZbZIUHHSco6Q2AoLzMwcdORDf7xOOW8awqxprEp3RQnniD1PDBAtKZRWP8PmYJ9DPn9aoNUARKf6BFo2QNtwwc2Ei60oAG6Q==&pass_ticket=/IHd3mSc5scyyzFSaLtnSkPt0FjARndwm0LWOcPg7VJpFIALFRiLhkYZn3byDn4f&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/7a4e7f0a-2c22-4863-9ac2-a426f088b7e6/7a4e7f0a-2c22-4863-9ac2-a426f088b7e6/)

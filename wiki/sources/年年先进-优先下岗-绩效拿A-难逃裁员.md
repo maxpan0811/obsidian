@@ -236,3 +236,9 @@ Original赵皓阳大浪淘沙
 简而言之，从“先进工作者”到“绩效考核”，是一个时代的缩影。了解了上述三个理论知识，就能够完美地回答本文题目所提出的问题——因为“你们（我们）”已经被这个时代所抛弃了，但这不是“你们（我们）”的错。
 
 ![](attachments/6d657199c006384e.jpg)
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MjM5NzE2NTY0Ng==&mid=2650700178&idx=1&sn=f0979f3c32a69d14eae0baf9ba300944&chksm=bf8e370e30dae2bf94c8b630d6c3637c29bfc0cfb8e2a6c44f9051440edcd4d412525153fd4e&mpshare=1&scene=1&srcid=0220yPsreKSxsBeTW5PUol0f&sharer_shareinfo=9100d3c9aa6cb5fdbd4d98f67c6350c0&sharer_shareinfo_first=9100d3c9aa6cb5fdbd4d98f67c6350c0&from=groupmessage&isappinstalled=0&clicktime=1771581968&enterid=1771581968&ascene=1&devicetype=iOS26.2.1&version=1800452b&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQCRFrIRJ1x5xNRDIVHDY2HxLoAQIE97dBBAEAAAAAAPQZDfCM6rgAAAAOpnltbLcz9gKNyK89dVj0/CtCu7KNplEyoMz6gBq62X61YaAtjgqh0HGOIkXK3+e7V//85vn2040p1/b485ouc8U3/2AQIor/s/hrQEIKSwqMxteE7F58Dm5PdG8FLkGokjShvE3UDUDtblVmRH3i87D5agA2dHyYVqzcX7QwCF/m/rAGgE7j9DSsVFGGNXuin9y0hS50dkV7Fg8Yvp3rl5xEtQb8bjumXlM3NjQtfsvuvccy80b+m6yB7O5DRQIfkvnRFccsnldbYpV6jlLhhmo=&pass_ticket=MBixrf+Y3v8ra9Oh3WSzarxUtWq/UR52FrGYihdqgyiN1nNqYvL80si4rEZ9NZsz&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/7e7f79f3-7f0b-4a72-9897-c6f2cabc2d88/7e7f79f3-7f0b-4a72-9897-c6f2cabc2d88/)

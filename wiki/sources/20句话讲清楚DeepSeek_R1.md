@@ -88,3 +88,9 @@ guid: e7a364be-d6d3-484c-bca7-07227673ac1d
 我们也会对于宏观以及A股、港股以及美股的市场情绪做讨论，目前星球依然有折扣，人数超过800人（还有120席）恢复至原价499元/年，期待大家的加入！
 
 **老铁，求赞，在看，不错过文章更新！**
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzU1ODkyNzE0Mg==&mid=2247485996&idx=1&sn=d2346476317f9d8fe011ca60c9e1ec03&chksm=fd1a46480ae213f1d99010a4137408ed4a56b1588348a192b11040621a73f2f9f2faeb18ee15&mpshare=1&scene=1&srcid=0127n5HTSYRnp0OLTe4Ovkbd&sharer_shareinfo=7d53ab050727e4dd4df533a85e6a0345&sharer_shareinfo_first=7d53ab050727e4dd4df533a85e6a0345&from=groupmessage&isappinstalled=0&clicktime=1737970444&enterid=1737970444&ascene=1&devicetype=iOS18.2.1&version=1800382a&nettype=WIFI&abtest_cookie=AAACAA==&lang=zh_CN&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQ99HtwIsfQYjXL8UsxOs3DBLsAQIE97dBBAEAAAAAAAf/MRZg1aMAAAAOpnltbLcz9gKNyK89dVj0u/+vpsGg2yCdAaNSx4YFGp+D521Xhadr62sh3geCqXCedn9AmlevPj1pZxmY7ORFedftLg+l4JeLb/gyERwKmihCefm0tbJ+LVb4jc+jOP/6m/nG+xvJSMvbZruxco50I3HNlmAIhgF9lVwCjjkpPB28Aok9SESbR2aR0JYj+uMGG9EJEDNyGMPgyzOexdoORnh11g/EeFpwZ52Uf/4kIjMsiQooQJdwc4RiaOTUsi18innMsuqqr2mmoMdudLiDSU/wzZCU&pass_ticket=2HsBhXufNKeyjQf6H/+kvHCExXM4EgIvT+7bZuoTpwLqVS2xcU5A69Wz1QsYIiJ/&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/e7a364be-d6d3-484c-bca7-07227673ac1d/e7a364be-d6d3-484c-bca7-07227673ac1d/)

@@ -245,3 +245,9 @@ OpenAI正在为AI铺设一条从「工具」到「同事」，再到「超越人
 参考资料：
 
 https://x.com/OpenAIDevs/status/2057530207976989179?s=20
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzU1NTMyOTI4Mw==&mid=2247777404&idx=1&sn=0f97ee42d98d0c9ce9a86ea6b0e99d50&chksm=fa144690dde3ce69c2af0c1d93babdd91aec6be45125c6233a2311efb65ef46d01b963980cdc&scene=90&xtrack=1&req_id=1779427880725414&sessionid=1779427875&subscene=93&clicktime=1779428532&enterid=1779428532&flutter_pos=3&biz_enter_id=4&ranksessionid=1779427880&jumppath=WAWebViewController_1779428499596,WAWebViewController_1779428500087,20020_1779428524757,1104_1779428525720&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=18004930&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQDi5ZY58lZ1GpV5zVEurHFRLTAQIE97dBBAEAAAAAAC4rJLZCNBoAAAAOpnltbLcz9gKNyK89dVj0oWPU1eXLdb2PoogsGt9FAc/4a+cHzhQn88i9TWO5CBRY2zJtGvLEUY4kTYaiF/UeJv/c/SVYRAY04DtqMLGEwfzUdnQEcK2vRIAsjp91VwAx/xDiQrLPC6x6Ig8cuESdKVhCh41rcPJ1J4O43d4MXKd2tPsHossD6wSCUxh/U7IYq9TUc/5/anDmGVw4HQ1McvmskyT00+2RFq0EZ2J3LD/bycaT5eZdXlp5ahA=&pass_ticket=DgNTspfxhNb6ml0vJ9HPJlRBGz8fwhpsUtOwHidqHPTXnw6RrpiZY/5+UoBhusI5&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/bec52e59-ab7b-4b8f-9b8b-164fc4bd51e9/bec52e59-ab7b-4b8f-9b8b-164fc4bd51e9/)

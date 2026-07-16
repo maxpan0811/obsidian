@@ -214,3 +214,9 @@ NotebookLM 对中文的理解尚有局限
 **对了，别忘了点击文末【阅读原文】按钮，用手机验证码登录免费体验我们为你精选的图文转播客模板哦。**
 
 最后，祝大家打工顺利，早些下班。
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s/tSLRbLRhObB6NvAzmZDJ9Q)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/4a5d841c-4e0f-473d-876b-1ee1dbab4969/4a5d841c-4e0f-473d-876b-1ee1dbab4969/)

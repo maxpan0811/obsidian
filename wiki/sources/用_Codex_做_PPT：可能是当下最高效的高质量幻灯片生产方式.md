@@ -228,3 +228,9 @@ Codex 负责规划和内容生成，GPT Image 2 负责视觉素材，Presentatio
 因为它不只是快。
 
 更重要的是，它让我们第一次有机会用工程化方式，稳定生产高质量 PPT。
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?chksm=f0ab5d1ec7dcd4080640e67bd6faad60d6c1dfb4de064f33126baf8e43ef49850fef268e600d&exptype=unsubscribed_card_recommend_article_u2i_mainprocess_coarse_sort_tlfeeds&ranksessionid=1781531713_1&req_id=1781531713373903&scene=169&mid=2247485365&sn=5254d79de27f37676ccd0da8dce98589&idx=1&__biz=MzYzMzcwNDM4OA==&sessionid=1781527535&subscene=200&clicktime=1781531996&enterid=1781531996&flutter_pos=81&biz_enter_id=5&jumppath=WAWebViewController_1781531938512,WAWebViewController_1781531939010,20020_1781531984742,1104_1781531987020&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=18004a2f&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQ4WF20rPm4O8yhHwI8yoM6hLTAQIE97dBBAEAAAAAAOZSJ6UAEOwAAAAOpnltbLcz9gKNyK89dVj0MVVktPWKInkbolCp101dZiX236t/maSDKqhvfOXeOxlhSj9/Y3uIdf7QCheFbZIIBaTwTbxpoZbmYxmgnxdg+D698tev2SZfkh83dXZFvTGoERH4xwyybK7KPGlbNYLZzqh4k9op9pZWxwtPCChpbqrRKw6L/Y1P1tOS4W5wBpC1eYMHnXdSThkpCdHcOBNkwT1Atl5G4Xo6rfP9O8/hhopNxkM/UR3qYg3QuqY=&pass_ticket=Xe9pSKY4fV0Sw+29zuhaS0Nq8AgdgBzOMcDSTzWpEKT6OJhVU1c+9tYmnSo0eQbb&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/461253e5-3a9b-4719-80f8-9ad1d71ab009/461253e5-3a9b-4719-80f8-9ad1d71ab009/)

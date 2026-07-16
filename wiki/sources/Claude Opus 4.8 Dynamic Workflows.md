@@ -103,3 +103,9 @@ Anthropic 还强调，Claude 是首个同时进入 AWS、Google Cloud 和 Micros
 ![](attachments/65e9a567127029b2.jpg)
 
 这也是 Anthropic 估值逼近万亿美元的核心逻辑。Claude 不再只是一个 AI 聊天窗口，而是正在成为连接模型、代码、企业流程、云平台和算力基础设施的工作系统。Opus 4.8 是这套系统中的最新模型底座，dynamic workflows 是面向复杂工程任务的产品形态，650 亿美元融资和算力扩张则是继续把这套系统推向更大规模客户的前提条件。AI 的潮水把 Anthropic 推到了浪尖，站在这个高度，往前是乘风，往后是沉船落水，没有第三种姿势。*\*封面由 AI 生成*
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&mid=2651092743&idx=1&sn=a13ba312db7e689c31174815bb7147ff&chksm=bcee52b8be191bc64edfb63ec7522ac0487b7d5d93d4779c718224073f6775f77b9362538d1c&scene=90&xtrack=1&req_id=1780011025347057&sessionid=1780011028&subscene=93&clicktime=1780011211&enterid=1780011211&flutter_pos=1&biz_enter_id=4&ranksessionid=1780011025&jumppath=1001_1780009610876,1104_1780011029353,20020_1780011032812,1104_1780011203267&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=18004935&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQAhwAjq8IJ+QgNaIerkNlxhLTAQIE97dBBAEAAAAAAFRUOHYP7ZkAAAAOpnltbLcz9gKNyK89dVj0fI/9peOtkHe49TzNjPD3ZTau+zEiHIVk4avtdsGxVy8Jne450haUfUqJipSFR69C/fBkASrbEybk21+PXHQkZ+Uiba0RJT3UtsAhXPNXhcGYzyvLqtPMO/3yu/HUapMnXhX1YU+LX3hacVc2E8S/WD0HWOZlDZLkfq8z1R2PjeHtRjYcpZDx6IykzsbUvAMy5WdshPcg09wJwiR/TuOhJwx52/VeCZ7vCYGxRLA=&pass_ticket=oKJsAinTPt4QC+T0/yGxLxwTimlfBOyE+vTtbdzJW1HP/JwdT9RYLBv2y8krhKsd&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/e743bcf0-aeef-4f00-966d-68f7d96001f4/e743bcf0-aeef-4f00-966d-68f7d96001f4/)

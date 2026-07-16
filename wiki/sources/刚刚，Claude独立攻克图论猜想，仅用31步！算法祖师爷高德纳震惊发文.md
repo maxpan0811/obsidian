@@ -321,3 +321,9 @@ TeX是全球学术排版的不二之选，尤其是处理复杂数学符号 
 ![](attachments/7232f62e4022810e.png)
 
 参考资料：https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdfhttps://valeman.substack.com/p/donald-knuths-30-year-problem-solvedhttps://mp.weixin.qq.com/s/jmEhfkw\_3w2sDuACQCwTOQ https://mp.weixin.qq.com/s/PkrJnuvtrL0OCJXzRPCxxA https://mp.weixin.qq.com/s/XIcafYS9PbNgE2cMYHfQ5w
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652680186&idx=1&sn=a9bf51f155258c0a7cb51fb5478fe0eb&chksm=f082bade23f6c185232897f8298cc71b881a260ac0d17d6de75570697aa231370cb06dec082b&mpshare=1&scene=1&srcid=03045STTLfN0M66O8k2tcq9b&sharer_shareinfo=403c91a68ea25333915977ea748bcdda&sharer_shareinfo_first=403c91a68ea25333915977ea748bcdda&from=groupmessage&isappinstalled=0&clicktime=1772686822&enterid=1772686822&ascene=1&devicetype=iOS26.3&version=1800452d&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQU2nwovGAGaxTYZhMdKo4YRLnAQIE97dBBAEAAAAAAJKqLFezRQUAAAAOpnltbLcz9gKNyK89dVj0IXe6n1kdxg0PnbEVJmWBYL4wrGfM8epT4KP0dZoEu5Is4Gy4FB2+InuC29NTcTDGIYiWdpjH8Nh3znOhRZGFgA3iUoWbYuGvsz2pSihnGp/TnpD0bRCDNp4RQLCJHNRK1m5bNqfEoFRpBPh5prtTrvb9iP8hRiNrzBYjO6IbnbU8K2qXtDN5UohI6WfJzkmIctW4IiFAwEfTgil8bNe+eQOPbBxcjZwyDjWoR8lgMt5MtoEjPR15Ve4rZd3+CG9nKA==&pass_ticket=Ohv9VY3FW7KoApNOULbNnJL0qmyKbN8pyl1HETLgm/S4/XvUa0Dy4DeCMNeIJlII&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/387449c9-06e3-483b-8519-998afe52112b/387449c9-06e3-483b-8519-998afe52112b/)

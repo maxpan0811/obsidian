@@ -122,3 +122,9 @@ APFS 是不是苹果在软件层面的杀手锏？我们说：是的。
 无论如何，这是一个必须更快的时代，APFS 既是这个时代呼之欲出的产物，也是推动苹果设备变快甚至未来可能更多设备变快的技术助力。尝试和享受新科技，这就是升级 iOS 10.3 的理由，这只是开始。
 
 [阅读全文](http://www.feng.com/iPhone/news/2017-03-29/Invisible-revolution-apple-black-APFS-file-system-of-science-and-technology_674306.shtml)
+
+
+---
+
+[🌐 原始链接](http://www.feng.com/iPhone/news/2017-03-29/Invisible-revolution-apple-black-APFS-file-system-of-science-and-technology_674306.shtml)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/44dc6354-1522-498a-bc0b-f133d62a4045/44dc6354-1522-498a-bc0b-f133d62a4045/)

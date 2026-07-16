@@ -98,3 +98,9 @@ Dispatch是远程控制。你在手机上给Claude发指令，它会自动判断
 现在就去试试吧，从一个简单的开始——让Claude去给微信里的自己发个Hi，感受一下AI帮你操作电脑的感觉。
 
 #ClaudeCode#Claude#dispatch#VibeCoding#OpenClaw
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzA4NjEwMTQ1NA==&mid=2453864901&idx=1&sn=d56926bbd072775e8a3abe5a01e12b7e&chksm=89c114ead706d1f8e419aab5ad447f338b57144dbabff6e74a37e1905c2d23d5303d6e7936a9&scene=90&xtrack=1&req_id=1774599844178090&sessionid=1774600379&subscene=93&clicktime=1774601296&enterid=1774601296&flutter_pos=12&biz_enter_id=4&ranksessionid=1774600400&jumppath=20020_1774600400101,1104_1774600518835,20020_1774600536600,1104_1774601093470&jumppathdepth=4&ascene=56&devicetype=iOS26.4&version=18004627&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQ+V15DTF22ijUWDJccT4HYRLTAQIE97dBBAEAAAAAAE7ZObMGKCcAAAAOpnltbLcz9gKNyK89dVj0XvmKJFJb1AegN0T8mzUCqcsXUmq7Q6C3UcekjC9dmrUJq8hMD8MtwiZUTIbCClaFsz+r/A7b8K94TsAQE1nLaJ85yy1Y5L0iYBWnD3PPymF0fIcNMVwZ3KKqtT26WF1xmI81hxbkrPxZnDnWPdypnY7oak3cEjwig5yysTsst6DLvzXtYwlGnj56dqo4lXdwyvugEMxiOpWp7i3GzRMJBlaA3RqEeME8sv8zE6s=&pass_ticket=G7C5r4MWuERAreC/ShmGl3CqGEjpJXeU6mpf5WWXRpvkcfaWacsvFcMGX5BcP93+&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/e36a983c-e3bf-4ab1-9d5e-ccecf2551cc4/e36a983c-e3bf-4ab1-9d5e-ccecf2551cc4/)

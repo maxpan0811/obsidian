@@ -171,3 +171,9 @@ Copilot也支持以笔记仓库为数据源进行问答，这是利用本地Olla
 至此，你大致应该了解Obsidian为什么吸引人了。它灵活、强大，能实现你的很多奇思妙想，而且它还在社区的推动下快速的迭代。
 
 最重要的，它可以完完全全成为“你自己说了算的”笔记软件，成为你的第二大脑。
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?chksm=f245eb66c5326270264a8cfc6f2ae5eeb2d1db37ae44d261684414a12c8ed60e68aeadefc8c2&exptype=unsubscribed_card_recommend_article_u2i_mainprocess_coarse_sort_tlfeeds&ranksessionid=1738571309_2&scene=169&mid=2652017178&sn=be34d80d026027688aad05bffa2578be&idx=1&__biz=MzI0ODIzODA5OQ==&sessionid=1738572539&subscene=200&clicktime=1738574600&enterid=1738574600&flutter_pos=50&biz_enter_id=5&ascene=56&devicetype=iOS18.3&version=1800382d&nettype=3G+&abtest_cookie=AAACAA==&lang=zh_CN&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQIcORd+4pw+ap9kE/ptacpRLWAQIE97dBBAEAAAAAACM5OeS7bP0AAAAOpnltbLcz9gKNyK89dVj0fjXPvt4mrDjD7TB2fr6HcciMDWeBJ5Z5LaL4dB6ZfLXCw4tNILrxpVx+sz8BAl4ds+p2DUcSe5Y1P1JbZR+J6owZ8NOwvRrxcftKrf6n3Jjz9JDUyZxYB87WmAVYGhJpLDlOtEgBE30lzQIWv7+XLWRoXnPgWJNaezr88Ob3qMTnankKEP7wtrLbvbZ6sCRyQqWM1/3EEHd4/8G135Slku7puMIZinAbihPxtl18NJQ=&pass_ticket=mtuwarFI5oRq4veGpvZ/6wQW01wGTcSWPB1z11uZ5iyPe5cBB67+WrnKuhrjpg1V&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/78ca550d-8f75-427e-bf21-6bb465c0a0d2/78ca550d-8f75-427e-bf21-6bb465c0a0d2/)

@@ -172,3 +172,9 @@ guid: eede290c-05e1-486c-b9c8-0d62256232b9
 在未来的日子里，梁文峰和林若曦将继续携手前行，在科技的道路上不断探索。他们相信，只要坚持 “技术向善” 的理念，不断创新，就一定能够创造出更多造福人类的科技成果。而他们的故事，也将激励着更多的人，勇敢地追求自己的梦想，为推动科技进步和人类社会的发展贡献自己的力量。
 
 ![](attachments/0ea7938b7886d5db.jpg)
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzIyMDA5MjYzMw==&mid=2650540232&idx=1&sn=2fc337cdc03f88da80df1b9da75b87a6&chksm=8ef1bb177842851609baf87eb17a64c7c4723eb26d02fbd1fdd464cd0d7ea06b3b7df784307c&mpshare=1&scene=1&srcid=0226AyyVCucAfHYYftxTX3F0&sharer_shareinfo=f5951f82bd8462bbe682b1f14b44e0ff&sharer_shareinfo_first=f5951f82bd8462bbe682b1f14b44e0ff&from=groupmessage&isappinstalled=0&clicktime=1740552539&enterid=1740552539&ascene=1&devicetype=iOS18.3.1&version=18003833&nettype=3G+&abtest_cookie=AAACAA==&lang=zh_CN&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQByE+7mdJHP5z4f+4kHobUBLsAQIE97dBBAEAAAAAAKbmNQhrvVsAAAAOpnltbLcz9gKNyK89dVj0fQ7oltAAJFNhRouuxeYxBRATqQD7vbA8f24ADpspF+S8Nas2cMRE8QkV5BzKK4RhFz3BjmFOrwSNC8s0lk4/EKoZDamwyRjZL3nmK5SjLJs50AxE5yTYfdQA1LEsN/I6/rj/f8ormlM9tVHSSjkWFYM2Dwu7cTgcnAfnvqXNSXNDpEIa+2ehaXI8GLobnkRhPbdQsw2OkDHRY1G95SQTM2sBSuMZpUOcZ5wOS32tfoFY/Amoy05oYDO4h2dHVT/9OeSnkw9k&pass_ticket=AG64xNVrxXszmAITz1uBvV2LB6pi4xk+WPNO52KqsK+kRmqXkxZTPYwAujPa7Zgr&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/eede290c-05e1-486c-b9c8-0d62256232b9/eede290c-05e1-486c-b9c8-0d62256232b9/)

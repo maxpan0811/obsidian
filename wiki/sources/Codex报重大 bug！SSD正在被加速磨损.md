@@ -42,3 +42,8 @@ GitHub 上已经有人开了 issue，反馈使用过程中直接卡死。
 Mac 用户可以使用smartctl -a /dev/disk0 来详细查看 SSD 寿命。
 
 ##
+
+
+---
+
+[📎 在印象笔记中打开](evernote:///view/207087/s1/872e5832-c983-43b4-96d9-f6ebc1af3df1/872e5832-c983-43b4-96d9-f6ebc1af3df1/)

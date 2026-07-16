@@ -196,3 +196,9 @@ LP的钱来自股市，风投退出也在股市。
 [![](attachments/903ee404ea4fbeb6.jpg)](http://mp.weixin.qq.com/s?__biz=MzI3Njg3MzQ4Nw==&mid=2247487303&idx=2&sn=5d4ee544dc7e76837b97642dd4ca64a8&chksm=eb6fa727dc182e319af7eda29157277d476645030edfa03f22f6a96a830fb7c495ee5a4101b7&scene=21#wechat_redirect)
 
 ![](attachments/7f4ac1c34e3d51f7.gif)
+
+
+---
+
+[🌐 原始链接](http://mp.weixin.qq.com/s?__biz=MzI3Njg3MzQ4Nw==&mid=2247488569&idx=1&sn=61be161b124eb452fad39fd2bb087e02&chksm=eb6fbc59dc18354ff785b4cac9c952b2cb577cf5b96ede3b71e80645d866738c9dadd2cf546c&mpshare=1&scene=1&srcid=07213LCgZHjANJwicEdTYDwI&sharer_shareinfo=465761b8d67745d052c4d08e198129cc&sharer_shareinfo_first=465761b8d67745d052c4d08e198129cc#rd)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/e06ddfde-30b1-4a40-95eb-da0ffb2d81fe/e06ddfde-30b1-4a40-95eb-da0ffb2d81fe/)

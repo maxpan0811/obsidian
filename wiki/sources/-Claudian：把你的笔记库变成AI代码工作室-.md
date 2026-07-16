@@ -377,3 +377,9 @@ Claudian 打破了这个边界：
 [1]*https://github.com/YishenTu/claudian*
 
 [2]*https://community.obsidian.md/plugins/realclaudian*
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?chksm=96c067d9a1b7eecf5b44998eadf60cdc21d44a74c392fdf5311aea018340a0474ef4c98a75b4&exptype=unsubscribed_card_recommend_item_heat_tlfeeds&ranksessionid=1782340110_1&req_id=1782340107152027&scene=169&mid=2247485806&sn=774f39743f6fb80692ba13e054820599&idx=1&__biz=MzIwNDM3Mjk1Mg==&sessionid=1782340109&subscene=200&clicktime=1782340119&enterid=1782340119&flutter_pos=2&biz_enter_id=5&jumppath=1101_1782339836610,1106_1782340107880,1001_1782340108811,1104_1782340110727&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=18004b2b&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQshvUbguFBsXxeFjTlhEJIhLTAQIE97dBBAEAAAAAAMKOBje1B+kAAAAOpnltbLcz9gKNyK89dVj0YmOLRRVcJQPaS+aK56pnPbRiB4YzXgmIz78g/Zw6+ns8WsmxzQa2LRA95NicqxuP71PsUfxB1WmQsOiJ2A2BdgOQR/C6yzTpygRAGA5Q47cU2DYyHT2sNV4IBmiTDICdARlRofs/0F+hN2C89xI7gMjbrb0wsn7owDiUFWR4qxOYwmK0ydyGgZC3UuGPRVVpql45MwM1nuV3UCU8LL0PW5pVXHE/bv54fi/RTRI=&pass_ticket=fXvSy2mG3WpCxA73Wl1uHdtni/Uwpc9q7wkC0JP5mVKndsmgxPGSegV6VORbSxFs&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/d84394c2-9c48-4aad-af33-881a010c7dc6/d84394c2-9c48-4aad-af33-881a010c7dc6/)

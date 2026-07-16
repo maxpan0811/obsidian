@@ -158,3 +158,9 @@ Breaking changes 是有的。但规范团队同时落地了正式的 deprecation
 Tools schema 升级到完整 JSON Schema 2020-12 也是个好消息——支持 `oneOf`、`anyOf`、`allOf`、`$ref`，终于能表达复杂的输入输出了。
 
 扔掉你的 session store ，检查一下你的 OAuth 实现，开始规划 Tasks API 迁移。 7 月 28 号见。
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=Mzk0NjY0MTc0NA==&mid=2247500336&idx=1&sn=07ea1122d72df2ee9595d0e6280cda01&chksm=c20bcba6446898440fa8ce8ed0de07728c7b8c6f165b3a383a949ca007ad86f010652f851fba&scene=90&xtrack=1&req_id=1780013094977203&sessionid=1780012596&subscene=93&clicktime=1780013382&enterid=1780013382&flutter_pos=13&biz_enter_id=4&ranksessionid=1780013095&jumppath=20020_1780013209414,1104_1780013211380,20020_1780013231589,1104_1780013245792&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=18004935&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQ3YqaiE8tX4xOqvTe8JEvuhLTAQIE97dBBAEAAAAAANGlEoGjw6QAAAAOpnltbLcz9gKNyK89dVj0t6xtF1Ag/hK/myputjkcLqR7Rlv5dENTE3lUvlBasMpnbe7ak1QnBBK3/a+rktIjDwyT5tZ5fd7M8p6MxgwL7nUWz9XNv72ffKOOKT6qFaPQIfxpSWZxWiV+xjZnOcNwSfJrNyL7WJQS+IdPn+EkfD2sAzlLHrlW/uojr1II2g3Vg8sh2YOfzYX81zWsw4BDef8VzN/1sIXIg7Wdv7eikumq6bhJdMlCVnbVcyA=&pass_ticket=ZMR4B6sKtQDU1LYt65tUbk3w4YBk2QQJMX9fJfaFth2CNfk3cS/JH4oy0lVljyLr&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/bfb15625-ffdd-4036-8845-cfe0838a4dc6/bfb15625-ffdd-4036-8845-cfe0838a4dc6/)

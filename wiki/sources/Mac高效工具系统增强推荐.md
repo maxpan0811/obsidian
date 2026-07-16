@@ -149,3 +149,9 @@ https://apple.stackexchange.com/questions/154292/iterm-going-one-word-backwards-
 一些网站可能不适合发出来，公众号后台回复“Mac软件下载”获取链接。
 
 ---
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?chksm=ebdae248dcad6b5e9d9a4c6c161c5104f48db9737153e7f625a3cce90071ab08ff505a74600c&exptype=unsubscribed_card_recommend_article_u2i_mainprocess_coarse_sort_tlfeeds&ranksessionid=1745934793_3&scene=169&mid=2247486995&sn=bf0695434496299db91678cfd8c43ffd&idx=1&__biz=MzI4NjUyMjY3Ng==&sessionid=1745933309&subscene=200&clicktime=1745936221&enterid=1745936221&flutter_pos=62&biz_enter_id=5&jumppath=20020_1745936079764,1104_1745936080430,20020_1745936089795,1104_1745936212757&jumppathdepth=4&ascene=56&devicetype=iOS18.4.1&version=18003b24&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQhhedQzZuZwgfRPqm6RkpfxLVAQIE97dBBAEAAAAAAMmhEcrP8cwAAAAOpnltbLcz9gKNyK89dVj0FvNlMc5J3gQYiUfizOd/ElUai3687QPJoz6tI6kBSF/yctN1Dl6Pi8m9NVbolRdtOfTWCswN8JUlVFh4+tq8Grkhq3NNYbq/PNrsdlQveMkJvrDu1nKDXHl/p9+sTWDiX7oS4fngq+WMa36qTytbGQ2J01Yts/V3tJNS2cxzoVc+r0HSbJ4Cf10qyLCHnORR5K/4lenqdXv3DAWMssNYlAXe+IfsKpqsS3O9CZ7iKw==&pass_ticket=o+C9SQIV1LK8+4gvbPAnHFhhUMkCYPiKNkYC12UisrhDzm1sQtbZwP7Gxw2r/7/F&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/d60f5a3f-ad2e-49a2-b756-1d515a0dc028/d60f5a3f-ad2e-49a2-b756-1d515a0dc028/)

@@ -93,3 +93,9 @@ AI大模型的运营成本中，电力成本占运营总成本的比例高达60%
 **End**
 
 扫码免费加入「一起AI」社群，一起拥抱AI大时代。
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MjM5MTg5NTU0MQ==&mid=2654155789&idx=1&sn=0da75c8c5d4b82505436d7c6493eb4fa&chksm=bcb86065d761d5f94af7bc65a913965f07c3b8471d463d074e04273522ab8d5633e1d357e58e&scene=90&xtrack=1&req_id=1779536688527477&sessionid=1779537340&subscene=93&clicktime=1779538445&enterid=1779538445&flutter_pos=4&biz_enter_id=4&ranksessionid=1779537317&jumppath=WAWebViewController_1779537711238,WAWebViewController_1779537711737,20020_1779537726652,1104_1779538213338&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=18004932&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQd9QvM0WElx/hHvAB1mDJYxLTAQIE97dBBAEAAAAAAEd/IVk1zTQAAAAOpnltbLcz9gKNyK89dVj0HOMFJpvuJs0QW9MpeZ3G8P5ZjmIMH4zcqNbyoF44zAhyWh4f5p+DRiZAEMCOWDhxyz4KE5JE5LNOckDqmYUn4vw26gjQ20A1JIn+RkTcWcG5PqH0GZjDPJO+NjudfmHkwGf0YwvXh0RAB8jE1MLhF+RC22aYJY99GifBsUDP+K6Tpm1Gknr1Pa+rQ7H0VRjEzFGyGEIU7RiJPLGOZilWV89wW4KASn1qRC1o+xs=&pass_ticket=U1pW0udMzfJZou2HZxzADFzUpJqLagcEBFnfECN6q4bZ+vfdfJfw2+Yikp2q0+vC&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/5aa3e298-7a6b-49d6-8de6-0884f64f4cc7/5aa3e298-7a6b-49d6-8de6-0884f64f4cc7/)

@@ -53,3 +53,9 @@ IMF预测：今年全球经济萎缩4.9% 中国成唯一保持增长的主要经
 
 ## 相关页面
 
+
+
+---
+
+[🌐 原始链接](https://m.guancha.cn/internation/2020_06_26_555411.shtml)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/d87a6bd9-a4cf-4522-b0cb-dcf8d7f92d47/d87a6bd9-a4cf-4522-b0cb-dcf8d7f92d47/)

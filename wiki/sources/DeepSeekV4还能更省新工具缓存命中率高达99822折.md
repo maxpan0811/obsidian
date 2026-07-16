@@ -129,3 +129,8 @@ anyway，harness和harness之间肯定是有区别的。就有网友分享说，
 参考链接：[1]https://github.com/esengine/DeepSeek-Reasonix/blob/main/docs/ARCHITECTURE.md#pillar-1--cache-first-loop[2]https://esengine.github.io/DeepSeek-Reasonix/index.html#agents
 
 — 欢迎AI产品从业者共建 —
+
+
+---
+
+[📎 在印象笔记中打开](evernote:///view/207087/s1/e8dfe92f-8e95-4bca-88bb-e5a15ec6e4fa/e8dfe92f-8e95-4bca-88bb-e5a15ec6e4fa/)

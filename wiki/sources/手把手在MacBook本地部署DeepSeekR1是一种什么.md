@@ -157,3 +157,9 @@ ollama run deepseek-r1:32b
 ![](attachments/1294ed15d618af41.png)![](attachments/aaae11d823aa09e5.png)
 
 END
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzUxNjk1Njg4MQ==&mid=2247485133&idx=1&sn=b74f964f15ef00672c3b714410cc9afd&chksm=f8b5010cf90a15e61b8cef14781e46be3dbd11ce41bfaaf8bfb023ae776eb89cec53abb506c7&scene=90&xtrack=1&sessionid=1738143702&subscene=93&clicktime=1738144484&enterid=1738144484&flutter_pos=9&biz_enter_id=4&ranksessionid=1738144437&ascene=56&devicetype=iOS18.2.1&version=1800382d&nettype=3G+&abtest_cookie=AAACAA==&lang=zh_CN&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQSE+AVMWwm6cYJs+LEIloGRLYAQIE97dBBAEAAAAAADagOit49ZoAAAAOpnltbLcz9gKNyK89dVj0mc7WAmcazNgVkbY+3jh3+ifTMtXko48PaTOwCHHCxfbbcLujG9yXB2qsRhEBXaV4q6mPL1G1nTjRYO7yTYMZ8DHPLNRSsjxA9s3UFfi37Pi+CVwIjtlPNFKXGUcLjpFcSALdjNOwfh+daZYzxZ9Pvjy24GNdyAKSBPKl9jkjTJUzme/YSMEJ76kYzwFu11PAwbXjpAqWXKomnccV9CFLi+dkUjPOxf3TXmADX7DOXRfSxA==&pass_ticket=KnkxZpSuDiE4hU1gdNe2eMyJKmJ9waYlyCVRw1ac1GhtvumYv1qa5Zj6LXKdd1kv&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/3b6a5a34-8798-4c48-b267-66d86f50e8d3/3b6a5a34-8798-4c48-b267-66d86f50e8d3/)

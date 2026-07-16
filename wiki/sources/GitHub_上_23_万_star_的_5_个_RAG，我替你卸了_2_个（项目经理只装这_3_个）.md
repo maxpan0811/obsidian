@@ -196,3 +196,9 @@ pip install lightrag-hku
 关注「AI 落地手记」
 
 一个人 + AI 管 20 个项目的真实记录
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzYzMjY1OTI0MA==&mid=2247484732&idx=1&sn=abb4c2f28c7c6aff9f6fd76c29518a04&chksm=f1adc41e8f5ce8c70488058030eb0069d0943eb8b993c225a6c028f55259f6effcb9505eb501&scene=126&sessionid=0&clicktime=1778947520&enterid=1778947520&ascene=3&devicetype=iOS26.5&version=18004929&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQjTtyHsRwM2wqxFSvGk/+PBLTAQIE97dBBAEAAAAAAMvjAwB6Q7QAAAAOpnltbLcz9gKNyK89dVj0Zx6136c6e16nlqHawSiTngRta4KRu/JG088c/cMZze5avBZO0l7Qq5xVF8zB/Shzq7Oq8xYCSlSrr2I4AEywWBUQtwMxmqfh8+b8Kiruuxxy59xghT6WcAWFsbxoxk1nrK75cOYuSDer+J87hEEH7IsTgCJSytkitDZ8kzb8ykP8ebDEoe2VJO8jY3bLHTZ8AM3TB/xhygqp57j/xm49OcZK+CbmVTe/HGjYRko=&pass_ticket=8tV0F/O5TQIBhBu6tEzMFWqyoMSZFil5RnEFubyF49ZSDDz+42gm/mk/Pjbsp7kh&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/89103a50-51fb-4240-bf55-5bfaae7d1a67/89103a50-51fb-4240-bf55-5bfaae7d1a67/)

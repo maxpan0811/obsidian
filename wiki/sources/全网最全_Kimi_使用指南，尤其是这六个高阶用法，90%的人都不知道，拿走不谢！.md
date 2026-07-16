@@ -184,3 +184,9 @@ Kimi 也一直在不断更新迭代，很多其他平台收费功能，在这里
 想了解更多 AI 知识可以加我微信，免费送你一套整理出来的 AI 资料包，还有 AI 探讨群可以一起交流。
 
 ![](attachments/2358ec9032163a91.png)
+
+
+---
+
+[🌐 原始链接](http://mp.weixin.qq.com/s?__biz=MzU2NTg3MjMwMg==&mid=2247486952&idx=1&sn=6f103583b4ef753d6f3eea30ad830fa2&chksm=fcb45e29cbc3d73ffc728e794ae49c350dc2eb813ed61acd66c665a22317e0e5f3d504a1aa22&mpshare=1&scene=1&srcid=0816OoxY2vgzpsg2lt6bmClV&sharer_shareinfo=7beffd9222231cfe1f87de352963db35&sharer_shareinfo_first=7beffd9222231cfe1f87de352963db35#rd)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/3f9b934f-4c53-491d-bea3-db51368077a5/3f9b934f-4c53-491d-bea3-db51368077a5/)

@@ -72,3 +72,9 @@ Siri 终于有了真正的个人上下文感知能力。我昨天直接问它：
 折腾了一整天，macOS 27 真的让我找回了当年折腾苹果系统的那种纯粹爽感。它不是在硬塞 AI 噱头，而是极其克制地把智能化揉进了咱们每天的肌肉记忆里。
 
 看了眼手上的 Apple Watch，今天连运动圆环都没合上。不敲了，我得换衣服去酒店泳池游两圈自由泳回回血，咱们评论区见。
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzA4MzM1NjI4OA==&mid=2650563433&idx=1&sn=30b8d8618ed3f760ae0671f8bdcaf264&chksm=86893eb1183951762742adf1b95af1a616b82be6234cf6fb35908df8fcaeb1688057668dd384&scene=90&xtrack=1&req_id=1781652816297344&sessionid=1781652874&subscene=93&clicktime=1781652880&enterid=1781652880&flutter_pos=1&biz_enter_id=4&ranksessionid=1781652816&jumppath=1001_1781652832372,1101_1781652834587,1001_1781652871125,1104_1781652875821&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=18004a30&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQZk8NZ6nn7jNxQyTK7q00HhLAAQIE97dBBAEAAAAAAAa0LB6diXoAAAAOpnltbLcz9gKNyK89dVj0vb9lhkfJsqq6eoQFsRiWWw8hXD2Th1koDDBDD2q+iqQdmVWStmayfDTyTVd0mA/sJF4vkooNqNB44/udL3uSsNtDJyRhs6PCYvO+rBFEpP4+QvnWSZehf0yJ/ZH/cBXN4Qfv0VVwcCkP0q9CqI5a/ejIrLx6Vnh9p6JGvxsik9Y6W9b/9VFF7VTCD9Nkn5rI4JiqW4EcOQxlFQ==&pass_ticket=ZXI5s40CGBWd4XCKsitUdOfGjL36ozANCUpxOf45+ybw+q2xlHGlUD/8phN/+8Ph&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/52c30f78-32b9-4f0d-947f-80618f37f37c/52c30f78-32b9-4f0d-947f-80618f37f37c/)

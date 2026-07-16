@@ -573,3 +573,9 @@ CTO / 老板要更新「评估维度 + 团队KPI」
 剩下的是 —— **这周你能开始画的那张E/T/C/S/L/V表是什么**。
 
 — END —
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzYzMjY1OTI0MA==&mid=2247485296&idx=1&sn=7fd1a69f4dc819926464aa623c3a4dc7&chksm=f118c6af2309bca977e62563376367ac513156910bfe6bfe8b65aa170008c4516c7b68ecf728&scene=90&xtrack=1&req_id=1780011798927897&sessionid=1780011028&subscene=93&clicktime=1780011970&enterid=1780011970&flutter_pos=14&biz_enter_id=4&ranksessionid=1780011798&jumppath=1122_1780011850174,20020_1780011857275,1122_1780011951938,1104_1780011954010&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=18004935&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQRfy5h3mt8CUaKPZZZs9pdhLTAQIE97dBBAEAAAAAADVaKZGtA0EAAAAOpnltbLcz9gKNyK89dVj0uggVA1ZIKCu9YKRpdn0VU4l5dt6EbJ783OI4FPi3lHyyfec56EY7X1Q5pAIHiUIlPcwJamXhimQcdUfOxLMAzfX7EE0vmcG1kW1CsbqpqaNuvz8epD/4ooa8KQFfuuSi+WKmO4uhNugftYAse3zGcZdXbYdfkV+xo2eX1duluJLqxGhBISvWTmnVw8Sr8Gh/QkHzK1yKeEif4Al8ie9B/JWk4VZo6k0MIKW/qMo=&pass_ticket=FLVZ/Gaw+/UDNe3l72mI35vw6QJ2ByTpy1i2Gd8t3p+KtMUA/PrUzRkAEo0ngYYd&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/b748317b-bc73-48e1-9b84-17fb11484e82/b748317b-bc73-48e1-9b84-17fb11484e82/)

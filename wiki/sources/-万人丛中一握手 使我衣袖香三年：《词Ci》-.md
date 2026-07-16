@@ -102,3 +102,9 @@ guid: 24ca711c-685e-469d-bfc3-125ebef25061
 ![](attachments/28d6814f309ea289.gif)
 
 [fullrss.net](http://fullrss.net/)
+
+
+---
+
+[🌐 原始链接](http://game.feng.com/game/infoDetail/2014-12-11/people_leaves_a_handshake_to_make_my_sleeve_incense_ci_word_for_three_years_84638.shtml)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/24ca711c-685e-469d-bfc3-125ebef25061/24ca711c-685e-469d-bfc3-125ebef25061/)

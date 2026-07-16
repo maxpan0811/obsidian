@@ -269,3 +269,9 @@ OriginalDracoVibeCoding Draco正在VibeCoding
 任何软件从现在开始都应该同时具备To Human和To Agent的“一体两面”～ 否则必死！
 
 龙虾🦞打通ima，你会怎么用呢？ 欢迎留言区写下你的想法～
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzI2NzM4MTQwMg==&mid=2247494918&idx=1&sn=52aad2e73d08fa834257ad8abf931958&chksm=eb9693f834bcffa4c75137d77e23a564a8dbd5aa80107c20666b460e239d8753d70e82af6d91&mpshare=1&scene=24&srcid=0520X7pd6vHo1eJFQucGSlR8&sharer_shareinfo=26df1f0b9fae6882db15f49ef4d46500&sharer_shareinfo_first=26df1f0b9fae6882db15f49ef4d46500&clicktime=1779424254&enterid=1779424254&ascene=14&devicetype=iOS26.5&version=18004930&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQ+uJKKpcwhrNzjfH6c/WxzRLTAQIE97dBBAEAAAAAAO6XD2FQoUEAAAAOpnltbLcz9gKNyK89dVj0Qs1pW+7EyDrUzSQCu4ufGG1od3FhLfrZ5STK6BaWhnb8GuefzT24pNdVJ3CyPMsOaeMabEyOgrDqdkD9Qcvw872bYkEllw5NCI6wHTedj/AN+TonVijD/tYMTpuX+lilWlXfZPkJROro12R1d8aD4NzMS2X5U8Wkbw0rk+T6RBM1Ip6Jew+F4b40UmnVnfT7wDZyail3lTdnVsoZIKJEofBt/ioluqFVqzWalrg=&pass_ticket=Q1TUjkjfzvOXL3Pkm33CDg2A9jb7xlD0B+eYHKmW5CkLsaMnRFj2TiWCK5x7GySG&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/e8ebda2e-471a-4b3d-bbf3-22324e7167a4/e8ebda2e-471a-4b3d-bbf3-22324e7167a4/)

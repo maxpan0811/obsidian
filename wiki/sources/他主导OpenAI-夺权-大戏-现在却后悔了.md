@@ -176,3 +176,9 @@ OpenAI这场行业震惊的罢免行动还未彻底结束，有关AI未来的探
 8. [智能计算领域10个重大科学问题](http://mp.weixin.qq.com/s?__biz=MzIyMzk1MDE3Nw==&mid=2247612243&idx=2&sn=07620e54a1ef64bc97c08d900330ccff&chksm=e815135ddf629a4b87e967319f0749bd33e31a105597ef42b3ecad34100d19b62ea5aa9390c2&scene=21#wechat_redirect)
 9. [中国发表第一篇计算机顶会的人都怎么样了？中国ACL、AAAI、CVPR第一人是谁](http://mp.weixin.qq.com/s?__biz=MzIyMzk1MDE3Nw==&mid=2247617370&idx=1&sn=d298be506852c8010b63d3646dc2878e&chksm=e8152f54df62a642260b308d595fe6dd3e5bb634c7146b3f09675d60d8870eb3d85c5127573a&scene=21#wechat_redirect)
 10. [AI智能超越人类终破解！李飞飞高徒新作破圈，5万个合成数据碾压人类示例，备咖啡动作超丝滑](http://mp.weixin.qq.com/s?__biz=MzIyMzk1MDE3Nw==&mid=2247616840&idx=3&sn=2645e864923ef6279ad4d8aefbe4c21f&chksm=e8152d46df62a45021c9f7c53369e7651e610576704cb0b58e2d67d223af8fc1c87897e7a158&scene=21#wechat_redirect)
+
+
+---
+
+[🌐 原始链接](http://mp.weixin.qq.com/s?__biz=MzIyMzk1MDE3Nw==&mid=2247618906&idx=1&sn=6bca3264aae9a904c3794e1e891736ef&chksm=e8153554df62bc423aaeec1dc5ab953330da8277172cf42aeabac16451c94f26e33a5a47e231&mpshare=1&scene=1&srcid=1122YF0nNLOlhf9JXW7hK45J&sharer_shareinfo=86511b4aa512252d9ca491d1f030e621&sharer_shareinfo_first=3cda50a4014741fc535f58a2fdfd87c1#rd)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/14b05851-ebae-49a8-9f4f-43a0c57decdc/14b05851-ebae-49a8-9f4f-43a0c57decdc/)

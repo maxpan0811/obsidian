@@ -54,3 +54,9 @@ OriginalDerek Kun寺意禅游
 事件，趋势，结构，是我们理解系统思维和问题本质的重要概念，约谈是事件，酒店行业市场整体下滑是趋势，结构是供需关系。当然，还可以再深层次地思考。下次聊。
 
 或许我说的都是错的，欢迎评论区理性交流。
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?chksm=8bfdbbc5bc8a32d3bb88dc8e6c390e6d87bdaeafa250cf4bcbb5b4b0d8d5b457ce605de3afcf&exptype=unsubscribed_card_recommend_item_heat_tlfeeds&ranksessionid=1755134357_1&scene=169&mid=2447956409&sn=a0759f4293ff404c16bc99528c867428&haid=4118933692150710275&idx=1&__biz=MzA4NDc5MzEwNw==&sessionid=1755131242&subscene=200&clicktime=1755134815&enterid=1755134815&flutter_pos=45&biz_enter_id=5&jumppath=30024_1755134532512,1104_1755134643823,30024_1755134645149,1104_1755134793882&jumppathdepth=4&ascene=56&devicetype=iOS18.6&version=18003e2a&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQeeJs70DQalq6sKepA8v8oRLTAQIE97dBBAEAAAAAAC41LnSrougAAAAOpnltbLcz9gKNyK89dVj0VNUmDOjRRVF8Z/LhooFUuEhIQnr7evfErO8SP9eq9ow/39eQQPAjM92TxL5hdQZO2nGOyHPTB4YMpkhzdIjrhgrCQ6Pv1MrIjzMu3bwL2HSKUXZlXiQan5A6TpQsQqXH/bx6Y1nWt9y/FzOhQGjXYpNdU0mMR/Y0XmioTUg3XwdFk0S0PjaAiSzoAV3bHUn6azbyt/RP/NX4h0MqWUiX0CUpz5snb8RV1y/yQhA=&pass_ticket=6btjn83NBSNivAMjs2F7XAtadrRbJwVv/VpNI/SvqVk8kY/b5nE+KLXCHiEIABLZ&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/3e325da6-a924-4af8-913a-74c3ec1ceeea/3e325da6-a924-4af8-913a-74c3ec1ceeea/)

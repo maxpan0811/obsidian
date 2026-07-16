@@ -500,3 +500,9 @@ Conclusion
 有时候，赢也可以来自相反的东西：更少的bet，更低的ego，以及一个天真的使命。
 
 ![](attachments/0190413580304aab.png)
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzI2NDk5NzA0Mw==&mid=2248889374&idx=1&sn=b0c3406a6d73be43b487b3b47f342683&chksm=e8342b58aa06ff6abca31ef1393530731093c32fb90c1ea9e8d6f2dfb81a86b90bf328acfd27&scene=90&xtrack=1&req_id=1779464847241397&sessionid=1779462778&subscene=93&clicktime=1779465002&enterid=1779465002&flutter_pos=13&biz_enter_id=4&ranksessionid=1779464847&jumppath=20020_1779464846673,1104_1779464876543,20020_1779464881952,1104_1779464994489&jumppathdepth=4&forceh5=1&ascene=56&devicetype=iOS26.5&version=18004930&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQIrsK7N5wznt29SNmUce2ABLTAQIE97dBBAEAAAAAANv2A3cQGbcAAAAOpnltbLcz9gKNyK89dVj0SHkaf+zrCvcpwMx44igwCbjsftdwWTGVnn55MGrJ/0lxYLpStdRfVwXNTkEaiax3szK6hJ7VsWCgnxRxJ1c28yZ0hW56+RMGlaJ5En+qbJyObU+gZgX86ULFiXEr6FUxQIs24jyqc5K4eu3vneeUyRJ3WImRpzcm0EaWXcOujyzXmRd6iRuqbRX9nsU3Fc94BTLHuFbVfPZtN+03MQsDLwpK3nzsMIBzHN9//SI=&pass_ticket=mhzwIo6HzhBnFHZHLyirANuKkrhZVSAXAqLu4g+P7zyUVQBlYrQQxZ7IV+9efpSQ&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/385cc177-5fb5-4f68-88a2-954fa9f156d7/385cc177-5fb5-4f68-88a2-954fa9f156d7/)

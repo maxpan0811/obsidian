@@ -126,3 +126,9 @@ Original点蓝色字关注👉 趣聊科技圈
 这波操作下来，你还觉得这俩设备是分开的吗？反正我是觉得，这才是咱们花这么多钱买“全家桶”该有的待遇啊！
 
 **那么问题来了，这些功能里，你觉得哪一个最能戳中你的痛点？**
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzU4Njc3NjQ1Nw==&mid=2247494523&idx=1&sn=ae7d506a94e97d9d88d3b1dbd575862b&chksm=fc9126e73012beb130fafda4af8d361cab5c8a6e5cad0601f8c4fef7cbb304201c4999af189e&scene=90&xtrack=1&req_id=1775397709061043&sessionid=1775397409&subscene=93&clicktime=1775398881&enterid=1775398881&flutter_pos=11&biz_enter_id=4&ranksessionid=1775397709&jumppath=30024_1775397941587,1104_1775397992615,30024_1775398013240,1104_1775398072495&jumppathdepth=4&ascene=56&devicetype=iOS26.4&version=18004630&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQjO3N9Rwi8OT+4Wl8qRegKRLTAQIE97dBBAEAAAAAAP56EjvQw/kAAAAOpnltbLcz9gKNyK89dVj0fm3wLHHgmw9fH5mQVSe8xN2ahjauQyRkcagLJunWXXJ9MtElaYtqoaqG0HUSLuBR3LXdQO9cMy214C/3P/UIiqHEEIfIoF2vQTbqusanloGaRZ3pleO+RPZnLXs63Mbmg/v1/ockxW1o1gqQLzfQCBVmHsYAQ7h/QF2CK3IxXLjDyRGVxX0nRowwKKJLA4JBk8QJgQdqjo37rLm6iWstYMyB1RxKvXbkXLuTN9o=&pass_ticket=HAMFdUDka5DzIswl1eyQZoGEe0HPibyT28lszYDHZIviOgo2z15EDDEwfWXqFcfO&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/b883c3aa-3f60-49f6-80b0-b8779656c66b/b883c3aa-3f60-49f6-80b0-b8779656c66b/)

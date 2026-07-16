@@ -227,3 +227,9 @@ github.com/NangoHQ/nango
 100% 免费。100% 开源。
 
 你不需要全部装。先装一个最贴近你现在工作的。用一周。感受一下"原来我一直在为空气付费"是什么体验。
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?chksm=fb75fdafcc0274b96f38f4071a89b0691c0235364cb20e91a61d9f92b162f5200e5044291472&exptype=unsubscribed_card_recommend_article_u2i_mainprocess_coarse_sort_tlfeeds&ranksessionid=1782032740_4&req_id=1782034676200505&scene=169&mid=2247484154&sn=e8dd1cf8e6babdf9907eb5d86869fc50&idx=1&__biz=MzU0NDkyNjI2Ng==&sessionid=1782032739&subscene=200&clicktime=1782035002&enterid=1782035002&flutter_pos=32&biz_enter_id=5&jumppath=WAWebViewController_1782034974585,WAWebViewController_1782034975104,20020_1782035000133,1104_1782035000683&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=18004b28&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQvy0OBVBqQr7qW1AtdcNQjhLTAQIE97dBBAEAAAAAAJcZGFnlzb0AAAAOpnltbLcz9gKNyK89dVj0yGybCSEhWfUDn/MGofGJGaWzjjKjsANvsEIVokQ3zY0/7vBZhTfDiB4lCb/opQ1AyY+S10mbnPZKciXtQGKp2dsoQMMFvy9TbkKdmrNHgpugtwipSi8afsH0ZdtZJJ0lA0s6cOafVn9pu/zEp6kpLJ8GYVpfNVIUoDGZzno0qjCGa0JkMqBvoT/EjMdn/adBaRs8089YWb72c3Po9UvLcuVuU1/pnIM/kYD/dAY=&pass_ticket=1eGJiG6tnh2U9m7NKSbxiuTAda/ND7NzbuAkACKbJXYNEyRzjS0WeHV444SfVYkG&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/5852c742-585d-496e-851a-a7cfcd062bfb/5852c742-585d-496e-851a-a7cfcd062bfb/)

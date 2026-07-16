@@ -153,3 +153,9 @@ AMC系列竞赛课程
 ![](attachments/0650642b1dfafc1f.jpg)
 
 课程咨询电话：19191713238（同v）
+
+
+---
+
+[🌐 原始链接](http://mp.weixin.qq.com/s?__biz=Mzg5NTcyOTY1MQ==&mid=2247531059&idx=2&sn=428e65066d49603e94837ba8c95e7577&chksm=c009d0aff77e59b92c91a8ecbee51a7c2494d37bc46d66f6a8f826a04e03a04df3b53d35692b&mpshare=1&scene=1&srcid=1119r64LMH60WsZIhamlcG1m&sharer_shareinfo=e442c691c896a6aa4fa1c8c9d6f43fce&sharer_shareinfo_first=e442c691c896a6aa4fa1c8c9d6f43fce#rd)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/6e1b7f09-32e4-4696-9e0c-edc2e76563c7/6e1b7f09-32e4-4696-9e0c-edc2e76563c7/)

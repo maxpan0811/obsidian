@@ -178,3 +178,8 @@ Don't write wiki pages yourself. Your job is to find good sources and ask good q
 
 - Pattern by [Andrej Karpathy](https://gist.github.com/karpathy/1dd0294ef9567971c1e4348a90d69285)
 - Implementation and article by [Balu Kosuri](https://github.com/balukosuri)
+
+
+---
+
+[📎 在印象笔记中打开](evernote:///view/207087/s1/ea3fd0f4-92d6-4d53-b7f1-16e8df90a473/ea3fd0f4-92d6-4d53-b7f1-16e8df90a473/)

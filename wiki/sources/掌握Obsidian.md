@@ -20,3 +20,8 @@ guid: e0a6cd15-16fc-43c0-b42e-c39d5b7f90b5
 # 掌握Obsidian
 
 ![](attachments/8fcf0a34f243072e.png)
+
+
+---
+
+[📎 在印象笔记中打开](evernote:///view/207087/s1/e0a6cd15-16fc-43c0-b42e-c39d5b7f90b5/e0a6cd15-16fc-43c0-b42e-c39d5b7f90b5/)

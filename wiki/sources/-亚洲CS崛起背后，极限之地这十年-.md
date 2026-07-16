@@ -133,3 +133,9 @@ Original BB姬 BB姬
 ![](attachments/495db9fd6685871a.png)![](attachments/266e2b0b9d988bae.jpg)![](attachments/410bc4f9019e6ab3.jpg)![](attachments/c6435cba294bf35d.jpg)
 
 ![](attachments/e65790f3dd55f00e.jpg)![](attachments/3f0caa19e81b3cd7.png)
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzU3Nzc1MzMzOA==&mid=2247810882&idx=1&sn=8d6777e93147d1cc14828e0c2e5361b1&chksm=fcb7ebd045e0429b377783885b46ad84f262b2ce91978582f405975efff103ca363b95d37f5b&mpshare=1&scene=1&srcid=0922HbNnkFe8b3SxtAEIZY9H&sharer_shareinfo=3ef8558d9f56aa4c29e0647fc42d6f13&sharer_shareinfo_first=da74ef9a2c7231de2e421ec446f03f8e&from=singlemessage&isappinstalled=0&clicktime=1758606568&enterid=1758606568&ascene=1&devicetype=iOS18.6.2&version=18003f2d&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQD8M0F2Tn2UmZXN497UDU1RLoAQIE97dBBAEAAAAAAMKhJXqoa1UAAAAOpnltbLcz9gKNyK89dVj0o5D+k80uRjhuYPbRPw3vlaL/phv0REO+k/n6mwaU5dF8yYHtoGVBc8dnRZw3SxzhaHcKZ56IUNfaCixP+Bdhk5X8kJNlIOD/lsD2PmMdL9SY7cAv5gGnEnT/RRt5HfFAG2niWLmvTfo6KqaVSiI7K2xaC9CiZjB4UETAMQRkJN7KXkam7uBp3ma1vehxeV1GrOx0N8AlIAjLIbtFJddNZ80AeWazwnwA1qNhTRBjRHPp+xjN+zPJG3+84ktp5w2X0wE=&pass_ticket=dEMo1GuYL6ey5QNXfDOzqRV8Jo1yG5Va/HWyRT7aZBynwTsdKcFglWGU3grIH7DL&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/6ca6dc1a-467f-4bbd-9846-7e8286c26911/6ca6dc1a-467f-4bbd-9846-7e8286c26911/)

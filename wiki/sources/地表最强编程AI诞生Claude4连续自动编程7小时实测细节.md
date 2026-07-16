@@ -396,3 +396,9 @@ Dario Amodei：
 感谢大家的到来。
 
 ![](attachments/750ef3665a68d8d5.png)
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&mid=2651050229&idx=1&sn=021b3c69800b943566431aa484771f89&chksm=bc586ae20c72464f306aefa3db8eef69950d36212e1e3074076cb8bca8f91082fc93df9eefbe&scene=90&xtrack=1&sessionid=1747972085&subscene=93&clicktime=1747972580&enterid=1747972580&flutter_pos=12&biz_enter_id=4&ranksessionid=1747972406&jumppath=20020_1747972553577,1104_1747972554346,20020_1747972560892,1104_1747972573228&jumppathdepth=4&ascene=56&devicetype=iOS18.5&version=18003b2a&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQATGD32n/1gwsNg+6/aL0nxLTAQIE97dBBAEAAAAAAO5mA+Enj6sAAAAOpnltbLcz9gKNyK89dVj0Fo7a/7I+c9l+dP1poCx1JOXSfBYKnlijCFaR7xEKN781ZLDv62u8jWfnZ5tXpvWNeAWO+AxLk5IpDZrbsMvjj26tzwXgeSAIW+CgLTX45+mUFdf9BIRVYMXJj/Nvp/QrTC8dz0R75fd+lpDdI+QbBJHXztD0GJ4hl98gRlKPGVSe+YkyJ8MjBPEZB+1IR85BpogKVIATpvm/XQ2xFntBJi+pcHcKMFaovqhKXN0=&pass_ticket=mEOKK5SvqSDfZ+uEgjKW/H16NvWGzWHXSb5eCXMGqTWJA0xJzFACdMtO8cuTsRqy&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/59116a71-a0e1-43c0-a015-d3dea453d49d/59116a71-a0e1-43c0-a015-d3dea453d49d/)

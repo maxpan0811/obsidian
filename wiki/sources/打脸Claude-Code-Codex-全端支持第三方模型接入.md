@@ -118,3 +118,9 @@ codex --profile openrouter --model google/gemini-2.5-pro
 Codex可视化的图形配置地址，如有任何建议和意见，可以在留言区留言：
 
 https://codexapp.cc
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzIzMzQyMzUzNw==&mid=2247518219&idx=1&sn=636232f0d05c537c4f0bf7c182dba0b7&chksm=e9833676a69ce9627190c21c6f094efccd6017bde5a3d3d83241604d55d20f8143eba8f35d97&scene=90&xtrack=1&req_id=1781744558291443&sessionid=1781744767&subscene=93&clicktime=1781744774&enterid=1781744774&flutter_pos=0&biz_enter_id=4&ranksessionid=1781744558&jumppath=1001_1781744767270,1104_1781744768642,MMFlutterViewController_1781744769799,1104_1781744771150&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=18004b25&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQbipQmjMMmnTsVUlC/stZNRLTAQIE97dBBAEAAAAAALbqM/vfs2sAAAAOpnltbLcz9gKNyK89dVj0nI9UBnqggSvBH4CMwIDjZH9RhN0exkwTH+kljSyCvTG8t4t//YwGq6o1xJ34baooM2+ASLDad7nz2fQmO1LW9yipMgZLsNMrHmcZmXON6GVxQ5rgP4+8Zko+A8/RjQa0i7rnsfPV6BGUYBd4lLmw5tzMpsJHGEcqRyWMiDp9phon7ZUad4Kg2L3HE/VQHVcdESTzh7BhQh+GSlr5n7z8LWoW8GXKorxuQx4gV/M=&pass_ticket=8rt0XsIGDhw//Y1/DMVnWKIzMbpsr218qBl6J7CIVHenZGEyGJkci015uRCf6Dyf&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/6cd32a5d-3c5f-4f67-bb89-14490429137f/6cd32a5d-3c5f-4f67-bb89-14490429137f/)

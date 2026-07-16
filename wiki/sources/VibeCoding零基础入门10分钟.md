@@ -597,3 +597,9 @@ Claude Code 会为您更新代码...
 ---
 
 *本教程针对 2026 年 2 月的最新 Vibe Coding 工具链编写。由于技术快速发展，某些步骤可能需要更新。*
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MjM5OTQ0MjU2Mw==&mid=2651699568&idx=1&sn=595539c36a9ed8c68457f9445307c4bf&chksm=bd7f4726d89e750b3e1fe0bd4f901d87c5e6d4980a60c490c9c7b13e4f4cd7bbe914dd906497&app_lang=en-US&app_status_bar_height=159#rd)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/6e3b9a2b-733f-4721-95bd-76ba73fe4ced/6e3b9a2b-733f-4721-95bd-76ba73fe4ced/)

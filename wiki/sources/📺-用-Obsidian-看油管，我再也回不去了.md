@@ -62,3 +62,9 @@ leoyang1984/obsidian-lumen-youtube-public
 #Obsidian#效率工具#英语学习#数字花园#知识管理#YouTube#笔记软件#自我提升#开源
 
 Close
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzI0MTEyODEzMA==&mid=2648669261&idx=1&sn=9ff95d023fcfc1fcac307bfb43b9c150&chksm=f033d4fa38a08158804224fb71ccde25a6a2a8733e1a9006199fd277fe0448c3bf0c3583cba3&scene=90&xtrack=1&req_id=1781880912425545&sessionid=1781882816&subscene=93&clicktime=1781883188&enterid=1781883188&flutter_pos=3&biz_enter_id=4&ranksessionid=1781882825&jumppath=20020_1781883072495,1104_1781883131567,20020_1781883144950,1104_1781883185558&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=18004b27&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQd0v1EXlQKn8oS6l1Rno3nBLTAQIE97dBBAEAAAAAAEs5IGKTPN0AAAAOpnltbLcz9gKNyK89dVj0SIQEBjeuAo46JoO7w59pzd5zHBWtrXsmDa+qN2VN1z9QDAA7zOg8vzf5KJ7kXdRzEPXlxTkxX4CN5Nwb1424O2KifW4FULn1spMuT/7ZotuA95nw2+Gl+EyImg/hiFCvcBwwHl2fqwab8kSPsrhaa7jUQiJvQ/Nlqnde236axPjDDouJVjQbIYXZKn/eIlpS8AUgdDEZQpZ5zOVEC2oH3FPGi5mgQtJFvbYdTMA=&pass_ticket=518Z7MqPOyv9+ydtyj9C61uMS9pQeci+wo6zlu3v/Z9Pf5O3IgB1CQZtvjSteEgE&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/c63dfe92-5c58-475b-b43a-36456c47e6ab/c63dfe92-5c58-475b-b43a-36456c47e6ab/)

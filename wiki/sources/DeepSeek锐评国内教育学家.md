@@ -99,3 +99,9 @@ guid: 70ee100e-22eb-4d7c-a83a-3bf087422fa2
 最后，希望大家看了不要心塞，不要骂我。祝大家新年快乐，一切顺心！
 
 （备注：文中16号字号部分为DeepSeek的回答，黑色字体是DeepSeek强调的重点。）
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzI4NDMzMDgwNQ==&mid=2247484390&idx=1&sn=aa80c9023871edff520969d8c3759e23&chksm=ea2c9acef89c78a177c72ecf95208bd3f9ca71843a00b04fa32d9747ada7f3e0dee9522dfd03&mpshare=1&scene=1&srcid=0130lmMNj1lEFab7VuiJgxdp&sharer_shareinfo=1d28c137bc1180b6d642d2367f488542&sharer_shareinfo_first=88c0e1ee938c9690e5d365fd41067cc0&from=groupmessage&isappinstalled=0&clicktime=1738198413&enterid=1738198413&ascene=1&devicetype=iOS18.2.1&version=1800382d&nettype=3G+&abtest_cookie=AAACAA==&lang=zh_CN&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQjQp/f/IHGl8TvtFGzgGCQxLsAQIE97dBBAEAAAAAAD66DCpAsKsAAAAOpnltbLcz9gKNyK89dVj0QyvDynQs/Cke+OVlp58e6QWy2cZYZG9j38UpWP/bHXGHlT3qOaCnpQcpqFkL0cTxtXN01Mx4xjV9NJiv6V3U1pz7EbTRqESnvGT0nJk03lp4/ElcD2qqL9GNloULAHzVkMlmsUAnTZvcP0qoWamz3fBgmdUo42OYUWGt7sWyADVV+8zF2y3WPa/Bl78PaVgawDGSnAr6MR66H9T1cBs6b5y0qGuPeE8EauO28UQ3K0yNu7F114jNygukCKh/LieWx9PLeevb&pass_ticket=1hpvm5taqY/uExfE8L0EjlCIpnntjmL2IoIAiVHPLCcB0xIs570/P/mQqTCVFM0x&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/70ee100e-22eb-4d7c-a83a-3bf087422fa2/70ee100e-22eb-4d7c-a83a-3bf087422fa2/)

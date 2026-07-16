@@ -122,3 +122,8 @@ codex exec -o review.md "review 当前未提交的代码改动，列出潜在
 ![](attachments/4d01a37e72f43a1b.png)
 
 ## 一起“点赞”三连↓
+
+
+---
+
+[📎 在印象笔记中打开](evernote:///view/207087/s1/83ace6a2-d878-4c97-a06c-5e53eaf76e80/83ace6a2-d878-4c97-a06c-5e53eaf76e80/)

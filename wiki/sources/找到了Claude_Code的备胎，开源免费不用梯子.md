@@ -96,3 +96,9 @@ opencode官网下载：
 https://opencode.ai/zh
 
 Read more
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzI0MjgxMzg1Mw==&mid=2247505565&idx=1&sn=b1fcd22dbf48e5478ad86920c99ecc58&chksm=e8f0cb781af1bcc0743a8fbf80c60ac378558bfee9e9d18a0ea134ad73a1143a8ecf05a88abe&scene=90&xtrack=1&req_id=1779233078946727&sessionid=1779233171&subscene=93&clicktime=1779233175&enterid=1779233175&flutter_pos=0&biz_enter_id=4&ranksessionid=1779233078&jumppath=1001_1779233164203,1101_1779233167266,1001_1779233169938,1104_1779233172734&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=1800492d&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQc2+MUHkuS+yxEbgo8VrrgRLTAQIE97dBBAEAAAAAADMnGRM0MEEAAAAOpnltbLcz9gKNyK89dVj01aergzYh4Wjm5YMu/Gc/RLioFqqtrGeuS92msTBus16VlG/Zf2nVIcZUS5q74mw+VVFZ5sDSWl+CElImVYie3UZtvi+ZcKXDU/XNkyAMfO0Y2AhLkXdB6IZI0S/e4OPNDFu8Lxim2oNS6IhQU53OjOKKexK+3bER9bKjBPNvaQIBudy3CNPzCleO6TMDVGDSfk/zH+8Tx3gFA4mYcnJI9yHzW2p4HmSBjCUm8Qg=&pass_ticket=RfpnG4owXLMG8s/1ql8vnvOnZOv8C2Hf5a4CvUPl9sJ1jodDe/tRj1DjAI8owk3K&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/7846e14d-9e4b-45b2-a662-6365a4957e67/7846e14d-9e4b-45b2-a662-6365a4957e67/)

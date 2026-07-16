@@ -315,3 +315,9 @@ Because of this, Luhmann rejected organizing his notes in a merely linear way or
 As you apply the method yourself, you’ll come across ideas that are glued to books, notebooks, web pages, newspapers, and other sources. With the Zettelkasten method it’s your job to liberate those ideas from their sources and turn them into notes that live in your central repository — in your Zettelkasten — where they are then linked to other notes. Essentially, you’re creating a collection of ideas where there are no boundaries between types of ideas and no boundaries between old and new ideas. Every idea can [easily intermingle](https://www.ted.com/talks/matt_ridley_when_ideas_have_sex/up-next) with any other to give rise to new ideas. That clearly distinguishes it from other notetaking methods based on notebooks, folders, or tags.
 
 So if you care about remembering the ideas you encounter, if you care about how ideas relate to each other, and if you care about having ideas of your own, try the Zettelkasten method. It’s been specifically designed to manage ideas at a large scale and it made Luhmann one hell of a prolific writer.
+
+
+---
+
+[🌐 原始链接](https://writingcooperative.com/zettelkasten-how-one-german-scholar-was-so-freakishly-productive-997e4e0ca125)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/745918bc-eab9-491f-910c-8051d1aebb1c/745918bc-eab9-491f-910c-8051d1aebb1c/)

@@ -131,3 +131,9 @@ hr@ifanr.com
 [更多岗位信息请点击这里🔗](https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&mid=2652396877&idx=2&sn=dfef25453a6bf0dca147b0adca3deaf7&scene=21#wechat_redirect)
 
 ![](attachments/0853d63940602468.png)
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&mid=2651042682&idx=1&sn=036dcfc3fe1b9ec4c35898b4e6fb312a&chksm=bc1fe34e55e238fd39f082516b7337f8f22667c4b6daf0ce2f310508c3f5a4f4077cfd2b3193&scene=90&xtrack=1&sessionid=1741226021&subscene=93&clicktime=1741226659&enterid=1741226659&flutter_pos=8&biz_enter_id=4&ranksessionid=1741226269&ascene=56&devicetype=iOS18.3.1&version=18003835&nettype=WIFI&abtest_cookie=AAACAA==&lang=zh_CN&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQ+GsKTbsWvirifEyG7d7dVhLYAQIE97dBBAEAAAAAAPRqOYGNSfkAAAAOpnltbLcz9gKNyK89dVj0a85MPaRSVyJW/qZCWzxJjbijm8KfPyAWfepOQFXT1LU5FN0exhYEiZqPcTnk2iMVEmEre8dwy5MTtkQFul+T72H+hKbwzv1ItdviAtbJofMLcJBP1zoE7njqu+eem2ZdfysM0JMajF8SMRQUJ1OmopCj3/AoeM5kZL17b7t6Ljn1GM7q2bYSjS0idPmasuA9p8uUYfaDV6nc7pJrgbaCPP24UAWrKycG/QMu0fZppBRyCg==&pass_ticket=vA6AmnYP9wM0EQZqjIiiE/4vpJql2WeYPYNSCPYv6WZbiwtx4otQ80Lwm9TDGSqN&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/730db5bf-dc6f-4ae8-87f0-e90260b4f06a/730db5bf-dc6f-4ae8-87f0-e90260b4f06a/)

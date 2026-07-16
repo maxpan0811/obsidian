@@ -396,3 +396,9 @@ Claude Code 的价值就在于：
 如果你想一起交流、共建，
 
 无论是使用、改进，还是自己动手做法律 AI 应用，都非常欢迎加入我们的群聊。
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzkzMjg2NTcxNA==&mid=2247485775&idx=1&sn=ed1138eb730f4dc22440ed8ec360ae95&chksm=c2547a92f523f384ba66f9b9c08aaa33e635111d6c57cb31be92530c1e3704f1d62e6393a074&cur_album_id=4406622888632549382&scene=189&ascene=3&devicetype=iOS26.4.1&version=18004725&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQOTQC7QGX2OxbQpo/14tN0xLVAQIE97dBBAEAAAAAAMwrAKpvdtsAAAAOpnltbLcz9gKNyK89dVj04Z50mavMFuYGeqOBtbJ/I9oCKlnv2cdQfW/V2d5Eqz1sshttjEjIGNMnaEGTB4nDSKAyRN2MMjhNPRuj9CU7y4M+1ftOCOqDYLnXumQYkVSq4JvBI/jVBRQTX9Z7FIW1E3SsROWfG18wuKID8iOQNc+Rx2bklIujeg2KM4VF5pN7f/86F7Lmcs+bryHhHlNW9Y2ImLHOjiCiIWAZGIruwaptEHgAJyAqVkyIOcnFPA==&pass_ticket=YWvdUN0EleMbIM3UK608GOqpXbf/7agQIUoz4DdVjR5sssIB6xcUihWvxFoIYNYg&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/bc49fa3e-f559-4992-a579-741ea7deb29a/bc49fa3e-f559-4992-a579-741ea7deb29a/)

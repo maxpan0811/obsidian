@@ -693,3 +693,9 @@ Who was系列一直想推荐给孩子听一听，第一本孩子选择了Steve J
 ![](attachments/724be9e5321d7c48.png)
 
 ## **-The End-**获得更多好经验扫码加入小花生教育微信群👇
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MjM5MTgzNDM0MA==&mid=2652730747&idx=1&sn=e499abfdf94eb0a580393567de1eaebe&chksm=bc82aeb2e920e3c590b06fd196f85d876e0bb3a79a0c2f70ab3b42936789199bdc4af8813c6e&scene=90&xtrack=1&sessionid=1747375107&subscene=272&clicktime=1747378156&enterid=1747378156&flutter_pos=83&biz_enter_id=4&ranksessionid=1747368473&jumppath=20020_1747376274769,1104_1747376293092,20020_1747376299931,1104_1747376336195&jumppathdepth=4&ascene=56&devicetype=iOS18.4.1&version=18003b28&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQvzrljMadGVIoQ9y0+swiBRLVAQIE97dBBAEAAAAAANtAGAUgmGoAAAAOpnltbLcz9gKNyK89dVj0HB2kRW8roaIcKFryC6BdQ0H+T87iC7YMIb6/gxAG9qdmyyVT7oFUCpZyu3nuD2WTOMIJwVJ2hzVv1/tKxQD3UGnABB1C2XS9510W8I0Z8n8z7PpbAAb2IXWxem7ly8kQZVZYZ66/shixTk//C0TyT7unqgpIukDCfzFGXwsMJpx4sFm/m+gf4iHhXVnvGTq55RNIncoJ4HGUebJ+7tb0pqAdmwdpNPOdf0HlXaUZGg==&pass_ticket=kY+3SDylouMZy2QHetsUvDMd/qUexgKM6xXuKsZIFPugi6rLIdttxtqxm/Yt4HQZ&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/a8db4b46-f5b4-4cfa-83c2-91b22cc8085f/a8db4b46-f5b4-4cfa-83c2-91b22cc8085f/)

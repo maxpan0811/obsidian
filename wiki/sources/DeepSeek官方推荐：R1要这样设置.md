@@ -109,3 +109,9 @@ https://github.com/deepseek-ai/DeepSeek-R1/blob/main/README.md
 **一键三连****「点赞」「转发」「小心心」**
 
 **欢迎在评论区留下你的想法！**
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247777462&idx=2&sn=b4e7c75aa62a7de6ac418aa3f05b9151&chksm=e93cc4bda8f3f9bdd29d238a045316ae9cd5b493499f12749306b1206414d53b43e88c1fead0&scene=90&xtrack=1&sessionid=1739627794&subscene=93&clicktime=1739628771&enterid=1739628771&flutter_pos=12&biz_enter_id=4&ranksessionid=1739628521&ascene=56&devicetype=iOS18.3.1&version=18003830&nettype=WIFI&abtest_cookie=AAACAA==&lang=zh_CN&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQGUL2LOMEEz2L7Wq26R2uTxLYAQIE97dBBAEAAAAAAIcwGTGPkgwAAAAOpnltbLcz9gKNyK89dVj0bA/MM1vtlXOUY7Pe9gGrFYSDbbW0bGt7yGSzMQmTJlOL+5zipjfkysHOx8Kpj0fyDpyyx70GKIM4H5Cu7VnLO2VoYNEqloMkfILlgbuX/Xn44mrB9krCnCpKmQVO25zRBOXLiO5mQjB5ykSh7nvzBvW2JIgD1ThdOJfxvQ2o7XToAjtPsWV+BWs0r3q5XGxI13mjmiKrO/kUjN2RG47qFju7/oavyhSxvapcumQoqC6UQg==&pass_ticket=u2OkXJ0z5sltMwRKH3N8i2hrvtwt4gLyK4+AeoueJoi6FUsyF9zch5RNzejiAJaF&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/9dfb561b-e07a-4b9d-b684-4fe04e003095/9dfb561b-e07a-4b9d-b684-4fe04e003095/)

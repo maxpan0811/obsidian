@@ -134,3 +134,9 @@ OTA行业已从单纯的规模扩张转向精细化运营和差异化竞争。
 # [文化和旅游部办公厅关于促进旅行社研学旅游业务健康发展的通知](http://mp.weixin.qq.com/s?__biz=MzUzODA0ODM1Mg==&mid=2247536449&idx=1&sn=c967dace69c80416d7d621c84cf6cb10&chksm=fadfad4ecda824583853cba082d82c199704a612ab81c013c80416638c54a8f133f0cfb0fcc9&scene=21#wechat_redirect)
 
 # [首批文化和旅游部技术创新中心名单公布](http://mp.weixin.qq.com/s?__biz=MzUzODA0ODM1Mg==&mid=2247535760&idx=1&sn=70e179d4e5e457a4ecc37820ecbbad79&chksm=fadfae9fcda82789b77d441741948ada14a1ec18e7d077dcc7df80f84ffaa45d1b803c55e5eb&scene=21#wechat_redirect)
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzUzODA0ODM1Mg==&mid=2247537982&idx=1&sn=1b17c0254f103534cac87b8865adbc7b&chksm=fbc1ee14ecebfbbf8d0c481dbdb083b5b13f58ca1416982e0c9b8779328d356d068bc58d84e4&mpshare=1&scene=1&srcid=0629Yd0IbR2fBKRjSFNC99zs&sharer_shareinfo=ae18f8d29b9593155e467da9221ea182&sharer_shareinfo_first=ae18f8d29b9593155e467da9221ea182&from=singlemessage&isappinstalled=0&clicktime=1751238569&enterid=1751238569&ascene=1&devicetype=iOS18.5&version=18003c30&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQZsafkVJa2HSBOW1egdDZbRLcAQIE97dBBAEAAAAAAHrLL7cyXYUAAAAOpnltbLcz9gKNyK89dVj0HTPUqaqyX+KKVK9uPtLJabxr9I7zkZi6UhKuRZCtN2eEoiINdsiUZlVGgUrYjsoczYqC5zm+5+95tvhw+tAJTJNZZNx7wdJp4ixkMDYyt0lX5Q0fXKSNkt2fCE7DjU7IA1yIviPOPluSwL76/e4V34Ap4PJ0+EpVWFLNDl3D9pfXnXZdTYKAVb9zRZ20/+3j0CcjOh3pD05GRGs2y4iA5oIHaMkN5+yYVkcTwHlFaW5VlNQHOik=&pass_ticket=2NMObRerWlgm+Ykx98lEW/A8zEoRUV4MW/QYtXN7MN+igI/iLOtnh9KGqzvYn6Zm&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/2742fd5c-55c6-452b-8e97-f1a14969a613/2742fd5c-55c6-452b-8e97-f1a14969a613/)

@@ -209,3 +209,9 @@ DeepSeek具备什么样的推理能力，别人需要等幻方量化发布后反
 阅读原文
 
 修改于
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzU5MzcyMzc2OQ==&mid=2247822991&idx=1&sn=408c48a1be897121f51418b1ea51c3ca&chksm=ff8b1e561fbfbdc2cce8e3f4364e2b5d36476b421fb679d40f6900db53641feb2f44a0837d62&scene=126&subscene=91&forbs=1&sessionid=1738222418&clicktime=1738234508&enterid=1738234508&flutter_pos=0&biz_enter_id=5&ascene=56&devicetype=iOS18.2.1&version=1800382d&nettype=3G+&abtest_cookie=AAACAA==&lang=zh_CN&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQ0jFW8qDZwwXDf5WC2+2TgBLYAQIE97dBBAEAAAAAAJHKMhDQ65MAAAAOpnltbLcz9gKNyK89dVj0+MIcORwcIoKYnA1LSb44knyOot5z+K30pUTNGIVekyoR8iowstwTFdujzvlAodZPsZHY6ailONO9nOPojLbb+V7NoiM7kwURR0xi1Cu6TiOMUe5Ys/olC1bT6OkWRmJNsXv6eC9N5kQCA1iNhZlhR6hquHn3dqU2YZS35EbeZlMjg7BoVCrdQy85akqoS8VbFWgw9uAmbFwtHBzS5RqKCbwsUbh21i9FjWFd1ZEgogqBDQ==&pass_ticket=v07zKFF9PpwPa3foFqpnMVL32oSI4BMpGqBMRQv7nZfk3TyF8zfNha42U7dnvuAy&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/75d7a4df-b0e5-4e01-af99-313ff269ca7c/75d7a4df-b0e5-4e01-af99-313ff269ca7c/)

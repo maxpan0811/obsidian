@@ -43,3 +43,9 @@ guid: d206e5ea-255b-423b-a544-979980715944
 #obsidian#笔记软件#obisidan插件#知识管理
 
 Close
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MjM5NjE2NTUwMQ==&mid=2247484512&idx=1&sn=f341219b3785cd4fd3dcf3916392f561&chksm=a74966d231d78759d318ebdc252d76efedbd582fd97115a0012b474c6af79bf027a2bad9e629&scene=90&xtrack=1&req_id=1779071902265899&sessionid=1779071914&subscene=93&clicktime=1779071925&enterid=1779071925&flutter_pos=2&biz_enter_id=4&ranksessionid=1779071902&jumppath=1001_1779071903534,1101_1779071904530,1001_1779071913213,1104_1779071915015&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=1800492d&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQrScbYTfUSMQq0XzdeznYEhLTAQIE97dBBAEAAAAAAKIqIKTJb2IAAAAOpnltbLcz9gKNyK89dVj0SUWAjpmhG4d3ggdKVUxH49gbMlaYRjpL99IJCgofj9qin5h9xm4SlgxbE5ajAXQPFZ9kKWAPw1Jk2PFwGsgcYnj7D130CmBGM/unBwtGWcHzP8jpkFz6NfpTG97dIKFqfOVonoIPYqg+6Rqg4tiG+tqqpnfEPP+yMgS408HTeeZFVFvm4hNEBAxQQA9XQh27jTgv7o9gT6+gH2aRlXukI2DTeLuFtpRD6vRHqkA=&pass_ticket=cbLxWGF3jd4hpOxiiwQDoZdBKcH4TaXp/DPkG1CE4g0HdubTr1WpQ5/nCl5GD/kw&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/d206e5ea-255b-423b-a544-979980715944/d206e5ea-255b-423b-a544-979980715944/)

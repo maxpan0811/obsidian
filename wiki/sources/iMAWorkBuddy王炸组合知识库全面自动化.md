@@ -35,3 +35,9 @@ guid: 9ff2ef69-0cb2-4a68-914c-76b8fd2005d2
 #iMA#WorkBuddy#知识库自动化#AI效率神器#知识管理#小红书科技AMA#AI学习干货
 
 Close
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzYzMjE0MzE2NQ==&mid=2247486077&idx=1&sn=196f393f0a6c233389939527aecfb914&chksm=f180d56318352fbc7ae585bb543e4079bd17cf47ae2566de2040056bede51f9a477f7f8e8db8&scene=90&xtrack=1&req_id=1776322240742068&sessionid=1776322420&subscene=93&clicktime=1776322947&enterid=1776322947&flutter_pos=1&biz_enter_id=4&ranksessionid=1776322240&jumppath=20020_1776322881484,1104_1776322881955,MMWebViewController_1776322885460,1104_1776322943274&jumppathdepth=4&ascene=56&devicetype=iOS26.4.1&version=18004722&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQPc1u4MAM7dy0W48kcM9uKBLVAQIE97dBBAEAAAAAAMvWNE+rVOkAAAAOpnltbLcz9gKNyK89dVj0VSElvw444OxBn7+POZmGfHoLVCiCLjHCtZLC2sh8ISV1ggrbhGVnMa/cpadXwIGePokrbidFjIiCM8oEsqvo8OLpQ6Xz+8FgVK0X4yVI2pIvQr7GGF6aiSLMK3MIQuFG3rsLpuqzsYpbb18ojszl3Cq2zgvuufGYrPuy8GgThBtPZkAQ6sJ9d1RcW6wCGwmwG1qN6JkvXJvZ9ukMHs9Ck5wzHiRc8Rm6EEENGv1fTg==&pass_ticket=1XZpQqIMTVsAaIZg/bz+QCB43zbpKI5zEunOkSHQuyPXj5mro3pu7x8iRXc+H9K1&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/9ff2ef69-0cb2-4a68-914c-76b8fd2005d2/9ff2ef69-0cb2-4a68-914c-76b8fd2005d2/)

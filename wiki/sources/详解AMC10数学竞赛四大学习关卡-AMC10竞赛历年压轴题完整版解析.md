@@ -167,3 +167,9 @@ AMC备考资料 免费领取
 | 戳上方卡片关注公众号 | 
 
 | 推送更多AMC备考攻略 |
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s/AcX9ruMrFDIS4RsA68iuUA)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/9953d21d-1c0a-4429-8d9d-0dd728a3cc23/9953d21d-1c0a-4429-8d9d-0dd728a3cc23/)

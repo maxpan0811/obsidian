@@ -146,3 +146,9 @@ Writing & Thinking
 ⬇️点击阅读原文，了解Obsidian第二大脑更多信息。
 
 ---
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?chksm=e822fb4cdf55725af9a2dbd7a19c7df954e89bc6f163873162b85e09a109652f976e6b69de47&exptype=unsubscribed_card_recommend_article_u2i_mainprocess_coarse_sort_tlfeeds&ranksessionid=1746010405_1&scene=169&mid=2247483899&sn=ef1413c29faed29b6ade68dae3897931&idx=1&__biz=MzIyMzA4MDQwOA==&sessionid=1746008839&subscene=200&clicktime=1746010697&enterid=1746010697&flutter_pos=37&biz_enter_id=5&jumppath=30024_1746010564054,1104_1746010638135,30024_1746010639914,1104_1746010691727&jumppathdepth=4&ascene=56&devicetype=iOS18.4.1&version=18003b24&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQVTCPpXLtNIf8Sr7vx5neIxLVAQIE97dBBAEAAAAAAKB9GZkklX4AAAAOpnltbLcz9gKNyK89dVj0gqNHw6jKwdU2VrgxbPAVIKjoKxHFCJ+qGPkO8mG5NJlQVDSoWeJKtLXpeVQB+GGUHZp4miOBXVEwuCU+f/nMsPcuu1hBunCtZqR7R04EN7IQsVJ7Zm0iVjuHKwxl5Xl5JD3C1tmpYarNEqTvLg9pq3yWNJrG51ZY8lFPqzXfDOL+IEdm/qVus34buiKhvTehFqFbMPP/baq01S7kQPSL3Bej3XUvZgbqv6nMlXcBkQ==&pass_ticket=lyuyp1tWLknOmchhkqlviSxb6Xl2cYeYyZMiT1nwVYuxBEchPCHZJQMHsivpKh5P&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/af8b93b4-a97e-4e60-8e7d-8ddf50d8a2e0/af8b93b4-a97e-4e60-8e7d-8ddf50d8a2e0/)

@@ -245,3 +245,9 @@ Mac 在 Apple 产品线中的「火车头」地位不保
 > 下载少数派 [客户端](https://sspai.com/page/client)、关注 [少数派公众号](https://sspai.com/s/J71e)，WWDC 资讯不错过
 
 > 特惠、好用的硬件产品，尽在 [少数派 sspai 官方店铺](https://shop549593764.taobao.com/?spm=a230r.7195193.1997079397.2.2ddc7e0bPqKQHc)
+
+
+---
+
+[🌐 原始链接](https://sspai.com/post/61273)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/397085a3-a84a-4cf7-b31c-4d5c029bf945/397085a3-a84a-4cf7-b31c-4d5c029bf945/)

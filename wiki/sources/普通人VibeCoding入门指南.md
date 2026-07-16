@@ -123,3 +123,9 @@ PS：
 今天研究了一下预测市场，感觉大有可为。以前不会编程，无法用数学模型去计算概率。现在有了 Vibe Coding，万事皆有可能。
 
 #AI#人工智能
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?chksm=e84f0b0cdf38821a6bae731f26c2ae139f11840e666513b31cf80174237364f0b293cd1747da&exptype=timeline_recommend_slient_activation_art_recommend&ranksessionid=1773403862_1&req_id=1773403862756660&scene=169&mid=2247494302&sn=3f6dc701479d638e5ebe878c71e75743&idx=1&__biz=MzIyODcxODg0NQ==&sessionid=1773403859&subscene=200&clicktime=1773404271&enterid=1773404271&flutter_pos=13&biz_enter_id=5&jumppath=WAWebViewController_1773404253070,WAWebViewController_1773404253543,20020_1773404265629,1104_1773404266231&jumppathdepth=4&ascene=56&devicetype=iOS26.3.1&version=1800452f&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQ+6vC1XwCTPGQYZZp159P0hLVAQIE97dBBAEAAAAAAEs4Ip8xYvYAAAAOpnltbLcz9gKNyK89dVj0QSnyw5MNUa8VExt2mvUfmNxbAq+86SH+X2g6J0tfBHPyItBWj0D6GMJ4BTx0CqQ8SJ0TManUolUxFG6BmsnKgLHUKmESqcmanxcwXgIfHZLAhoSXwp7/T+9RlbM4V94igD0THsUSUVy8gDeGuOSd82qH7xj3R/QP4/21CYQoQyZmabLdLWhqgJtk+31OxyhgIwnO3XTtJcX+PkvjqmQloB07GMgH/g5snnh6zFv9kA==&pass_ticket=JtUkwPu/GjEB33NWoV+d+pt65iDyvXoSlnohNDovg95PgNafIyOf5nYbovtEiUT5&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/f4184861-1bcf-4c9b-b3a7-460528b67996/f4184861-1bcf-4c9b-b3a7-460528b67996/)

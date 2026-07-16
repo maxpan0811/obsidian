@@ -172,3 +172,9 @@ Codex 很适合做这种“读论文 + 看 repo + 整理实现路径”的工作
 ![](attachments/30dd10ec00f2ec8a.png)
 
 **一起“**点****赞”****三连**↓**
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&mid=2247723058&idx=1&sn=15e02719df07dc5e4ee7a4b48ba64a3b&chksm=e944bae5dc2f9cf393c6488ebb252a1b7dd86ce9233547f0da4174faa4cd352c1c4366370e68&scene=90&xtrack=1&req_id=1779862685576322&sessionid=1779862554&subscene=93&clicktime=1779862711&enterid=1779862711&flutter_pos=4&biz_enter_id=4&ranksessionid=1779862685&jumppath=20020_1779862558278,1104_1779862653730,20020_1779862685097,1104_1779862699207&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=18004934&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQ6i5R+kdCs465gJF7Ary/JRLTAQIE97dBBAEAAAAAANokGCtxDUoAAAAOpnltbLcz9gKNyK89dVj0/N9PQK4NODsDD5PoERZTAcy7MlLykmmUhFQg4s3Ssr5WuNfv1x144W1MKkJpzInKPeN2TbvXR+1gRYpLfDYnDs/f1yonIeuuZH4xDHm6NdBsDKcJwcm1x/tZhOY6LEyly3mWNAyllDBLTW9WP9ubzOoh/4gYHocmxYlvbA8pLjJ2YEYCk9hTvYGA/b8TB4noMUuGAh2uvO9f63R4DuohVDV02OXVKl68s791HHY=&pass_ticket=kyWJJCLCoE/hGlFVudZopBepyq5lkGlSmbnkZoP8fJpe6D6QrEo0AtDSRcBujxXo&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/a0b4d31d-1765-466f-a9f9-ebe8b2770320/a0b4d31d-1765-466f-a9f9-ebe8b2770320/)

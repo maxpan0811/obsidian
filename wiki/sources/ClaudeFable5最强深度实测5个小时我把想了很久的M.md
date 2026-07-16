@@ -169,3 +169,9 @@ https://github.com/alchaincyf/fanbox
 我想了很久的驾驶舱，从拿到Fable 5到完成MacOS应用打包，5个小时。
 
 你那个搁置很久的项目，说不定也就差一个这样的周末。
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=Mzg2OTA1OTAxNA==&mid=2247490708&idx=1&sn=788313f5ae32c48d4e8beeb12922e21a&chksm=cf568733fd006ca2d01d177ba5bd820ec41d1617713d778705023edef94017fe6eeaeef60e01&scene=90&xtrack=1&req_id=1781083050630724&sessionid=1781083059&subscene=93&clicktime=1781083068&enterid=1781083068&flutter_pos=1&biz_enter_id=4&ranksessionid=1781083050&jumppath=1001_1781083056205,1104_1781083060182,20020_1781083062923,1104_1781083064791&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=18004a2b&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQ8rG34xXKQD7f0wR804tPphLTAQIE97dBBAEAAAAAAJe9NsGmPisAAAAOpnltbLcz9gKNyK89dVj0wEzRbRBJLqcEW9JFZO/H4EKlxtrLjz0Ahz9ofbwFxH30V1Y/HtR5jEYS+/+S0wDjxdw1g2qsAYUiWqOpcwHvXaoQzSlPalJ+NJ6lF/ZdOWU2pwgWpJ0tJpRvb65215tg1+P4L1tJN36qPIEj9L4tMRKdCmkgB+AVXWJ9iNbzPHd9RRakKWEipMDcm7UHjLnkAcRttgbRlZ/Jc4Gdn16Rwu051p1be3+qWVoktxw=&pass_ticket=n0HgUph9hWNfs+tZuKFZ9lzLfwUtnZfIHKgOZR6E1G+RhiXOgoyAE6BtOH1GI2lM&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/4d1ec351-3928-4787-a095-6d2090da968a/4d1ec351-3928-4787-a095-6d2090da968a/)

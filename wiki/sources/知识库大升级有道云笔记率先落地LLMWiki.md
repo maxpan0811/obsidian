@@ -54,3 +54,9 @@ guid: 4cb8338f-beec-4cb4-a72f-a84fce6f4868
 #有道云笔记#龙虾#AI#Agent
 
 Close
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MjM5MTg5NTU0MQ==&mid=2654153224&idx=1&sn=829918245aea7e322e810e0e36f275f6&chksm=bc1df1233bc24c03f8c2344f9ccda0c0aefdc2d6ba8e5d0a986ec87d2d720f6cf1f5aa3b0519&scene=90&xtrack=1&req_id=1777512819704888&sessionid=1777513035&subscene=93&clicktime=1777513717&enterid=1777513717&flutter_pos=4&biz_enter_id=4&ranksessionid=1777513215&jumppath=20020_1777513481970,MMSnackBarWindowViewController_1777513539300,20020_1777513541622,1104_1777513692928&jumppathdepth=4&ascene=56&devicetype=iOS26.4.2&version=1800472d&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQ3OuBRA154W1CI+FaUbPD2BLVAQIE97dBBAEAAAAAAA+eDietVMQAAAAOpnltbLcz9gKNyK89dVj0Pn0jB58+lkzln21JVkzmd2ulzp914fSJzK+kjl5YdEQMi1yobdzZ3t9356pskOVakXU2tYIxtOawOXG0Rfcg3cSIq2sSryFlWnkecfjeDYeECPN+d9YCO1rOSOvtFt2fUcE/JlEamw+bKJuCMW5yTGS5tvjynYgfYGlFeFV+yFU8s9gMjuX96tVyECXYVSRw0UvdK7BiQTIFDXHDT6d92DgyMSa5gW5DZ5FlHquFJg==&pass_ticket=C3GE4r9hESaEwMZf3m+cLj2MLkmfqkKTuW2N2T3zai5WDjF8UP1GpKhIunn+f0oV&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/4cb8338f-beec-4cb4-a72f-a84fce6f4868/4cb8338f-beec-4cb4-a72f-a84fce6f4868/)

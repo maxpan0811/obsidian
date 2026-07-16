@@ -166,3 +166,8 @@ memory scan
 我用夸克网盘给你分享了「memory」，点击链接或复制整段内容，打开「夸克APP」即可获取。
 
 链接：<https://pan.quark.cn/s/18b5b15b6e32>
+
+
+---
+
+[📎 在印象笔记中打开](evernote:///view/207087/s1/4914f266-e151-4aca-90e6-61ec6c0d141c/4914f266-e151-4aca-90e6-61ec6c0d141c/)

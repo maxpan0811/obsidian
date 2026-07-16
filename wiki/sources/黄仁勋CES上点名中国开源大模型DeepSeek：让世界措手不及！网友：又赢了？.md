@@ -71,3 +71,9 @@ Original大白聊IT 大白聊IT
 黄仁勋的这次演讲，本质上是给AI行业划了个重点：开源已经成为不可逆转的趋势，而工业化能力则是决定谁能笑到最后的关键。
 
 中国三大模型能登上全球核心舞台，说明我们在模型研发层面已经跟上了全球节奏，但从整个产业链来看，还有不少需要补的短板——比如底层算力芯片的自主化、开源生态的商业化落地等。不过对中国科技行业来说，这已经是个不错的开始。随着更多开发者参与到开源创新中，更多模型实现商业化落地，中国AI力量在全球产业链中的话语权，大概率会越来越重。
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzAwNzM1NjQyNg==&mid=2649987197&idx=1&sn=218e5f615ddf3d6b38b28c27d6a6156c&chksm=82c9a2599aa85c1c9d1503d999e63c4c684cff749483b8d208ce86ad9ab4a5759001793170ea&scene=90&xtrack=1&req_id=1767680625172325&sessionid=1767680621&subscene=93&clicktime=1767680973&enterid=1767680973&flutter_pos=4&biz_enter_id=4&ranksessionid=1767680625&jumppath=WAWebViewController_1767680779654,WAWebViewController_1767680780133,20020_1767680921184,1104_1767680933524&jumppathdepth=4&ascene=56&devicetype=iOS26.2&version=1800432b&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQzsNKgZWiMsPJpThBR2vELxLTAQIE97dBBAEAAAAAACH0CZJB7loAAAAOpnltbLcz9gKNyK89dVj0Swwaso+nWTsPAoPhU6JKXv7T6PwtexuJBku8fCHN4NRds8Gsa8i4iYTAYM/OnUdNnXAYrg3C0q9nHsoKwujXHmhnyvbeMXshfsmKwDFztN9MW8ofUL5Oot6LZOzVR/MOAJMZKlSveyfaa/7A6oe/Gi3KHmqxTysu2wjGfO6ULkKOLB4IAvFHGyAbKUPdn7h/f0ZSqqYXDkVOasUNS3sVUaZAP/Yj5cGSB0x9BGw=&pass_ticket=Q/+Q7AkO8X7I6dp+zidJL1fq9AFDmE+UXh1KbKqimhuVfujeZsNEasF8gdbelaXX&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/f8f1a3d7-7fb8-4c08-ba14-49111c77362c/f8f1a3d7-7fb8-4c08-ba14-49111c77362c/)

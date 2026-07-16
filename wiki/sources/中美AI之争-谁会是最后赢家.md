@@ -237,3 +237,9 @@ OpenAI的技术发展方向需要巨量的计算资源和极高的能耗。Sam A
 人工智能的未来，应当是继续促进人类生产生活的工业化，解放和发展生产力，你美国都去工业化了，大量的基础建设都衰败了，军舰飞机汽车都不能靠自己的产业链生产了，你把娱乐领域的AI玩的飞起，又有什么用？
 
 最后打个不恰当的比方，你都挥刀自宫了，下面已经没有了，太监吃再多壮阳药，又有什么用？（特别鸣谢业内人士、网友Galois）
+
+
+---
+
+[🌐 原始链接](http://mp.weixin.qq.com/s?__biz=MzA3NzY3NjUzNQ==&mid=2650127523&idx=1&sn=3b8925d60b1964573eb761b79f7ab879&chksm=874f763bb038ff2d37896ca2357f610043d87670eb7ef6733fe91bb5e0d65b971d20ebf80867&mpshare=1&scene=1&srcid=0308Ej8KTj84S3WoxyYVe4e8&sharer_shareinfo=111c3c5d57c9f08c1e53a1682e63e8fc&sharer_shareinfo_first=3c4dd106b00d3e1cf62e77831c02001f#rd)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/076a6952-d717-4c47-97fe-218196568cc2/076a6952-d717-4c47-97fe-218196568cc2/)

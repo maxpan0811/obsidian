@@ -177,3 +177,9 @@ Quartz 滤镜下提供了丰富的功能
 > 下载 [少数派 2.0 客户端](https://sspai.com/page/client)、关注 [少数派公众号](https://sspai.com/s/J71e)，了解更多 Mac 实用技巧 💻
 
 > 实用、好用的 [正版软件](https://sspai.com/mall)，少数派为你呈现 🚀
+
+
+---
+
+[🌐 原始链接](https://sspai.com/post/73291)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/3a499a9f-eb86-4e7d-ae28-ae0a86441547/3a499a9f-eb86-4e7d-ae28-ae0a86441547/)

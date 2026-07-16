@@ -339,3 +339,9 @@ Claude 不会那么客气。
 看看会发生什么。
 
 你大概率不会再想回到以前那种学习方式了。
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzI0NDQ0ODU3MA==&mid=2247547950&idx=1&sn=29918968ac7ff412fad4ffbd9d01baad&chksm=e8fec95f44ababd4e33b8befa28f3f5bb19bd4221b79c897c441b8942004957e18f26741caff&scene=90&xtrack=1&req_id=1780752910805981&sessionid=1780752957&subscene=93&clicktime=1780752976&enterid=1780752976&flutter_pos=1&biz_enter_id=4&ranksessionid=1780752910&jumppath=1001_1780752956559,1104_1780752958596,20020_1780752961735,1104_1780752973432&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=18004a28&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQP9BPO3o19araOc94/+MPYRLTAQIE97dBBAEAAAAAALtFJ2PIUfUAAAAOpnltbLcz9gKNyK89dVj0sk9Y4yi2o8D/sY8vxsLxTqSFdQcol1sZXY5jN//qugpgN5OWZL4pTvLiTcs1upMRojzy16VkKGtpLBhYBOtRuGdZuO0Ed0P2MEQvk0j47rVPPHhOtcYRV5m0lRr/UZ/tVic+3KW921P4+AubyRZ/5LnovVtmXPlFcWpi7LWX3KORU4QVARHsZoHwGhg4hg0ND2I0lOiPbJbvpbiIK5bmF0UyRmwhYaZSkI0oowc=&pass_ticket=pROjcz2bX1K2VEzPpMrD6+8mUQfTTBLglH5A5fVOJtdVrXX9a1sxLyOJ32poB0xj&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/912ef29b-2fed-403e-9f20-e3be673d2fd6/912ef29b-2fed-403e-9f20-e3be673d2fd6/)

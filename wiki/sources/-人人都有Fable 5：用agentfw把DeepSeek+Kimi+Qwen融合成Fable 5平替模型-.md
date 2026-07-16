@@ -260,3 +260,9 @@ https://openrouter.ai/blog/announcements/fusion-beats-frontier/
 
 DRACO paper  
 https://arxiv.org/abs/2602.11685
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?chksm=c14fbbe3f63832f5fe49b8fdd88964f3c9ca8ffccfd6482bca76b78c4fa35c48228c250ab4fe&exptype=unsubscribed_card_recommend_article_u2i_mainprocess_coarse_sort_tlfeeds&ranksessionid=1782032740_1&req_id=1782031330553375&scene=169&mid=2247485582&sn=29c9dbe26c6d6663986b33b90449a88d&idx=1&__biz=MzkxNjQ5NzkyMg==&sessionid=1782032739&subscene=200&clicktime=1782033702&enterid=1782033702&flutter_pos=12&biz_enter_id=5&jumppath=WAWebViewController_1782033678959,WAWebViewController_1782033679461,20020_1782033700857,1104_1782033701389&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=18004b28&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQyDuCNoE/veQwa3WrkK2pRBLTAQIE97dBBAEAAAAAAHhQBv4ScKUAAAAOpnltbLcz9gKNyK89dVj0cNOkRyaMXOUoXlfWTHoy15lK7z59u2VaxEeiVmfkAxe6gnLb1BqJkfdjtHOIgkKwjzwS6Ff5bim7x4M72GPuZWzcwPHQUB2EKyUrR3Hhmc84s/fosqwkOxVbg8Jv3B9CKp2rg2H5OuUtjpFRZgR13uTOdPY+tnpYmVK0iYdBpKEagWVUvbsYqkzhH4k8xBCwGCG+CxHvQXOsU3LKk9vcr2alDwul8Jy05fMm+oo=&pass_ticket=dZRdfa/wV693GMzaulSUsTzwL4E/bxT+b3Mykwzg1IfzBdkC+F+4zoZdeQ0wNKUW&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/45b96ae3-1ff1-4b38-a4db-83e0a26f7a53/45b96ae3-1ff1-4b38-a4db-83e0a26f7a53/)

@@ -54,3 +54,9 @@ guid: d0799fc0-7de1-4419-bbcb-9b1e71426074
 #obsidian#ai工具#提升效率#知识库
 
 Close
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzI0Nzc5NTM3MQ==&mid=2247484330&idx=1&sn=5186ca60ed546dcbfa066d0eab464ea5&chksm=e9abd86ededc5178a99737566f3455ee6c1d87b59bc9949d1e44e67e93ebd834ed46d1197176&exptype=servicebox_7446131231339319296&subscene=0&scene=288&clicktime=1775296342&enterid=1775296342&flutter_pos=0&biz_enter_id=5&ascene=56&devicetype=iOS26.4&version=18004630&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQXyPAdqJJUXauuazhsvgjPxLTAQIE97dBBAEAAAAAAPZOJQz79oUAAAAOpnltbLcz9gKNyK89dVj0EAGA6dRjo3gzALDRHQKKap0G3Xs/ZFR8GT9GQj2EkjjqaVEWcEzSo+9HYOOyL5z2JDTlVnZA/oHhsdTjQP35Pw0WOPfhdExGksAQiItqC/xF8SyvVsFkCTwDQ1ID4aWYm82+AFIKLerZ/rhJsw8BpKa5i3SA2QJGmwQNjQhxDGKYSSDv7UYzyRKx+WtAjKBWpkMK03v2ljeqjmwKwfKaFqdbh2TG7W5VYe7XOoY=&pass_ticket=FRltSA6OCCFEHS7S3fElX5bJlJ7XmcriJRXBaDoGboHe2zXG+u2WSII0G0dQHkXT&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/d0799fc0-7de1-4419-bbcb-9b1e71426074/d0799fc0-7de1-4419-bbcb-9b1e71426074/)

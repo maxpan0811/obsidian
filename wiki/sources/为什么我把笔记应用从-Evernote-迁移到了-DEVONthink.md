@@ -623,3 +623,9 @@ DEVONthink to Go 仍在不断演进中，目前很多 Mac 操作还是只能在 
 - [Collecting and Reading with DEVONthink - MacDrifter](http://www.macdrifter.com/2016/11/collecting-and-reading-with-devonthink.html "Collecting and Reading with DEVONthink - MacDrifter")
 
 > 拿不定主意选什么 App，下载少数派 iOS [客户端](http://sspai.com/s/nqQk "客户端")、关注 [少数派公众号](http://sspai.com/s/KEPQ "少数派公众号")，我们帮你做选择 🙋
+
+
+---
+
+[🌐 原始链接](http://sspai.com/post/44648)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/21a330ee-1aeb-4be0-8208-8b827db2de3b/21a330ee-1aeb-4be0-8208-8b827db2de3b/)

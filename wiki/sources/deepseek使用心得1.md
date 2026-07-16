@@ -72,3 +72,9 @@ guid: d2a609f0-1f8a-44c8-9435-fefaf0db24c0
 基于个人的文档资料助力提高工作效率。正在探索中……
 
 个人观点，仅供参考
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzA3NTMzMjMyOA==&mid=2650938890&idx=1&sn=add63dee81d860b68ac36a7efd980e7c&chksm=85340d17547c26caca8407a99a758c9fdbb081a6826ba7f5fc065d44b979d01ce60062c6a826&scene=90&xtrack=1&sessionid=1738890675&subscene=93&clicktime=1738891534&enterid=1738891534&flutter_pos=11&biz_enter_id=4&ranksessionid=1738891444&ascene=56&devicetype=iOS18.3&version=1800382d&nettype=WIFI&abtest_cookie=AAACAA==&lang=zh_CN&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQXQJdwsei+uikDtt7M/lo7xLNAQIE97dBBAEAAAAAAIZJMl7CSnIAAAAOpnltbLcz9gKNyK89dVj0KK0nW5SuoeZkIKAXWiHZQf9yJ25jC+wMb+nrzOBwbRGjiqBdAQ5iXOb5kveT4u7TtvjodFA4K7AdVvrPLgYv3fuzf+KD8URd7XAVDLwQXR8scG/JKSDIoR0YOkpSglshsAVBvaB31ZBV2Q7YQH2S9OmTpWX41RgYbvaMg7y9J/y3LtpVbUn6EbkwQs37M/FThDJDxKAYcE1Xm6sT8UDF0ogjQwGQxaM=&pass_ticket=XKOF3YHBKa5NMKj8z92R5DF9k1Uv4cuInupjkRSSYYMued9fkjeYZTQjRn4fL12+&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/d2a609f0-1f8a-44c8-9435-fefaf0db24c0/d2a609f0-1f8a-44c8-9435-fefaf0db24c0/)

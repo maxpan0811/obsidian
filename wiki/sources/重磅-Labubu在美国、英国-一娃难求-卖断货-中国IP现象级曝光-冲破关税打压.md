@@ -119,3 +119,9 @@ Labubu是中国原创IP出海的一个成功范例。有媒体分析认为，Lab
 事实上，Labubu的热潮已有降温迹象。据《南华早报》今年1月报道，Labubu在二手市场的转售价格正逐渐回落至接近原价。有分析师认为，这是意料之中的事，毕竟没有哪个IP角色能永远维持在热度巅峰。
 
 潮玩本质上是一场永无止境的注意力争夺战，唯有不断推出新鲜内容才能长久立足。如今，泡泡玛特不仅要巩固现有的爆款优势，还要做好准备迎战越来越多的新晋竞争者。当来势汹汹的竞争对手开始以更低的价格、更快的节奏推出新鲜的替代产品，Labubu的封王之路不会一帆风顺。
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzkzNjc1OTM2NA==&mid=2247489566&idx=1&sn=18a330caaf4348f74af95298e2988f36&chksm=c3d63761a717b03f0d9ad0b3c88a8427926c8b45d9691404840ad1b7836cdade8c86a8107d93&mpshare=1&scene=1&srcid=0601kLj0QpRkldvKYTlDv6k7&sharer_shareinfo=a598868de21d58a6d2392904b0d8ede0&sharer_shareinfo_first=b5acfe6fafc80a25eab52a3084c03d07&from=groupmessage&isappinstalled=0&clicktime=1748746552&enterid=1748746552&ascene=1&devicetype=iOS18.5&version=18003b2c&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQdknkElZXqPRVjZq6zfB/JxLmAQIE97dBBAEAAAAAAHupAybWGncAAAAOpnltbLcz9gKNyK89dVj0eXVEv37XA1tL1LMgd6DA0YDtGBLMCJo+zLWrxl5pCMxoEBonRk0V/lPn8uJkZUzOA8l6rNDIlDYtyxscKcFd/OyX2/DqI9mlKYoO99Lp4r3m/GqiV0VY75bLZOPnY6whbbfycd5AqVUnaZDivrDUcKGiFPlvA3362z26PKcw+gLZPiahc+fC6FWHgCvPMzeVY8APBEu4aqFJmksftaPvw/4wphf+6Z8W3XvEZsQComS7OKDNmH9x/OxDvx5GbZxn&pass_ticket=FS01jcaeYhDi+COlzTAFO9ceiVQt4IVpTTFJ0C9H4QFp6eLKZhb2ZBy2qgKYKmmD&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/e7f366bb-e42e-485e-a7f7-1003c375d96f/e7f366bb-e42e-485e-a7f7-1003c375d96f/)

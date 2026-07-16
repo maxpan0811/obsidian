@@ -302,3 +302,9 @@ Nano Banana 2 快速生成的背后：模型轻量、蒸馏研究、推理优化
 https://www.youtube.com/watch?v=Bo19sXssYXI
 
 ![](attachments/135754b9affec6d9.gif)
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzIyMzk1MDE3Nw==&mid=2247676440&idx=1&sn=ba727110bace2cc400c8327ca32839d7&chksm=e9dfefb2559fa945d2328fd725cd1fe29fb9b3ff5297eeb1cf281dbee69046fbd306e88230bf&mpshare=1&scene=1&srcid=0418CrZlOV10OohAyKeaEZr4&sharer_shareinfo=225a8d57778548cfa3ca96ed4a8632a1&sharer_shareinfo_first=59f5e6f01a9e81f9eacae815452924b4&from=groupmessage&isappinstalled=0&clicktime=1776501886&enterid=1776501886&ascene=1&devicetype=iOS26.4.1&version=18004724&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQUBEJbAO4a/zGk96QLP/R4hLpAQIE97dBBAEAAAAAAMblKzypjc0AAAAOpnltbLcz9gKNyK89dVj0mUinO5awm0uMSdmcBUNYKpzqvFvez1KGlzyaUKmQ7tK8z6/HmJmXhTtxUBOiBPrFPe7jr9Rmfbc8c/hG6rNr9vOAYQEDJIV2DjprTRahnjCj23N/d4Ve6gDoUHl8kTvAOtCdXaizDqyrAbE85ABbGYDecL4yd0QeJdOe5Bx7w+Ly7QXNH27vJYQQ9WyXRK6nYuCZfAsLPZtabValQR7Q0Qhw+RG/jz4JzRTtvHie5CoScO6pO2tC9iPYaSI5ByJW0DWf&pass_ticket=n3tWPzf2xTDrqG9vnOHyQ9loS48wgX0Uwlau/7lJT+2UFtf/Y6AekIP8OVmhB/5O&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/364a5081-9abd-4490-bbb1-d23888d38b0a/364a5081-9abd-4490-bbb1-d23888d38b0a/)

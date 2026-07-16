@@ -183,3 +183,9 @@ https://bobtranslate.com/
 
 工欲善其事，必先利其器。  
 好的工具，让人身心愉悦，效率更高。
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?chksm=836ded69b41a647f4686c0184a5342418e5e40144162eb81aa1190a58c0a5857905441be7598&exptype=unsubscribed_card_recommend_article_u2i_mainprocess_coarse_sort_tlfeeds&ranksessionid=1745799396_1&scene=169&mid=2649442925&sn=21e8a8a1129c9327d758dd90112159e3&idx=1&__biz=MzAwODIyOTQ4Mw==&sessionid=1745799586&subscene=200&clicktime=1745799663&enterid=1745799663&flutter_pos=6&biz_enter_id=5&jumppath=1001_1745799562587,1101_1745799565022,1001_1745799584059,1104_1745799586801&jumppathdepth=4&ascene=56&devicetype=iOS18.4.1&version=18003b24&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQIqUyh6H28cENJ7yRSyo4YRLVAQIE97dBBAEAAAAAABfuBq+RC+AAAAAOpnltbLcz9gKNyK89dVj0HJLoEeFSZ4VM6dehOwXTYigw24ygYHHW5mevuVg+EhqQdvP6C/ckgbUdiC0tTEzJ0VP/0Njexeckq1W88WTQw4BY6g+YvowgmR4NnRVsjOp4Bd7M3BkbtYeAXXjqWrd/q/PG7SRq3uvvxAeaDGjwHQPB1yQPhkvqtrM0QKZHzj2/n+zmbY7W3Ni4HSBC3+SiyKBy/7BPBCFAPg7pGom7T5gyyubhGhQQgUxSSbAK/w==&pass_ticket=EyMPaG/uexB8QF3kKciFT/cY5ezZ3MnIdogqhuIrFeOx0rP3FCAIB9LjYBgM1vc1&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/b5b913a2-e5d9-46d2-9bb0-80b15c70513f/b5b913a2-e5d9-46d2-9bb0-80b15c70513f/)

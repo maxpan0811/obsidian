@@ -27,3 +27,9 @@ guid: 96b78ebc-c624-4bb8-b10a-cb1e2618a985
 AI 不会让你自动快 10 倍，但能让你不白学。别再问它要答案，要让它测你、压你、纠你。
 
 Close
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzkyNzY5MTM5OA==&mid=2247489772&idx=1&sn=382e9941f5eadafbf8da5e7d6196c51c&chksm=c3b94a6be15ecf021136b031e984819c114991836d154b8d2175e5188f3c5afc79466aab3931&scene=90&xtrack=1&req_id=1782359948451592&sessionid=1782359986&subscene=93&clicktime=1782360417&enterid=1782360417&flutter_pos=1&biz_enter_id=4&ranksessionid=1782359948&jumppath=WAWebViewController_1782360390386,WAWebViewController_1782360390911,20020_1782360407480,1104_1782360412865&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=18004b2b&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQsdZuHKssldB7AUYDvjnRgRLTAQIE97dBBAEAAAAAAIMOGdBgfZIAAAAOpnltbLcz9gKNyK89dVj0T2hvgnqqTYm0Z1VQCIXE2WjcTRflK3pP+uvJtTo1zhLoBQGXH3MaJS526YLT5i/Z6cLx7WUiEteGf+0L099YRiocOWPBPqi8XrH/bGbUhRyvOZvRSDxfeiM0S28tM69PM26FrwbJNP7eUoJc6bC29yRPP/nVgXBWYm8bQFLAi2vsAINn7msL7WtntGJH/ci9k5u6d2ZwmqBjEFVc50sigzKgnwjMzCpyHjKuBb4=&pass_ticket=KronBnA5cCuchnyh7jxHp7usetQ8rTmfU8/JXFkc0Y1xobmZSSSJVsGapGVBm9fW&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/96b78ebc-c624-4bb8-b10a-cb1e2618a985/96b78ebc-c624-4bb8-b10a-cb1e2618a985/)

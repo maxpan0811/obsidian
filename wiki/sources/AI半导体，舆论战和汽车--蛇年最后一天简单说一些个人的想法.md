@@ -75,3 +75,9 @@ Seedance 2.0是字节即梦AI在2026年2月7日发布的。
 对于新的一年，虽然还有很多的不确定，但我认为总体还是会更好的。因为看一个国家长期的发展，最终是看这个国家科技水平，生产力水平是否在持续提高的比其他国家更快，其他的各种波动都是中短期情况。那么中国的科技和生产力水平是否在持续提升呢，我想答案是肯定的。  
 2021年房地产价格大跌带来这几年中产财富缩水，消费低迷等，我认为是中短期波动，随着时间的推移，人们逐渐积累的收入在逐渐消弭房价下跌带来的负面影响。例如由于房价下跌，个人资产缩水，那么月供相比于资产就显得过高了，因此我和我身边的不少人在过去的三年都在提前还房贷，几年下来房贷本金减少了不少，加上国家降息，因此房贷负担已经大为减轻。我反正已经在今年1月最后一次提前还了一些房贷，随着月供下降到了相对资产比较合理的水平，之后不打算提前还了，而是打算更多用来消费和提升家庭生活水平。  
 今天是除夕，也不聊太多，谢谢大家一直以来的陪伴和鼓励，让我有了更多的动力一直写下去。祝大家新年快乐，马年能够心想事成，今天许下的新年愿望都能够实现！
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzI0Mjc2NDc2OQ==&mid=2247493203&idx=1&sn=eb83170066a20461d17e24c0fb3d8bda&chksm=e8c1203ab98e491e8f53f4dbd66c9971782d64cfa45bcbb2c6bb75fd1b0dff7a0268d7ae35a2&scene=90&xtrack=1&req_id=1771215055417180&sessionid=1771215064&subscene=93&clicktime=1771215229&enterid=1771215229&flutter_pos=2&biz_enter_id=4&ranksessionid=1771215055&jumppath=20020_1771215067504,1104_1771215120887,20020_1771215129878,1104_1771215225339&jumppathdepth=4&ascene=56&devicetype=iOS26.2.1&version=18004529&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQ7vWDzgzXPQRs4Aax5KjvSxLVAQIE97dBBAEAAAAAAIrcKQ450dQAAAAOpnltbLcz9gKNyK89dVj0+YyDqet4PvAmkGRdKjyQNn/G7NhJIt3aqLsz6STm6u+sPB40eLec6xFzdjEKltNry17Y78bHos0SdGlYG0MC0W5gxQe3Vk9Fpu9mbEhPu3XPel0Aj+XuIhbdLuvxB0g9ej6z6AEg9cIlImKukoa+pDn7UrK9mZDMPe5elzXOSV2QFIF/bjsk111mSbTo9DPsGmKgz99TN/S57XYDx0YP12SJVY9wQGLnPlL0n9H00g==&pass_ticket=1D6H+XV6aqeu6RIzA8U7Dz9jYaH9G+zq60LqcnzXPyAUPhUi8eEhLyBZEH4ika98&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/aa16194f-8702-492d-a235-55b4391c3ecd/aa16194f-8702-492d-a235-55b4391c3ecd/)

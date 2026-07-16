@@ -209,3 +209,9 @@ CLAUDE.md contains global instructions about you and your project. It gives Clau
 # 不要委派给 Claude Code 的事项
 
 Claude Code is great at labor intensive, time consuming, and repetitive tasks. Outsource these tasks to Claude Code.Claude Code 非常擅长劳动密集型、耗时且重复性的任务。把这些任务外包给 Claude Code。But Claud Code will not be able to create what actually counts as scholarship because it won’t be able to give you new and original arguments.但是，Claude Code 无法创造出真正算作学术成果的东西，因为它无法提供新颖且原创的论点。It can synthesize information that you can then use in service of your argument, but the job of coming up with an original argument remains yours as a researcher.它可以综合信息，供你用于支撑自己的论点，但提出原创论点的工作仍然属于你——作为一名研究者的职责。————感谢您能读到这里，这篇文章对你应该有用，你可以试着收藏，转发，或者点赞推荐。
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?chksm=87d3e95ab0a4604cea5e52524d932157df93f9fb9b9bc48a7f6e4d807b4ad3df743b633dbf35&exptype=unsubscribed_card_recommend_article_u2i_mainprocess_coarse_sort_tlfeeds&ranksessionid=1779030388_1&req_id=1779030388229425&scene=169&mid=2454230568&sn=3813d9dfe334cd43fc3fc79d3d1fd453&idx=1&__biz=MzA5MjI2MDg5Mw==&sessionid=1779028622&subscene=200&clicktime=1779030927&enterid=1779030927&flutter_pos=104&biz_enter_id=5&jumppath=20020_1779030915043,1122_1779030916492,20020_1779030922399,1104_1779030923154&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=1800492a&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQEOmKHQny2KZDncIZIHkl9xLTAQIE97dBBAEAAAAAAFh9JdUVPPAAAAAOpnltbLcz9gKNyK89dVj0jrCYrscHPoXnedeA9SAArBVqU/4qPSBGmttxtrRANwQPLUN0zFCqGEuI53TOruLYzGAybs2HPaz5OrrYEsdYkzUP8d2aMtM4+rl70V0CM1a5fUiluILDipFY8G7edUuqkx73l+KrZLBeM9O1MajnrEVC9I1s5Qb/NVQJeyuZBPxqzCLvApL7RAEvmvJGb+mtFJw0PGfv5+q2cMHQkU46a6yMUVDXz4ZQiVY0JCs=&pass_ticket=iV1fdpRguuHcA8mfBmh5TfqPIFozTTx7DN08WwzuVFTJ53TTqLwxdmGZwPH0fVF3&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/0003360a-45d9-4680-9eca-573208d5b000/0003360a-45d9-4680-9eca-573208d5b000/)

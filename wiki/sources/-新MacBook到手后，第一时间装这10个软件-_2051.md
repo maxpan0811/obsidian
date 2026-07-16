@@ -104,3 +104,9 @@ Windows用户转Mac后最需要的软件
 Kudos to the Author
 
 Close
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?ranksessionid=1782032740_6&chksm=f344e3c5c4336ad3819ede2ff2a6f3f3b3644fce6e0ca0ead3ba567a461ab9f3d38777a05d98&exptype=masonry_feed_brief_content_elite_for_feeds_u2i&req_id=1782035691364054&scene=169&mid=2247483748&subscene=200&sn=ed09e272478771c15978a5302dd57562&idx=1&__biz=MzY4MjIyNzY2Mg==&sessionid=1782032739&clicktime=1782036039&enterid=1782036039&flutter_pos=0&biz_enter_id=5&jumppath=WAWebViewController_1782036022746,WAWebViewController_1782036023245,20020_1782036035178,1104_1782036037392&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=18004b28&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQdUz25xdUTVt51IGnv1IznhLTAQIE97dBBAEAAAAAAOdTGcIQDU0AAAAOpnltbLcz9gKNyK89dVj0Paj7iZcb+F1pjQOaoRs0m9lMeUX5FuVcMgmxL3C4vexHj1HrUYYUSj0yBhDlYVdY4wBsn40M4OrNf2Uxf2rGrKPDNr/ricHZ/Sgj3aXNmnjHeUvD41aRISEsx91wmTgZx0pKo0YXNTDPd2zslv0cCd+mCg4ZtNfE+lN04DQ+ks+WLvSkzfVHtY8H1WjrUjqbkCkFAm5DX2hBRg/zN+PU9gI8wwtP/r5bDvdoc1g=&pass_ticket=woToXNq1wXSS4+SWf4TYaGXUtscdpYuYTXgF61jrn4Xg6k41uAs/ycKWFleiQZqr&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/bb69cbdf-4982-4ea2-94ef-bd1186dbcf85/bb69cbdf-4982-4ea2-94ef-bd1186dbcf85/)

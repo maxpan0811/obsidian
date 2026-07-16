@@ -111,3 +111,8 @@ Movist 的搜索按钮直接放在了右上角
 MooVee 售价 12 元，你可以在 [App Store](https://itunes.apple.com/cn/app/moovee-your-movies-guru/id933512980?mt=8&uo=4&at=10lJSw) 下载。
 
 文章来源 [少数派](http://sspai.com/) ，原作者 [waychane](http://sspai.com/author/703114) ，转载请注明原文链接
+
+
+---
+
+[📎 在印象笔记中打开](evernote:///view/207087/s1/90933346-1405-4767-96fb-32c1fbc09e1d/90933346-1405-4767-96fb-32c1fbc09e1d/)

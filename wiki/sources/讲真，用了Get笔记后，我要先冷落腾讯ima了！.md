@@ -204,3 +204,9 @@ Get笔记所有这些功能背后都遵循一个核心理念：**让记录和管
 ⑩[千万别错过！分享一个豆包隐藏玩法：3步生成专属智能体，让你效率翻倍！](https://mp.weixin.qq.com/s?__biz=MzUzNDY1NTYyNA==&mid=2247485344&idx=1&sn=17b6d9973be5a4ad1a3a9f93667b16d9&scene=21#wechat_redirect)
 
 **我是简单小意，一个医疗圈里会玩AI的有趣灵魂，一个爱折腾的终身学习者****。每天持续输出，也可以给我个⭐，获得最新更新提醒！我们下次再见！![](attachments/e68580c259b9dcc6.png)**
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?chksm=fa9029c0cde7a0d6d644b5d5a5dd4a2b5dcd06e51697745a1617312cf13e2c418591e9c2f781&exptype=unsubscribed_card_recommend_article_u2i_mainprocess_coarse_sort_tlfeeds&ranksessionid=1744551695_1&scene=169&mid=2247487015&sn=ceb7c2983229980e2fbf2c11ba07b9e1&idx=1&__biz=MzUzNDY1NTYyNA==&sessionid=1744551428&subscene=200&clicktime=1744551714&enterid=1744551714&flutter_pos=29&biz_enter_id=5&jumppath=WCWebImageBrowserViewController_1744551647432,20020_1744551652338,20020_1744551661740,1104_1744551662808&jumppathdepth=4&ascene=56&devicetype=iOS18.3.2&version=18003930&nettype=WIFI&abtest_cookie=AAACAA==&lang=zh_CN&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQtG24RgcWuI8bXrOVcHc2+hLYAQIE97dBBAEAAAAAALyeCPjZqNcAAAAOpnltbLcz9gKNyK89dVj0klt2IaXMF/bLU3UUe6hhbwtQpCqJl4jzfzgpnBlmep9w+1UwkAFjOZ4Pl80PaANKIHtNfJLkLbPr4CfG6e09M1iULHQLbIYVZu090Yp/13S91ttL1uSjCmKzkJ5WPMrWNtXCE8wE6jjqt/4GpAISEKij7F9wU5i6RyrEA2MYSmHqUfHj3FnXRtQj8nnxrf7/DOVUnNTwip9SJgnsniU4FjXUrthcBfrDjAJ68KL7nNjtoQ==&pass_ticket=9/+BpA/tMYBvJaviJN7AO0Wk8UUO6f/7Hn48PIf5PicQs3aNkQ8VhFK9H3QqrOzU&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/c756fed3-78b8-4df5-8861-82a2635075de/c756fed3-78b8-4df5-8861-82a2635075de/)

@@ -272,3 +272,9 @@ If you have additional questions, please [contact our technical support](https:/
 Measure
 
 Measure
+
+
+---
+
+[🌐 原始链接](https://www.ergonis.com/products/keycue/features.html)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/bc49fc77-6f57-41d3-9697-4e542c8899cd/bc49fc77-6f57-41d3-9697-4e542c8899cd/)

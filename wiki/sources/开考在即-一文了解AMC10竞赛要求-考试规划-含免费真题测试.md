@@ -211,3 +211,9 @@ AMC10涉及到的知识面非常广，知识体系的构建不能急于求成，
 ![](attachments/3f295ac563d1654e.jpg)
 
 **声明：文内有付费产品链接，根据相关法规需标为广告**
+
+
+---
+
+[🌐 原始链接](http://mp.weixin.qq.com/s?__biz=MzU2NTQ0OTY2OA==&mid=2247508040&idx=1&sn=3b132a101ecb3bcf8204841532331299&chksm=fd2591307eb104f5a984b825618ebac0d4bb9372ae61b9f42e819d7f5273fdfd54a5c96ecad9&mpshare=1&scene=1&srcid=0926Crghy22bxnLjtm4v63wT&sharer_shareinfo=59661b0582ae85abab8b55e76bc29a98&sharer_shareinfo_first=d90d5413c3f990c8c34acc119cca05e2#rd)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/ab25d847-a4f7-4d4c-b186-c2c94406150f/ab25d847-a4f7-4d4c-b186-c2c94406150f/)

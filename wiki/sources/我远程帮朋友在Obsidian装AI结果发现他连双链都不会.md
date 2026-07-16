@@ -171,3 +171,9 @@ Copilot、Smart Connections，各种 embedding。
 AI 接不接，其实没那么重要。
 
 重要的是，你有没有在认真写点什么。
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzI3NzcwOTY4MQ==&mid=2247488118&idx=1&sn=fa0f02a9ddac47f28b9084670eaaedb2&chksm=eaadb3df8196c0e8ebfa405c92fd03f2b0925f9b01444429710cd062c92dbc6a2e821b35eb51&scene=90&xtrack=1&req_id=1773360761011011&sessionid=1773360756&subscene=93&clicktime=1773360850&enterid=1773360850&flutter_pos=26&biz_enter_id=4&ranksessionid=1773360761&jumppath=1001_1773360755803,1104_1773360757208,20020_1773360760495,1104_1773360777703&jumppathdepth=4&ascene=56&devicetype=iOS26.3.1&version=1800452f&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQNw/cpQ3GQ7GJp3/1e6XQqRLVAQIE97dBBAEAAAAAAAdvNBTPItMAAAAOpnltbLcz9gKNyK89dVj0JSst3AGTJibTir3wj8iga1qD8pI51/uq+di+2bpgzyuIL/fbbI0QamnaF6HWFOR0i/CR5P7uNCx1L4WGB+DEArIMekINhUMvBUJ4v3sTIw46zwXQlshMLQSKEqkmr43sUb1lCn8n3A/0QbcplzzzhH8cQLrGcR2h3oFkvPLIYYZYOwHnO3JEtCSEUl2YTK8JNazRZ5XLVUIJZdFz2VoG3X2n/ArnrEDErDRzfIVZkQ==&pass_ticket=/57QSyA82QOmHySzv+YE7as0EgeepBfGEljrV9pULSN4eK066dZYBxNextWuYc+7&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/de71c2a1-cf48-4a70-8381-3c5356539970/de71c2a1-cf48-4a70-8381-3c5356539970/)

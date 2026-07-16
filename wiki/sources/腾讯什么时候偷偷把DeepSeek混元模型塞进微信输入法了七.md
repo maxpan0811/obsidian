@@ -320,3 +320,9 @@ DeepSeek开源出场爆杀全场后
 欢迎点击上方名片关注，持续分享有趣提示词和对AI的深度思考。欢迎扫码围观朋友圈。
 
 ![](attachments/8913b25ed06519da.png)
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzkyMDE3Mjg2Mg==&mid=2247484880&idx=1&sn=6032fde99e737afdb6b414b146238871&scene=21&ascene=0&devicetype=iOS18.3.2&version=1800392b&nettype=WIFI&abtest_cookie=AAACAA==&lang=zh_CN&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQBg4jbL7Cxg5dpqR9pLQbsRLYAQIE97dBBAEAAAAAADasNdMWAvkAAAAOpnltbLcz9gKNyK89dVj0ptDhWCE1gYwOD/Pk5yYR3q72Dobzr5hvhhCeVxJ8X2P6nMASKBTutZFYqfZh6Mc0Drxto34yzFoq/xu2Id6yBJHLLWxArqgTrJgGh406K2uRZ1X3Sqw7lg0B+AgyueIU40smGpfS8zw6tnhoi0C86wEgqfF1ctqRQtuWNsulMlNQHuyP+zN+M4UGbtI8pKGNjGmbZRu0tv0UMGVAJu9gVV8HmyY5A2ZhzZVqrnmBs7nboA==&pass_ticket=fgX3Zt4xQWaBy6MR2XpgStsPriUzAWai98CE/PrdfpSzaNGAwJpeFEGP/zgIR7TD&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/9c5a9435-6ee0-4ee8-acf6-a1cff1597d53/9c5a9435-6ee0-4ee8-acf6-a1cff1597d53/)

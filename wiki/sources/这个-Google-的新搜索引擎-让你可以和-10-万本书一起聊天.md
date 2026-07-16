@@ -89,3 +89,9 @@ ARCADE 的玩法类似俄罗斯方块，只不过消除底层元素的方法不
 Google 已经把用以训练 Semantic Experiences 上 AI 的数据和代码公开，如果你是一位感兴趣的开发者，可以到 [这里](https://www.tensorflow.org/hub/modules/google/universal-sentence-encoder/1) 来看看。
 
 > 下载少数派 iOS [客户端](http://sspai.com/s/nqQk)、关注 [少数派公众号](http://sspai.com/s/KEPQ)，读更多有趣的内容 📖
+
+
+---
+
+[🌐 原始链接](http://sspai.com/post/44132)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/b51b5a1e-a58e-44cf-83f7-cbf27ce4779f/b51b5a1e-a58e-44cf-83f7-cbf27ce4779f/)

@@ -58,3 +58,9 @@ Star Trek 观影顺序
 
 ## 相关页面
 
+
+
+---
+
+[🌐 原始链接](https://www.douban.com/doulist/121576288/?start=0&sort=time&playable=0&sub_type=1)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/26b8de25-00ee-47ec-a2b9-fe2b212b08cc/26b8de25-00ee-47ec-a2b9-fe2b212b08cc/)

@@ -274,3 +274,9 @@ https://darioamodei.com/on-deepseek-and-export-controls
 https://x.com/DarioAmodei/status/1884636410839535967
 
 ![](attachments/c753819dc7bbc555.png)
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&mid=2651038823&idx=1&sn=91a989d59ea44e80217f4904c8462d04&chksm=bcca13e0182c5b8b25637533288109928e8f69e161be3f632c8e453a0af41fc4110156fe2bf7&scene=90&xtrack=1&sessionid=1738207007&subscene=93&clicktime=1738207011&enterid=1738207011&flutter_pos=0&biz_enter_id=4&ranksessionid=1738207001&ascene=56&devicetype=iOS18.2.1&version=1800382d&nettype=3G+&abtest_cookie=AAACAA==&lang=zh_CN&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQqTJfBJFGxAASOACMJkJHgBLYAQIE97dBBAEAAAAAAJupNjIYL2AAAAAOpnltbLcz9gKNyK89dVj0XpBJeuSA+Qv1ErFfAstKrWQqfu21Kph/uvu2nIWJtwhqgf3YYyhTidV10F3oF4pFRdPC8NE5pkC6oWOoFISpWzhBKkHPZwFkj8XTW3BXngTLP7IXQY6D7s5e/demRmsFjhaEQ3AtIW7owu+negFxs8LBYirNAaypf7+eWS/d00yUQfv/wHKzMYCpz/dxh7NfARYcPSKPSecIDYWCyzY7yi8Wx49Tt72ZMN3dRYTZ17X55A==&pass_ticket=MLnGIZx1Riiq22vErw8PccRrh5uPK4/MAq1xvzHFJMo8cyk6ExshTNw+kowqYxN1&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/4724533d-0b26-4174-bc51-7dad667c96c3/4724533d-0b26-4174-bc51-7dad667c96c3/)

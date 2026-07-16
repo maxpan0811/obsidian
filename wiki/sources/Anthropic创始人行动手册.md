@@ -813,3 +813,8 @@ huasheng.ai · 公众号回复「创始人手册」
 🌐 官网　huasheng.ai
 
 花叔 · 2026.05 · huasheng.ai
+
+
+---
+
+[📎 在印象笔记中打开](evernote:///view/207087/s1/5a6aa219-debf-4b4a-a5a2-9695525947a8/5a6aa219-debf-4b4a-a5a2-9695525947a8/)

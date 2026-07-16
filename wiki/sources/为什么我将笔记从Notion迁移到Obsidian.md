@@ -109,3 +109,9 @@ Obsidian 笔记编辑页面
 #### 引用链接
 
 `[1]` 全面提升 Obsidian 体验：插件与日常技巧分享: *https://atbug.com/enhance-obsidian-experience-plugins-tips/*
+
+
+---
+
+[🌐 原始链接](http://mp.weixin.qq.com/s?__biz=MzIwNDIzODExOA==&mid=2650169685&idx=1&sn=83b9f3d4f04cee82c5807de6c860d76e&chksm=8f3da0140f7e078e25de161057abd1715492be6beff513a4cfa7af7c2f6a9f8ef866f758cebf&mpshare=1&scene=1&srcid=0101V9FuDnCQqhSpPfx4Q1GG&sharer_shareinfo=d6685ffe73481769ab12a2c93697b595&sharer_shareinfo_first=d6685ffe73481769ab12a2c93697b595#rd)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/31fd022e-5c24-4155-b37c-9c15369cbb66/31fd022e-5c24-4155-b37c-9c15369cbb66/)

@@ -29,3 +29,9 @@ guid: fce2711f-e4fa-462b-93e8-e21a3f58e234
 这样，Claude Code 不再只是“会写代码的助手”，而是被流程约束、可复用、可审查的工程代理。它不会因此万无一失，但能显著拉开初级用法与资深工程师工作方式的差距。
 
 Close
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzkyNzY5MTM5OA==&mid=2247489351&idx=1&sn=5d71fa313c346371daf92a1c6d5205f8&chksm=c30368588a74c0dc7d1afb90251b9c070d10f250c58e02875dd613c382d1880bf25fdd4692f6&scene=90&xtrack=1&req_id=1781678098277181&sessionid=1781678171&subscene=93&clicktime=1781678427&enterid=1781678427&flutter_pos=3&biz_enter_id=4&ranksessionid=1781678172&jumppath=20020_1781678367471,1104_1781678375085,20020_1781678387253,1104_1781678403453&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=18004a30&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQgPe39NZEmq3A+aBbxJpghxLTAQIE97dBBAEAAAAAAB7GKgHZSOgAAAAOpnltbLcz9gKNyK89dVj0qFVx8yJHtNxNo5g/SBqs0MYET/3VbA6YcnVL3ev4occ6moXN55WT8Xi8DqqYqNE3K6W1o8bEDYtilvoMZ3yXrd1yKKF0cRJS7QTp0DBPegaZ0L4BBgSgxyzbW3C3kKSQum5sjXZ8S6GkYJxOrvtuQfYBOMdCJOtt2kM8uyt5K5/dJaaYnWwnzOBVnPv75EWQ6kKuKOV1hQAK+NGb8bdS/CUhGX3KlP05ivmtS8U=&pass_ticket=mT9ILZOcOC0JKJC9WUBfxge6rDuEOcYVI47H6yFtnGanYVj63KkcBh6T5YzwQ7Nu&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/fce2711f-e4fa-462b-93e8-e21a3f58e234/fce2711f-e4fa-462b-93e8-e21a3f58e234/)

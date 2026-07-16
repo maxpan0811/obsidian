@@ -62,3 +62,9 @@ Original大白聊IT 大白聊IT
 而对我们来说，这话更像个提醒：当别人不再说你“落后”，意味着接下来的竞争，要真刀真枪拼硬实力了。
 
 读者朋友们对施密特的言论怎么看？评论区一起聊聊
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzAwNzM1NjQyNg==&mid=2649986572&idx=1&sn=45862aa4a5a90c562996c27b34bc785b&chksm=821154772ab058a764c02d769bec444fcc005790c870e51c70384471c463ecaa9620681c5c73&scene=90&xtrack=1&req_id=1764576358180384&sessionid=1764576349&subscene=93&clicktime=1764576506&enterid=1764576506&flutter_pos=2&biz_enter_id=4&ranksessionid=1764576358&jumppath=20020_1764576357455,1104_1764576422788,20020_1764576428360,1104_1764576498321&jumppathdepth=4&ascene=56&devicetype=iOS26.1&version=18004225&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQYjffq0TML6TRyNIVXZ3z/xLTAQIE97dBBAEAAAAAAGqJE0TtFgwAAAAOpnltbLcz9gKNyK89dVj0JnUdniwqRSqZuM/S7V35LFYCHz7aoa+SdcQWWHh5lTufcyqep67xB/01MTEl+3nf3vEViyWhB2t3GHYTl9kVsFRTyaESoZAKgJhBcVLFOPWdIacEGmNNkBXFPJuEVhnat8K5h2qjvhaNK8MCYhIUbKCrDaFUGfl49IMNYhA9Jh42FSQ+MY10WQablU9QHC4hpZdj8X5qGvPTwiTEnA4y+OGizYi7+mVTui/2adU=&pass_ticket=C4lI5SgreLWL5lo2N5AyGTLoxR7JYBctTLdTayJsYUc6JZp+zZy9xghquZBiHQYr&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/c1a60a6e-9f1f-41f5-9ad5-24ad1c38c8ac/c1a60a6e-9f1f-41f5-9ad5-24ad1c38c8ac/)

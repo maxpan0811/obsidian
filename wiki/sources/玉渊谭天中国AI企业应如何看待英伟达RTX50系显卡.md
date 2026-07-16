@@ -98,3 +98,9 @@ guid: 1c591540-78ac-441b-b541-c0b67140dda0
 人工智能，不是一场跑道和圈数划定的跑步比赛，而是一场向着未知的探险。中国企业选定的方向，不会轻易被各式的“焦虑”裹挟。
 
 能者非他，能自树立不因循者是也。
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzA5ODYxMDE2Mg==&mid=2650507527&idx=1&sn=00a807586f6ae5ccd90f71dc4d2111a1&chksm=89d72985da1feb19029dda66f2291dcb7a1176e9fd2330a8aa53cc7d4735c8d507d1b86bc024&mpshare=1&scene=1&srcid=0109UCMzjqyxmzmXf30iKyN5&sharer_shareinfo=4acebf82bfb5e295d82b9ad3a2a170c4&sharer_shareinfo_first=4acebf82bfb5e295d82b9ad3a2a170c4&from=singlemessage&isappinstalled=0&clicktime=1736728327&enterid=1736728327&ascene=1&devicetype=iOS18.2.1&version=1800372a&nettype=3G+&abtest_cookie=AAACAA==&lang=zh_CN&session_us=gh_e85ebd6bb957&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQxy30T2aerWJYkdueXWCfQRLnAQIE97dBBAEAAAAAAJqsF+xBWKMAAAAOpnltbLcz9gKNyK89dVj0me7rsvWXJS4AbOJus3Hnqxfy5QtPtZfy1x41RaCGVwcERzP0gIRH9LIZpVGRaraW07q4MMo6TX5dF7DO+EUciC9oB272HXItI1ufMvcrTOBwnX9SnEwOydRPDKAlD2YbwBrQzBCxfttP9OpYBZk01n75vjMwgH2VFKnRa7GUbo9yUDRus+GOwXpUsI8+BVfiJIhvJzCzxag0eJNhKZvCkx/b+qswBt/GGDADXUS7FRNfTSr7CdPmiFLZzhECFcb00w==&pass_ticket=/Pk3gkLjHMtzrCunOQSz038pN8dCYZbiNxPQNPJlSubZiRIKufsvhesJKMF4Nh6Y&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/1c591540-78ac-441b-b541-c0b67140dda0/1c591540-78ac-441b-b541-c0b67140dda0/)

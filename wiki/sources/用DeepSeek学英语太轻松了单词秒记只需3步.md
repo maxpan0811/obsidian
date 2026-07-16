@@ -119,3 +119,9 @@ https://chat.deepseek.com/
 感兴趣的朋友，别忘记收藏本文，找时间动手实践起来吧！2025 年，一定要学会用 DeepSeek 背单词呀！
 
 以上是今天的分享。
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzU3NTIzOTA5OA==&mid=2247501934&idx=1&sn=df601e876c9464da49fc6fef94251d69&chksm=fc8697f401220e85f3c5acb83eb8db48295f2f9e8f130620a3dd48c28ece25c15737dcf2f837&scene=90&xtrack=1&sessionid=1741226021&subscene=93&clicktime=1741226030&enterid=1741226030&flutter_pos=1&biz_enter_id=4&ranksessionid=1741226019&ascene=56&devicetype=iOS18.3.1&version=18003835&nettype=WIFI&abtest_cookie=AAACAA==&lang=zh_CN&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQUv5W60xyNW9DejmT+LAT7BLDAQIE97dBBAEAAAAAAJ+AAnN32DwAAAAOpnltbLcz9gKNyK89dVj0tqTwOeSQIXPqshN9Azkj/nmiBnjcCh6gugLe3N5mm406skUuXiGxHyOQhDQK59NrdK1MoKKWNqXF+EYJbHjSgywkxmmGmFejrVymDB247p0ZhcCu/HwgVkgFTIle7TfRRIZHuVwHevCZVne6oxN/5yieGVr12LK2g7h34ckNco83de6U1VH5xTCoy8GAu6asygqbtnB0KIL9V7+a1g==&pass_ticket=nggcnu6mV22T596Wv0Tzkfwn/8iT0dqBkZ0wfihGeYjqGoVdC5vMFpMxo5iS93ek&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/21d0f2e3-4e70-4c9f-8a9a-2b7d03ce118d/21d0f2e3-4e70-4c9f-8a9a-2b7d03ce118d/)

@@ -85,3 +85,9 @@ Original5号魔渊MY
 ![](attachments/f7f3bfba6b8626d1.png)
 
 本书是纯竞赛方向教材用书，也是笔者搞竞赛的时候就高频使用过的书籍。三本书难度由高考到强基到竞赛逐级提升，知识点完整且成体系，课后习题设计颇有巧思，有助于化学思维的培养与拓宽。适合学有余力同学拓展和深入学习使用，也可作为梳理化学体系，拓展难题思路的工具书。注意本书的提高读本内容涵盖虽广，但知识体系不够深入，缺少深入浅出的讲解，尤其是有机化学部分。竞赛阶段的系统学习仍应以大学教材为主。**如果纯竞赛生请参考更全面的竞赛类教辅，下文由我们化学学科组组长撰写：**[原集训队队员、先首席教练员对化学竞赛的学业规划建议&教辅用书全面推荐](https://mp.weixin.qq.com/s?__biz=MzkwMDY2NzIxNQ==&mid=2247489260&idx=1&sn=c433d69c97aab8a3f11bfc2af637fd71&scene=21#wechat_redirect)
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzkwMDY2NzIxNQ==&mid=2247491012&idx=1&sn=18a8139773f3dc5985f3bbbc264f057a&chksm=c1a360de14541fc9b215cc350e747f58d01eb9feab48983496551d67b86a907602f9aba551bc&mpshare=1&scene=24&srcid=0622aTDsTSFwoiq3Pk1LgE6X&sharer_shareinfo=3ca8091335e0037f7528d244ef779a7f&sharer_shareinfo_first=3ca8091335e0037f7528d244ef779a7f&clicktime=1782178496&enterid=1782178496&ascene=14&devicetype=iOS26.5&version=18004b29&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQ3tX+fEG3KuCRT/iAUI4ghhLJAQIE97dBBAEAAAAAALNyBUZ8bbwAAAAOpnltbLcz9gKNyK89dVj0i/8PTfx0Dt67eUEf8E2Ndcfeimq4VXHKbkyzm52E/mBMSk5MvIHYozWu+XxUyNV7kYouvPx7HE8YouJV2ugLsxLMh1GhXvYb6B23rErvHRdb+Mm3d/yJ1CriibL12gw+bhjfj8k+OKAG5rdwPNCmV8EajDFzb49o+aq226sjcq3Lp+QULy4lWF8FLrnXNeCY1stwHHyfsp97T2oHETmHjFYtrA==&pass_ticket=ajMLh8iZojtyOF+iDPOlaFSVCxhVAEmo0S8eKp3yHaLTeFhOxO454zvl5MtveEkb&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/c901fd4e-ce01-4f49-bda4-1fcc1159bf00/c901fd4e-ce01-4f49-bda4-1fcc1159bf00/)

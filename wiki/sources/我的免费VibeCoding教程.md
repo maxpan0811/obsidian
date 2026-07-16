@@ -135,3 +135,9 @@ Original程序员鱼皮 程序员鱼皮
 别犹豫，现在就 打开教程，10 分钟后你就能做出第一个作品，跟着鱼皮一起开启 Vibe Coding 之旅吧！🛫
 
 👇
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzI1NDczNTAwMA==&mid=2247580489&idx=1&sn=ea128f6a8c5d79e641133615f85f7ab8&chksm=e89cbcb48824bfeeb7be5ee94a849921a961410bb317cab42e151dff6a7c8b2831882502f3a2&mpshare=1&scene=24&srcid=0310Dxe3SUl2km9mAEnZTBYx&sharer_shareinfo=1669685f34234b6a45e624718dccfa9d&sharer_shareinfo_first=1669685f34234b6a45e624718dccfa9d&clicktime=1773139879&enterid=1773139879&ascene=14&devicetype=iOS26.3.1&version=1800452e&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQAG9nEscL8jXrLVgs8e/2jhLVAQIE97dBBAEAAAAAANN7I9wq5ooAAAAOpnltbLcz9gKNyK89dVj0/vGoZAbuudiXUbM9rsFR9U7eUyaIfqgBM7lvYEnXt8OrIDu9a1LaPIP7w4iBjj2Y9I0ovZDijoYpvWt77/xnvTcJGO2XIMJmGXc4Fs4zoM1ncvs3h+9aGZkw2P4duoCB3zp8Jn4JCxVX3OgGD1e4OSbFy6aauh38poCoJOixNqrnwHS7umgDybRlRyKsOuizndNeaov+D4JkS/+MnV+vst7L4jrNHyTeuR8sIJFvoA==&pass_ticket=98ZFBj1RoDpbQk21ggdwa8Go+k2jwi6OIWV2CLh1ar27T9mvKi4utp3QudpNadoZ&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/d8dedf36-60a8-4ead-b79c-bb01c01b5f19/d8dedf36-60a8-4ead-b79c-bb01c01b5f19/)

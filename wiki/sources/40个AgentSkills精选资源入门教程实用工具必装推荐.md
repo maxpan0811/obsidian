@@ -241,3 +241,9 @@ fd4f1tQfAPm+pXdvnKYvdM1zeGurbULppuNaRqONYls=
 以上就是我整理的 ‍40 多个 Agent Skills​ 精选资源，如果你觉得有用，记得点个﻿收藏。后续我会持续分享更多实用的 A‌I 编程干货，感谢关注，也欢迎在评论﻿区分享你发现的宝藏 Skills~
 
 CSbHtX/eCnivsAmDWOtPqwFLUaHPkJDjFn7sBYBeqB8=
+
+
+---
+
+[🌐 原始链接](https://ai.codefather.cn/library/2026206682509496321)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/f43c264e-1d94-4b0a-99c8-41e42ebf53e5/f43c264e-1d94-4b0a-99c8-41e42ebf53e5/)

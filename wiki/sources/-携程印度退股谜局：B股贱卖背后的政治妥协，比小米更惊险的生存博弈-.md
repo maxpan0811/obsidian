@@ -57,3 +57,9 @@ guid: 7b81654e-8319-4257-8e9b-06e53ea532c0
 对携程而言，放弃B类股或许是痛苦的，但在印度政府"既想要中资资金，又害怕中资控制"的矛盾心态下，这可能是当下最优的生存方案。而这场交易留下的悬念是：当越来越多中企被迫从"战略投资者"退化为"财务投资者"，印度市场的增长故事，还能有多少真金白银的回报？
 
 ![](attachments/082db2977171358e.png)
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?chksm=fda4fa48cad3735eea399c2210b29b0f0fa9c845a42027b5a5ffd7436f36e0402ddfcb798373&exptype=timeline_recommend_friend_publish&ranksessionid=1751699217_3&scene=169&mid=2247484966&sn=ebf614a7176adc6618cb7c5317e01a50&idx=1&__biz=MzU4MzY1ODc1Mw==&sessionid=1751700201&subscene=200&clicktime=1751701235&enterid=1751701235&flutter_pos=39&biz_enter_id=5&jumppath=20020_1751701063860,1104_1751701140668,20020_1751701178478,1104_1751701225377&jumppathdepth=4&ascene=56&devicetype=iOS18.5&version=18003c32&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQx8SaV/Lm+oC6JBlGfppibhLTAQIE97dBBAEAAAAAANMXNU0cYHgAAAAOpnltbLcz9gKNyK89dVj0lXu3/cTGeOGF5vhcZd9rk3RwuZ7UXbDZXfWNhdreLUHtAjuHitKz2j41DRq67abG7CjIUR87L9bhNMGZHu69ZhdwGjH5/ROUesIe+LCfZP2DYacO3u6osgO/LANiLd2nG7tJebshzHgb4fWH8TLN6MUeos+gkq48LRizikua1MQ49Z9vC6H3heATmWladTDmKWX/JKZkn7AS/QBCHjvWWCMOm3AWDBy+8NBqh7w=&pass_ticket=WPiAJy4mMEDclD8cGOhp6uCx4/CWsxjuFJZq55PP4dKi+5wS9MZvVlvVMtFzt9BD&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/7b81654e-8319-4257-8e9b-06e53ea532c0/7b81654e-8319-4257-8e9b-06e53ea532c0/)

@@ -160,3 +160,9 @@ Joseph：2006年，我在罗马大学与Concita Sibilia和Mario Bertolotti的实
 4  [希尔伯特第15问题与代数几何学之起源](http://mp.weixin.qq.com/s?__biz=Mzg2MTUyODU2NA==&mid=2247609098&idx=1&sn=2cf08ad95fca8c21da1c644220d8a9eb&chksm=ce16a391f9612a87935287c434094755290849ad2e0af3fda509e5fba258b843b9fc7a256a79&scene=21#wechat_redirect)
 
 5  [讲师收入不如助教！薪酬倒挂正在摧毁学术新人的尊严](http://mp.weixin.qq.com/s?__biz=Mzg2MTUyODU2NA==&mid=2247609890&idx=1&sn=dfd0711129d79ecbab393ab529733acc&chksm=ce16a6b9f9612faf2a0e6f5a7c378390caa0bdba7ce7d4240d32baf06810a8cf0164ac24f553&scene=21#wechat_redirect)
+
+
+---
+
+[🌐 原始链接](http://mp.weixin.qq.com/s?__biz=Mzg2MTUyODU2NA==&mid=2247611579&idx=1&sn=26474a52b57a67b67bc19687c172bbb8&chksm=ce16bc20f96135363009dbe3370a185a279b5cdebe4fa76009f7cffc896de2d482177e2284f0&mpshare=1&scene=1&srcid=0624gAq5uyYRDG8NrltBpv9s&sharer_shareinfo=de3af0ca2f81adab0ea8ce2ee26ef2bb&sharer_shareinfo_first=1147a0b66e352377be224089c73dffcd#rd)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/abfe9d6d-58d8-42d5-b8d2-23fbc57c341d/abfe9d6d-58d8-42d5-b8d2-23fbc57c341d/)

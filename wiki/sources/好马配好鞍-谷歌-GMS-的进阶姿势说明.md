@@ -92,3 +92,9 @@ guid: dd08069c-9251-4d04-9244-a54d554445e4
 少数派（ <http://sspai.com> ）
 
 [![](attachments/ec655a06413d2071.jpg)](http://sspai.com/topic/best-apps-2015)
+
+
+---
+
+[🌐 原始链接](http://sspai.com/32596)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/dd08069c-9251-4d04-9244-a54d554445e4/dd08069c-9251-4d04-9244-a54d554445e4/)

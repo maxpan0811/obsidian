@@ -150,3 +150,9 @@ https://space.bilibili.com/443605967?spm\_id\_from=333.1387.0.0
 Obsidian 已成为一路花火小伙伴们生活与工作都离不开的好帮手~
 
 希望这篇文章能对新入门的同学，有所帮助！
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?chksm=9b816c80acf6e5964d98089eccd88d0b5e235e8d3da092b43645a419558d19770bd4ccea7e4b&exptype=unsubscribed_card_recommend_article_u2i_mainprocess_coarse_sort_tlfeeds&ranksessionid=1745850635_4&scene=169&mid=2247487148&sn=db193be4e990a75d9d03c8398a383e04&idx=1&__biz=MzAxNTY5MzYzNQ==&sessionid=1745852679&subscene=200&clicktime=1745852944&enterid=1745852944&flutter_pos=54&biz_enter_id=5&jumppath=WAWebViewController_1745852777554,20020_1745852796788,20020_1745852797524,1104_1745852885937&jumppathdepth=4&ascene=56&devicetype=iOS18.4.1&version=18003b24&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQ2YPBIlbzN9G9b3ezGpYwHhLVAQIE97dBBAEAAAAAAA6qE63t9IsAAAAOpnltbLcz9gKNyK89dVj06aapdFDZ5rwPZ1ICPRtsn7ksCsBvwPkft00IchrT5/CesTQtk3JGuDEmEmvNJe2HAUAQNsOyJiJZda+JJlNvPkxwAfkjAHL/BtB4BWMhVlJnCxG/IBgn9NhjT4PKG35BCLik6ZQHEj5xHC2orNVWpi2mdosXQzWmREMW4qaBkN2BeJtAYdsLAnB3JS+vUiHALnKOp2iZIe+xf3bQlc5siFYE5jInirOGFxq+V9KeVg==&pass_ticket=337/+lcKqo3PupIMX91rzAQndrwQAsj8vUzP3P1yj/VGO+KR+Ilnt3iFsA4eOYAX&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/e5360d73-179f-4439-b5d2-e0ac7fa47bba/e5360d73-179f-4439-b5d2-e0ac7fa47bba/)

@@ -155,3 +155,9 @@ Cursor 不是差。有些场景它碾压 Claude Code。
 关注「AI落地手记」
 
 一个人 + AI 管 20 个项目的真实记录
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzYzMjY1OTI0MA==&mid=2247484490&idx=1&sn=b1d213843c15ebb02247087689cc5210&chksm=f1644b7dd6cbdd138c5dc4c6414c51bc39265d5eda3e6cd4f16097bc7d84b1708731d55c7b06&scene=90&xtrack=1&req_id=1776158080028632&sessionid=1776157823&subscene=93&clicktime=1776158251&enterid=1776158251&flutter_pos=5&biz_enter_id=4&ranksessionid=1776158080&jumppath=WAWebViewController_1776158217837,WAWebViewController_1776158218319,20020_1776158237680,1104_1776158238893&jumppathdepth=4&ascene=56&devicetype=iOS26.4.1&version=18004637&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQ74f66lJV1AO5Pt5YFWVJeRLVAQIE97dBBAEAAAAAAPQpCQ5FOokAAAAOpnltbLcz9gKNyK89dVj0aEpS1sAL36r0DsJTBp+zemZfvOndksocPTEtAiNPKsjC13ofKDAzwbCrf/Qxq1LXdutVYqmhw5WfUVqW03BbmXRTWr6XR4O6eCCAem36wVtTDEToec7W5LWtckSy0/G0MeM2iFAChz1gqX3zuk3FD3FwIBi4fSjBdV97WxYi7XEjrj16gFGNQoJyAnxd2qq6N6rmDMcb1JmfKDr/vQt+HQjUHIretVPEN9t/6Esd0Q==&pass_ticket=ZNDwokyoHT+CjZYpyIvctQWyW9qUHkcpu9sgVsg84CHHZNuxX85nz5tyyJ4SUZWI&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/57ddc69e-7cad-4c0e-ab7e-92db8d6ba540/57ddc69e-7cad-4c0e-ab7e-92db8d6ba540/)

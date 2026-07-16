@@ -384,3 +384,9 @@ https://sweeney.wang
 © 2013-2019 [少数派](https://sspai.com/post/52310) | [粤ICP备09128966号-4](http://www.miitbeian.gov.cn/) | CC BY-NC 4.0
 
 App 打开
+
+
+---
+
+[🌐 原始链接](http://sspai.com/post/52310)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/97057e45-8bce-4796-ba2f-32343e849699/97057e45-8bce-4796-ba2f-32343e849699/)

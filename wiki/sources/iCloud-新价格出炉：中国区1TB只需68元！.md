@@ -40,3 +40,9 @@ iCloud 新价格出炉：中国区1TB只需68元！
 
 ## 相关页面
 
+
+
+---
+
+[🌐 原始链接](http://www.feng.com/iPhone/news/2015-09-16/Up-to-new-price-come-China-1-TB-68-_624763.shtml)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/876c88d6-0322-4aa0-815e-8f19b6ee4e10/876c88d6-0322-4aa0-815e-8f19b6ee4e10/)

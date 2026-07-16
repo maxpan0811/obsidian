@@ -296,3 +296,9 @@ AI 能降低每一层转化的摩擦。判断力本身没法外包。
 调研 & 撰写：AI（Claude）、墨染
 
 主导 & 审校：墨染
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzIwMDcwMjYwNg==&mid=2247484276&idx=1&sn=61b807cf94b085957fd1c1521744590a&chksm=9747d153b1b0fbb988c2b36c16676d1ef6084a6dd7de8494b9189aca9969adf48861c8458126&scene=90&xtrack=1&req_id=1780051942775488&sessionid=1780050949&subscene=93&clicktime=1780052115&enterid=1780052115&flutter_pos=13&biz_enter_id=4&ranksessionid=1780051942&jumppath=20020_1780051930484,1104_1780051936857,20020_1780051941862,1104_1780052073599&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=18004935&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQez36lsy1uE61YF2XC6FI1BLTAQIE97dBBAEAAAAAAJZAEqDYGWMAAAAOpnltbLcz9gKNyK89dVj0k6lo7R96cw1TXnlsE2YHKbqMCzySMISGIfbTdJw9aq4WLfIFjA1ahUMnjMBczCDF77pbhhGmyEWsrJIZVAc2rMa+O8xp2WzWUdI0VeuMlqY6SAoUkNZGmKKGq6LVlv22HYq0yOUxSlDeq1KXRdSjYVJZtFE/2EYS8MIJNq2TKRJFp9c0ExDoXHaz3lAgvKrLBzYiaSv3YlS77ZevV4WAnlpZtKTQ82UDqXYP7NA=&pass_ticket=y4Hb6BDtYTK0VoOp9jDdSSXaJCYVOQ18eiLz7PSqgAPdmnVyKARUoV0uxeQrwxih&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/fb3f9e72-5589-4b99-bcd2-11fcd7373215/fb3f9e72-5589-4b99-bcd2-11fcd7373215/)

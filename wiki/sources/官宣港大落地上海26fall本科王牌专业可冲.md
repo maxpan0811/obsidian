@@ -253,3 +253,9 @@ A-Level：2A\*1A
 **立即扫码，咨询香港本科申请哦~**
 
 多国联申本轮申请季文蓝已经收获多枚全球各地名校的重量级offer啦！
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MjM5MDExNTI4MA==&mid=2652441315&idx=2&sn=2a3e0804b0fa981ca7dfe859060dccf3&chksm=bcd5da64a50227d6ec3044fc8114c2e23390a6fcbacb93a4d552d9b973e0c56e6be0dc7d1500&mpshare=1&scene=1&srcid=1107sYbWvPKu2hqVBAX43okk&sharer_shareinfo=6799a1286cc64a7aaed7e9a9f547adad&sharer_shareinfo_first=45523e1c03a6cdf65dcc9a2f67def95e&from=groupmessage&isappinstalled=0&clicktime=1762569764&enterid=1762569764&ascene=1&devicetype=iOS26.1&version=18004033&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQ6PbQScgypQ7lKyrH5C1VixLmAQIE97dBBAEAAAAAADVSAE610N0AAAAOpnltbLcz9gKNyK89dVj0RKX+B1CxP0lj9W41S6jh+4+ZdJfyWehvU4+/1oBf3Lrkm0CbBvKC/KqEADJGLbZ/IgS6FBU77sCEYXnC/JwNaFv5H+Q58sdHgw+lzupYcGqFAP9M2TAmv9yueSqGR/cLEkbTISPh9lL8yWenfQb5Tt/8joTkCUiOckIExiiUq4wIAjXQj/iTjdhKXMWQd9otQzoWS3MyeqLk4d8r9zl2raVg42gQt6CpW9QM7t22/dBtY6ZcSSOd84KhNCfh/aTf&pass_ticket=RujqiibnskumhugPmeH8XFGy8iCoNcRcv26jzPgtNjkR/DEKUzbe32kG3jhM6JQ5&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/f5dfdb5b-5160-4a0b-94ef-b0910fbd3d17/f5dfdb5b-5160-4a0b-94ef-b0910fbd3d17/)

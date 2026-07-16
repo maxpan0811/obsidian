@@ -382,3 +382,9 @@ Skills的协同工作技能
 总结：OpenClaw 的技能调用不是“民主投票”，而是基于优先级规则的智能调度。您可以通过显式指定技能名来精确控制，系统也具备在复杂任务中协调多技能协同工作的能力。理解这套机制，可以帮助您更高效地组织和管理您的技能生态。
 
 ---
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzU4NDUyNTUwMQ==&mid=2247485344&idx=1&sn=14be057f819bcb3a41553127dd9c5852&chksm=fc5837ce693190fbb2ee105ca5ea2b3b1ccaea6c32923922af9a6d8c05dd8579071093fd23c8&scene=126&sessionid=0&clicktime=1773237758&enterid=1773237758&ascene=3&devicetype=iOS26.3.1&version=1800452f&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQnxruoOXjxIImLGDU1vuzhRLVAQIE97dBBAEAAAAAAJJFE9NgmB4AAAAOpnltbLcz9gKNyK89dVj0m4As6OzM0B8iQu3UfcR8LS6gSVnZhKKGfOC4/n0KZeF9Nat4LjXwL5ICI8fpP+VodO9vJhjhueAQ68S4xJY+lLSh5r5BKjq5BGDlur/9+95c49YJRCxP9o8n3VckdV3t1WoGGn558/dmGHh5s4vPuGjflwBzAzCZZBmLll8AwDWd9UgpW2pWYlBT3AhJGEkfvpSWLmBVqmF3iYrMYiT3XXjdvptpXTN0fUL7UyaFMQ==&pass_ticket=2xtx8mYo8Af4PGHuhWJL4xRy5s88qyKnPyfX8q8C44g9vA12znnqC4XBTtrpFCVO&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/35b665f1-0f3a-4ede-92a0-96119da1492a/35b665f1-0f3a-4ede-92a0-96119da1492a/)

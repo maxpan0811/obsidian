@@ -84,3 +84,9 @@ Claude上下文窗口不大，处理这种只有两页的PDF是OK。如果碰上
 所以，这五个就是我每天都在使用的MCP。你发现没有，它们都围绕信息展开——让模型获取更多信息，让模型处理信息的能力提升。有了这些工具，模型就不再是缸中之脑。
 
 OK，以上就是本期内容。想了解AI，想成为超级个体，想找到志同道合的人，就来我们newtype社群。那咱们下期见！
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzkyNzU0MzQwOQ==&mid=2247484320&idx=1&sn=f573baef0ecfbed1eb0db21a0ee108aa&chksm=c3182654e6623e5caa5343c8fc303ef2ec6eaa0067d1c82db01bef6d8a9f8ee92c3b229e642c&scene=90&xtrack=1&sessionid=1746951169&subscene=93&clicktime=1746951616&enterid=1746951616&flutter_pos=8&biz_enter_id=4&ranksessionid=1746951472&jumppath=20020_1746951425706,1104_1746951453168,20020_1746951472270,1104_1746951608041&jumppathdepth=4&ascene=56&devicetype=iOS18.4.1&version=18003b26&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQE1Cv1EoAbPLvqPcSFZ/LPhLVAQIE97dBBAEAAAAAAFo2NYqLRxgAAAAOpnltbLcz9gKNyK89dVj01x3bJDaG85OIcT/LY8+1iQ7+kCMJRYirnk3Jg/2QefXvwyGd/ljUY0grEDpwWi/K1JHiqo2pfu5nAcjxiQw2oWwv9I/agV0cxkH8GhJe/TOjN7nXVXR7HeW0zVznMnBm6oItZxoHu2XYttz+5L25A/wRt6v9F4RxcS8grOHnZ9tOzTFtxOCfVWbTmeOdp/CcJwZ3B8g8xiWE3rZhqYiXzTseoNlUwZgPeHgLtC2LKA==&pass_ticket=FXPM5oVjRVtL3wyT6oVPlIFuCyPINQj7Y/HLs6f/r5u9K1CqvF8ucTBCrdewiyl/&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/ba6c9a0a-d59d-4062-a8ae-08e124fb6acb/ba6c9a0a-d59d-4062-a8ae-08e124fb6acb/)

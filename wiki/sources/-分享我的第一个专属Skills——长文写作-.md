@@ -222,3 +222,9 @@ https://ima.qq.com/skill?shareId=9c0f6bdba1154a96b09fce71373855e6&from=share
 ![](attachments/bcc278d207bd542b.png)
 
 欢迎加入AI知识库，共同学习和交流AI和Skills相关的技术！
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?chksm=ffd7dc81c8a0559715b94c6cc2f0c472599217ecb452cff62b63268dae980e304f9d1a908031&exptype=unsubscribed_card_recommend_article_u2i_mainprocess_coarse_sort_tlfeeds&ranksessionid=1782032740_1&req_id=1782031330553375&scene=169&mid=2247483777&sn=488afd418aeb5bd627d37db7379c0306&idx=1&__biz=MzYyMjM5ODU3NQ==&sessionid=1782032739&subscene=200&clicktime=1782033564&enterid=1782033564&flutter_pos=10&biz_enter_id=5&jumppath=20020_1782033499250,1104_1782033528695,20020_1782033530553,1104_1782033561932&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=18004b28&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQgeRPtzhmLsHlhYZv0WukIRLTAQIE97dBBAEAAAAAAG4xBENGGmUAAAAOpnltbLcz9gKNyK89dVj0VvgHikp+fQvWX7b+d70EZsFnNN9Kw5i92GpJfWx5q6WCW8pAOJRE5ZjiB/KE/ojQAnya7GHSVB1MvFWVEOixMlI8dux+08SHpdvvw978HS01hZUiUjH2WUI7/GMYW6JQxSP3t2Sk7AVsbd+w5IY4bypzw5MnzbHPH3MK0iIr3ySZTbevPGjFsUSivdbPkWdBFDVUGmJXh95W6Xa/UWSNrfOdVmq51tccO03F3L8=&pass_ticket=K8aCyzaFXaH1A9oUx8hGlCRrBwDWninj01xVWUbG7ZsrKtIsjFk2n0rF4uJDK/Fw&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/5c8178cf-a07d-44a7-bc37-c132aad0a1d2/5c8178cf-a07d-44a7-bc37-c132aad0a1d2/)

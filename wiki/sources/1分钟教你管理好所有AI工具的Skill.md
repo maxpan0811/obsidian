@@ -33,3 +33,9 @@ guid: 59c14515-b678-4d48-a378-17ab5cc49fb1
 #Codex#ClaudeCode#AI工具#AI工作流#Skills#Agent#AI编程#效率工具
 
 Close
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzYzNDg3NDg2OQ==&mid=2247484719&idx=1&sn=dffde1022fa006a55bff5841770c917b&chksm=f1049b55a266a53b04472348bf203d08888f0a4ff9552b620c1fe53062fc6c1afccbe7cfb3a9&scene=90&xtrack=1&req_id=1781248420557644&sessionid=1781248873&subscene=93&clicktime=1781248961&enterid=1781248961&flutter_pos=1&biz_enter_id=4&ranksessionid=1781248420&jumppath=20020_1781248892653,1104_1781248911346,20020_1781248914609,1104_1781248954222&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=18004a2b&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQJ12SNea2RzDd3gIs1NxNdhLTAQIE97dBBAEAAAAAABJ4NR0GEeMAAAAOpnltbLcz9gKNyK89dVj0y4yNFTJVuL/5+bAsFiRTQaLM60sDEx3toSKL9GwxdePn0e5QVz6yzo2s06dXLxHPp1zuKFkVzXoOG+RXw9UEVC9H4UJVeosT92TiO1QfmrVd0FSrwJs2camqxOgcyF5fBmcdAlHP6y5dRncAXLgd8tJaBUBjuchEQf9zGcqLhN65ixmYeFUrZs404JfP6gKrND5UuSc8hKHzr32jF0ArkNPhkDJIEzyfSNBqWPM=&pass_ticket=aVWeqr3iRnTT2y9Wc+pugjlUhHFFrk0KbEzHVp6QImAMj6kybM9ODaWyquYBq4Yq&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/59c14515-b678-4d48-a378-17ab5cc49fb1/59c14515-b678-4d48-a378-17ab5cc49fb1/)

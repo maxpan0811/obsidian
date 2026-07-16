@@ -204,3 +204,9 @@ deepseek开源的目的到底是哪种呢？
 加油，deepseek！加油，中国人！
 
 ****-----全文到此为止。如果您想看到更多的原创文章，请点击下面的公众号名片，关注即可。****
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s/BlMgfVpbaIqeaSoH6EECfw)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/2f34c7c8-f4ea-43e7-b357-a50c4e0773f8/2f34c7c8-f4ea-43e7-b357-a50c4e0773f8/)

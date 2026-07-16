@@ -96,3 +96,9 @@ iSlide Mac 版，希望把这件事变得更简单一点。
 如果只能保留一个 PPT 功能，你最舍不得删掉哪个？欢迎在评论区说出你的选择和理由。我们将随机抽取 3 位用户送出 iSlide 年会员福利。
 
 Close
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzIxMjQxMTUwMQ==&mid=2247587341&idx=1&sn=71fc8f8f0df1b867b014575a029a47d4&chksm=9745a30fa0322a19d9943589300752d42c4d75e521bb7e46cda5a14f07817011193f7bc529d9&exptype=servicebox_1782171404762169&is_red_dot=1&subscene=0&scene=288&clicktime=1782171829&enterid=1782171829&flutter_pos=0&biz_enter_id=5&ascene=56&devicetype=iOS26.5&version=18004b29&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQZLvNo4V49FngGuV38BYGWBLTAQIE97dBBAEAAAAAAKOQDmitN5EAAAAOpnltbLcz9gKNyK89dVj0EGwLN7hqNfnUhLkRU+/mFJVJMCU4L8CBgxvNUuswBQUecaD4nUT7cHXCaNUX3h2vgE6oGCnE3RYDFQyruXfMFe6auYY9dvZRGfcNiG0TA71hrEfN8kMAROiSNDEMl/r6qfW6R8wh5Zhf3KbFdXXoSztOd5M/1Z3AV+6zjwhShplPg08ilSKzZ5oQ9GioXaqnmFlf/IUpLrO3EOqma3XKv5BQoqnHMj2Ssmg04DI=&pass_ticket=Us3ZeoocyKhZLCzHKzzM/Og4e5aaZt6TDTT5q7LUbkYT7tKafQQJDyZ/Eg+zSJwI&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/685b3729-b85d-4bae-a503-c70bcbdd501d/685b3729-b85d-4bae-a503-c70bcbdd501d/)

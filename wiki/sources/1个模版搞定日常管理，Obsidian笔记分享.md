@@ -76,3 +76,9 @@ Original减数君被减数
 ![](attachments/da1cb7f61d22ae2a.gif)
 
 Read more
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzIyMzA4MDQwOA==&mid=2247483772&idx=1&sn=c7f1c78dc54a9596a5d3f7826702613f&chksm=e822fbcbdf5572dd8f561a90308dae849d714b6536d17b358ee23f8469745c1ea4db5876d21f&cur_album_id=3425301601517633539&scene=1&ascene=0&devicetype=iOS26.5&version=18004a2a&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQMKcK8MV0+45W8PY85PPMIhLTAQIE97dBBAEAAAAAAARKNTDbSmIAAAAOpnltbLcz9gKNyK89dVj0eoX8GxEKbOyUfVWu9UhvMlp4neZ9S3hn49pWpz3jpHOR1STkLQVQLXlLXpDeRdWpqopsikl8jEnmd/vxF9BPEeBFfiTS1aF16BM2KDKhAgysTN7s0eSizOD8s/zjbsF2KUd+lBK7pXqYc9n7+WRmaBIFw2aaj39RlMPUl+fEvdsMRH+P4TZtIcC2gzk8T0SctwPEwsiNWZvlwDjkxuP1lUpmVOQKbxBwp0Fif3g=&pass_ticket=ynZcnGVqSLM/PSb4Q2AsIL2jI1FFcZ8mOf/oZ5hHvvhWB7TP8U0+hYdmkSZqQRDW&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/610ef713-95f1-4e03-8192-86e9a7a7a5a6/610ef713-95f1-4e03-8192-86e9a7a7a5a6/)

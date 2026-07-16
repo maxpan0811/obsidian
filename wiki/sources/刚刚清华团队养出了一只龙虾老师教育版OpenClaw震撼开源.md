@@ -253,3 +253,9 @@ OpenClaw有ClawHub，OpenMAIC也在构建自己的课程生态——生成好的
 参考资料：[清华这些AI课免费开放！](https://mp.weixin.qq.com/s?__biz=MzA4OTIyMzgxMw==&mid=2659348178&idx=1&sn=cba356f4bed176154e01d6beb79bdb18&scene=21#wechat_redirect)
 
 https://open.maic.chat/https://github.com/THU-MAIC/OpenMAIC
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652683412&idx=1&sn=648a31a63416cb5459fa2739946b11e1&chksm=f042c108f9af24fa73d9bd8f996208f5030bb27ba0cc379f734f448fc917f02d843b87b2db6d&mpshare=1&scene=1&srcid=03168azxgDXW8ZwO46sT9ckm&sharer_shareinfo=796fa029b030e2883ee56e3eb2ef01dd&sharer_shareinfo_first=1dfb052e5847daaefa680e788ee199b9&from=groupmessage&isappinstalled=0&clicktime=1773637704&enterid=1773637704&ascene=1&devicetype=iOS26.3.1&version=18004531&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQ21f4VLaa1EJnCEHfD3hpnhLpAQIE97dBBAEAAAAAAFYhNfzrcWAAAAAOpnltbLcz9gKNyK89dVj0F0outJvLexbLQxvHVxDlIg8tLPq3Q0eFfs1YkYLBvp4MoatKBcGZmeeuRDgKMu4dsaOlJnzTC4ZOUiP/LbZN6Y+cLrvJvds9MItEWPZ8we5tn7PnR9JECVvegev8jU37DW5/cLBN0tbZsZw7UULO+ViSHLZ0R8h2VjMiN/bqiHRFKqPwg3HdpzMacrT4oXid0RVWSxnd9LV0dCI+Dnd7TW1JxnINkvLFZHldSk6nQ1LF69VoKCMCq8bOLF89kt0OxcXm&pass_ticket=TAIpZA44HQgC89tgeHKSBy2LhNdPRL41Gva7fDm1fRhe7TCLnP0y/tBX3I7k1Iki&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/dd7ea734-2456-433f-9dd9-bb039e0bb6bf/dd7ea734-2456-433f-9dd9-bb039e0bb6bf/)

@@ -49,3 +49,9 @@ guid: 7b9b4499-deee-4182-9f6a-7cdfad764e49
 每个技巧单独用都能明显提升效率，组合起来更是质的飞跃。建议收藏备用。
 
 Close
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=Mzk0NTIxOTg1Ng==&mid=2247484056&idx=1&sn=3749726e965471befbd08774bd5f6f61&chksm=c319f2e7f46e7bf1a32a5ccc61a7fc66d4791d673f5053713d6fe02b8ec50100949d63b73124&from_masonry=1&sessionid=0&subscene=288&scene=132&ascene=0&devicetype=iOS26.5&version=18004a2a&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQtAlaCfBwlRId6UA7cRtxWhLTAQIE97dBBAEAAAAAAGy4BBB6o4IAAAAOpnltbLcz9gKNyK89dVj0WWOy+4G8va1j4VsSawALr9ynCtLrupIcE93d1Y7dN4hkjrJqmai6j+SueE2SW4n99Zi7MRZK1+QXb9gEMCix3oM9YW/xAFQGlrbldO3ycsdBOfGBsjVXEcRyLASoARa4y6BOf6TqdQiscIN7WqxV4lUR+ihL3Ctn2dpUqWTXJ2YexRnu736zrdMU+Y4eh3gbA+swUdbCMjILe6vJgRZZSI3sOCXTLT3ol66cJlk=&pass_ticket=tpu6hhaEqX8CC8wVdlzr26YcmLp3tdqUIsj415ZsPd8t1i5cGKnsX6D02s5JVH2e&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/7b9b4499-deee-4182-9f6a-7cdfad764e49/7b9b4499-deee-4182-9f6a-7cdfad764e49/)

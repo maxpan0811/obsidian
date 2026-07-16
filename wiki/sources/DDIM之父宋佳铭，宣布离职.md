@@ -118,3 +118,8 @@ Luma的转型轨迹，几乎就是AI生成赛道过去三年的缩影。
 参考链接：
 
 https://www.linkedin.com/in/jiamings/
+
+
+---
+
+[📎 在印象笔记中打开](evernote:///view/207087/s1/785a561f-062c-4fc7-b6bb-6f6880e846d3/785a561f-062c-4fc7-b6bb-6f6880e846d3/)

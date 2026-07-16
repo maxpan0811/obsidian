@@ -165,3 +165,9 @@ DEVONthink 的收费方式向来是大版本买断制，用户一次购买，往
 FoxTrot Search Pro、Keyboard Maestro两款神器也都是从Minja老师处得知，确实物超所值，效果拔群！
 
 个人观点，仅供参考
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?chksm=fd414bc3ca36c2d5feef1db203bcd241ab2654453305af6c2e2f687e89d6c0d2f9b4a1a51426&exptype=unsubscribed_card_recommend_item_heat_tlfeeds&ranksessionid=1745847913_2&scene=169&mid=2454972202&sn=9f699cb43e39b50826636b38da2b3d36&haid=3962397359803351042&idx=1&__biz=MzI2OTA2NTYwNg==&sessionid=1745847822&subscene=200&clicktime=1745848203&enterid=1745848203&flutter_pos=30&biz_enter_id=5&jumppath=20020_1745848173444,1104_1745848185094,20020_1745848193053,1104_1745848196540&jumppathdepth=4&ascene=56&devicetype=iOS18.4.1&version=18003b24&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQ6AvwTRTUJzuBm0c+q0IndRLVAQIE97dBBAEAAAAAAIzDMTnEv5wAAAAOpnltbLcz9gKNyK89dVj046qFlwgq8A+le5EAEY0MYD0CUmZuB6sfZrMTuhrDnJMLY+pWyfHUBoLeX9U4mHE+H79vOmDLhJNROg6Xqtm6ixiOTk8UIYXqExKYD3423HhmKf4iVuUaJqmp3wJZg+1WwleOvNNnF8PcN43/yI45gbhwJ2WLFHNxUNwQ/sQw+Hzp473jSDYRmATt7/qwrvBPd/p/0huvR2LyykpVsSPVasFbZrhyjSq0vGhHW743hA==&pass_ticket=jfxpMhy2AaiBaVGNbI6nozy1sNx6cXEYU6mqsbOoK+WmuPhdbEIJMTSYe9I/ulj2&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/37e8d928-2a76-485d-9e35-9a0d64c9bfdb/37e8d928-2a76-485d-9e35-9a0d64c9bfdb/)

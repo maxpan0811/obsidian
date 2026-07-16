@@ -208,3 +208,9 @@ https://mp.weixin.qq.com/s/LsMOIgQinPZBnsga0imcvA
 *Debunking DeepSeek Delusions* 作者：Stability AI 前研究主管 Tanishq Mathew Abraham
 
 https://www.tanishq.ai/blog/posts/deepseek-delusions.html
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzkzNjc1OTM2NA==&mid=2247485610&idx=1&sn=78efeb86dcf49f1bbf5977ec2aa396c3&chksm=c3d0ba5ddb7a8a6fdebc39f7bc04388194501576f1c8885e1b5ad8bf54496056afeb1071df5c&mpshare=1&scene=1&srcid=0207uerO01ULgH2RvW4Mw893&sharer_shareinfo=a321a11406ba276af025d74a721b4a8a&sharer_shareinfo_first=487071d938baa96bffd15e05927d46da&from=groupmessage&isappinstalled=0&clicktime=1738884471&enterid=1738884471&ascene=1&devicetype=iOS18.3&version=1800382d&nettype=WIFI&abtest_cookie=AAACAA==&lang=zh_CN&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQrF4W51eVG4cheN1S3vqhThLpAQIE97dBBAEAAAAAALxyINVh9N8AAAAOpnltbLcz9gKNyK89dVj0wEXw/mEpQ7VGQICujetSF+TqmGw3/RIXld2FFAbjjiXHyXbCDwPDQbU/TCntejr/ExLy8ph6R6gGSpeLg1RgLYkWpdiktaKHsKKYaqtKSZCgAlzJC3dq7lbCpan4HEU+yNKFj4tkjBPXI705EuTLxfOkPhshFZ2R1/8LXzegt8ueXBsn1HkjIRFk32hTik9owgvMPqNIli2S07SpoymWiB4GBZGLH5f8EGmQaBQTD4E3qpuy97kb181qNg9TFvfpdjVB&pass_ticket=gn3GGWy/04k18gpptUtyiIfH4mDTp1X5u6M1ISvn/ndLJ2AXvHkkdZhAfp+VbD9r&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/8ff48d28-1a8e-4871-a6e9-dda9832f3b11/8ff48d28-1a8e-4871-a6e9-dda9832f3b11/)

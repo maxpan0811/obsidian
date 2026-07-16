@@ -103,3 +103,9 @@ ima+DeepSeek最酷的是什么？
 ![](attachments/0cda7eb557bab042.gif)
 
 我是一臻，致力于发现和分享有趣有用有态度的AI内容。如果想第一时间收到推送，欢迎关注公众号，**设为星标**⭐。
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=Mzk0Mjc2MjU0OQ==&mid=2247484226&idx=1&sn=a5f1cca8ffdcf1d36043d8afb534ffd6&chksm=c2ff67291cf1e0491129e1caad38c48c326dc2f7a7a9a185234e1369c5443aa1ddf07e1118bb&scene=90&xtrack=1&sessionid=1739614480&subscene=272&clicktime=1739614747&enterid=1739614747&flutter_pos=13&biz_enter_id=4&ranksessionid=1739614608&ascene=56&devicetype=iOS18.3.1&version=18003830&nettype=3G+&abtest_cookie=AAACAA==&lang=zh_CN&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQCM+OYTykl7SVEZd3QCgrthLDAQIE97dBBAEAAAAAAPqFLAPHLNoAAAAOpnltbLcz9gKNyK89dVj0GRcfmU3uYs9NDYNZuFi2AMXAIq4/68RyvTDqsgcpih6EfautMjMFaYUPM6sSd3TigTrloawSQM0qCCtLiwJV9TqgyGfDfXfVYGlS1UVOmi4m3eU9XIgBKMzSTNRMKrNrBFBoV1wcGVU2pdvbkCDouczHU31W7gX3ThlsEPYdqeHfQuz53NcS1dCCzq4ReYiANN5w3QucJ6qzJknupQ==&pass_ticket=p12X2xRmn5/L/f2TlhT8RiiYj6PmUk4wPVfV7oHHvtg3mMk6+T8MCcegDlZHHmUl&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/67ca7b5f-9756-4a1b-afa1-d0d5a2a93895/67ca7b5f-9756-4a1b-afa1-d0d5a2a93895/)

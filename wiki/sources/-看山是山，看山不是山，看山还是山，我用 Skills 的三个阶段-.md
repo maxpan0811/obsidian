@@ -69,3 +69,9 @@ Original字节笔记本字节笔记本
 [今天最后一天！Codex 重置卡你还没拿吗？](https://mp.weixin.qq.com/s?__biz=MzIzMzQyMzUzNw==&mid=2247518381&idx=1&sn=e03b36de6831583686aff999bf69a3ca&scene=21#wechat_redirect)
 
 [Claude Code 多窗口并行人都切麻了？ 一个看板, 掌控全局！](https://mp.weixin.qq.com/s?__biz=MzIzMzQyMzUzNw==&mid=2247518334&idx=1&sn=f6ee965bcb2baec310819ce7dc8165d4&scene=21#wechat_redirect)
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzIzMzQyMzUzNw==&mid=2247518394&idx=1&sn=a096ec4304557cdb2674aecc5261f5c8&chksm=e9e33fa2d391460fa41f3efff8f87cca1e862602740b6ec869e33dd10356ebd6c7103632a616&scene=90&xtrack=1&req_id=1782304563947128&sessionid=1782304295&subscene=93&clicktime=1782305042&enterid=1782305042&flutter_pos=4&biz_enter_id=4&ranksessionid=1782304563&jumppath=20020_1782304563171,1104_1782304736658,20020_1782304752025,1104_1782304851246&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=18004b2b&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQJuuoHt3m4I/6v4W4Qy+K7RLTAQIE97dBBAEAAAAAACEiOsmFILAAAAAOpnltbLcz9gKNyK89dVj0QRdAFi5wir9Yr0S+OKFbcnl9yrVKLXY917h08ZYWUkuJt3AAFq1+81GntZcvcVBHFQXqeykwkl0gmsxxQHUWidHsQU92dZaH7NqUDp36FJgW8AWrzs0PvZs9npZKharnshIRG7FmRY+bx8qIGctXk6myifKPnylsTOtBhFBbDFYaKGNo7ayPM4wrKvlXA/Igac8PM8VRoFfcsjkehuLN3aKQL64yhGvzLCupsDI=&pass_ticket=jGcwfPtDSJrkvPsXD/EIdGGt4Z8L8qA8rML9PgiB7Bgad0RmHcbd0Kbh/iGh7qM9&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/c4e8adc1-8928-4eb2-8ae2-62eeb7b1cde4/c4e8adc1-8928-4eb2-8ae2-62eeb7b1cde4/)

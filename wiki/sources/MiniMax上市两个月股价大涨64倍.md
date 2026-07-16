@@ -58,3 +58,9 @@ MiniMax的AI原生产品收入由2024年的2180万美元，同比增长143.4%至
 ![](attachments/1c4ea995f9923711.gif)
 
 Read more
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MjM5NTE0ODc2Nw==&mid=2650938843&idx=1&sn=213463b53c85820cd24610a48d947748&chksm=bcee42d2213e7ec1d47588c06fd8745cde901a08841f50ce04fce5e95296f599151d77c8e024&scene=90&xtrack=1&req_id=1773137846828394&sessionid=1773137868&subscene=93&clicktime=1773137898&enterid=1773137898&flutter_pos=5&biz_enter_id=4&ranksessionid=1773137846&jumppath=1001_1773137849678,1102_1773137850741,1001_1773137867883,1104_1773137869430&jumppathdepth=4&ascene=56&devicetype=iOS26.3.1&version=1800452e&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQRXjhphgFupoJxIjQV8cl1xLOAQIE97dBBAEAAAAAAAAJKyqLkb8AAAAOpnltbLcz9gKNyK89dVj0U6FefWvVl1Vu8K+h1clCqQTSOhbr/WuIkH5gg7lH/dvnezhBHQIEqr26iDO4XXO18JIFW3G2m1yYqZbIpa42WukOSfPp5F4SFAVMWy0ZGsxxyQ6BgYIO31NntaPy93MEX8IehwFYboUEB0wizMmk9MZf7hLwztElSt8nflct8bGljELRgJByc0WpMsZ5sIxQ4XBpEKDgFwGMYM6uwlJlJ2utow8+tUIM&pass_ticket=K6t+6U/iy5W+4vVHDPTHJfw/pUZO5m7vUuStGnPVre1e1DTBHQHR1UEnBiIQ+HPn&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/86bd3f5c-6c9f-4fd7-9825-f2d66a88e9ae/86bd3f5c-6c9f-4fd7-9825-f2d66a88e9ae/)

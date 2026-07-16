@@ -204,3 +204,9 @@ guid: 55718272-9929-4672-8d54-7d2a33328f06
 知识库是人工智能rag(检索增强生成)的领域，如果要做智能很多东西要优化，第一大模型本身足够强，1.5b只能作为简单示例，它还要考虑嵌入模型，重排序模型，向量数据库，文本分割等等，要实际应用还要学好多东西，所以要不然还是不要折腾了，各大自媒体都在教部署本地的，实际上不理想，没有必要了。
 
 教程没有问题，但是效果不理想，有部署好的，比较理想的，大家可以相互交流。
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?chksm=e9e8dda9de9f54bfc087352f0b178cd4700cd15ae505412e5eb077f6c25a84a0f3e138e20dd7&exptype=unsubscribed_card_recommend_article_u2i_mainprocess_coarse_sort_tlfeeds&ranksessionid=1738657625_4&scene=169&mid=2247485375&sn=e8474beb3430d14abcfbde4b07936132&idx=1&__biz=MzI1MjA1NTQxNw==&sessionid=1738654840&subscene=200&clicktime=1738659756&enterid=1738659756&flutter_pos=67&biz_enter_id=5&ascene=56&devicetype=iOS18.3&version=1800382d&nettype=WIFI&abtest_cookie=AAACAA==&lang=zh_CN&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQjf1ZSORvDth82yprA2EmxBLWAQIE97dBBAEAAAAAADJkODFm/K0AAAAOpnltbLcz9gKNyK89dVj0ZPpXxW+Iy3RlKF268GOj79NGqtRNc9UA8awoyJawmevryNRUtNskjAqrNjwVFwJgRi0Q4oW7U5zzCcElXb38bVLlzZGuXJCx/RzOpP8Se7omlyFD9Lh4jSylMRUvhJFSICSnKoi1pfJ2Z+qch5Xde03zU0WSqtx6SuNhocIWTrgESXPTQtzwksbH35S/pTgV9JumvQVTsP5DyFmbTC5PueaPWx/lqZZ3ChiBDcvXJP0=&pass_ticket=EDFXF15Fdb5gkAOwuHOCK4e8Cr6XsZ5DS/ND7xfa3g3rff73wrIJhZKkPrzZ3Gs3&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/55718272-9929-4672-8d54-7d2a33328f06/55718272-9929-4672-8d54-7d2a33328f06/)

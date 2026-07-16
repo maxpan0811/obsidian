@@ -119,3 +119,9 @@ SpaceX 利用了多重机制确保IPO上市后价格稳定：
 说了这么多，回归研究的初心：还要不要投SpaceX？SpaceX有没有价值？答案是：要投，有价值。SpaceX 是人类的未来，一定要参与未来。[诞生全球市值霸主的三大赛道(1900-2026)](https://mp.weixin.qq.com/s?__biz=MzYzNTY0NTkwMA==&mid=2247484087&idx=1&sn=438b5a538fe6e3d079a88520a17f6941&scene=21#wechat_redirect)
 
 投资中概率思维至关重要，如何投是关键，提升盈利的确定性是研究的核心。接下来的文章会详细分析。我们的投资分析有深刻的思考和洞察，过去曾让很多人在投资上实现了可观的财富积累，希望对你也有价值。
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzYzNTY0NTkwMA==&mid=2247484497&idx=1&sn=2d696107b8f2aa16e3b035409eda1daa&chksm=f1b23c57e115eb104c41f8aa50c4a1ccf93c23cfcd3ac907a3ac9eb03b43cbc9f92968f24356&mpshare=1&scene=1&srcid=0625g9HBceGZbGbCf0M8mV4x&sharer_shareinfo=230676b1b428941be7dc9d2224a84873&sharer_shareinfo_first=230676b1b428941be7dc9d2224a84873&from=groupmessage&isappinstalled=0&clicktime=1782358773&enterid=1782358773&ascene=1&devicetype=iOS26.5&version=18004b2b&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQPVWNXKQ00sWMy1Tu6Ll7KxLmAQIE97dBBAEAAAAAAIYdBq89b90AAAAOpnltbLcz9gKNyK89dVj0hXP2ICzDew9f+Tmeej+VZkEKpUbBad8XO8NiUn1UTlidH/zdUKn7yzq0emYqvB7jbzS/5lGFuag7u1FekZWw9U+st9iw4axwdnhZemvTu16SZ6AZBYcVujULyevaLHqgLxl9P8nNt18HrPyX4aZhwkdLwpFZDH/jAkUQ6u3VrMAT/hjGWoFOzw6ypwSu7x0BQ3Dtkx8CG7OtBADF3z7a/j4wuTkBH+Cr2BmjtvKNOFFO4jAnaDFm5P8No6Qq1mL3&pass_ticket=HA3CNXAH2aAZIkdPQA7w+J+CYOavSVUjAN9ENWTtclIL858/JQ2wLuoD3bzeyHIw&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/9a436f42-1837-4232-ace3-f4a67d064f77/9a436f42-1837-4232-ace3-f4a67d064f77/)

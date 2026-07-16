@@ -74,3 +74,9 @@ AI提高效率的逻辑原本很简单：把重复性、规则性的工作交给
 结果就是，现在每个企业都在闹着AI转型，整体统计上社会AI采用率上升，但目前还没有看到企业因为AI应用取得整体效率提升，员工个体越来越抵触AI，在AI产业链里，供电的、建智算机房的、造芯片的挣钱，但是真正给企业客户做AI解决方案的，现在根本看不到盈利模式。[埃森哲暴跌和黄仁勋蛋糕 ｜ 疯狂的AI经济](https://mp.weixin.qq.com/s?__biz=MzI5MzMzODE5MQ==&mid=2247500944&idx=1&sn=7bdaa1777b00940858c77ab722e7a905&scene=21#wechat_redirect)  
   
 AI究竟能多大程度提升人类组织效率，目前的证据显示，我们正处于一个过渡期的效率悖论中。真正的生产力革命，不会只来自更聪明的AI——更多算力和更强大的模型，而是取决于人类能否更智慧地与之共存。
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzI5MzMzODE5MQ==&mid=2247500984&idx=1&sn=860284adcc38d8e46290f8c879f39d97&chksm=eda48402a38751c2ac79543fe1d7605664f736aa1c98874e6e57eb696940bba6fa561ba4a36f&mpshare=1&scene=1&srcid=06210PPGhPhCBRIwafSij7n7&sharer_shareinfo=ccb182fa7e69a611524f6159b0fa6491&sharer_shareinfo_first=24acf288a5d113d84ea78dc19c23c6af&from=groupmessage&isappinstalled=0&clicktime=1782026086&enterid=1782026086&ascene=1&devicetype=iOS26.5&version=18004b28&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQe9XuM+KcoWdXTHdhlZHNTRLmAQIE97dBBAEAAAAAALyRGHQfWFIAAAAOpnltbLcz9gKNyK89dVj0dBR8RqneyKEZNqpnpF4IXCu7sVs3jA0ow3gwwGSaoWl12p11G4Sc/eGR3xI3SCSMRcw8mi+RCgzaSFOrhTmzVC90Sv5KOMXhc02MhXot4c0Jhomd9tLoWL5q+ENE4qfsnwWEbUWUV92fx1WU6E/JmC3u8xtwtNpjgktOz8cDBvReDXh3DR/GVzSDgfXLUlLS0wucu6d4MIDzvJ++cpX3T2Gvwd5daItzRtS95WcgdeEot3Lm1bznBYVFofmUDYb4&pass_ticket=L5zRW+qH0eVDSjMRuqSRhlpwushoFA35yHkpLWe9uxGjxSsW+jqoZDqEzP/ap4go&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/8102b593-5b18-4239-8080-3dc5dfdd8e2b/8102b593-5b18-4239-8080-3dc5dfdd8e2b/)

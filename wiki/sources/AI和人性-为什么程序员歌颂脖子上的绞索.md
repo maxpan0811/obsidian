@@ -102,3 +102,9 @@ OriginalGEORGE陈果陈果George
 对企业管理者而言，这才是AI 组织变革真正的挑战：如何在拥抱AI的同时，保留组织里承认恐惧、互相拉一把的空间，而不是让每个人都只能歌颂绞索。
 
 ![](attachments/cf638e2663984534.jpg)
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzI5MzMzODE5MQ==&mid=2247500317&idx=1&sn=a42c6543b93a46deb4e85d747ae4b051&chksm=eddac3ae0b30eff40bebdb2024735f8726b64182b288b5d45349c4391997752149d7aabad342&mpshare=1&scene=1&srcid=0328vMVDTjk3xzoIbmE3ZJlF&sharer_shareinfo=69e06c0fa0c5873e9ac79e6170b85a21&sharer_shareinfo_first=69e06c0fa0c5873e9ac79e6170b85a21&from=groupmessage&isappinstalled=0&clicktime=1774667623&enterid=1774667623&ascene=1&devicetype=iOS26.4&version=18004627&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQ1zTAtqDW5/dqGBdcqFAnRBLmAQIE97dBBAEAAAAAAB4QGfTF1xMAAAAOpnltbLcz9gKNyK89dVj08qVfyV1JxQOs69tgleb9sgu9uTNfjow6TzaJDq19RdTMJj3NxtLoyxjGLlNfwFzntc+FBNvX0OIkYj9ET0wWwjq5tEYI0gHXpZK4INUT5zu8n4CJlNwPjU/ifRHBlwWjfSEwOCJVNrvnWtYbrLOMgnFVz8/kuSFHZgmu7htMQvdlk/7XBuNAF7hvfpkbV9QfAmGkjmmEENRiLTQGN419yoxFabORip1WD5pl0Bw3iTRiN8zG+DHijqGCFS/J9qx2&pass_ticket=nMji5V3LNdQagyvSDUBiEAJIx2PbxXfK8j9UGIQfOni8nlKCKs++Am5acWrz5cbX&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/e3269b2b-519e-4f31-b961-17ebddf9f390/e3269b2b-519e-4f31-b961-17ebddf9f390/)

@@ -223,3 +223,9 @@ GitHub地址：
 
 *https://github.com/virgiliojr94/book-to-skill*
 
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?chksm=fc794137cb0ec821c431c905c4103b0cb05a96cfd6a806ecd4a65a426bb121f8075b1f5b7c85&exptype=unsubscribed_card_recommend_article_u2i_mainprocess_coarse_sort_tlfeeds&ranksessionid=1782029952_1&req_id=1782029952718987&scene=169&mid=2247543961&sn=e2238985b9346c2b8529f2f292259431&idx=1&__biz=MzU2MTI4MjI0MQ==&sessionid=1782029952&subscene=200&clicktime=1782031824&enterid=1782031824&flutter_pos=12&biz_enter_id=5&jumppath=WAWebViewController_1782031796096,WAWebViewController_1782031796625,20020_1782031812007,1104_1782031821120&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=18004b28&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQ/DMbh11HSxirw3gxj3EcuRLTAQIE97dBBAEAAAAAAIdeC2F7ppEAAAAOpnltbLcz9gKNyK89dVj0taESgcs9A3HYgq6I4/l75vUDB60ef50E4VyTopnejS/Knh+E9G/+36c1ukUNJ9ENfAD/DG5W3KslSlBX9yuvu9EBngG1VjxlylcZ6bgBe+jOoQ/n0Chj1RcepeQF9C7i3lvZmxdG5QoeZQMoQosjjhLWiYUMEVsRIOKLfLZpYgs3BjJiC6v+HgJD/cUDeNoQmWQVb2QmB6zHrewHWkcLolNO3sT3egSjbGRDIeM=&pass_ticket=JHKT4hHUkCWFYe7EZExkEUc3xmW3umQ6+VuG6glKB/npRp+XWmEld61pAPLgGhBY&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/4681540d-d916-4c10-927e-4fcb41cc082b/4681540d-d916-4c10-927e-4fcb41cc082b/)

@@ -404,3 +404,8 @@ Obsidian 是你的写作台，Trove 是你的素材库，再加上DeepSeek做你
 ![](attachments/d807c377b30da084.png)
 
 感谢你看到这里。
+
+
+---
+
+[📎 在印象笔记中打开](evernote:///view/207087/s1/db5cfe2d-9379-403c-a8a2-24186f2c71e0/db5cfe2d-9379-403c-a8a2-24186f2c71e0/)

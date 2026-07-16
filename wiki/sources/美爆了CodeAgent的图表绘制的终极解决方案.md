@@ -113,3 +113,8 @@ XY Chart 柱状图、折线图、组合图
 ![](attachments/2aa6aa7cffc11644.png)
 
 更多图表的展示：ttps://agents.craft.do/mermaidSkills下载：https://link.bytenote.net/note
+
+
+---
+
+[📎 在印象笔记中打开](evernote:///view/207087/s1/9e35dfba-ecba-4f96-9710-7a232a691006/9e35dfba-ecba-4f96-9710-7a232a691006/)

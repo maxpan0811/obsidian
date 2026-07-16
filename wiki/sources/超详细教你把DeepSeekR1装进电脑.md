@@ -46,3 +46,9 @@ guid: ba555b02-95d0-48df-b0bc-5865161950ff
 #deepseek #DeepSeek - R1 #AI黑科技 #玩转人工智能 #学生党必备 #效率神器
 
 关闭
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?ranksessionid=1738144852_1&chksm=c2dd839bf5aa0a8d8f9ca1702e91a28ee40fa5044c07085b5120c124e7613f01d359981dd158&exptype=masonry_feed_brief_content_elite_for_feeds_u2i&scene=169&mid=2247486685&subscene=200&sn=a1b48991d3b77f4384f1ca829707035a&idx=1&__biz=Mzk0MDc1OTU5Mw==&sessionid=1738143702&clicktime=1738144965&enterid=1738144965&flutter_pos=30&biz_enter_id=5&ascene=56&devicetype=iOS18.2.1&version=1800382d&nettype=3G+&abtest_cookie=AAACAA==&lang=zh_CN&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQz7Bna/9Wg+7tfV+EmcosmhLYAQIE97dBBAEAAAAAAKABL0pQ2NwAAAAOpnltbLcz9gKNyK89dVj01YLLDRit5UYv61TEkiDO/o3ctQlij1IYBGCzAgrvWUIQ/AR6lATbihyf5wOx2rgQzWj2ykKqnKK9XdP4gzZNEpWjAjaXN5y6owTupdHYWdrtXruCZbLWJlWp5l+Q1thBezjVnv4z/jJLqhuzhe/ythekbvChVjeBua6JHGhl5gSvmQVgRxp4k/TSfR+m2sP5GkU/+hsWWEEyn4Thq5tIsTmAvXfCcmH8DViLsD2vvcEd/g==&pass_ticket=QfEiGY8A9YlK2L/FIGGVCehuV7DUSyO4pWZHPu6xR3CIoyIAOYx4vPi2VxjLyoMW&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/ba555b02-95d0-48df-b0bc-5865161950ff/ba555b02-95d0-48df-b0bc-5865161950ff/)

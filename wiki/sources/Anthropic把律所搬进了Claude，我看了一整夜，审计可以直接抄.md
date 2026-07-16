@@ -298,3 +298,9 @@ Anthropic 没有做一个“万能法律AI”，它做的是一套**让律师的
 claude-for-legal 给了一个参考答案。开源的，Apache 2.0 协议，可以直接看代码。
 
 项目地址：https://github.com/anthropics/claude-for-legal
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzI0MjgxMzg1Mw==&mid=2247505550&idx=1&sn=79cad986e8783ebb62a9f6346ec2f098&chksm=e8bb1c0556dc9ca38bf4102ccdc8c3b1328bd2d2c167976adc90251b53aa0a7c3232a9b95b76&scene=90&xtrack=1&req_id=1778812569132530&sessionid=1778812560&subscene=93&clicktime=1778812667&enterid=1778812667&flutter_pos=3&biz_enter_id=4&ranksessionid=1778812569&jumppath=20020_1778812564634,1104_1778812565881,20020_1778812568566,1104_1778812660114&jumppathdepth=4&ascene=56&devicetype=iOS26.4.2&version=18004927&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQ5A6ZkGmcOvowyLyzYCSCNBLVAQIE97dBBAEAAAAAAAQAGaMtMBsAAAAOpnltbLcz9gKNyK89dVj07uah5grBwgoN6d4cKW3OKiKj9Dktj+ObBuC2k++WYf4sg1H3CNwoTxIoHuw6ClaRDtZ1oVXqbHv4rQGrrVpHUeNgZ2NF6tRFoCgYNUrA9QKnh3foy5IFY0l5JFN9+TctpmDUXqhK+UfCQDf6oBOEmtlfmcDelNiAYNkIO5XHji+svYrgkr/eOa4QhJ40rOuoScGCsYdU3M4tu6X1JiUT5YLHck7phvUsBk/7h69f4A==&pass_ticket=aM8C3O6puj90MdEjBz0RgSt8Acl2cNaW4FMNgShOr4WuhbXXGpufm7XjhM01soll&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/a4fb2ee4-9de2-4b5a-9c9c-1da09abf8ce5/a4fb2ee4-9de2-4b5a-9c9c-1da09abf8ce5/)

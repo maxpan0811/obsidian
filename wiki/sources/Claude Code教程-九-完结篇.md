@@ -206,3 +206,9 @@ AI 时代，必须 Git。**不 Git，不 CC。**
 [5] Gemini CLI: https://github.com/google-gemini/gemini-cli
 
 [6] Cline: https://github.com/cline/cline
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzkzMjg2NTcxNA==&mid=2247485900&idx=1&sn=d012ff7d486c322449269ed23bf7c891&chksm=c2547a11f523f3077eae069a529801bdbe3b34f141dda8dc597d685aabf2d413d35632faad84&cur_album_id=4406622888632549382&scene=189&ascene=3&devicetype=iOS26.4.1&version=18004725&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQE07/6ct+NUCbYv9gVFRhCxLVAQIE97dBBAEAAAAAAG2BEHNA2hUAAAAOpnltbLcz9gKNyK89dVj0E8/Stl1o94AAJQcpfmbXQ5A/GyoUNa7YLsbJ50U7muyOOPjwMmWDEb4g9CSfztat6svyrrp4Gu9k5zF+i9Uie8kH1UwePUwDkG7+F6DVW4FABQU0RhCr6EbSpS0p50kal6aZSQXg/JNuy38ag+WkNTDrHBujDk/h9iW7rGRvhPXufzhnhulvs7epTko8gati+vJpXsgPL0epT0+JLrzQUocpL22/r518PGujmRboBg==&pass_ticket=aqdKK/dUkaYov6LSjykJdyLWDK8D186GU6OIBiEVnf4cMwxNwXMyvY+yWSOPFSrO&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/3cd9ae8e-36e1-459d-a4e0-502a03db1464/3cd9ae8e-36e1-459d-a4e0-502a03db1464/)

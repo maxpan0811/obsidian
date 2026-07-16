@@ -306,3 +306,9 @@ https://terrytao.wordpress.com/2023/11/18/formalizing-the-proof-of-pfr-in-lean4-
 ![](attachments/0a9db7fe3e43fdaf.jpg)
 
 ![](attachments/7decb5d8ac0570f6.gif)
+
+
+---
+
+[🌐 原始链接](http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652415220&idx=1&sn=dc8b131164be6a6580cc62c8bdea2945&chksm=f12bd005c65c59139e964fcabc7d04cce177d56c0274e8973f7043cacddd7e290bd5564da380&mpshare=1&scene=1&srcid=1206IjfKLM20jZfXXFDSUIcu&sharer_shareinfo=03fc56ffee7c38cac38487d0b60be08a&sharer_shareinfo_first=c94466884696885b1733bdd29439931d#rd)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/6621a321-533c-4517-a601-6df4fdafbf4a/6621a321-533c-4517-a601-6df4fdafbf4a/)

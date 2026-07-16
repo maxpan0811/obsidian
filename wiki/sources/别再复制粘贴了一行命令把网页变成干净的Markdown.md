@@ -333,3 +333,9 @@ def extract\_article(url):
 ---
 
 我是海潮，专注全栈技术分享，深耕效率工具，关注我，一起成长、少踩坑 ✨
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzA4NzY0MTk1Ng==&mid=2650229301&idx=1&sn=a79376cfed685768aaf41c340f6b7332&chksm=8905ece27ceff65c11e8afe9f9f179950e17b606eb6a9f4dc4a1357b4074db7c41099fe7afb6&scene=90&xtrack=1&req_id=1779286821060079&sessionid=1779286675&subscene=93&clicktime=1779286852&enterid=1779286852&flutter_pos=3&biz_enter_id=4&ranksessionid=1779286821&jumppath=20020_1779286679377,1104_1779286817282,20020_1779286820518,1104_1779286848839&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=1800492d&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQTIWmSuFMsxfEeHfkjKWuPBLTAQIE97dBBAEAAAAAAFxuElGUfFkAAAAOpnltbLcz9gKNyK89dVj0FtA9W6v27QepY/oPecX+7WWQndXhYuPVU7VbxzG2/PkHlyGoJDtKs7gV6jmTCXA+FomVnhzkB9I2toSam4y3TboLHVsBeI3yz31c9ZRUH7CYyIjK+PdlsDSyNxdth6HvJS8uZtMeUzIzjZdSe6R/shE1xJcFX/b3SVf910HLwNbqgdBh/lIOhsSrvA2WPc0JT8Ctk8nJlrG+ha1WiBrP6D7SrPDeoYOrFlafk7s=&pass_ticket=+7TYfUV7SfnXpz9lXfLR7Ez3RZTfAJ2GVLJVWMNh5SXBBqlBgQP5w3z85V8/lJ2e&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/6bfcff69-9cf6-4ee0-83bb-ba4277232d4f/6bfcff69-9cf6-4ee0-83bb-ba4277232d4f/)

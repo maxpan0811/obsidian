@@ -311,3 +311,9 @@ sudo systemctl restart ollama
 转载请联系本公众号获得授权
 
 投稿或寻求报道：liyazhou@jiqizhixin.com
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?chksm=84e7920db3901b1b5ce5a502447f62b45ee99788df9563a2ff0b9ff4a0cb53a5046ea01ead2d&exptype=unsubscribed_card_recommend_article_u2i_mainprocess_coarse_sort_tlfeeds&ranksessionid=1738571309_3&scene=169&mid=2650953331&sn=ec6e7672d8a7bb2a8b09459f2ade93a2&idx=2&__biz=MzA3MzI4MjgzMw==&sessionid=1738572539&subscene=200&clicktime=1738574854&enterid=1738574854&flutter_pos=59&biz_enter_id=5&ascene=56&devicetype=iOS18.3&version=1800382d&nettype=3G+&abtest_cookie=AAACAA==&lang=zh_CN&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQYkOBqA49K5+7pcINUAVEJxLWAQIE97dBBAEAAAAAALvXK+Jt63wAAAAOpnltbLcz9gKNyK89dVj0Wr3KcL9MxdLkoQ4a6vVRHUyBFJnZXfcdndgbxFUFkGHpijyStcPRlrrjSx7d6xzYyVE6RtUxWUnXjRkDGdbmlNDa4az/3lH0DmBU+OuWwtGBtP13P8ASaAFScopHQZGN02i6JJjIlwfNl7TTLrcaapDnS5t7oh+j94GZh7J0vtczttfXhwo6mYKPg1O9Um2st4abQRFOTHORoL6lue7X7wAGbWeGUeiumN+G9qT863M=&pass_ticket=dy+5J6o6pGxckXac/+GOwHdTRNkVWk8T/xy45E4Z0rchpS4SlfXiPf3J5CsjWGnO&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/09896f34-f8b5-4ec2-a68d-b6d768917555/09896f34-f8b5-4ec2-a68d-b6d768917555/)

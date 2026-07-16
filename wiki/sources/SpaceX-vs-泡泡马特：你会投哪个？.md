@@ -67,3 +67,9 @@ SpaceX重在技术，有巨大的商业前景，解决网络互联，AI算力和
 市场给了SpaceX更高的估值。
 
 谁长期复利更高？现在难分高下，5年后再看：市场和段永平谁跑赢！我们的投资分析独立思考，对市场有深刻洞察，过去曾帮助很多人在投资上实现了可观的财富。感谢关注和点赞。
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzYzNTY0NTkwMA==&mid=2247484505&idx=1&sn=55704809af337ff4d32d4c22cd329c3a&chksm=f141d58d103157c67bedbc476007630f273f55525ac2d9e4f55360ad7f4bf063ac5bf2be007b&mpshare=1&scene=1&srcid=06199b1qdhkn7b4vBc5oVi7m&sharer_shareinfo=00e3a608bae52fc248369dc8f4616b76&sharer_shareinfo_first=00e3a608bae52fc248369dc8f4616b76&from=groupmessage&isappinstalled=0&clicktime=1781916724&enterid=1781916724&ascene=1&devicetype=iOS26.5&version=18004b27&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQDPIBa8fgfYeomok7fU1F5xLmAQIE97dBBAEAAAAAAFk3DhKYtzgAAAAOpnltbLcz9gKNyK89dVj0DYOxpAovPIdeFmTLg/YEy3J+ZQ0iKfifJxkgExeJGv897pRd50xlmdKJiflM3zu7/pQtYhi3vpFRLlSoB5a0HpP/tDeE4qqbqjAkfcGR85NiR8YpgdmtstOdiUF1993wwzFV4SQ+aIq8Ab0zPfAEPBnhftCWkTnywH/T6ilzH0j06qM35m39ZRW/SOmE5SI1KAVGNKHI+craxSo+gd5pY6KqVKYPe7+HukgZdh7KbqdXdKePiVYKCV+4cZu9wAoB&pass_ticket=4OPqDUUfz7KaXbC3PAtWA8mHcwP0lzah+Qab4RP5HSyIMXJ21fRUT0meD3uR1FGK&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/942174f5-a4ef-4e83-8989-177543f4a83c/942174f5-a4ef-4e83-8989-177543f4a83c/)

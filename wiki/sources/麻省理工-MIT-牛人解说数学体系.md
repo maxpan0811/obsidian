@@ -240,3 +240,9 @@ Compactness似乎在初等微积分里面没有专门出现，不过有几条实
 ![](attachments/5397460697d82398.png)
 
 在看
+
+
+---
+
+[🌐 原始链接](http://mp.weixin.qq.com/s?__biz=MjM5MTAyNjcyMA==&mid=2656550501&idx=1&sn=4e1091cd7d7d27a58ce628ea9c5395e0&chksm=bd18c52a8a6f4c3cd2a33f6632e06051e34e1f0dfdea746619895223e79e46f72c157a695f86&mpshare=1&scene=1&srcid=&sharer_sharetime=1583282213559&sharer_shareid=196a7290cec677abfe41ca4bbe251b79#rd)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/7cf52a93-cd56-41c4-9aca-f28e921c31df/7cf52a93-cd56-41c4-9aca-f28e921c31df/)

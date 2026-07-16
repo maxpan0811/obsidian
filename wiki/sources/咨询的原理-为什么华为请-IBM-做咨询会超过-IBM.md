@@ -78,3 +78,9 @@ guid: 21203b59-b3d2-4099-84ee-4a98a07c5465
 大多数学 IPD 的国内企业，既没有大规模研发投入，也没有底层技术能力、产品架构能力，甚至连行业都差个十万八千里——甚至有服装企业搞华为IPD 的，更重要的是，他们不是学习 IPD 的基本原理形成自己的研发管理体系，而是不动脑子、跟着真假华为老师对 IPD依葫芦画瓢，这样学个毛的 IPD。
 
 结论就是：我认为请咨询就是请老师，你要超过老师，咨询的钱才没白花，所以你学习的是方法和思路，你自己得有脑子，把老师讲的东西消化了，变成你自己的东西。很可惜，绝大多数企业都没有这个素质，所以成功的企业总是少数。
+
+
+---
+
+[🌐 原始链接](http://mp.weixin.qq.com/s?__biz=MzI5MzMzODE5MQ==&mid=2247494382&idx=1&sn=59068fe5b81aa89f3e14e8f3eecf4502&chksm=ec7107cedb068ed8a0db7ad31944cf1bbc186d5c8c6502d5bdafdb038edd4596d79b3592b28a&mpshare=1&scene=1&srcid=1112FW9RRcUNX2CEE28meQDO&sharer_shareinfo=25c8157f3ae95cc679678e836f3d1c6b&sharer_shareinfo_first=14979acf0672f739236aa44e53b99c6a#rd)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/21203b59-b3d2-4099-84ee-4a98a07c5465/21203b59-b3d2-4099-84ee-4a98a07c5465/)

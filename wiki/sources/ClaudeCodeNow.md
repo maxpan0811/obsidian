@@ -245,3 +245,9 @@ Made by **Orange**, CEO of [ListenHub.AI](https://listenhub.ai/ "A ")
 \*\*If this tool helped you, please give it a Star⭐\*\*
 [![GitHub stars](https://img.shields.io/github/stars/orange2ai/claude-code-now?style=social)](https://github.com/orange2ai/claude-code-now/stargazers)
 Made with ❤️ by [Orange](https://listenhub.ai)
+
+
+---
+
+[🌐 原始链接](https://claudecodenow.com/)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/421d0f55-8aa6-4c01-bfa1-7022a14b333b/421d0f55-8aa6-4c01-bfa1-7022a14b333b/)

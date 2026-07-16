@@ -50,3 +50,9 @@ Tasks Time Tracking 的定位提醒功能采用了 [Geo-fence](https://www.wik
 原文可获取应用下载链接：[Tasks Time Tracking，根据定位自动帮你记录任务时间丨App+1](http://sspai.com/34181)  
 喜欢少数派？欢迎关注我们的微博：@少数派sspai ，微信公众号： sspaime  
 少数派（ <http://sspai.com> ）
+
+
+---
+
+[🌐 原始链接](http://sspai.com/34181)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/f19158ad-16cc-40b6-8084-c012eeb248a6/f19158ad-16cc-40b6-8084-c012eeb248a6/)

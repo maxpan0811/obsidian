@@ -152,3 +152,9 @@ DSR1之后，国内大模型开始百花齐放加速发展。或者说因为DSR1
 长远上对于我国真正至关紧要的，还是我们当年在《胜负手》一文中所说的配合生产力质变而进行的生产关系与社会形态的转变。目前AI带来的生产力改变离质变还有相当距离，但AI工具给资本和企业们带来的“降本增效”欲望却已近在眼前，由此导致的就业结构性危机已经开始。
 
 用中国人最为熟悉的分析范式来说，**AI作为一种与以往不同的新型生产力，对生产关系也必然会提出全新的要求。**只有真正在生产关系上化解AI带来的冲击，推动生产关系迈入新的范式，我们才真正能说得上可以取得AI时代的胜利。**而这对于AI技术的研发者和推广者的企业们来说，在技术水平和应用能力之外，又在社会责任上提出了全新的要求。**
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=Mzg5NjE3MzI5NQ==&mid=2247566931&idx=1&sn=451b7a2db0c4c193e53f2182a93b6928&chksm=c1b3f5d7516dca411bcf1a84b280c5c82604cc235d7f512d9943b32a7d6817c51ce941cb18eb&scene=90&xtrack=1&req_id=1774008239894180&sessionid=1774008257&subscene=93&clicktime=1774008261&enterid=1774008261&flutter_pos=0&biz_enter_id=4&ranksessionid=1774008239&jumppath=1001_1774008175660,1102_1774008176800,1001_1774008256529,1104_1774008258202&jumppathdepth=4&ascene=56&devicetype=iOS26.3.1&version=18004533&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQ9Gr8INaFj/PFnxocdEWodRLVAQIE97dBBAEAAAAAALO0DKeezboAAAAOpnltbLcz9gKNyK89dVj05zg67nZrWZxDGtgViAqdDu4F97MNsR13Meq8/nz08ZsbiMuPiyWm9/z7hQ8iOwueRfyyoQb3UAmexoy177TJtiTmSG0XScUfEAN4LvgPY4SReB6naHCvfKCMd5s2KrHjXFdk6PH5DJs12Dr0F+4I6y+PnNq+IcV3rAqJOKYq3RyqE+a38bVX0HkSFjFK6l/ysxZkQ1HVan4Vf/24fz1gQMYToG0BSotQTV219gNPHA==&pass_ticket=9IYXj9aK3MtpaSXfnQ5N6fwwgXYvXejrHP2VM9xpD5miAcRbXtU+Uy7wIfFmtslf&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/929de83f-312a-41a3-896e-0eb76794c376/929de83f-312a-41a3-896e-0eb76794c376/)

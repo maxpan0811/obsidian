@@ -54,3 +54,9 @@ guid: 0a8223ff-5864-409a-bca8-a4ecdae491e3
 我就盼着，国产模型们有一天能够把Claude彻底拉下马，让Y的求着我们用
 
 。
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzI3MzAzNDAyMQ==&mid=2657896234&idx=1&sn=2e37a21b4d5f9d9310a6adf915020fca&chksm=f11fbaef0e783eece7f98caf8174108c57fbc675e788e3006af95d2ec51bc3883f55fda23d88&scene=126&sessionid=1781497522&clicktime=1781498557&enterid=1781498557&forceh5=1&ascene=3&devicetype=iOS26.5&version=18004a2f&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQ6ECY3jwE1HcjBbmlKLeSyRLTAQIE97dBBAEAAAAAAB/XBhPmfrYAAAAOpnltbLcz9gKNyK89dVj0HArDa9yydM1RvIMkKZboMAKUuXtMdsHScAVjtu79NmfD4KR2d9yM9Ath2G3qXP2mPIUDSxI6eHuA9hJkGT5l188OE4WQMHsNkEXwQ5XgKaWIC/hKrA+364U5aNcofgcr163BHIdAWm0LExnhBNkBLT4PLRruTUle2nmmZtNMfhN5+8UM7k6KjXoJNfPrWtoy4xAUM1QXhSYJfTVPCcjQvmNV27p5aNvtgtEIBGU=&pass_ticket=QMgTg3hrlBkT2OmkObgk7Hmhqw1kVUYafIshmgBH7GBji17Rm4gC7LSFt8NC1idS&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/0a8223ff-5864-409a-bca8-a4ecdae491e3/0a8223ff-5864-409a-bca8-a4ecdae491e3/)

@@ -82,3 +82,9 @@ guid: 2bc0a943-ffe1-46c6-8777-23e7ea5d56d1
 人类面临的全球性挑战正在不断增加，也许我们应该拓宽思路，从古代的哲学传统中获得启示。如今已经到了摒弃那种零和博弈的思维方式、使个人财富最大化的癖好和完全不受约束的个人主义的时候了。为了制造出“人类友好型”的人工智能或其他前沿科技产品，我们必须致力于构建一个包容、和谐、对人类充满同情的全球体系。
 
 （观察者网马力译自2020年8月20日美国智库博古睿研究院《思想》杂志网站）
+
+
+---
+
+[🌐 原始链接](http://mp.weixin.qq.com/s?__biz=MzI0MzAzNjk2Nw==&mid=2651657067&idx=3&sn=02077dbf6f5804bef01c3a7e86c5e0e9&chksm=f28a9523c5fd1c35550a721298bdf1323df693f6e4dc283e5a3965f55b629251842f890b596b&mpshare=1&scene=24&srcid=1230usbQb3nBCW2NjelPowX0&sharer_sharetime=1609294285369&sharer_shareid=196a7290cec677abfe41ca4bbe251b79#rd)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/2bc0a943-ffe1-46c6-8777-23e7ea5d56d1/2bc0a943-ffe1-46c6-8777-23e7ea5d56d1/)

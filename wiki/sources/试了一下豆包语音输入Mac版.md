@@ -63,3 +63,9 @@ Codex for Mac 的语音输入功能
 
   
  推荐阅读 [满血Watch和香港银行卡搞定了，比预想的简单](https://mp.weixin.qq.com/s?__biz=MzI2MTAzMzcyNQ==&mid=2648567874&idx=1&sn=13920a658a273b1237aaa86a8b36a640&scene=21#wechat_redirect)[我怎么支付ChatGPT订阅？买苹果礼品卡](https://mp.weixin.qq.com/s?__biz=MzI2MTAzMzcyNQ==&mid=2648567727&idx=1&sn=e6313c80f87986ade59e9d09f4a00203&scene=21#wechat_redirect)[现在（一部分时候）的工作方式真的很像电影《Her》里的场景](https://mp.weixin.qq.com/s?__biz=MzI2MTAzMzcyNQ==&mid=2648567706&idx=1&sn=054083e79fcfc39269ab686836d46de6&scene=21#wechat_redirect)[一定要备份啊](https://mp.weixin.qq.com/s?__biz=MzI2MTAzMzcyNQ==&mid=2648567579&idx=1&sn=b0e629d8a883dace9444737f33175ec6&scene=21#wechat_redirect)[我长期推荐的流媒体合租](https://mp.weixin.qq.com/s?__biz=MzI2MTAzMzcyNQ==&mid=2648566133&idx=2&sn=f7c2b3c801230c7522876aedf63a3d5a&scene=21#wechat_redirect)🔥
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzI2MTAzMzcyNQ==&mid=2648567893&idx=1&sn=a424f13552cf07a68ad7d468551f78de&chksm=f37b3881e97c666260ce4adc8865a07ed250c3a406d15069ec7f6fcaee4f17c61e8b7b8442cb&scene=90&xtrack=1&req_id=1778928837201035&sessionid=1778928814&subscene=93&clicktime=1778929395&enterid=1778929395&flutter_pos=17&biz_enter_id=4&ranksessionid=1778928837&jumppath=WAWebViewController_1778929316206,WAWebViewController_1778929316697,20020_1778929387164,1104_1778929388500&jumppathdepth=4&ascene=56&devicetype=iOS26.4.2&version=18004929&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQQQ9Ue5CgtlsTVMqOyAqycxLVAQIE97dBBAEAAAAAAKAYOY/b9p0AAAAOpnltbLcz9gKNyK89dVj0H3w0gt1H4KXRiFb50cc+SXWlWqsTUj1yKKsBNS8KO5iXSZ7EaObf6BN3CMiEWLa1q2vhJYYluiLTJrxIII3zPHSQvnaR6oskAqbBLmwpBi49RrbMC23ME+8/25307GimpgQYPqin47rj35QShp707KvjrHCt9oPGsN/JBT7g6cwhJ4fdCnmNUDSYkZcXV3hJ9SIzO2CNnBjzlYV22pQ5rqMsKHe71dXgQnR1dOGJrw==&pass_ticket=tcJpRQ7uBk2qmMtVnJRI0wuE1k4QAUFIQ/k6ohrLvnQFsXPJIBnDsS56RJ+N7ihw&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/09626b0d-d2c7-4083-bf6a-aef70f58716f/09626b0d-d2c7-4083-bf6a-aef70f58716f/)

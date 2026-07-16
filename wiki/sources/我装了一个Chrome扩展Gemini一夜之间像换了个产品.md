@@ -223,3 +223,9 @@ Markdown 那个选项让我直接坐直了身体。
 #Gemini #Chrome扩展 #AI工具 #生产力 #Voyager
 
 作者提示: 内容由AI生成
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzYzMjMzODE4NA==&mid=2247489244&idx=1&sn=f35822530d3fb21061c74b918b72662a&chksm=f1e668680bcc5ee101c1da84b15df3a46fb05d7f71ba7ce528940652d14e7b73aba423515160&scene=90&xtrack=1&req_id=1777208463663323&sessionid=1777208476&subscene=93&clicktime=1777208481&enterid=1777208481&flutter_pos=0&biz_enter_id=4&ranksessionid=1777208463&jumppath=1001_1777208156389,1101_1777208462903,1001_1777208474296,1104_1777208477285&jumppathdepth=4&ascene=56&devicetype=iOS26.4.2&version=1800472c&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQ41dohJvqVzq5ipT+e9/rTRLVAQIE97dBBAEAAAAAADu4MAjpp9MAAAAOpnltbLcz9gKNyK89dVj02epH2dsJ6IMrnMowcJrK0C2SyCA8tPVFyMAYf96RRUUeaI/JxLHHe6QeY8UQ5ttOeY6EuLqWbonrJk5Dyg89bluX3SdIiNeckvVU4IgIqeEvnSRre4UnUo6OstH+4wewP7cx6tBkvSWuv1N93RYy9ZhOCVHxJ7jnIR/bRB+QFCPB6VfvbYgNK3NLVTcD/qgbELe9WKwU+45fjj3ab0DTMwTxfY7rkbaPsq39waGWXg==&pass_ticket=MIz4r7+6qdI3pxHwH8KGPLPkohssLTYybqwG3fayOYPQbZm9c7futsZXrVyj5GiF&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/016315d7-1e44-4006-863b-0c570166cda3/016315d7-1e44-4006-863b-0c570166cda3/)

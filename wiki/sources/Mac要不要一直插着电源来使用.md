@@ -72,3 +72,9 @@ Original小猫 猫果乐园
 现在可以关掉那个让人焦虑的电池设置页面了吧？顺便问一句，你现在的 MacBook 电池健康度掉到百分之多少了？
 
 修改于
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzA4MzM1NjI4OA==&mid=2650563459&idx=1&sn=459c569bef364c3f35b9239aa2050e05&chksm=86324f86a1331e8ac5666cf7f663ce8be73fdf4974852572cef64b077e5636751d301e9b9666&scene=90&xtrack=1&req_id=1782029548427683&sessionid=1782029528&subscene=93&clicktime=1782029699&enterid=1782029699&flutter_pos=7&biz_enter_id=4&ranksessionid=1782029548&jumppath=1001_1782029525755,1104_1782029529389,20020_1782029547950,1104_1782029666872&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=18004b28&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQuAhU6ul33VIayYi6q1ivJBLTAQIE97dBBAEAAAAAACOaD0tKzSMAAAAOpnltbLcz9gKNyK89dVj0YM1zjEUfhz6ZxekQe+P2JNLiELf7slV0vw/rWCcIBfo9CPN3ZMJbsxU2d3+MK4iPRSZjs+3PlzLGbGdc3cJZaBVa5/rVjraFziStPLjGcLwuv7t0VYf2YT5icwtncAtftZFLZGyWk7Lb26Ig8NwNjagCYbKTBMHmTU5lF7CeWbDBe6xgiz0GG+YmNU3L/NCmKTH4eRzAnQ1fRygS+yyWEjV5m1LSrD2kr4bXNf0=&pass_ticket=TPZQrV/VXUAg8jBukcU0MEIGkD4dTMfvkAV7TXFZbHao2ZSwuhiI0+De7iWpbOra&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/34ec3723-cc00-4123-ab12-48e3a1c2585f/34ec3723-cc00-4123-ab12-48e3a1c2585f/)

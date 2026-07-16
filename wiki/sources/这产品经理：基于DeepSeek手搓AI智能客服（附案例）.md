@@ -238,3 +238,9 @@ DeepSeek如何赋能职场应用--从提示语技巧到多场景应用.pdf
 个人观点，仅供参考
 
 阅读原文
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzIxMzM1ODA2NA==&mid=2247487225&idx=1&sn=0163e678fbd94325724d91ab23e13e18&chksm=9680e0820e6bde4d0c36c2571d7ab1227a1f210c9d2853ad14d8a2ba4caa84d95d1327e6eafd&mpshare=1&scene=1&srcid=022429Pfrb5VRdKzqYjU6h34&sharer_shareinfo=982702e611776a46e5fb99e569ea7954&sharer_shareinfo_first=982702e611776a46e5fb99e569ea7954&from=groupmessage&isappinstalled=0&clicktime=1740386992&enterid=1740386992&ascene=1&devicetype=iOS18.3.1&version=18003833&nettype=3G+&abtest_cookie=AAACAA==&lang=zh_CN&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQCdtCwNy/L4t8PQURDrV/RRLsAQIE97dBBAEAAAAAAEuOFG6j9ZEAAAAOpnltbLcz9gKNyK89dVj0hYeA4ySa1hh0w6U3w0hNTYZoglfkTz7DuC1onpzulAPYBU2q5E/DGULKNs59ft7vKIdp22SW/zRKkXuMPK+zE1mj4zzsHYxRnxOolg3oQQRO2aHvrpkQiXD6OswDWAIesmAuBLN2NjdiXvGGs2NZghpaEMFbf7uL0IGN+ojbg29ER9N0lPDNkzEFgrpWT/d1D9+nwBaeAd1BuByRZcNxfEUYkIqSEdPKF3MuHfy6M5B6x2/rbgkAyTJ0+HliVNrkuUDV7u7w&pass_ticket=sM06spzbeCkKs5Eqt7v2ieo5WSalPc/gdwNmpHKNGjc7zve/vJAvyiWCPW1oZFBo&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/92cd0310-8993-4d61-b2b2-f3e1a67b506b/92cd0310-8993-4d61-b2b2-f3e1a67b506b/)

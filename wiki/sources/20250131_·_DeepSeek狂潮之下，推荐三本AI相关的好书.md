@@ -68,3 +68,9 @@ AI在处理海量信息、发现规律方面展现出超乎想象的能力，对
 总之，这是一本引人深思的佳作，适合春节期间一个人安静地阅读，探寻智人之上那未知世界的同时，享受一场充满挑战与惊喜的思想之旅。
 
 修改于
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?chksm=c28515def5f29cc82c0a6412352c736fa5a0b738666e9eebafb063321d0c1ffbc21e1621fdb2&exptype=unsubscribed_card_recommend_article_u2i_mainprocess_coarse_sort_tlfeeds&ranksessionid=1738571309_2&scene=169&mid=2247486717&sn=d36ac8ae6d9c0522c0570397c9bf157a&idx=1&__biz=MzkzODE2ODM5Ng==&sessionid=1738572539&subscene=200&clicktime=1738574407&enterid=1738574407&flutter_pos=47&biz_enter_id=5&ascene=56&devicetype=iOS18.3&version=1800382d&nettype=3G+&abtest_cookie=AAACAA==&lang=zh_CN&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQWB5XX7VWB98AoWJT/TEbWxLWAQIE97dBBAEAAAAAANH/CttPTZkAAAAOpnltbLcz9gKNyK89dVj0KkZ4KZcW/OUI/TrfSEhcjK5jrtG3I61pG8fhoUATTaarcAr0dNHwy0Re3rNWNGeONrVcE5Rm7vn8io6zFbHdACLPT0AwHNwWSLS0EhZAdcMgq9KAsOacs7OaMpeXeuo40KU2LWj0d2o2otf/TXyFz82dv25sS/w6DWYw8+vXxFTDtQejdBH2jHI/tp0zR93jmkGlVYKkVuWYR5ftwypU8BfWUPRBviI/ivNFPQXhtb0=&pass_ticket=A3vOyEiiHU0Ukt7BsB5MoYTLFQxIF5rmawqmg/m0ZLOUCwdPVAw+ZWm3BdYci5Ao&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/52b5dccd-5c6a-4b4e-a785-aff2f62098b7/52b5dccd-5c6a-4b4e-a785-aff2f62098b7/)

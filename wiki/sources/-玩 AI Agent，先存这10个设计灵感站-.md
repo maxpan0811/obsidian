@@ -45,3 +45,9 @@ guid: c466d1c4-db4a-4788-9c12-56252c8edd3d
 懒得记这么多？最小存 5 个就够：Mobbin、Refero、SaaS Landing Page、Unsection、The Component Gallery。这五个合起来，AI 编程最常撞上的几类页面——产品流程、SaaS 转化页、区块、组件——基本都覆盖了。
 
 Close
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzcwNjI2OTYwMw==&mid=2247484645&idx=1&sn=662e368ba3ac9a84eda6575f3dc7e4f4&chksm=f5f83b760ab12c8efb47c472d87fc2cf3e97b320976e5996894dffbf7697173176d37f03405b&scene=90&xtrack=1&req_id=1782304277226080&sessionid=1782304295&subscene=93&clicktime=1782306601&enterid=1782306601&flutter_pos=8&biz_enter_id=4&ranksessionid=1782305433&jumppath=WAWebViewController_1782306545070,WAWebViewController_1782306545595,20020_1782306594929,1104_1782306596188&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=18004b2b&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQ/QJLsJrJKinlibafs0hnXBLTAQIE97dBBAEAAAAAAEA7FmusbvMAAAAOpnltbLcz9gKNyK89dVj00HtzaN/8cckirZv/LV0gUuHUIgos1PHpBHn7bBK9Puz/N97PPV5Mr6klgLGnanThX/F72XPjRpQwFfg7K5h2lcHZRhYHrTOTo8a8OXE0XS+P5jNLJZmCvd8QES7nxcc6b1ZcMlcXiyOjH+Aamr1v4NUSTB7z8BD/Tw9ETDB/HhhGZuQz+hqrFz2qCw2szeXtNCsfN+8hywoT6+71k0tNF4Qs3V9YQAPTycSJSHU=&pass_ticket=BkpfpY3j6D+iJGEVjQkvoyd56Neq60iV2pPm/KgaP1kwN5kkyz05JyyKWNgTeDj1&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/c466d1c4-db4a-4788-9c12-56252c8edd3d/c466d1c4-db4a-4788-9c12-56252c8edd3d/)

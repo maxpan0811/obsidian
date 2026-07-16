@@ -128,3 +128,9 @@ EndNote 提供的浏览和标注功能相当的全面，几乎满足一切对文
 少数派（ <http://sspai.com> ）
 
 [![](attachments/b38faeba9caa8073.jpg)](http://aos.prf.hn/click/camref:111l75A/pubref:iMac/destination:http%3A%2F%2Fwww.apple.com%2Fcn%2Fmac%2F)
+
+
+---
+
+[🌐 原始链接](http://sspai.com/31563)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/9880004b-aaa5-4183-b8da-fd75e132c210/9880004b-aaa5-4183-b8da-fd75e132c210/)

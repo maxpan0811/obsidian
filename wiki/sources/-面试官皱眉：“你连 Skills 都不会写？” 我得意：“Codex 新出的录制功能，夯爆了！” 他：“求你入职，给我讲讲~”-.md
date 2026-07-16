@@ -155,3 +155,9 @@ Codex 会按照之前演示的操作路径，自动完成整个流程。
 ![](attachments/e5d7a63dcdfaec3d.png)
 
 另外，生成的 Skill 是可以编辑的，你可以手动改 `SKILL.md`，也可以让 Codex 帮你进一步优化，调整到满意为止。
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzI1NDczNTAwMA==&mid=2247588093&idx=1&sn=ce1aedf644278ab3eb5f76c8d49c216d&chksm=e869dbfd60a852855fd7058ff5af34b5a514fe5536c85dcf0759103fb922e6153b05608744a5&scene=90&xtrack=1&req_id=1782304563947128&sessionid=1782304295&subscene=93&clicktime=1782305432&enterid=1782305432&flutter_pos=5&biz_enter_id=4&ranksessionid=1782304563&jumppath=WAWebViewController_1782305085096,WAWebViewController_1782305085616,20020_1782305425819,1104_1782305427060&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=18004b2b&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQiGDrrZiU1N+GrAH6JvxmLhLTAQIE97dBBAEAAAAAANF+I4GI0LMAAAAOpnltbLcz9gKNyK89dVj0ugkMW/LKm+WE7EkGZF385VJzIAazZ0gG3TbcUuNbpTcMqLl4W30Bd6QSEttdfqfbLG25pxNK9wc06oa4xRMIFpktn4iP53Y2+uLqa2dfaiJQKU+DRv7OwbJammsrNgUXlW9e34XMkvpBx0CqR+89bJikowKk7VsPwLi7CRcX0eXPoRdrZwEhOlMyP38s5qfc4Pf1QOVmyZOwYykvkDF5rbHbQ5YGNRfaxmxBzNY=&pass_ticket=XEKEOZhZpTtmoP17zTFeA8OfdamVJMp5GPN1YK6F1Tnv2X+wBZA4driOz+LObrkK&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/d6ba535d-997d-4ae7-82d1-d8bc9512320d/d6ba535d-997d-4ae7-82d1-d8bc9512320d/)

@@ -27,3 +27,9 @@ guid: 2bb65356-5972-4f44-985b-481ed1fd8454
 #obsidian#AI#GitHub#笔记
 
 Close
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzU4NzEwNTA2Nw==&mid=2247484114&idx=1&sn=0de62260bf97b649bae4b372cc39e74c&chksm=fdf05496ca87dd8059ef004a0e9a02c53a1972c6eaa8ef5b0068b9b0e99d7a62ca0da93f13b8&exptype=servicebox_1780895307192573&subscene=0&scene=288&clicktime=1780895320&enterid=1780895320&flutter_pos=2&biz_enter_id=5&ascene=56&devicetype=iOS26.5&version=18004a29&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQKJxEWf8ouJPWaCISf4dzihLTAQIE97dBBAEAAAAAAMIoNHR8YLgAAAAOpnltbLcz9gKNyK89dVj0JnahshDFZd8373Y15rPGLr3JoNqPci5hGqadNUxGnUXk2ntc8zdIq7r39Z29QcxEVEuX6qarmvbR3hugf9hmkteekJMxjEyBIsTbVfyirflU4+nM8MSLxB8Su1WxlaALSa9SnJdHQFqH3Imn1nwqoRrPrKj0IOINGFcwIkCaVrcrm4aoKV8M6jw1HS7aHtjuWR5U9Zh8wTKTGS6K9CAkqn7Y69Tv5K4gYjASCME=&pass_ticket=xiLTMgxV8sAOQwaQFY/GoyqbmUA1bz6qRCY99V/tf07v07FFgkCx5IP5ydQa+ZHT&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/2bb65356-5972-4f44-985b-481ed1fd8454/2bb65356-5972-4f44-985b-481ed1fd8454/)

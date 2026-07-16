@@ -206,3 +206,9 @@ guid: be5d5498-2b67-41bc-9170-74508b63ecd4
 另一个重要成果就是在实现了国内AI基础设施技术的持续进步，今年华为云超节点技术的商用就让国内的算力基础设施服务进入了更高性能的时代。
 
 而展望未来，我可以比较确定的说，超节点之后的下一次国产AI基础设施技术的进步，也会是来自华为。
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzI0Mjc2NDc2OQ==&mid=2247492635&idx=1&sn=53932fa9c8229a16d5104952e64f4c0a&chksm=e8c7df10f023d42fc180a731527d1d18437efa8912479f4368b03c67f7e37428ffbb80ece9bf&scene=126&sessionid=1744883687&clicktime=1744885307&enterid=1744885307&ascene=3&devicetype=iOS18.3.2&version=18003a22&nettype=3G+&abtest_cookie=AAACAA==&lang=zh_CN&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQIXzA3/8IeIKglNk5abc3tBLYAQIE97dBBAEAAAAAAInGKU8RhIIAAAAOpnltbLcz9gKNyK89dVj0RQ7KuWsPbY1CgNjRQNTh1FC3UCIQufbMY4UVd+HUG78Gs8p44pHY7E7snhqDTzcGHSKf+tT7NwVfTwXyH/AWOIX46IGL/DxsmijXWkbTV+cenhcW/A3Hc6RdfC5h+uRSROj8pJAzveTOnmbTMuKusHA8UST+9O8a08roGHbI6moUzIT+FUvj1ziIB8BvbjHCgv11GZI7u/Tn8TnnsGdHfiNnk8uKAv8w5gqmuu1cUWpuUw==&pass_ticket=ZlvQiIQaKa6VSrD4dTxM2VE3/t+Fr40Ltutv+Nm8w4s33J154+JauNpZWUJRwBuD&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/be5d5498-2b67-41bc-9170-74508b63ecd4/be5d5498-2b67-41bc-9170-74508b63ecd4/)

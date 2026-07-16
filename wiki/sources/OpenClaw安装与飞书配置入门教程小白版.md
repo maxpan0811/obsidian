@@ -286,3 +286,9 @@ npm uninstall -g openclaw
 在飞书工作台找到机器人开始聊天 🎉
 
 到这里，你已经完成了 OpenClaw 的全部安装和飞书配置。有任何问题，优先通过 `openclaw doctor` 和 `openclaw logs` 排查。祝使用顺利！
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MjM5OTQ0MjU2Mw==&mid=2651699615&idx=1&sn=8d5a3ebf2fabd6a5d9a59ab315051b2f&chksm=bd8bb6a9492e0aa1b5e0f438b2d4ed6c8718e0be4987562d3d38d7ec91c453e610f1d471feb3&mpshare=1&scene=24&srcid=0308JSBs0WS9uE9XAcsHJiha&sharer_shareinfo=00ecb6c2e6564d4ca0f4036eff0d261d&sharer_shareinfo_first=00ecb6c2e6564d4ca0f4036eff0d261d&clicktime=1773139974&enterid=1773139974&ascene=14&devicetype=iOS26.3.1&version=1800452e&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQEIhAP6Y39k441N022f7d5xLVAQIE97dBBAEAAAAAAI6/OWcOOZAAAAAOpnltbLcz9gKNyK89dVj0CnpRitRoDvv8lmjwsGjc6aPVCJ4nCn0mxTBY/U5B3MHoCP7DjF5NohJuHDyxOTPparMZXYlW7u/G//QTiMjaphh8VKR6iacY6hIkfuI3W/XbvSZh6xOhnid73OaW/os73bNy5odqm+8jkkk/VjwpvcSB+BMHzwcNg6yvEYGeJHGo9NffVANaLXpfIH5+2TMmuyOn1ikoQmi+LW1+v2gVHwByhNxuodkyProjptbMmg==&pass_ticket=G8Cy3ITLWdMnWnCUUVEzl6/1h3w4dQG5v4DIrKiQ0DoMLE6awMibF+djuE5YB6rU&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/1a239173-d384-477d-adf7-feded2f21d86/1a239173-d384-477d-adf7-feded2f21d86/)

@@ -38,3 +38,9 @@ GitHub：orange2ai/orange-line-illustration
 #skill推荐#配图#极简插画#概念插画#内容创作工具
 
 Close
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzU2NDkwMTA2Ng==&mid=2247485083&idx=1&sn=b3366d9ed0ff1a8d7529432c7eb25bd1&chksm=fd203508c5b796eab894226e1db61698fc5284acd6a72dcdbc3bf26cc025583d523e9fc4472f&scene=90&xtrack=1&req_id=1781248420557644&sessionid=1781248873&subscene=93&clicktime=1781249272&enterid=1781249272&flutter_pos=1&biz_enter_id=4&ranksessionid=1781248420&jumppath=20020_1781249249305,1104_1781249255393,20020_1781249261130,1104_1781249266501&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=18004a2b&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQ3lReHEATkqd9fHWnOGswARLTAQIE97dBBAEAAAAAAC6GLBvNSRAAAAAOpnltbLcz9gKNyK89dVj00HYqSE0zM8ndOfmISX4OPXxgouxi5AcFAjzsiYYuWQKBGjZLUBWG7eOt75T5mMHHquNdjrJbvZhaX3l9ZmKyypmrZ910PypE2cQ5D8FMuAEpuMnN4BTXKw+65svRFZQ130kTaaVC44DKwTyWvugESBJXp3dFZu3B2ztPIugYbjAxmgVCNcKepTGSEMqGjOmgKBz9yuTsFRqCxWsIJkTpKtK1WlGYQTLn3IXcrZU=&pass_ticket=H0LPBUpnyPRbYcYxfO6FsF26Ne42RhOAPby7OumQHlfoQhfh+Z4iwgzxRx7vq3bc&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/58dc922e-1d56-4ab5-b05f-7f2886771332/58dc922e-1d56-4ab5-b05f-7f2886771332/)

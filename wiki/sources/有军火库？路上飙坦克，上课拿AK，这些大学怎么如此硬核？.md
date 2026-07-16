@@ -250,3 +250,9 @@ guid: f64d0fa7-cdd4-4c0d-bae5-1652a4db163c
 祖国终将选择那些忠诚于祖国的人，祖国终将记住那些奉献于祖国的人！
 
 ![](attachments/89be5f4e51befaf3.png)
+
+
+---
+
+[🌐 原始链接](http://mp.weixin.qq.com/s?__biz=MzI2MTA4Njg3Ng==&mid=2652898876&idx=1&sn=071683abf54ffeab6d2c0355a7bd894b&chksm=f18b6dcfc6fce4d97613e979d17b6ba6f75daac2db1508001e66c0c26472c6657ebc1a4f6478&mpshare=1&scene=1&srcid=1128G1FoKQYS7QjuNrZA9v5U&sharer_sharetime=1669594246336&sharer_shareid=ee47b9411760e9070f0b59d8d8655fa1#rd)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/f64d0fa7-cdd4-4c0d-bae5-1652a4db163c/f64d0fa7-cdd4-4c0d-bae5-1652a4db163c/)

@@ -89,3 +89,9 @@ OriginalGEORGE陈果陈果George
 于是，我现在就在苦练上门做菜的基本功，坚信AI 时代不会失业![](attachments/792481319ad9ab73.png)
 
 ![](attachments/afcb30c1799697e8.jpg)我在供应链论坛的发言调整到了下周四（23 日）大会开幕后的第一个发言，欢迎大家来听我讲智能体式高级供应链计划创新：![](attachments/d288e220057501e0.jpg)![](attachments/395edb18e95f47e1.png)![](attachments/ded3bcd73403a64b.png)
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzI5MzMzODE5MQ==&mid=2247500535&idx=1&sn=d80fc82b15a492db38503fc4f37ad3df&chksm=ed263602caaf37260a66eedaab98d4d44860a36bc72b4363449c65cf1f90e24952a29da8a074&mpshare=1&scene=1&srcid=042755KykknXRUzN1smVbyzk&sharer_shareinfo=a982fc32232f250653a27b4ab8ac2525&sharer_shareinfo_first=a982fc32232f250653a27b4ab8ac2525&from=groupmessage&isappinstalled=0&clicktime=1777246699&enterid=1777246699&ascene=1&devicetype=iOS26.4.2&version=1800472c&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQBWnI9t7ayt9QNPJXtaPvCxLoAQIE97dBBAEAAAAAAM95AVwzNXUAAAAOpnltbLcz9gKNyK89dVj0GTClFNLmHCqt3/DmxpdBs/6dzvcnXkNrTlP9tojB1zHCmyd16gUB+lZqALZEQbLKVkR5GJ+u3HJmALkZ0jvtK/7frlpLf6uiEiOvkhoerIwWE2u1OyOIjIIO9+J99H+ZSlLbOhHl78/ExXZEOxQ/TS5ArMMXvzUR/XLc7u+2v2koW5POny1GsXHKj9n8FtZH5vHOwT2ZQj+3C562dIdjKFp/c0z2n6BCja8ESENaiitX7Ng9WKDGJx7SNjmnQzmjX+o=&pass_ticket=5G3h9AGn+hlT91Cq8prrMryGAOjgNnIdzYGKWMZ/VdHwnSoCnq/jPkvmp9fvdluA&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/07e1ce93-9524-4b09-be2a-567c07077428/07e1ce93-9524-4b09-be2a-567c07077428/)

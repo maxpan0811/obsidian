@@ -95,3 +95,9 @@ Original蔡荔 蔡荔谈AI
 *企业 AI 落地的人，要从"API 集成者"升级为"能力翻译者"*。只会调 API 的人会越来越便宜。值钱的是能判断模型边界、设计工作流、做评测、把能力嵌进业务流程的人。
 
 那些去 Anthropic 的 CTO，不是因为 MTS 更高级，而是因为那个位置离新一代技术杠杆更近。这个判断，在硅谷成立，在新加坡和中国的技术圈，同样成立——而且时间窗口，可能比我们想象的更短。
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=Mzk0MTY4MjE4OA==&mid=2247490936&idx=1&sn=603ee64a2fbc37eccaeded4516c7527f&chksm=c3e445ee3d734a15ed7b9236700cabcad850045ce073edea7b696927864434dcf72e4e95590f&mpshare=1&scene=24&srcid=0507XmlQqK1WOjAGJTHor0Wj&sharer_shareinfo=324d72a7f9d85437243012c68fad93aa&sharer_shareinfo_first=324d72a7f9d85437243012c68fad93aa&clicktime=1778217940&enterid=1778217940&ascene=14&devicetype=iOS26.4.2&version=18004921&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQt8FEDgcwq9pNrqd+RC6ovBLVAQIE97dBBAEAAAAAAFCrOudVeB0AAAAOpnltbLcz9gKNyK89dVj0kQ73/VhRZ2HTMKJ7aFVE7zgysQF+vIpgOqGQzlMnkNdP8OV3XXNy+SjfG3eGTLXr4CYtxmJ5FIPerzEZ9Q0mgl28J1mEJvt8YG37ZF0Hh7eiI3hKucSZkGNq/rujmDOFtNdL9sql1M33AZRN5yr5jnj+3piGSP+AImHRC5xSag88OUHFZ5lyIgbfwAPeaLegVGz2wr1wUd4iFSAIosoohUNaaejoyYRiTmIKHRzQ/A==&pass_ticket=3UBOL02jkWu0+8pHaHRB3r4yMYob+dWjm6A+nM5Uq6hxa4MOIbwvsBNPi5eplPFg&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/be693cf4-d209-4d80-8820-0b13bfdbbcd5/be693cf4-d209-4d80-8820-0b13bfdbbcd5/)

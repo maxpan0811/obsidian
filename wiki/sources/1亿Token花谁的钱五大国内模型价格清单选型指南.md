@@ -331,3 +331,8 @@ Kimi 有编程订阅套餐，但不是按 token 总量的模式，是按 prompt 
 [11] platform.minimaxi.com/subscribe/token-plan: https://platform.minimaxi.com/subscribe/token-plan?tab=individual\_\_yearly  
 [12] platform.xiaomimimo.com/price: https://platform.xiaomimimo.com/price  
 [13] bigmodel.cn/glm-coding: https://bigmodel.cn/glm-coding
+
+
+---
+
+[📎 在印象笔记中打开](evernote:///view/207087/s1/51623a31-25c8-4e8b-ae11-cc2a85f66ce3/51623a31-25c8-4e8b-ae11-cc2a85f66ce3/)

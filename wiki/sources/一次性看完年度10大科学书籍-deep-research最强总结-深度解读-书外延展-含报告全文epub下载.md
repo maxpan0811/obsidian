@@ -290,3 +290,9 @@ think like a scientist
 （我先自问自答：《何以为鸟》，已经京东下单，买来送给家里小学生🤣）
 
 阅读原文
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?chksm=eb8c5b8fdcfbd2991f1e6b7b87c1a1aa046f7bac833eaa0591bd4cc16c7b292ba2d98f20e647&exptype=unsubscribed_card_recommend_item_heat_tlfeeds&ranksessionid=1740924403_2&scene=169&mid=2247493384&sn=5638fda5652f12cbcbab2a2457af67c9&idx=1&__biz=MzI4MzE2MDA0MA==&sessionid=1740924065&subscene=200&clicktime=1740924749&enterid=1740924749&flutter_pos=26&biz_enter_id=5&ascene=56&devicetype=iOS18.3.1&version=18003835&nettype=WIFI&abtest_cookie=AAACAA==&lang=zh_CN&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQhY5AwOOQXZ9A121ZpW2CzhLYAQIE97dBBAEAAAAAAEZCBHjR7PAAAAAOpnltbLcz9gKNyK89dVj0X9Hr1nxSjYBYO/37k34EEdakurvVveuRno9oc1N1o9EbL/R7SYDFBA6+AGF+i2O94gcdMyP9/7GAFMs5p1DzPRiynWsUZL1EwZT77+TQ4YOl2MLvnlDIlvRSYp8qdVCQik1ibbk+srw/TaJwFTydtFhM+N59OrKrpJpJWn5URxUVKRXyo4shMGzbU9IsEtcNPUqF0LVyYWXL32qa7ACWCtO9mzzjz7frwawydEVneS1tmw==&pass_ticket=z/VmkiB86rEkD+jXUV40t5oFnkeytTm4dqZwoOwCJD3Yfw71t0nzXRUQlcr0tDLE&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/35804648-8d55-464e-b08a-d1fb2441e33c/35804648-8d55-464e-b08a-d1fb2441e33c/)

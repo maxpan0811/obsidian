@@ -172,3 +172,9 @@ Gemini CLI不是Claude Code的替代品，它是一个免费够用的选择。
 如果觉得有用，点个**在看**和**赞**吧 👍
 
 关注公众号「AI留明」，持续输出有价值的 AI 内容
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzU2MTA2NTIyNg==&mid=2247485174&idx=1&sn=b8c9c915f1e434b297c882b6306f8c32&chksm=fd62c26b69e31e1fb02642e3e54b2f3ac0ced0e95b3a87bc14ad8003d08ff0d5357e13a921c7&mpshare=1&scene=24&srcid=0608ALon9WiBTz72o7OWuseG&sharer_shareinfo=a65f71617ee74c10fefe00888aa3716d&sharer_shareinfo_first=a65f71617ee74c10fefe00888aa3716d&clicktime=1780890669&enterid=1780890669&ascene=14&devicetype=iOS26.5&version=18004a29&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQ3DXoOi6jZqpr07ePfrqU6xLGAQIE97dBBAEAAAAAAJyyNmna+hEAAAAOpnltbLcz9gKNyK89dVj06N4EKB7USJxkyqqrrZUjHXLYTlMDHK8zXTBkwLFuag6Qzd9xQfsft1FlXPa7lrvF1EXtfYDk5y63dfkpOrOQkSB8pfVxpKrRPCxTJLONLPiujpGV4xPN+ddxcIchI4LLMbW04NrnMKR5AtGRQlEg/9/ko3XygpxWI9lr6lN4RlSoKEZf98hi7bejm2blh8g/dxAy1v9SVJE6Lx2DCEtAhA==&pass_ticket=FkB4tLBqrlr44Co9/w0bzXA9ntMRaH71LNgCzZnB8c7NbHJsiZvcAPSH4Ps6gr9j&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/79003b88-8274-417e-8d2d-1b9d5a40b838/79003b88-8274-417e-8d2d-1b9d5a40b838/)

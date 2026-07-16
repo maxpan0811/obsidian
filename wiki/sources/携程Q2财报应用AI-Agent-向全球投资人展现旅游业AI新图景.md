@@ -88,3 +88,9 @@ AI技术正在多个维度重塑旅游业的未来。携程持续加大技术研
 ![](attachments/b5e3ea1e38581ea6.jpg)
 
 ![](attachments/a4281c8a2c8da94c.jpg)
+
+
+---
+
+[🌐 原始链接](http://mp.weixin.qq.com/s?__biz=MzIyMzM2NjIyMw==&mid=2247507885&idx=1&sn=f0bd7c31cdf722162a20f79a50d1d054&chksm=e9da2f161cfe824b7522268926213bc8d441cd1b6b98561aa2dd336acc64421718542c1ec746&mpshare=1&scene=1&srcid=08272YBy4ZK8AGmQGgyV8XNA&sharer_shareinfo=04f6199c09019c750316d51101a31119&sharer_shareinfo_first=04f6199c09019c750316d51101a31119#rd)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/316a405d-320e-403b-9bad-d38a3a38e00b/316a405d-320e-403b-9bad-d38a3a38e00b/)

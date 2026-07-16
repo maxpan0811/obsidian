@@ -182,3 +182,9 @@ Tolaria 基于 AGPL-3.0 协议开放，感兴趣的同学可以去 GitHub 仓库
 开源地址：https://github.com/refactoringhq/tolaria
 
 既然看到这了，欢迎随手点赞、在看、转发，也可以给我个星标⭐，接收最新的文章，我们下期见！
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=Mzg3NzU0NzIxMA==&mid=2247512135&idx=1&sn=b915ae797c338f3ad276c45e5d211a8e&chksm=ce39c26d674060070e99f23810ac3359d4dbc8e8eca21afb27c88f34428f08089b4ae979b9a5&scene=90&xtrack=1&req_id=1778928837201035&sessionid=1778928814&subscene=93&clicktime=1778929178&enterid=1778929178&flutter_pos=15&biz_enter_id=4&ranksessionid=1778928837&jumppath=20020_1778929129883,1104_1778929142487,20020_1778929146394,1104_1778929166423&jumppathdepth=4&ascene=56&devicetype=iOS26.4.2&version=18004929&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQ2LevqKigSC2QL04qm2w7bRLVAQIE97dBBAEAAAAAALVaEigrL50AAAAOpnltbLcz9gKNyK89dVj09cXwTKnSu1TXYTGeHhv/sJtBHLndQyoNrQN0UGXhq+npkiCMPK+Tsz1mJwRaw/DtotN1yJAMYt0P+i/vYOCH33ZXV2+xDzSNd7KEVATaepXOcOjsWoXClgb1+s3W6eL9Pc8iWQQYifHp8fC05irYJMaMiDGScrvZg438xv8CqN0PYPj8x9guXKdIZrw1K0IYQpzGOaf3ZA2xr47vTRJMzO6ue45/gyANS692QnkqVw==&pass_ticket=i8z4+aU74ia6MlXZXvlNgLIV++BRdp9CaCm/cuIOQTnLbWVpePySsCOgBPZuyW+V&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/13a8f42a-b4b2-4ed7-98c4-8d33458e552b/13a8f42a-b4b2-4ed7-98c4-8d33458e552b/)

@@ -158,3 +158,9 @@ Codex负责把学习过程工程化。
 #AI#Codex#ChatGPT#AI学习#学习方法#知识管理#个人成长#效率工具#AIAgent#终身学习#提示词#数字化学习#生产力工具#知识库搭建#自我提升
 
 Close
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?ranksessionid=1782032740_5&chksm=9055c6caa7224fdc9ded98e55143b6550b0f07ea1df079cc6a4e1c57e8ad8b8182552b810e39&exptype=masonry_feed_brief_content_elite_for_feeds_u2i&req_id=1782035209366580&scene=169&mid=2247485065&subscene=200&sn=3dc38b6cb70c4620c81f7ec82173e162&idx=1&__biz=MzA5NDA1MDYwNA==&sessionid=1782032739&clicktime=1782035624&enterid=1782035624&flutter_pos=0&biz_enter_id=5&jumppath=20020_1782035602298,1104_1782035602923,20020_1782035607344,1104_1782035621843&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=18004b28&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQGAgvwBmRR57bO56eJiYvPhLTAQIE97dBBAEAAAAAACsJMAssLs4AAAAOpnltbLcz9gKNyK89dVj0KsW1O9cmtsxerwGLVRkqBCQJKBAp8SqeV2g3RxYW+MAixG9AYEKfbpg2CRumrRywakGyaazb91MALPuPbBObGlzLTCDJ6ia7hDifEeIskvBvvCWoQrgZ3gghc1bK6r5mLyCu3B7r7oDQR4u14/y1y6uJ0lj25C+QLzdKHwFBp+7O1+/IRiIny2QpxueTexltIA9Pcd2GX0Tpq2JdJZwFunw5rAtuCdsUqHs5h/I=&pass_ticket=4Rg2ue048yUm3VCLzkDCoFYUeU8qpbo3ESwcX8wt8OSBBG9tsIkUA8EpNGcju3Mk&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/bbc6393a-b85b-4f71-ad7f-65e8e9175daa/bbc6393a-b85b-4f71-ad7f-65e8e9175daa/)

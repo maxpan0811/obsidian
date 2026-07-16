@@ -198,3 +198,9 @@ guid: 5f27ca75-d375-465d-abbb-e0b119750b2f
 我是一个现实的理想主义者，欢迎和我来喝杯咖啡，闲聊创新产业经济那些事儿。
 
 [![](attachments/8d634712348818b9.jpg)](http://www.iheima.com/wp-content/uploads/2013/07/1314.jpg)
+
+
+---
+
+[🌐 原始链接](http://www.iheima.com/archives/46876.html)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/5f27ca75-d375-465d-abbb-e0b119750b2f/5f27ca75-d375-465d-abbb-e0b119750b2f/)

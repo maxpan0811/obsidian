@@ -327,3 +327,9 @@ BERT在这项基准任务中获得了近似人类的表现[31]。或许我们能
 ****7.**********[加入集智，一起复杂！](https://mp.weixin.qq.com/s?__biz=MzIzMjQyNzQ5MA==&mid=2247659079&idx=2&sn=bb67a4c87c48119faa8134c2f2b5a27d&scene=21#wechat_redirect)******
 
 **点击“阅读原文”，报名读书会**
+
+
+---
+
+[🌐 原始链接](http://mp.weixin.qq.com/s?__biz=MzIzMjQyNzQ5MA==&mid=2247662833&idx=1&sn=01542cf4303b84fb21746e5e2a230dc2&chksm=e899267cdfeeaf6aa5505dea35f86b3fbbbb06d06b279b4ea40b5af4b2e28e1f0bbc4240b994&mpshare=1&scene=24&srcid=0421Jj24jtHomNHvLO9VE1qQ&sharer_sharetime=1682029303152&sharer_shareid=ee47b9411760e9070f0b59d8d8655fa1#rd)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/79f5dcc9-ea30-40a1-b9b0-2c8b89f898c1/79f5dcc9-ea30-40a1-b9b0-2c8b89f898c1/)

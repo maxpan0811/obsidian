@@ -100,3 +100,9 @@ GitHub 项目地址：*https://github.com/siyuan-note/siyuan*
 好了，今天的分享到此结束，感谢大家抽空阅读，我们下期再见，Respect！
 
 ### 往期热文
+
+
+---
+
+[🌐 原始链接](http://mp.weixin.qq.com/s?__biz=MzIwODkxOTA1Nw==&mid=2247497849&idx=1&sn=6b27c114a6418dc712cc8647c7ee38dd&chksm=96e04b52993a2db56a0ebb49b13909ac46231a291683904b089cae453d252724abf288b319f2&mpshare=1&scene=1&srcid=1121zEC5VrRNWlRGrt2LbIEC&sharer_shareinfo=f9b99dfa1b72c3d3ea4f78b5d00434c5&sharer_shareinfo_first=f9b99dfa1b72c3d3ea4f78b5d00434c5#rd)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/bb20e3a9-8ddd-441d-9948-4f6f2ccd1d23/bb20e3a9-8ddd-441d-9948-4f6f2ccd1d23/)

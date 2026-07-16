@@ -19,3 +19,9 @@ tags: [印象笔记管理工具]
 
 ## 相关页面
 
+
+
+---
+
+[🌐 原始链接](https://sspai.com/post/56303)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/729fb290-f78d-438d-9cd1-12fdfc8c7ff3/729fb290-f78d-438d-9cd1-12fdfc8c7ff3/)

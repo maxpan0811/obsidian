@@ -228,3 +228,9 @@ p.s.目前，接入DeepSeek的秘塔AI搜索已经上线网页版，APP稍晚些
 使用地址：metaso.cn
 
 — **完** —
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247775469&idx=1&sn=dbcd10ba5ef812e88388833b98a387db&chksm=e993be482edf2351a9d15da0c0039037e6bab9241b76d1c90a8366255d9f5658814ba8bec616&scene=90&xtrack=1&sessionid=1738592682&subscene=93&clicktime=1738592824&enterid=1738592824&flutter_pos=3&biz_enter_id=4&ranksessionid=1738592682&ascene=56&devicetype=iOS18.3&version=1800382d&nettype=WIFI&abtest_cookie=AAACAA==&lang=zh_CN&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQZcBqeOmuxi6vtXII2FSa1xLWAQIE97dBBAEAAAAAAJwfKcW7ZCAAAAAOpnltbLcz9gKNyK89dVj0oimLSyMVkHWGRnce/Qh1zWqOa3asERdGSCYC5pqPXfFwWIMEUmRDpve+lwkZ8nieoHV+SiYMcOw9yh7r+mvyd9XuQIJqoQwN0duzE7ACN5Uje7AZ1L5pB7BNU/Ua1/moVM9kYqpGdt4gMH+/fVpSnFnPAKlUcElGKnQ8DAVrcVzYx88meYxBn9+KAyAhuq/F+EPUKBYv/97TwDsYQAwJVtgIymZNQu26Trvxg8hL+lU=&pass_ticket=rQpYr0RAIV2VxZdw9VexClAm/L+qlrDsbscoKQxLkmu/8paL7002Sth3tm4giI/M&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/c8972cda-43ea-42e7-ab77-7f68242b6998/c8972cda-43ea-42e7-ab77-7f68242b6998/)

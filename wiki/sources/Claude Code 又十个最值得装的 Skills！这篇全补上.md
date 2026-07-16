@@ -200,3 +200,9 @@ Claude Code 的上限，从来不是模型本身决定的。
 你给它配了什么，它就能走多远。
 
 [实现基于微信OpenClaw插件的主动消息推送](https://mp.weixin.qq.com/s?__biz=MzIzMzQyMzUzNw==&mid=2247514539&idx=1&sn=0c551c01ca14d0d7eb214ec6e89495a1&payreadticket=HMkaf6tumAOjSc0DgbOtbN1XUuT9_UUvKP2_vwEXxpyQoL14zuDgzGJ6Gp1fBEeBhkypKFk&scene=21#wechat_redirect)
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzIzMzQyMzUzNw==&mid=2247514547&idx=1&sn=823a2521c8f96000abaa142b80242308&chksm=e9fa5433646461cd5c685c12823e5486b3c53628bb2bcf65733b6fff8abc9bf72728993abcb4&mpshare=1&scene=24&srcid=0611BhxuPfhFQoG1tq5WBL1R&sharer_shareinfo=dddc77f90b5f6b48c2045fcc9abf226f&sharer_shareinfo_first=dddc77f90b5f6b48c2045fcc9abf226f&clicktime=1781182860&enterid=1781182860&ascene=14&devicetype=iOS26.5&version=18004a2b&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQBTaAGiEM0VB29glcAACgTRLTAQIE97dBBAEAAAAAADpOA2ZdQSQAAAAOpnltbLcz9gKNyK89dVj0usWosJl+jEKochEtmjMGz4p7VIS5Bv9ri9jOyAXTxceJ2Ma09pcsRxJsdDPScv8G7PbOj/fmxqctYXOo4WwJOCZ2un3QxJWOoA11CFnqTLd/Hq/Q5DWAsNuseD0FeoiC1GBqhyR2K+YMg1mxRPTQBfTgyEPYz/KHo/X4P6q9ADgoSmciPRtfJbXsicGS4L+stma2ZysmQcpCq8anyVUn5jcRpBZbmn8fB2fMRfk=&pass_ticket=o3pCpEIE9pWKt2pnfitGWac19X2bUiDaNJq3xqGg0m/WVaiCCEytY9y48nc9UzEq&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/e985ff84-2f85-4cc9-8974-393639f5a878/e985ff84-2f85-4cc9-8974-393639f5a878/)

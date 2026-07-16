@@ -191,3 +191,9 @@ https://huggingface.co/spaces/Qwen/Qwen3-Demo
 毕竟，做技术的驾驭者，要懂得 `在现实约束中寻找最优解`。
 
 ---
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzA4Nzg2NTY2Mw==&mid=2247485200&idx=1&sn=fe9396d11faee3c945e81efc7691167a&chksm=91ee5b9fe73b05e98a5feadc87364ba911df0768c05810ec120bf4ba903a0b8c2cf964b91b0a&scene=90&xtrack=1&sessionid=1746008839&subscene=93&clicktime=1746009314&enterid=1746009314&flutter_pos=8&biz_enter_id=4&ranksessionid=1746009068&jumppath=1122_1746009292818,20020_1746009299089,1122_1746009301238,1104_1746009307894&jumppathdepth=4&ascene=56&devicetype=iOS18.4.1&version=18003b24&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQkNjwBYMU/VgO2govXWXHnhLVAQIE97dBBAEAAAAAANxbAgecyuMAAAAOpnltbLcz9gKNyK89dVj04pt8u0Kc5WBxmHEfyHp8D9G6kHvMHSoagxOinV27O3BryLjv8mgwppeauQNRkXKgT6JUc0BI+EIYwoZIQCfzb6f6xgVktv2ZgtLEGnmGtvs+fOaRTlSGLoahlhOh3umv5k5NTTVUVosWZ277LrFAHdjI7mP5j+ZuD2MRWrOeebJZy2MjNEQw8/putFmLhicQ/CDq64ccSko+4ACD7RlmFXpE474OHGhoQyygb4praQ==&pass_ticket=zxL6GQFll0UaUrCRZaqr4n1B8vgeTgr6Z2U4BzoIEeDTihANFQ+h5SxkTqxyjp3d&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/f11800e4-be2f-41d7-a9d9-c162818cab7a/f11800e4-be2f-41d7-a9d9-c162818cab7a/)

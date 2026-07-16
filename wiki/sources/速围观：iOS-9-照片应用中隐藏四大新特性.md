@@ -31,3 +31,9 @@ Twitter Share Email Save…
 
 ## 相关页面
 
+
+
+---
+
+[🌐 原始链接](http://www.feng.com/apple/news/2015-06-13/Speed-onlookers-iOS-application-of-9-photos-hidden-four-new-features_616500.shtml)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/ee9aa872-9792-497d-82ea-dd7893596f58/ee9aa872-9792-497d-82ea-dd7893596f58/)

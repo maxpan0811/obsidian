@@ -75,3 +75,8 @@ Agent 模式： 教你如何调用并行 Agent 处理复杂工作流。
 🔗 开源仓库：https://github.com/carlvellotti/claude-code-pm-course
 
 🔗 网站地址：https://ccforpms.com/
+
+
+---
+
+[📎 在印象笔记中打开](evernote:///view/207087/s1/804f33cc-2771-4799-85e2-ee454d0e4893/804f33cc-2771-4799-85e2-ee454d0e4893/)

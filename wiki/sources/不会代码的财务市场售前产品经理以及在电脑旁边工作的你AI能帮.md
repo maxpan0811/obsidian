@@ -327,3 +327,9 @@ https://github.com/NousResearch/hermes-agent
 不画饼只讲落地
 
 每周一篇 · 写给所有「想用AI但不知道从哪开始」的你
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzYzMjY1OTI0MA==&mid=2247485307&idx=1&sn=2dcd2603322b04376d73a067f99dd4a9&chksm=f1882b3177780b20c7bf46c3d2ea739fb214344144413407e095a4b4185f79fadce8b5bfbab1&scene=90&xtrack=1&req_id=1780018955986941&sessionid=1780019076&subscene=93&clicktime=1780019092&enterid=1780019092&flutter_pos=4&biz_enter_id=4&ranksessionid=1780019020&jumppath=1001_1780019038377,1101_1780019040159,1001_1780019074667,1104_1780019077588&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=18004935&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQtXxAYx2XZ1+v7fzRr0CSPxLTAQIE97dBBAEAAAAAAPotKAsE8uwAAAAOpnltbLcz9gKNyK89dVj0XE1uKL43RCEuKTxu+RuNcU3ILX1QtE8D8M2PY/8XC5W6WJy4WQQEMExa+wTdv9fnGgccuY5gBB7VouCsdSmDzk+DnwPGEQR05HsjMZHlA0YDBWci6tzCbWPM0wM/sOa1ynFsUSu6p0kS+M4n3rxcxM9sXfl0qRye+DZv4hr/5ltpveARM11V5wfynq+u/O+1nXU4/2va7darxf9FFt4qfj4SSKOlZKJ4hJEMKEE=&pass_ticket=ToarEsczTayyJFGL3CyVdQj3V2vE3p5numqutylnF5SY55hwbpZ/Gmu9Et3pDRS6&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/2a84db7d-ddd8-4094-98e5-f162be6074a7/2a84db7d-ddd8-4094-98e5-f162be6074a7/)

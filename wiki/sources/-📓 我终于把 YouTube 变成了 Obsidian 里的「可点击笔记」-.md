@@ -51,3 +51,9 @@ github.com/leoyang1984/obsidian-lumen-youtube-public
 #Obsidian#笔记软件#知识管理#效率工具#数字花园#英语学习#第二大脑#插件推荐
 
 Close
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?ranksessionid=1782032740_2&chksm=f13b9bf7c64c12e19a2a90623e68ec5c5fe7097b3832bcd2899ae1c18a2c60db84782f50c287&exptype=masonry_feed_brief_content_elite_for_feeds_u2i&req_id=1782032746321263&scene=169&mid=2648669274&subscene=200&sn=1cff8394eeb9fe142cb5526105e9cf8b&idx=1&__biz=MzI0MTEyODEzMA==&sessionid=1782032739&clicktime=1782034482&enterid=1782034482&flutter_pos=0&biz_enter_id=5&jumppath=WAWebViewController_1782034451159,WAWebViewController_1782034451675,20020_1782034478722,1104_1782034481197&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=18004b28&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQmzDyxKJnGnkD14kkPt65RhLTAQIE97dBBAEAAAAAAN2qGV5YTWUAAAAOpnltbLcz9gKNyK89dVj0yhOudfB7G/uXf2GaahXWGnxq2itqyL+Qk6nAIcXUsEblh1kvRMt638UNXbB3HaedyEdfVD3/WGj2qEOkfPrDdBV2uRHsDmBtdi25c9QN8hh/nfVamONLbZEXiHoo0T/LIcTGqXvi2P5mJXP1NibEwyUIB/clOeJkBM+hTtf+TX6uvdR+J38dAydi02CvPWilfgfG5YQAijcTcXWNI/vWeDLq80rflrykYnXlQqQ=&pass_ticket=Qo/VEtzTyLs9Qn8qpcAuVNsSX0xRzlXScUGfAB+lWL7qXDl5+5JRNV25YebiEUSs&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/67625ce2-4aba-42a4-ad53-a2dbbd07b76a/67625ce2-4aba-42a4-ad53-a2dbbd07b76a/)

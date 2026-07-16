@@ -431,3 +431,9 @@ guid: 2dc8834a-0493-4cbb-83a2-017f4cdd8128
 只有人民
 
 才是创造历史的动力
+
+
+---
+
+[🌐 原始链接](http://mp.weixin.qq.com/s?__biz=MzIzMTE3ODM2NQ==&mid=2650368881&idx=1&sn=30641f6e0595dfa4238917803b4e8b29&chksm=f0a5e263c7d26b75323af7122b94fd135c75189168102f7b1cc710f746ac6a03259707935a54&mpshare=1&scene=24&srcid=0711AIA9uJonN4JWInvEamwb&sharer_sharetime=1594451233437&sharer_shareid=196a7290cec677abfe41ca4bbe251b79#rd)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/2dc8834a-0493-4cbb-83a2-017f4cdd8128/2dc8834a-0493-4cbb-83a2-017f4cdd8128/)

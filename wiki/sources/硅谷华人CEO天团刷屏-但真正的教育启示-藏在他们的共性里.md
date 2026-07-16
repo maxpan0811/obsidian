@@ -262,3 +262,9 @@ Macro Polo《全球人工智能人才追踪 2.0》报告截图
 **提供内容线索 |**微信：waitan2022
 
 **转载&合作 |**微信：waitan2022
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzkwNjAyMzkxOQ==&mid=2248286077&idx=1&sn=f1116cca463dc8207fb8827dca5be643&chksm=c2b37903b6205b8a92236652e5618df93db904d215272cdc29f5aee9bb8d8d9cbea8afdff365&mpshare=1&scene=1&srcid=0410dCL1wCri9famJ0iUowes&sharer_shareinfo=56fd051aba96730b25d2f39ecd99b712&sharer_shareinfo_first=6592202fe53b92b7a8cd3ee798896602&from=groupmessage&isappinstalled=0&clicktime=1744248014&enterid=1744248014&ascene=1&devicetype=iOS18.3.2&version=1800392f&nettype=WIFI&abtest_cookie=AAACAA==&lang=zh_CN&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQmNb7kgovmtjcNuaQGZvydhLaAQIE97dBBAEAAAAAAAlQGmYFRBoAAAAOpnltbLcz9gKNyK89dVj04608s2rIVSsoaZTqH6yYeLPVfgiHQNBEB9/puRcO9YPdtOL+OVHcJ5JQgQo7W7oeD8bbUFriLIbmR+K8ogByGa1swM7oKH5fGr4ZtAxB9tq/PqGSTXscRBALtdHbGFkX9i+dW2eEEDN7imXd/j/m9YqtX9MIfLKKe31XbKZTZYat2p0ZkeAumG9G6He31HLfTSPl4E/QisqzRdI0rVWOsI0kcJ4BlZ/dHzaNPhTAPcp5hCy9&pass_ticket=+VoF9KaP3KHIRZscSDs0rJ5TnmutBlEzQHjlmjx/AiHr3ywRc8R0aU7cgFjfGs54&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/4e2097cc-6d1a-4e53-b9b0-d7554d44e047/4e2097cc-6d1a-4e53-b9b0-d7554d44e047/)

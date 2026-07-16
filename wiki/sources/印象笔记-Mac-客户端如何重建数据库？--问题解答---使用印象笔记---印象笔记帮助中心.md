@@ -23,3 +23,9 @@ tags: [印象笔记管理工具]
 
 ## 相关页面
 
+
+
+---
+
+[🌐 原始链接](https://help.yinxiang.com/hc/articles/63163?api_name=)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/5c2b6bf2-67ec-4ba4-8e25-fd82c3a83fa4/5c2b6bf2-67ec-4ba4-8e25-fd82c3a83fa4/)

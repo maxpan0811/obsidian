@@ -97,3 +97,9 @@ Original 拾柒 DUNDUN册页
 - `Ctrl+Enter`（或 macOS 上的 `Cmd+Enter`）：新建一个包含所选文本的新笔记。
 
 个人观点，仅供参考
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?chksm=c0f531f5f782b8e3fdc7651656cb133011fd425c7eebd2406da8a49d795ed8166888af8b7d7c&exptype=unsubscribed_card_recommend_article_u2i_mainprocess_coarse_sort_tlfeeds&ranksessionid=1746149593_1&scene=169&mid=2247484693&sn=7b2274142f4df9fc01504012f1377f07&idx=1&__biz=MzkwNTY1MTU5OQ==&sessionid=1746146959&subscene=200&clicktime=1746149852&enterid=1746149852&flutter_pos=18&biz_enter_id=5&jumppath=20020_1746149601249,30024_1746149617281,20020_1746149699766,1104_1746149830746&jumppathdepth=4&ascene=56&devicetype=iOS18.4.1&version=18003b25&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQciDbbtv0UZhLdELOMoPkLBLVAQIE97dBBAEAAAAAABnyCmXBSx8AAAAOpnltbLcz9gKNyK89dVj01Y9VPOxKJd8ZPFgvywkVFOb1qMi7T0vEROJflW9VhJaWlqgD7zpYmV+VhMFj0E6AcjL8LU0RGn7FooK4qSB2vpEtZ+BoE36O6B1PsRzdQhZk7l1IDVKUYDiAN0tJIVj+n5MFPZ5UJYEgS9TpX0wSDXr/1wxRWgp8b6kjOtqNVoeBHBGsNo3GUU4Sl8F4H4SSh7zrGIXBhLba30j1tfjQT5dMf/Uuyri0IPae2Nbn0w==&pass_ticket=S1i//xzk4q7EHcyW/4J9l+qGqIfCE0WBS/GsHizPs1+CvZc/6kRSW0z/btO31VYu&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/27dc5313-3f52-46c6-aa96-cd8101f9c42f/27dc5313-3f52-46c6-aa96-cd8101f9c42f/)

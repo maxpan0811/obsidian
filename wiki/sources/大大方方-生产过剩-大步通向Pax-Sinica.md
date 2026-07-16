@@ -180,3 +180,9 @@ guid: e7a13df1-6044-4ea6-aaa8-63a0a12a0164
 **扩展阅读：**[路风教授4万字长文《当解放思想变味，新质生产力就被自我阉割》](https://mp.weixin.qq.com/s?__biz=MzI4OTIyMTY4MA==&mid=2247487916&idx=1&sn=cb4a2767bc79c540ebe1e17dce9027ee&scene=21#wechat_redirect)
 
 ![](attachments/e197e6eac989adc0.png)
+
+
+---
+
+[🌐 原始链接](http://mp.weixin.qq.com/s?__biz=MzU2MzAxNDYxMA==&mid=2247487373&idx=1&sn=4c48f5f53eca18bca28bba2d1a49ab81&chksm=fc61f130cb167826bf200a79ce4557216e3b258e018157f974f90574cd9da221e7a1cef99534&mpshare=1&scene=1&srcid=0421KJyGGMf7dvUsehC4XvMh&sharer_shareinfo=c372926c447ee1e0913cafb8ba7c07e0&sharer_shareinfo_first=1f326d7f01bca174b045a8ba3cae2efc#rd)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/e7a13df1-6044-4ea6-aaa8-63a0a12a0164/e7a13df1-6044-4ea6-aaa8-63a0a12a0164/)

@@ -154,3 +154,9 @@ AI大模型方面，这次文石Leaf5+接入通义千问、文心一言、扣子
 文石Leaf5+综合体验下来表现不俗，在保持文石Leaf系列出色综合体验的同时，这次新增了配色和手写笔，同时还优化了屏幕和前光。整体使用体验下来硬件配置、显示效果、系统流畅性、UI交互、功能设计、手写体验和外形配色设计都很优秀，可以说目前7英寸电纸书产品中zui全能的一款，推荐给有便携需求又想兼顾阅读体验的小伙伴。
 
 以上就是本次分享的全部内容，我是二狗，咱们下次见。
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzU5NjUwMTQ5MQ==&mid=2247506052&idx=1&sn=d3be174d5acd7477fbb8016037e13883&chksm=ff275967158c145ac22097e74105e0e52d51f58a136dd1ec85679f3bff883cfbfab64124891a&scene=90&xtrack=1&req_id=1776419147911276&sessionid=1776414903&subscene=93&clicktime=1776419393&enterid=1776419393&flutter_pos=16&biz_enter_id=4&ranksessionid=1776419147&jumppath=20020_1776419218338,1104_1776419228668,20020_1776419233037,1104_1776419388599&jumppathdepth=4&ascene=56&devicetype=iOS26.4.1&version=18004723&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQn/E/qa4/Jyj8k+iYTRmlkhLVAQIE97dBBAEAAAAAAKZ2JStPOm8AAAAOpnltbLcz9gKNyK89dVj0hqe9oEZXyr6ecDbDM4UyvKNc2OMpSFVuady4brTfW1hHpWekyYO7+btgaEZ1COTLhgKf+vLwEAybaJQW56KQ6WcMwzpAKBHXM4NEPteSGaJIZy4jUIVKRI75I9rYnhnd06lAuUSBkHix7zyD3qybF9iAD1pJVD1JT+LyKK+vq/2/CdJZUmQM16w6WAVgzxGvE6DwoTJtC47oQuBAI/IpAoMfY91boLItRoLaaXHDbg==&pass_ticket=vuaZdz+WwbSNDix21tmOyrIUND0Lq6koix7FnnbCpYLyM4U2YauEIibr+hbxKLud&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/6bf78c04-b303-4404-b418-2701f4fda9e0/6bf78c04-b303-4404-b418-2701f4fda9e0/)

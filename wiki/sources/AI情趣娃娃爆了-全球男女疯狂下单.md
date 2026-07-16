@@ -138,3 +138,9 @@ Original 李大为 互联网品牌官
 # **各位朋友，因不可抗力，部分文章被强制性删除。为了不失联，请关注下面的备用号，有些精彩内容会发在这个号上。**
 
 ![](attachments/e34e84e889607d09.gif)
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?chksm=80691667b71e9f718ce8fba6e95d895d97e3152afa40821c10c652dafcb08703e7e90f3b4bfe&exptype=timeline_recommend_article_u2i_highstickiness_tlfeeds&ranksessionid=1753076914_1&scene=169&mid=2653091698&sn=5ddd069cf6dd1a9bbf07eb61d5cd351c&idx=1&__biz=MzAxMTU1Njk4Ng==&sessionid=1753077274&subscene=200&clicktime=1753077476&enterid=1753077476&flutter_pos=15&biz_enter_id=5&jumppath=20020_1753077442092,1104_1753077447822,20020_1753077459411,1104_1753077466841&jumppathdepth=4&ascene=56&devicetype=iOS18.5&version=18003d2e&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQyJ9pQDSWMQcU7fF5op8vixLTAQIE97dBBAEAAAAAAPXeDvIc0KIAAAAOpnltbLcz9gKNyK89dVj0L0vlKkIGjpoZB3UZjaG6uVfbX9jDF9Eds8rV2/yyqKvFDzb12gbHbH0xITDWo1ohwMkYIIDjatFkftfSgX6RkzTeWKwBoVrd5EK1C8hlsH4/SsfdRf34dlZKiXA4mbQgNVVx5rxYjR4W+8jq8PCMdLOqQr3edNdkiQ4PeTAumckwzvd9NwEHgMYkJy+v7/2/BawCehq+ytJUg3hyxEVQzlU+/2hcbp3Z9hCxalg=&pass_ticket=bfvLH+1EcHweUC1qmyBfMMXFryOmRAgeNrtPwyednbtHcVUccEUE2DqeI6EaoQ2D&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/c8c7da43-d340-433b-9850-2d64bf6a2484/c8c7da43-d340-433b-9850-2d64bf6a2484/)

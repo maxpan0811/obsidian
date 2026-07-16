@@ -237,3 +237,9 @@ generate(
 一个关键限制是其受限的输入分辨率，仅为 384 × 384。此外，文本到图像生成的分辨率较低，加上视觉分词器带来的重建损失，可能会导致生成的图像缺乏许多用户期望的细节。
 
 尽管如此，像 Janus-Pro 这样的开源模型的快速出现表明，DeepSeek 已经在 AI 竞赛中定位自己为一个强大的搅局者。尽管目前存在质量限制，但他们推动开放创新的努力无疑让行业领导者们手忙脚乱。
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=Mzk0NjY0MTc0NA==&mid=2247486644&idx=1&sn=4da825c45933b4b54546f4b651dd241d&chksm=c27a1b7c14a4582ccc35ceab23948d512a544f814539bd4630ca5228e802890492b03164b6e0&scene=132&exptype=timeline_recommend_article_extendread_extendread&show_related_article=1&subscene=169&ascene=0&devicetype=iOS18.3&version=1800382d&nettype=3G+&abtest_cookie=AAACAA==&lang=zh_CN&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQmUrZwe1hsa+s7oqkH73VxRLWAQIE97dBBAEAAAAAACuoC4rdJBQAAAAOpnltbLcz9gKNyK89dVj0SxTWqWbwJK3EPa8IxdNFj8W7tqT2PnJmxgjILmICjs4EaHL1wH5nXGnonReRXuNerHAhyL3YdGcJtK0qf8W4YAGLeesppxXUauoRYUKU4LYr58svLupNimR7ZSjzUscxIMcfJ3ACC88HY3w+MYnI+2lJIHLfBzfedTUtHUy5iYfKOfojgbhAcPJJZR2xFXws/TDmCjJDUzPG0r2KExu3kNorOjCNQE96008TsZuhIRg=&pass_ticket=AsB8BpomGKIOU09UD4GyELghYxl3k/f7bmMckPvg+fb+CVO7He6oVi3BL6NLzo+o&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/8bd56482-426e-48a3-936e-8ff2bf5dcd1d/8bd56482-426e-48a3-936e-8ff2bf5dcd1d/)

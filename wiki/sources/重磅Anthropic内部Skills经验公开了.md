@@ -235,3 +235,9 @@ Anthropic 在文章结尾提到一个细节：他们内部最好的 Skills，一
 原文链接：https://claude.com/blog/lessons-from-building-claude-code-how-we-use-skills
 
 ***一起“******点赞******”三连****↓*
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&mid=2247723318&idx=1&sn=39d853bbc8aedef524f0adc4fdf0bdd8&chksm=e911f041d421bb9d0cec89ddb4bfe81421f1df0302ee4e1e72ac49dc53193b7aa4e2ea7b62c0&scene=90&xtrack=1&req_id=1780890496657177&sessionid=1780890560&subscene=93&clicktime=1780890604&enterid=1780890604&flutter_pos=1&biz_enter_id=4&ranksessionid=1780890496&jumppath=MMSnackBarWindowViewController_1780890596430,1104_1780890598117,MMFlutterViewController_1780890599400,1104_1780890600777&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=18004a29&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQ/P64KX7pzI5G8SeHQzdihRLTAQIE97dBBAEAAAAAAHf/GFPicCQAAAAOpnltbLcz9gKNyK89dVj0w0FfB395sH68aKhBsCYc+9Q3cg8IACxaOPi/invprfFkWOA2tnioYjO0IuQhIrgAIDQAOQ2FGevEqiFuByBGbLyE1sw3jyv9/jCetjEiniC2hAEqe7t/0UHTsGJkXDSsf1VQ0nw7FE1LIYcqN2ocFcUZu/uwWzBuGSGMtGZGDB5nRBA5069cB0611y9nKWPQQmvmDG4PdEgGiDQGcItm2UEVc3qpSGvSoxhypwo=&pass_ticket=sljSI1bk3nJvQqIi1vViC10Q2hEBv6Q0+Ii+YHXkGUUt2yHj23vntRBjuvT9uSaG&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/bb711b95-35a3-4360-9035-72ebe1ea8de8/bb711b95-35a3-4360-9035-72ebe1ea8de8/)

@@ -172,3 +172,9 @@ https://www.stat.gov.tw/ct.asp?xItem=46902&ctNode=497&mp=4
 尤其目前两岸局势的走向，尤其是台独势力勾结外国势力谋独的步伐从来没有停下来，也许哪天统一大业会因为形势的变化而不得不立即展开。
 
 这更要求我们争分夺秒的完成发展水平赶超台湾的工作，当然了，仅仅是我们发展更快是不行的，一些不必要的，会惠及台湾本岛发展的行为都应该停止了，毕竟在统一大业面前，其他小利益都是要让位的。
+
+
+---
+
+[🌐 原始链接](http://mp.weixin.qq.com/s?__biz=MzI0Mjc2NDc2OQ==&mid=2247486779&idx=1&sn=0cdb28c70637a0e57d72dc62e073dad1&chksm=e97613b5de019aa384d7cb1a7f97560bbfc2b286f1ffc117000771a38aed31f5c6b31d3eabba&mpshare=1&scene=24&srcid=05240rkIPeJfK0SveJhz1YeP&sharer_sharetime=1621851131043&sharer_shareid=196a7290cec677abfe41ca4bbe251b79#rd)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/29aa0d88-9e5c-484c-befb-3203301be279/29aa0d88-9e5c-484c-befb-3203301be279/)

@@ -109,3 +109,9 @@ Original潮思 新潮沉思录
 该如何做？虽然我们很难拿出一个总路线图，但首先该干什么还是不难得出结论的。**第一步还是要正本清源，**摈弃掉对西方各种技术的莫名崇拜，把这些成功当做是一个正常的，可复制的现象，理解工程和技术不是什么神迹，是有迹可循的规划。然后我们才能谈一谈科学的未来何在。
 
 **不过目前来看，我国思想界这方面做的工作不多，但是科学界做的不少，他们确实在一个又一个领域，学习和超越了西方的成功。希望在不远的未来，思想界能把这一课补上。**
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=Mzg5NjE3MzI5NQ==&mid=2247565440&idx=1&sn=e77900a27832c207530cc7ccfc4e26b1&chksm=c19250147adc8ec6853ea7d1295ab58237979a0f5dbf0beb61fbab01ad88de9f2bfbd42f13a3&scene=90&xtrack=1&req_id=1765112332406075&sessionid=1765112557&subscene=93&clicktime=1765112558&enterid=1765112558&flutter_pos=0&biz_enter_id=4&ranksessionid=1765112332&jumppath=,,1001_1765112551853,1104_1765112557898&jumppathdepth=4&ascene=56&devicetype=iOS26.1&version=18004227&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQUe+r+nHSYMaJ2wBztoT7ChLTAQIE97dBBAEAAAAAAGTILBVY4JAAAAAOpnltbLcz9gKNyK89dVj0hO/kYNRyzmWCcTLcOkbd2Z0bLYOjujEE8VmgBh8gUptlIpbQeNuY/MDOG9v/7EMvSz/WXaFczRI3LAjQS/uitPYJEKYDhCL9GJJbgBIPor9+WjfqZLNPhej8iSX6cCV42LmLWO0kXhjUyRGwOmmCRTo15nc5vSNNjiMBprcKDA7+XlHdyk4s99f/4g5LrzPgVvOU9IRzeGDKkOM151wAEi7tmRoVEwFl/TCc7xQ=&pass_ticket=7akKXlMMCYNtFK9IffxoCz+yOilVZbixFyeZCchDGb2gpGCX8WakAqSS+691Ic99&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/c6ae8538-8850-4f12-8d54-f3393cb56e3a/c6ae8538-8850-4f12-8d54-f3393cb56e3a/)

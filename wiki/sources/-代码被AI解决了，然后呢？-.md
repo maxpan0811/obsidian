@@ -53,3 +53,9 @@ Agent 越强，个人工作流越私人化。每个人都有自己的 prompt、r
 [前沿｜代码只是盐，产品判断才是主菜](https://mp.weixin.qq.com/s?__biz=MzYyMjcyNDU1MA==&mid=2247484035&idx=1&sn=66bd957e8c59cf119c16759a12db4e63&scene=142#wechat_redirect)
 
 Close
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?ranksessionid=1782340110_1&chksm=ffd0d621c8a75f377153095de0e7c212a5612e9773216d1765b983a8bfcebe05d09bdaf5f4c9&exptype=unsubscribed_card_recommend_item_heat_tlfeeds&req_id=1782340110963802&scene=169&mid=2247484040&subscene=200&sn=a3bdc0a9bdbb3f6ab31d20b03a3634ab&idx=1&__biz=MzYyMjcyNDU1MA==&sessionid=1782340109&clicktime=1782343493&enterid=1782343493&flutter_pos=0&biz_enter_id=5&jumppath=20020_1782343347153,1104_1782343472659,20020_1782343483152,1104_1782343492746&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=18004b2b&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQPzBBkSZ8G6SJ03TEAQo42xLTAQIE97dBBAEAAAAAAKZUOMGHviAAAAAOpnltbLcz9gKNyK89dVj0P4iQgdidPQM/UHQzNm01nRaJZ/BtJxzEGPjbhh2TEpoWIBol7QMvYozHwJGtBrwbTD9riuU77TnryYpuQwY4nDp6xxOyNm3VZENGQLyx2DFjmk2l+dBj0uZQuZKc5ZEgOTa0jwSh49fKslGUj+41CWAfgGReqXBz3RQ+9QrUVbunrmkhw0e5pfXK+FW1549QyRzWAnhMWb4Xmx0epj9jchPo7da7/yOdXcrj6Hk=&pass_ticket=vNn+E0/agMwoEdH9W1cynQW3xXKFAW9qwo7ryc2LXcBAjwJL0gd7Kf+dF5AhJLza&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/c5c91906-f9ee-4025-8c17-c8d748a12f22/c5c91906-f9ee-4025-8c17-c8d748a12f22/)

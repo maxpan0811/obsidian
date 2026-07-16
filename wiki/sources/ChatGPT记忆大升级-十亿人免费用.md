@@ -235,3 +235,9 @@ https://x.com/OpenAI/status/2062567556524003631 
 https://openai.com/index/chatgpt-memory-dreaming/
 
 编辑：桃子
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzU1NTMyOTI4Mw==&mid=2247777880&idx=1&sn=6c7e7cdced7dbfaa66d1dcd734821a6e&chksm=fa5bd8905863444450133f275eb74522da871ac636f441c73b8b084b0e22924c2a640f834e56&scene=90&xtrack=1&req_id=1780822310266368&sessionid=1780822178&subscene=93&clicktime=1780822392&enterid=1780822392&flutter_pos=8&biz_enter_id=4&ranksessionid=1780822310&jumppath=20020_1780822330329,1104_1780822337350,20020_1780822342047,1104_1780822389497&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=18004a29&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQ/UQaeSxCzrDHY9z7jOmTGBLTAQIE97dBBAEAAAAAAJqsJmQ+1rkAAAAOpnltbLcz9gKNyK89dVj0zbtkQKf4HnF8GnAj4DfEzJguoKUsKCy7bwngsfvLgzRDLkIK6RFg472fM8tu3cH37cexpotRqy6hxaDS2PmEDSs0rfIuslbPu6l8mWHIToPmhu0nXJbLLcna/IiTCeqVHSkp7eKYIxWBnAnhE/04xUTrMXSo5Ww4bGYaLYLZs0e11EGtW+aZHX8c0L70omcGIpR0YYM5jxTpqfL8lLH+x6cEKzTBO4MwlfardLg=&pass_ticket=REGEQhgTkDM6zQHCLQjVZjLMKjsYdsf7TRctnJWwSq2aFTlt3ioRBFqx9zxGCMT3&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/1905d4fb-638f-4650-aeaa-18ec1be2aac4/1905d4fb-638f-4650-aeaa-18ec1be2aac4/)

@@ -116,3 +116,9 @@ In other words，你在问的是第三条线。
 作者：如果大家对四个象限的配置感兴趣，留言告诉我，下期我会把对应内容发出来。
 
 作者提示: 内容由AI生成
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?chksm=f410c91dc367400bd9b63bd8b19dc2b6fdc1cdd04a1320eacb4df39f6a2ec560bcd29dd11540&exptype=unsubscribed_card_recommend_article_u2i_mainprocess_coarse_sort_tlfeeds&ranksessionid=1782032740_4&req_id=1782034676200505&scene=169&mid=2247483925&sn=e840aa89118b41b25cc7acca2e1503c6&idx=1&__biz=MzY5NDAzNDAyMw==&sessionid=1782032739&subscene=200&clicktime=1782035301&enterid=1782035301&flutter_pos=35&biz_enter_id=5&jumppath=WAWebViewController_1782035274001,WAWebViewController_1782035274513,20020_1782035297848,1104_1782035298465&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=18004b28&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQkFfBNNzIp14DZQvk9i7p2xLTAQIE97dBBAEAAAAAADkoAksHYSgAAAAOpnltbLcz9gKNyK89dVj0jklVboPnfXOhG3qyQEKvZWNDyJ3wcIGqsdFhKJnh3aYtRe0homlle+ABOM0DpIMY3gTlmk8wmkgAwYLRz5a5T+l8/+MMRfaJIJUdvlHMeEQyUGUYqbWZTpVdA3cw8oG8TRzVBqKRcI72Bk1LzYwWvh/rnIbVYNeXmOEmlFFV9ZYlcmd/ettypQtDQ2gcCEhbU7SBV1q3VhsESo6gIYciKFWbyhC+BD+0Ht5tPm8=&pass_ticket=k4w9wC+vkmh/fB3efYOiI3K5y0t71z5hj4t238RDjJpKgxg2qYFSK4c1wa1iD8Ta&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/8c49f295-c591-4faa-af44-11c143c08282/8c49f295-c591-4faa-af44-11c143c08282/)

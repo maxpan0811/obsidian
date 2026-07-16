@@ -50,3 +50,9 @@ GPU核心数量增加50%，Imagination架构效率提升，还有苹果进行的
 ![](attachments/c28f5af449680c03.png)
 
 [阅读全文](http://www.feng.com/iPhone/news/2015-11-04/Why-the-iPhone-6-s-GPU-performance-can-have-a-boost_629108.shtml)
+
+
+---
+
+[🌐 原始链接](http://www.feng.com/iPhone/news/2015-11-04/Why-the-iPhone-6-s-GPU-performance-can-have-a-boost_629108.shtml)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/da89030d-1bc4-4c4a-ad2d-4e2fd122f8d0/da89030d-1bc4-4c4a-ad2d-4e2fd122f8d0/)

@@ -154,3 +154,9 @@ robot并不在乎外表像不像人，只要具备足够的环境感知、自主
 元
 
 之
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzI2OTQ4MTE0Mg==&mid=2247487476&idx=1&sn=420445109f2db1cd56afccf58dbb7b82&chksm=eb378da823b0bf352a79eb222dc243132e06a537fd5cb4dcc5239f612104e65954ec5ebb42c1&mpshare=1&scene=1&srcid=0523OL67A0Ul7wc5UzQvZ9YL&sharer_shareinfo=677c554a8ad397e6b4e791749e96b3e4&sharer_shareinfo_first=0adf4df12bd45e22927964718771e9da&from=groupmessage&isappinstalled=0&clicktime=1748074680&enterid=1748074680&ascene=1&devicetype=iOS18.5&version=18003b2a&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQqs/QeMWf692Rjz+Ql4DPzxLmAQIE97dBBAEAAAAAAK8+DwGE7JEAAAAOpnltbLcz9gKNyK89dVj0FZhF4Ej5iWJkkYYiZ+2HQHONWSEm630qQzGYX2xSkHJ9nUpFR7Ng6U2sG4fPpgzBvf1fHtd1+SrXtjQ0OTIhazaQ2JuGAt1FLMWSnQddIahXiCkMgnNMvDEG4xJeYq00lEVEJwNQ3YHL3eRAHFr+iPeE89grXfaKusvcFYdp5ypE7VqQIYcVP1JxSLIJ7m2EJQQLYNodhsR9S4pFigxa6bMTqzFFVlnB1lCAdv+ObbbiZ81jfIsrc8TMaM+hcMLY&pass_ticket=j9XDGuFLyBVFWogEKqGcu6rc07PPeLw+oZ+NmNHBovOQigcbA8dOOiqH1vcpPJxe&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/aac0ccfc-54c5-40ee-b363-4cba4f67fd3b/aac0ccfc-54c5-40ee-b363-4cba4f67fd3b/)

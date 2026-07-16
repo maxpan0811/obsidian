@@ -458,3 +458,9 @@ Original花猫哥哥猫哥的视界
 ---
 
 黄金‮跌暴‬后，未来‮格价‬走势如何？国‮取家‬消了对房地‮公产‬司的三道红线，拐点‮了来‬吗？近期股市的逻辑‮是又‬什么，前期活跃板块还‮机有‬会吗？欢迎查看‮球星‬文章“投资‮市的‬场”‬——![](attachments/f5443faae7601667.jpg)![](attachments/13ec804239d8a5bf.jpg)
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzkxMTMxNjY2MA==&mid=2247541420&idx=1&sn=47709bd07a0b79fe99c2ceb80c950f51&chksm=c0392d347f4412ac35b317e73959337ffb93b618b48a8c69ca88bc816f7e59994af28c805de0&scene=90&xtrack=1&req_id=1770120924287579&sessionid=1770120959&subscene=93&clicktime=1770120962&enterid=1770120962&flutter_pos=0&biz_enter_id=4&ranksessionid=1770120924&jumppath=1001_1770120746009,1101_1770120926060,1001_1770120959026,1104_1770120960341&jumppathdepth=4&ascene=56&devicetype=iOS26.2.1&version=1800442f&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQcRnON4ucvC25LPnLwPwEDxLVAQIE97dBBAEAAAAAAB1HFZ50OuEAAAAOpnltbLcz9gKNyK89dVj0M2e3pED//i9LVfESy+lQgqPFXaykabyFabptHAbDBPnwFql3z021JTEsIfWoZ6c/aWOPw8djpUH2l9FCXJyGi/4KgWjrE1lDxG3sjX+bZ5AF3WWONj2oBhIWv2oiDk11arbc13HyJd83vItg5bDBmMSizuEbyeRCLxvMrROXUQE1y0y1xk1RBgJM0nG4E+APo3M7fu+RyM4QxsW+roPLEfUFVz14ub6JCNZzyfKHqQ==&pass_ticket=d87VIPhZj17KKoeToO11qlpk+GZ6HtifIO+K4unLL9/9Sh5d0PO+yFy+0oRlbMPN&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/0abf57fd-d8b3-4dfa-bc15-341586769bf0/0abf57fd-d8b3-4dfa-bc15-341586769bf0/)

@@ -283,3 +283,9 @@ n8n + Claude解决的就是这个问题。
 原创扒一个工具，挺费功夫的。
 
 觉得有用，点一下下面那个红色的「喜欢作者」就够了；不方便的话，转发给一个用得上的人 —— 对我一样是支持。
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzYzMjY1OTI0MA==&mid=2247484893&idx=1&sn=2b5f20d2fe11343c60fd84c4ac64d691&chksm=f1af72b9ab92a8b95072108ea046bf2407d693dc5b36e47c9fcf0527fb6204e57af30afa3179&scene=90&xtrack=1&req_id=1779026707881369&sessionid=1779023840&subscene=93&clicktime=1779027071&enterid=1779027071&flutter_pos=20&biz_enter_id=4&ranksessionid=1779026707&jumppath=WAWebViewController_1779027038617,WAWebViewController_1779027039115,20020_1779027055463,1104_1779027063109&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=1800492a&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQ0vuyfV5WR19GA+laJw6o9RLTAQIE97dBBAEAAAAAAKP2By+CsGgAAAAOpnltbLcz9gKNyK89dVj0Pl7vGFZlUd+Mziye3IbcAH6qyMNk9+xKM3VF3bH5iB7ETi5cakZuLSldb3lvXfNouhByzNCsN8PNbBaZ0NrduwS3BoSzVVPqdVD2sXJx1nIGaMSPKBm9pCbVZuLvKiY6qK05XwtaPSLXsaiDmYLf7W50kCfaryGsYdyEMut5qWQHhm67tsnoRTM1a5VsXGsY+8eePjYiKg3/69aAkx4cAGMsxPbD8YAH51d2C1U=&pass_ticket=BAlNRZ3FfmAf/oCDJW93Na1JWjrWl9wbnALhPhfoH/dPwuB1En70xpY8NTQkb44a&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/d3640e4e-c218-4748-baa6-8b8977078d94/d3640e4e-c218-4748-baa6-8b8977078d94/)

@@ -53,3 +53,9 @@ Windows PC 的 ChatGPT 应用包含了很多网页版 ChatGPT 的相同功能，
 ChatGPT Windows 应用程序下载链接：https://openai.com/chatgpt/download/ 
 
 **好了，今天就分享到这里，欢迎收藏和分享。如果你想学习ChatGPT使用技巧，可以在公众号后台回复关键词：“Prompt”免费获取相关教程。**
+
+
+---
+
+[🌐 原始链接](http://mp.weixin.qq.com/s?__biz=MzIzNDY3MzUxNA==&mid=2247490130&idx=1&sn=8c6cedceb2ad561fef3ca5ff90d633bb&chksm=e9df7c21e797eb0c84fdc4d57e824df35b0e8e0ee22ccbf42a59d75c24a40b5ed024487d49ad&mpshare=1&scene=1&srcid=1120gMTGpJVjqgvsCC6qqJNZ&sharer_shareinfo=ae0585a3e27e50ed005a047ec9767351&sharer_shareinfo_first=ae0585a3e27e50ed005a047ec9767351#rd)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/61fd7417-24c9-44bb-86e1-1cce4bd554f3/61fd7417-24c9-44bb-86e1-1cce4bd554f3/)

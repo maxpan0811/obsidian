@@ -233,3 +233,9 @@ guid: bbcda86f-2d61-44ed-ab7a-e727d1dbd4d4
 比如5月22日中国宣布禁购美光公司的存储芯片，不仅是因为美光公司的产品存在严重网络安全隐患，更是因为中国有了长江存储、长鑫存储这样的底气。
 
 总而言之，在高端芯片行业，中国芯可谓是任重而道远，这条路不是绝路，但也不是坦途，让我们怀揣希望，砥砺前行。
+
+
+---
+
+[🌐 原始链接](http://mp.weixin.qq.com/s?__biz=MzI2MTA4Njg3Ng==&mid=2652957740&idx=1&sn=c8448ebe9ed0e9197e2506ffaa9de4f6&chksm=f18b87dfc6fc0ec947c74922b5ea512b03f29a29191c1608739e22bb7452b00ccf4b5d1f0f1b&mpshare=1&scene=1&srcid=06025ujR4rsH3IlVgvIcTOL8&sharer_sharetime=1685704639734&sharer_shareid=ee47b9411760e9070f0b59d8d8655fa1#rd)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/bbcda86f-2d61-44ed-ab7a-e727d1dbd4d4/bbcda86f-2d61-44ed-ab7a-e727d1dbd4d4/)

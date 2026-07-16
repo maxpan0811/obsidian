@@ -186,3 +186,9 @@ TU构型没有想象中的那么复杂，但是有一个缺点——试错成本
 ![](attachments/1376eb287ee691e1.png)
 
 素材来源官方媒体/网络新闻
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzIxMjMxMjQyNA==&mid=2247530881&idx=1&sn=1d7764eab0397bcd4079e77f15c8e95e&chksm=96e295d31b635d04ffed757ad833f9a5154e4172e055bdd3b2ce7528aae9e197a3ebe1a78b7d&scene=90&xtrack=1&sessionid=1738890675&subscene=93&clicktime=1738892843&enterid=1738892843&flutter_pos=21&biz_enter_id=4&ranksessionid=1738891674&ascene=56&devicetype=iOS18.3&version=1800382d&nettype=WIFI&abtest_cookie=AAACAA==&lang=zh_CN&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQ0VjsqQQ5+JTuEzfYHF3yZBLWAQIE97dBBAEAAAAAAKgQNFcw67sAAAAOpnltbLcz9gKNyK89dVj0taXDvRU4C4zJwuVFwNodA5x4Y2q5gaIjx/nBfNV0eOoiPgwFAAz70S0v7w5Zr4+ZUJMlEiPeNsY+wv6+YYU3w5WRhq0UUxhQpvc9MFAayxreyW6XsB2NwlIEuEBXit/nYPQdey4FbpZp6F2xtaMlvd7zGQAM4rTIjm/kOhKGK4E3O6dOTojiaoU/IBekTK8iP37MCM58oGJw4UblrlVuRrkmANa/N/hMoDWRtQawr5M=&pass_ticket=14rZec8kHBpADXMJ0bWo2CVKc0gG5CIZDlAY2FB3PjgT1ivTftE2vh/x1upIjnJs&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/71bfba89-b406-4f17-a41d-2b275d2c6653/71bfba89-b406-4f17-a41d-2b275d2c6653/)

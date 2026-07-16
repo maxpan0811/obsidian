@@ -213,3 +213,9 @@ guid: 7d860d05-2baf-48cf-8070-60db69feff89
 《[最受美国孩子青睐的阅读方法和笔记术](http://mp.weixin.qq.com/s?__biz=MjM5ODQ3NzA4MA==&mid=2677513661&idx=2&sn=b9c57f006e8a3e380fd88f11b99f0fa9&chksm=bca911ca8bde98dc3364f1911464e5615812b9f45604df7ce04836699372e44bd3e65e3760ca&scene=21#wechat_redirect)》
 
 [阅读原文](http://mp.weixin.qq.com/s?__biz=MjM5ODQ3NzA4MA==&mid=2677513740&idx=1&sn=961be270c4f9c427082baaf35daccf0e&chksm=bca9127b8bde9b6d290c71850aa0bf94420e63674c3ce372e51cf0a0b0d16c515a97219bf028&mpshare=1&scene=1&srcid=1128Alr4MocQZrFIfZsoHovh##)
+
+
+---
+
+[🌐 原始链接](http://mp.weixin.qq.com/s?__biz=MjM5ODQ3NzA4MA==&mid=2677513740&idx=1&sn=961be270c4f9c427082baaf35daccf0e&chksm=bca9127b8bde9b6d290c71850aa0bf94420e63674c3ce372e51cf0a0b0d16c515a97219bf028&mpshare=1&scene=1&srcid=1128Alr4MocQZrFIfZsoHovh#rd)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/7d860d05-2baf-48cf-8070-60db69feff89/7d860d05-2baf-48cf-8070-60db69feff89/)

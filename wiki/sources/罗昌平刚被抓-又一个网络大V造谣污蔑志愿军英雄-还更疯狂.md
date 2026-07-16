@@ -238,3 +238,9 @@ guid: b8cc40e4-982f-4591-92f7-9a018a3a163b
 作者简介：王正兴，原解放军某野战部队军官，曾在步兵分队、司令部、后勤部等单位任职，致力于战史学和战术学研究，对军队战术及非战争行动有个人独到的理解。其著作《这才是战争》于2014年5月、6月，凤凰卫视“开卷八分钟”栏目分两期推荐。他的公众号名亦为“这才是战争”，欢迎关注
 
 文章已于修改
+
+
+---
+
+[🌐 原始链接](http://mp.weixin.qq.com/s?__biz=MzU4MTU3ODk1OQ==&mid=2247491600&idx=1&sn=8d52e37620c2355cafb6239bbcf45a22&chksm=fd47d9b0ca3050a6156770f0da1ffdfd9cf6bac42945554052eb9410bc66d2a04285936675fb&mpshare=1&scene=1&srcid=1011nFEHfr5dAB4pFJEp7sdh&sharer_sharetime=1633959956540&sharer_shareid=196a7290cec677abfe41ca4bbe251b79#rd)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/b8cc40e4-982f-4591-92f7-9a018a3a163b/b8cc40e4-982f-4591-92f7-9a018a3a163b/)

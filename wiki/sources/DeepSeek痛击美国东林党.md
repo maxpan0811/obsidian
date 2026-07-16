@@ -129,3 +129,9 @@ DeepSeek的出现，是我们科技进步的正常一环，但是碰巧这玩意
 **对了，今天除夕，祝大家新年进步，每一天，有每一天的欢喜。**
 
 **明天记得看徐克电影《射雕英雄传》。**
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzIwMzAwMzQxNw==&mid=2756743750&idx=1&sn=c7c10960da9e87bbba24b48fb161df79&chksm=b6aa7825d177c0b91ba025f8d44187fd6eb912bcb87ec574ee8e95d10e341b8af42b83dcc08c&scene=90&xtrack=1&sessionid=1738130096&subscene=93&clicktime=1738130726&enterid=1738130726&flutter_pos=1&biz_enter_id=4&ranksessionid=1738129852&ascene=56&devicetype=iOS18.2.1&version=1800382c&nettype=3G+&abtest_cookie=AAACAA==&lang=zh_CN&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQj9GpdBCeSmq4qtQwtiEj9RLYAQIE97dBBAEAAAAAANuoISMcTfMAAAAOpnltbLcz9gKNyK89dVj08JYeZyUxV8hFVtNyxIxCHmJp7s+IHQRIzDCyHmi1ROGsoHR0dWZvImR/pIK1SmBdN7dxE46WEtXyJpIfN8r1x3FUMPAFKssV/GTrB85IVbs64vXT0UXsWKfRF//0xmfWxlEZhM6MfajbmPwP2siOsGTH8nUDt7y+1oxO/n4gr6w238cEBBzz/iPGoq6ONrnI67aB5cf9wT0OAdg8pu2vtrC1fjr9XesiWBzr2slIkoqFZQ==&pass_ticket=ijbVklP2Sqy7GSA7JMpkC6zhb/ne0Apjo1o0assEU4trFv/lbtlqzvlu2tm7Qrat&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/42dc2f34-fb1f-4f81-97bc-b459e5e9cada/42dc2f34-fb1f-4f81-97bc-b459e5e9cada/)

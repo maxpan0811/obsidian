@@ -341,3 +341,9 @@ Skill 通过 MCP 调 CRM
 AI就可以直接调用
 
 ![](attachments/bce8e7904de0bf93.png)
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzI3MzAzNDAyMQ==&mid=2657893792&idx=1&sn=433d405f1592a4aa990f7358a0dc57d1&chksm=f12ed0c86fa906e28e716a0dc2677cddac1759f92c8277eb9ea8ee69ed0cb0e14fdec3e467ce&mpshare=1&scene=24&srcid=060993KZiGlSiolqK3dyN9xq&sharer_shareinfo=82f5febad7712ecd61b7ab92dfd269b2&sharer_shareinfo_first=82f5febad7712ecd61b7ab92dfd269b2&clicktime=1781048513&enterid=1781048513&ascene=14&devicetype=iOS26.5&version=18004a2b&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQpHvgHOUUoBiFfkv7owDNgBLCAQIE97dBBAEAAAAAAHC1JoVBVx8AAAAOpnltbLcz9gKNyK89dVj0PT6rl3RlEjRgPr34ezs1W98AMn8l1edXe/Tf3H8PMuvu5dUcE1lnNAUIvtjq4pWr4PK3eSphXTKo6eW+9DfL+rozXHAnHJohibCIFjxjgrf+9DbDEsyfDFnYxsDY481asINdoZ4RnzXeb69OF/euNlOPq8q3PRNkFs/FjMaVRXYn/tAAG9gdehrTkxGJqGwBdYprZFleJgVMkmKB&pass_ticket=qClMUqIF10jv+f+qtAyYe7HVQMCSKo8jQxzusLnKCJoJyvdz+EN0BWYPtzPGYcQb&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/a013dd7a-e0e2-44bd-bfaf-aab147169b0a/a013dd7a-e0e2-44bd-bfaf-aab147169b0a/)

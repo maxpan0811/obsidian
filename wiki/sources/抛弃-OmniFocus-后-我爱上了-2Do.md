@@ -224,3 +224,9 @@ guid: 77f87c81-44e4-445c-82fd-9a4024c7bb64
 少数派（ <http://sspai.com> ）
 
 [![](attachments/05d7e06974fc93f2.jpg)](http://aos.prf.hn/click/camref:111l75A/pubref:Solo3_Wireless/destination:http%3A%2F%2Fwww.apple.com%2Fcn%2Fshop%2Fproduct%2FMP582%2Fbeats-solo3-wireless-%25E5%25A4%25B4%25E6%2588%25B4%25E5%25BC%258F%25E8%2580%25B3%25E6%259C%25BA-%25E9%25BB%2591%25E8%2589%25B2%3Ffnode%3D42)
+
+
+---
+
+[🌐 原始链接](https://sspai.com/post/35620)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/019324ce-8ad6-4934-a36b-b40d65cdfc67/019324ce-8ad6-4934-a36b-b40d65cdfc67/)

@@ -66,3 +66,9 @@ guid: 705e2ea9-1b7a-4cbe-8ddd-60cfeabc2678
 “解说国自然[医学部]”微信群只接受医生朋友们入群：可先添加“解说国自然2017”微信号：jieshuo\_nsfc2017，一定要注明自己的科室或研究方向，然后才能拉入群；
 
 ![](attachments/9e846e942e0fd8d1.jpg)
+
+
+---
+
+[🌐 原始链接](http://mp.weixin.qq.com/s?__biz=MzI5NTA2Nzc5MQ==&mid=2651702122&idx=1&sn=0c2af7b49ca7ebae08a8647c9fce9bab&chksm=f7a02a8ac0d7a39c6737dcca5db9bb56db7e5a0e38200ac061a98222748c18c5ec908d91ea4e&mpshare=1&scene=1&srcid=0508XEkZkdPWNeHdETZnBwku#rd)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/705e2ea9-1b7a-4cbe-8ddd-60cfeabc2678/705e2ea9-1b7a-4cbe-8ddd-60cfeabc2678/)

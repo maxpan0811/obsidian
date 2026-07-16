@@ -92,3 +92,9 @@ Pro Notes 并不是一款独立应用，而是对 Apple Notes 的扩展。它依
 当然，还有 Apple Notes Gold，它将 ChatGPT 等内置的 AI 功能添加到 Apple Notes 中。但因为 Apple Intelligence 是免费的，我觉得没有太大意义，我使用的是免费的版本。
 
 这款应用将 Notion 的一些功能融合到 Apple Notes 中。如果你是 Apple Notes 的忠实用户，这无疑是一个很棒的解决方案。但如果你并不把 Apple Notes 作为主要的笔记工具，你可以考虑像 Notion 或 Obsidian 这样的大型应用。本期内容为纯粹的干货分享，不涉及任何商业合作。😭又到了告别的时刻，这期的精彩内容分享到这了，下期我们再见！！！🚀
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=Mzk0MzU5NzQ4Mw==&mid=2247490616&idx=1&sn=798314f41c5e025ff9e8910e27b0ff6a&chksm=c223de7b554bab23bb41b932549504a9ae1f8e2c21d36fe56f45408411bcb2514f7824e35094&scene=90&xtrack=1&sessionid=1744415687&subscene=93&clicktime=1744415767&enterid=1744415767&flutter_pos=5&biz_enter_id=4&ranksessionid=1744415668&jumppath=1001_1744415686953,1104_1744415688503,20020_1744415702221,1104_1744415756097&jumppathdepth=4&ascene=56&devicetype=iOS18.3.2&version=1800392f&nettype=WIFI&abtest_cookie=AAACAA==&lang=zh_CN&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQ8QfkeVTPoRzt6etJnfjkahLYAQIE97dBBAEAAAAAAJ4JAaPdLcQAAAAOpnltbLcz9gKNyK89dVj0F8YgT47ryrSPeEtkrXvg76YqI75AsmU//Exh+FMGlYyNCJHhyydxk/FJwIs0Xi8RxEJfPUL0fUS1O58uwOTpTcg9Vw9Qk4Y7TglRIPr2mf7HBRNnr+i6hZaOpKpKOhqRbKhvGRpuQtq+YLvGu0SXwaoQgVBViIzfJprvZgmKvJ8gG0Dxb1d5sSlzYG4ljEdKisyHM6BQVeKpF4/1EDh4QAaEFs3tkAo+Jl+XqU5IGlw/Hg==&pass_ticket=MmV+HUs84/Xq+ItqBJdpcTolGRUqa6P3Uw8corKcnxaURaF3ZFWEVCi7wqiwR7uM&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/38e01af5-2450-4c60-a4af-56ae1ae25222/38e01af5-2450-4c60-a4af-56ae1ae25222/)

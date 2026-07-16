@@ -357,3 +357,9 @@ Prompt就非常简单的一句：
 制约我们的，真的就是我们那。
 
 贫瘠的想象力了。
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s/uP4VEL8ri6ZoLqJg7sAmrw?scene=1&click_id=37)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/60c5e71d-c8c0-4f52-a4d7-dd51bbd386a1/60c5e71d-c8c0-4f52-a4d7-dd51bbd386a1/)

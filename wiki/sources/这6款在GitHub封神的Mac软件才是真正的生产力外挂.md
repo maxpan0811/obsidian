@@ -98,3 +98,9 @@ LosslessCut简直是神作。它从底层就不进行视频重新编码。你切
 下载地址：https://github.com/HandBrake/HandBrake
 
 真正的极客精神，从来不是比谁买的付费软件多，而是懂不懂用最硬核、最纯粹的底层工具去重构自己的工作流。去 GitHub 搜一圈这几个名字，把那些常年吃灰的订阅全停了吧。
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzA4MzM1NjI4OA==&mid=2650563360&idx=1&sn=8c9aa0b9e569e3fece1d58ed6dc16f05&chksm=86bf8f8714ffff7a926956672afdc1116b2cf1a4d22612b087eb510c114d1c4fdf77720b2b3f&scene=90&xtrack=1&req_id=1781366359311795&sessionid=1781366350&subscene=93&clicktime=1781366923&enterid=1781366923&flutter_pos=3&biz_enter_id=4&ranksessionid=1781366359&jumppath=WAWebViewController_1781366900670,WAWebViewController_1781366901169,20020_1781366914195,1104_1781366914958&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=18004a2d&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQYtqM5etdiMPWO6Ps+2pewRLTAQIE97dBBAEAAAAAANxrFGGcNQAAAAAOpnltbLcz9gKNyK89dVj01MJcc9Fj5XVJRfjLNDlRJqpzliwhbgrk8lO6txXhQHSs330qA+rKGP/6nHs7yC/bRaFA5WsDd3MRRrRmN4eN0pKsboK2eldNIJEKQeo5DdUG18tofZhsEuNaboC0WMEGWEh50NhGtwkO2ZItNT9N4LY0GlWmSHMzXnLNCjtkL/R59q6U9KXjjVD3VtYghSusx44xVF5l9tV9Qm7dxvt+eGLuBRHqSBeRsyQKPMw=&pass_ticket=ImXWPvtlupbNpJSLAmXHEvRb+SamyhjCNgb9MTYkvccLoq8JEIhKlj3K/UsDX1nu&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/8078a7e4-b0bc-4353-bb2a-eee0f2c2c846/8078a7e4-b0bc-4353-bb2a-eee0f2c2c846/)

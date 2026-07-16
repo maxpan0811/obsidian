@@ -169,3 +169,9 @@ HTML 页面可以在应用内浏览器里跑起来交互。
 原版的中英文白皮书下载地址：
 
 https://link.bytenote.net/note
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzIzMzQyMzUzNw==&mid=2247518462&idx=1&sn=c205704c5a2526e1f4e0c3d37ea1c17c&chksm=e9d8263a4bfabdbeff30da62eb822e8d04239f274847b0ace7edace59d435ccd8111476b8c77&scene=90&xtrack=1&req_id=1782464553151955&sessionid=1782464512&subscene=93&clicktime=1782464561&enterid=1782464561&flutter_pos=3&biz_enter_id=4&ranksessionid=1782464553&jumppath=20020_1782464516486,1104_1782464550531,20020_1782464552196,1104_1782464557566&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=18004b2c&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQY5pELai2EVMe2CMUL7Cm4RLTAQIE97dBBAEAAAAAAA8cLh3WybsAAAAOpnltbLcz9gKNyK89dVj0k2h8oEDlKlgG5iKOSh6zSKwBW0C/0lKIyW1BXGQq34r26eVHgTQM4wDLf7qOpy/75xP5KzF/tjWw3Ma21Mbd0K+vBlKs/EZj3/mpBewAo+CcnheH2ZGKJNNTJ11iCCkrJydyeOMD3gSp3dcvKruuAO2NcAHddcLWz+0k0EBoiHkGXXnMy1WWic5VI/zGbcQ8b0BJAQ8I2A4HiLZBhnGjJeUi0dDnTTAHMMHCSXE=&pass_ticket=/Qq1p0/jkR03akdW++oDug9OBe7QMM0K4DKb9j0zpRGTqs2ZuvMkiUEPXI/yjIZE&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/638db8e6-1c1a-419c-b07c-8fc44d123ddd/638db8e6-1c1a-419c-b07c-8fc44d123ddd/)

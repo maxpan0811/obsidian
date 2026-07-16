@@ -137,3 +137,9 @@ Original 皮皮  17173
 《剑星》本身的游戏品质自不必多说，优秀的角色审美搭配体验感极佳的战斗内容，可以说是将传统韩游最出彩的两大特色发挥的淋漓尽致，无愧为韩游转型单机最成功的作品。
 
 正如当年伊芙凭借惊艳的韩式美学从一众牛鬼蛇神中脱颖而出，如今《剑星》PC版也是在诸多大厂对待PC玩家的傲慢态度与垃圾优化的衬托下，更凸显其对玩家体验的尊重。
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzA3NjcwNDUwNQ==&mid=2649740303&idx=1&sn=392afcc3272d3ab834d82123e56435b4&chksm=86fd24cba7be42747f389b0bc5fcb2e7e25f5b8586b1f8d28ce91a72527f674d87c4235c3324&scene=90&xtrack=1&sessionid=1750252054&subscene=93&clicktime=1750253026&enterid=1750253026&flutter_pos=18&biz_enter_id=4&ranksessionid=1750252934&jumppath=20020_1750252920572,1104_1750252922373,20020_1750252931872,1104_1750253006890&jumppathdepth=4&ascene=56&devicetype=iOS18.5&version=18003c2d&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQB5XErZDnkxi8/xJNY6VKRxLTAQIE97dBBAEAAAAAAIhYMrXm2OQAAAAOpnltbLcz9gKNyK89dVj0O/FoEx7NczDsLwYHtmVzi/eC2cESayxbZcGwQ6MbvmF/X9PVUdeARHMIaw6Lni2B7TfjjiczhzHjwOPVwlLXlMPILi0rRncHIccNon+sd7itYWhVxoI93YtU38w4b9FEvlDkv3EYLslMLVyhil4mzbkJkzlnO5/J38b1zN0wL38vZmbvzyQ5LLwmqiIsx3WIZg5SPZVQEOvYKFyE52PeyvsMKRFW2LrmzJvcGH4=&pass_ticket=vjjv8XVHqaHvkaKq+UWCSN9Z3fuMQ0Pz3ZC5aegFL8k6dsFxNI63sTmSLuh2ufSF&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/e5e75b72-691c-483a-b081-a5b57a49df9f/e5e75b72-691c-483a-b081-a5b57a49df9f/)

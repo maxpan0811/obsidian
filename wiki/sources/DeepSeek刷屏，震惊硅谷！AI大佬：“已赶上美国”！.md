@@ -94,3 +94,9 @@ DeepSeek独特的组织架构和管理方式为创新提供了肥沃的土壤。
 **点个“在看”再走☞**
 
 ![](attachments/c82b6435fb6d21d1.gif)
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MjA5NTMyOTMwMQ==&mid=2652281061&idx=2&sn=7f8470710573b1970b82a302a05a7d57&chksm=4e7a573923edb33ed172daab5dfb8344fd88a5a979dc480a88bd7d0cbef1a9f8a0903c03c63e&mpshare=1&scene=1&srcid=0127cAAawqQTqZGNB8HM65Sl&sharer_shareinfo=ce28732b889c781c297d6fe4b554f797&sharer_shareinfo_first=ce28732b889c781c297d6fe4b554f797&from=groupmessage&isappinstalled=0&clicktime=1737973550&enterid=1737973550&ascene=1&devicetype=iOS18.2.1&version=1800382a&nettype=WIFI&abtest_cookie=AAACAA==&lang=zh_CN&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQR81t9Rz++aYddKdFrwMLsxLsAQIE97dBBAEAAAAAAGHaFgKQD30AAAAOpnltbLcz9gKNyK89dVj0noFFoFW2Td7hFBRbCbsMoCkBPl8CGewcAUx6I+tlvWugBZ/OLvL/+HeR23tK/ceFhzJPfnATBNBKq39GNMNh1hVT4OryoGgdcDaLrMiRGMQIj1qaB4OvuFjmgiS7wPMAddGtUIyUxnLVt3vZS+SwLc/WcwtDIbiHbbd4pXL45J5S51zdrHq/ywxwAa4SZh1tGhjvs7TxaZLcRUku4HSnHbrEc7r5gFBkMnNOQ4t573YBGdAHwj3iSr49WYoncQys1pmEg5KH&pass_ticket=HvM6zfquSn3MvR7jwDxqDE+XNgdbGWnXCJEzaruCpxOaSU9uyCCmvrxvZRqXI2Os&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/5cce6d86-228f-46f6-8255-7c3ebf10a280/5cce6d86-228f-46f6-8255-7c3ebf10a280/)

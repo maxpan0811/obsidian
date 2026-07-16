@@ -74,3 +74,9 @@ Deepseek对我的两个问题进行了一番分析，让我最惊艳的是它提
 ### **但是，在资源有限的情况下，那些没有在最终竞争中获胜的人，他们脚下的地板被抽走了。在当前的选拔机制下，学生必须顺应版本的玩法，必须把他们的青春时光花费在大量刷题提高熟练度上（或者根据新课标的说法叫“接触更多情境”）。但如果大量刷题以后，一个学生仍然没有考上理想的大学，他们刷过的题对他们的未来工作和生活还有什么用？AI很可能会迅速挤占基层脑力劳动者的就业空间，让这些被选拔机制淘汰的学生更难以就业。**
 
 ### **Deepseek说：****真正解局之道，不在于反对技术进步，而在于通过制度创新，将AI从“内卷加速器”转化为“价值分配器”****——让技术红利不再服务于少数人的指标游戏，而是成为拓展学术边疆的公共引擎。希望Deepseek说的能实现。**
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzI0MTA1NTk0MA==&mid=2651747316&idx=1&sn=2c88ef58ef038255638d8422b72fe297&chksm=f389adfbf47ba1c6eebaaba8b029f9a02edd6ebe56a2f5bdf06dbd79abddc7d8ad9fb2c10b50&mpshare=1&scene=233&srcid=0202TiQBnfJNrFmO7vGe1dkM&sharer_shareinfo=f4e1fee6464d022418c8b7351a71ef22&sharer_shareinfo_first=865774b0323f1a035437ff642d32b401&from=groupmessage&isappinstalled=0&clicktime=1744123764&enterid=1744123764&ascene=1&devicetype=iOS18.3.2&version=1800392f&nettype=WIFI&abtest_cookie=AAACAA==&lang=zh_CN&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQiX3H3c8A4SrvsfMGnIUtcBLsAQIE97dBBAEAAAAAAGtzGEOfHYMAAAAOpnltbLcz9gKNyK89dVj0CDxj9faGu7DoQs47eAPrOdQZexff4DhbmV0dXxt5jlPprXlkabqaS88SuohRHR0WoCFc4nbaKh9XDutVwgYMOL8KGaPcHMGeLNPrw/vyFWzAwIlGfmaVJ4K5mDq3wVH3cr38ZqCjZdpPolkq/efzQue8rZiyU5wPDBRJV2Lv3FyfAGapIQHNGUy8UC1TuunLnC4T57Cg5mhLVGfVI3RPUsI41PDK8DqF0QnEQQMz9sE932Le1gJDjbGOrXy4RKFiMaAJoaHw&pass_ticket=0tD4fCECfC68Xyh7h69Nmkzxw5QGzs/ZBtVs71MbuRBiWWowyHNjMkYPLwha01iK&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/1a042bb8-d61f-4330-a81c-c96188aa3837/1a042bb8-d61f-4330-a81c-c96188aa3837/)

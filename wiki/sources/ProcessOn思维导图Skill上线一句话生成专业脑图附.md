@@ -303,3 +303,8 @@ Step4：获取预览图和编辑链接
 如果你还没体验过，不妨现在就试试ProcessOn思维导图Skill，感受AI与思维导图结合后带来的全新效率提升！
 
 ![](attachments/fab267736e6fd87d.gif)![](attachments/fab267736e6fd87d.gif)
+
+
+---
+
+[📎 在印象笔记中打开](evernote:///view/207087/s1/f72cb0ea-78b2-4d84-be6b-cecf558fba92/f72cb0ea-78b2-4d84-be6b-cecf558fba92/)

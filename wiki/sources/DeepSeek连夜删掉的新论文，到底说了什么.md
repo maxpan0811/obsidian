@@ -90,3 +90,9 @@ Original发现明日产品的 APPSO
 分辨率军备竞赛可以缓一缓了，教会模型伸出手指，比给它配一副更贵的眼镜管用。这只鲸鱼开了眼之后，还长出了手指。66.9% 的迷宫准确率离完美还远，但至少它在认真走，不像隔壁那几位在掷硬币。
 
 我们正在招募伙伴**📮 简历投递邮箱**hr@ifanr.com**✉️ 邮件标题**「姓名+岗位名称」（请随简历附上项目/作品或相关链接）[更多岗位信息请点击这里🔗](https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&mid=2652396877&idx=2&sn=dfef25453a6bf0dca147b0adca3deaf7&scene=21#wechat_redirect)
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&mid=2651089905&idx=1&sn=19c742281ac4966bb8773378a6391b35&chksm=bc4ce1ca404773b8cbbda50b5d21b7b2beff73fa4b99bd6d929e8cfff4111cb414786184dd6e&scene=90&xtrack=1&req_id=1777597869070999&sessionid=1777597951&subscene=93&clicktime=1777597954&enterid=1777597954&flutter_pos=0&biz_enter_id=4&ranksessionid=1777597869&jumppath=MMAssetPickerController_1777597933056,1102_1777597935960,1001_1777597948535,1104_1777597952325&jumppathdepth=4&ascene=56&devicetype=iOS26.4.2&version=18004820&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQHqFfrjMebuo5TvDpqdaTrRLVAQIE97dBBAEAAAAAAE6OOaliEakAAAAOpnltbLcz9gKNyK89dVj0O9qLIa7peXAMlqrD4niAP3ymU0qbMfsbmBIShrvCt67zrL2l/j/YXTS9+3wpdzC+ed0AIZR7cY2KIlm2NvpVXCsILbADRruQpN9v96SBmT+LVXdlabYNHbcH86tVuBenU6dchF5fsx9IwehA1/MdwI1FJyqrnIYwidMdF3d//ST9yIVGhWcoSvemFMNOH8ihCGU6KooX6Dqc1o8HI1MRzDm7thqwedI5FI6LJujoQQ==&pass_ticket=ajxM0ZevS0JARzGTP2uW/vD0mUP6rGvs8F74ZPzgSU6xCTIruzEAB63k/C54qjm6&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/6a942fe3-42d1-489a-8cb2-a8e25b78129e/6a942fe3-42d1-489a-8cb2-a8e25b78129e/)

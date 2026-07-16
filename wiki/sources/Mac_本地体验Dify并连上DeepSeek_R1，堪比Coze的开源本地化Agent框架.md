@@ -244,3 +244,9 @@ docker compose down
 我是不会告诉你Dify后台模型管理里面，一大半的大模型提供商，都可以白嫖的。
 
 个人观点，仅供参考
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzkwODYwMTE5Mw==&mid=2247483809&idx=1&sn=d470669215127ca77719a57a2e6019ad&chksm=c1b81f5361781d47c4aef8a33be4a9e7d53d87d8636d7d06be3ca25a20f175ca288d5495e8b6&scene=132&exptype=timeline_recommend_article_extendread_extendread_for_notrec&show_related_article=1&subscene=90&ascene=0&devicetype=iOS18.3&version=1800382d&nettype=WIFI&abtest_cookie=AAACAA==&lang=zh_CN&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQd8hCZaQFW8jDTbStlY0AwhLWAQIE97dBBAEAAAAAALtXMcJKm6gAAAAOpnltbLcz9gKNyK89dVj0mwQL8vfyYEur7NTakcTuHpShAJIvsL+Oqjw6S3LV31x3T7S+Y8pq9AQj15q6cJZALxj3eZbCAZ26S2ihnHZR6sogFbEh9ULw4H0kJ6ckOsRdKk4usg2NGltNaz9uKfAoYYFDk7KTI3agGefwd9aqJ4m0lKV+FOQM1L15kCU0jZ7A00KNFGbCDHfV+M045CwHjaZ8rduxBovitNCqPgWK3ZIbAVd9GKYFXalVkQkSLYc=&pass_ticket=4PkewGTPTmcfpQlE4zJq8Ofwbz+yH1o4IURw/vqkQSXWXZVzqYLhr1apY3HRV1Bd&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/86dbe22e-f4a9-4b41-80bf-5e299967c3ab/86dbe22e-f4a9-4b41-80bf-5e299967c3ab/)

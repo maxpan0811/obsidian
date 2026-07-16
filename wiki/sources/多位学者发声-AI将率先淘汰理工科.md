@@ -185,3 +185,9 @@ AI技术快速更新迭代，使得相关专业课程设置和内容的更新已
 **微信公号：****openonline****公号昵称：****MOOC**
 
 ![](attachments/32a6b4204421d2b4.jpg)![](attachments/51fab431c241e73e.jpg)
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MjM5NTkwNzM0Mw==&mid=2651371027&idx=1&sn=05717190038841099559b433205e401f&chksm=bcc60e17b0439a6cf6e2465fa25910d1efe01af589be2b7afaa3a9a56badbf49b7e114cdb9e1&mpshare=1&scene=1&srcid=0401SmjP4Eg5a830l2cun5Hx&sharer_shareinfo=0cde5e5c7f9fdc7831b7bd3e1e4b3ca5&sharer_shareinfo_first=0cde5e5c7f9fdc7831b7bd3e1e4b3ca5&from=groupmessage&isappinstalled=0&clicktime=1743491655&enterid=1743491655&ascene=1&devicetype=iOS18.3.2&version=1800392b&nettype=3G+&abtest_cookie=AAACAA==&lang=zh_CN&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQf+FYzi7DB4sBGJwJhQIA5BLrAQIE97dBBAEAAAAAAGklOskAZe0AAAAOpnltbLcz9gKNyK89dVj0CgLYgjH5E0T+n8lCWQKjMy0qBOV+NTOwQ/v0M54VMzBtxwOMbgFf6hgbORYYjCtgFIH5Ok0BcLZAFsG9vdLX8s/h4WGsbqESOnelSMkW7qlRoM+DFREzTr7rHTdzfLzR1kErHmd5wQqHYCNL2ANer3N33mTWDALEgUWKa8AMzUUO+irnBCmoDOfDGonCq6zKviNn8Yw7H2XBQ3yUJaqqvrIDLuZWT//0ncsgEpHYUwWy+pHJO3x2RX/5+nuzqexmpjAd0EM=&pass_ticket=1CEtjOUQC5JEqlMifEB8NphpbdWazzlAms81wU5QGAjGAzvHIchEHWilPNzmUDTA&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/f11d600b-4f0a-44b0-b863-1aed9043c4c6/f11d600b-4f0a-44b0-b863-1aed9043c4c6/)

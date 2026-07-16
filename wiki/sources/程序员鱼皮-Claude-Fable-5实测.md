@@ -358,3 +358,9 @@ OK，测试就到这里。我觉得 Fable 5 这次的表现符合我对新一代
 我是鱼皮，持续分享 AI 编程干货。觉得有用的话记得点赞收藏和关注~
 
 欢迎在评论区聊聊：你愿意为 Claude Fable 5 模型买单吗？你觉得它是夯还是拉？
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzI1NDczNTAwMA==&mid=2247587782&idx=1&sn=b891396c99d63a8fac39a58c4d1ba20d&chksm=e8a8fd332a8f1700aa27339726f7bbbeca76bc29aa1f6260e0fc3d091e6f7de400a156d33cc9&mpshare=1&scene=24&srcid=0610MWm7JamMEV0gmi0hU8mC&sharer_shareinfo=0a3b3cb89b211bc3f34b3572f3c73f85&sharer_shareinfo_first=0a3b3cb89b211bc3f34b3572f3c73f85&clicktime=1781143059&enterid=1781143059&ascene=14&devicetype=iOS26.5&version=18004a2b&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQ8hxgfY1u+gbedlWsuqcnKxLTAQIE97dBBAEAAAAAAKn3CunVjfIAAAAOpnltbLcz9gKNyK89dVj0YyegoJiXFcvB4mn0cVnIhkRqEQNr8N67ewUA7XCyYyT3kGTXSF5Oip0hVQDh8ECLKbVbILGmA0e+gBwAlNP6KgA8/pkpT+UEQ1PKl7vgUSLc9yap+X1d4fJpW0ZEYApTgWbYZt/4dmx0hWlm08YS1BocnS90wshdgK8+QiwOGZGbf1vybWUjOiJwT7hzXQCPqDtqQ0S2wqFk/F8QoGx94da5p89CavgnWRmxPz0=&pass_ticket=GFKJVgcnSmpZTteoX3TicocD4G0Xs/CuDCwJg42577RAZbITMvtU7WRoEBWLXv4d&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/944f1ec6-ae30-4c06-b78a-98d591f969b0/944f1ec6-ae30-4c06-b78a-98d591f969b0/)

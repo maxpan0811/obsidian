@@ -714,3 +714,9 @@ AI研发的核聚变电站实现正向输出发电，人类彻底解决能源不
 相当精彩并且有看点，但是相关文章内容截图完全发不出来，大家只能加入我的知识星球观看。
 
 ![](attachments/0619282c840f81f4.png)
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzkxMTMxNjY2MA==&mid=2247535053&idx=1&sn=4e8ff12b28c946ae4a1ccb0f555899bf&chksm=c081f07ff77d5d678f58cf4570b05932760fd8a780ddfc56ebb2ae464b6d6ccadd26515a2959&scene=126&sessionid=1738326235&subscene=90&clicktime=1738326888&enterid=1738326888&ascene=3&devicetype=iOS18.2.1&version=1800382d&nettype=WIFI&abtest_cookie=AAACAA==&lang=zh_CN&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQ0qyc8OXqggke7duo+pSHHRLYAQIE97dBBAEAAAAAABbYMEtVa9oAAAAOpnltbLcz9gKNyK89dVj0cdY7670mWHGzaT4llUsT3e5sipPekQBG/+V4BXFEDM8vlGD7zIfuz8weWiwQr9AwZjuSbmw8jQY3aft+CXLst9/KPCyPp7PEHp4KBtKIFVwNt0dB84b0CgYpABvdLAR4eG8YOat1a4ex9TCMV/xDK7QiUIPI9WWOe6ULBm/WwEJmioQ20BWoA8ZB8PLzSvkqADO7+JM2GX7PGUEICJriAQXe/vGrnxF8U2V9DSzt6y2kyA==&pass_ticket=3NLH+Iwrcu6voLXuLk43oO+YV+yW6fiT/RMVJTpZAlikFGKngcguJNqGJIWNvx2h&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/c29c0090-6fd0-4b82-8035-2165983f5547/c29c0090-6fd0-4b82-8035-2165983f5547/)

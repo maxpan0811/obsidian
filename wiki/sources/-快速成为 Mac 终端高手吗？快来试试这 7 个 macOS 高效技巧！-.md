@@ -239,3 +239,9 @@ hdiutil create -encryption AES -256 -srcfolder “新文件夹” -ov -格式UDB
 你可能会想——为什么不直接制作一个加密的 zip 文件，而要制作一个 DMG 文件呢？因为有了 DMG，你就可以直接读取文件，而不必先解压它们。本期精彩分享到这了，下期我们再见！！！
 
 ![](attachments/3ce49458cc197b01.gif)
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=Mzk0MzU5NzQ4Mw==&mid=2247488941&idx=1&sn=98813c1f4d5096e64496ceb82c2c65be&chksm=c256a66c5bf8a17d95600288939ff6ff2b7305d98bdd50b73edb767ebda13362da9ba9e5f05d&scene=126&sessionid=1743733786&subscene=90&clicktime=1743738410&enterid=1743738410&ascene=3&devicetype=iOS18.3.2&version=1800392c&nettype=3G+&abtest_cookie=AAACAA==&lang=zh_CN&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQAjURQ/dQi+NB6sE1BgQlPxLYAQIE97dBBAEAAAAAAK9sMZD9GgkAAAAOpnltbLcz9gKNyK89dVj0FSEb2pF7zhJIyNIQZbYl7GpfX7jHAmZnB6Z6l8DsGtKV+7JkIaLmJ+8AvaUMTBTfaofmnDNm6S9HpFmLUn/8OiwrKKJ9jCG99XWLndQ3ogrgXOspPVeGJkJI6m++q8zgITxxWBm9YxyZ8gBlRZ45/e2naYTxvO/UrqxGlvTR5w63eZXJ8Nxj8JCR4QAiKxeb/yNHJuhZRw65OKnKSv+zaqY4j9FsHYs/qTguRCbzbtEAnA==&pass_ticket=g00S07LRYretXocosRCuLE8ft8hWGvuUqnGeFkBsYmPlpGnn7oukFrxQDqBWGS9g&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/f12b6852-5e37-4c65-974f-d960b653322b/f12b6852-5e37-4c65-974f-d960b653322b/)

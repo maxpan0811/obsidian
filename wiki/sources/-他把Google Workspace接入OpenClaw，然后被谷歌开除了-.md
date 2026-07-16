@@ -93,3 +93,9 @@ OpenClaw 之父为 Justin Poehnelt 打抱不平，「谷歌把那个做出了 Go
 *https://x.com/JPoehnelt/status/2069482265953087602?s=20*
 
 © THE END
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651041019&idx=1&sn=b533a9bce8f515dcece68765375638cf&chksm=8572f975ccedf607506c4b2efcd4b3eb9957285a1f5f30193eb8f776beffaebf4e0bef9d031c&scene=90&xtrack=1&req_id=1782307280907677&sessionid=1782304295&subscene=93&clicktime=1782307735&enterid=1782307735&flutter_pos=18&biz_enter_id=4&ranksessionid=1782307280&jumppath=WAWebViewController_1782307583083,WAWebViewController_1782307583588,20020_1782307610347,1104_1782307612648&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=18004b2b&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQALjzdxTFHoanpRdzCmPzRxLTAQIE97dBBAEAAAAAAIhkMl5R6SYAAAAOpnltbLcz9gKNyK89dVj0BqdfYXE8lcFopA7OnfsdsIk+WBawVLhbxdz5vql/2ShjJmD28GvnONRlmbBV5wq22ur8MbuDemGxstvQnCV+z++c3j/d+UpJxl4GNtiHtN/YU06ppSXELynGVQ0Q9Bdl8CbEg73uZRXjKFgCgJug0NyV8OvXrw4gYck7INwiiZ1EYlrsZszSmqP/mZvjSre1nJ4HocBtURPrtsDTjwx9Gwm2IY3G/Y5ZQgO58ZM=&pass_ticket=OtrrnriuUUl3Rzf5wT1qMm0xGYx76BE3+QLBBdEFPS9Ops9RvjaRq8hvPv7z78i2&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/21289f1b-6d6d-4cef-8111-64004999c49f/21289f1b-6d6d-4cef-8111-64004999c49f/)

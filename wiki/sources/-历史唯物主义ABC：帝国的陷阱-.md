@@ -105,3 +105,9 @@ Original洞中观察洞中观察
 前文回顾：[劝君莫做帝国梦](https://mp.weixin.qq.com/s?__biz=MzU2MzAxNDYxMA==&mid=2247487679&idx=1&sn=c377ffc3d5d321145ee5e1710d63c085&scene=21#wechat_redirect)
 
 ![](attachments/7cb3b61b116f3413.png)
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzU2MzAxNDYxMA==&mid=2247488990&idx=1&sn=1b84717793ed58c61aaf89c092da7ca2&chksm=fd14a255095e3fc8c70c630a16227b2362215abd8ecc9f6e17eb41869601b897ece981ef8810&scene=90&xtrack=1&sessionid=1752819498&subscene=93&clicktime=1752822158&enterid=1752822158&flutter_pos=14&biz_enter_id=4&ranksessionid=1752820358&jumppath=20020_1752822143228,50096_1752822148244,20020_1752822154649,1104_1752822156057&jumppathdepth=4&ascene=56&devicetype=iOS18.5&version=18003d2c&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQlI6ZFTi69rH2aTpBMnV6phLTAQIE97dBBAEAAAAAAJ13KbHJl3AAAAAOpnltbLcz9gKNyK89dVj0ukUqN56goA6seekL2Y5Cx6+Kxo4A9ouTdITQxMLcOMFQ88+hMkdw7zQGpuXApHEavzfq6ZUwMmU/JjnRBRYPlZVvS/RFLoumnOlQDZfzfSI/DkG3cPM1V966TjmHNjSKVsK5ckybi9g+1iIe0ZT4LpG1otnNS1sPKClF7PhyT/D4NVbnMsehQksONZ81e16WyDqnRW4sC6wD9k2X3zL8a4Zfys6GPRzmX3hOdNc=&pass_ticket=Q8q6d7ZaeLqmJpruKnklr+nStNua0mOQZghMpSqtLq0gu3FKsVBJB18aPXV7pjom&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/b87b173a-d2a3-4551-88dd-294737e90f35/b87b173a-d2a3-4551-88dd-294737e90f35/)

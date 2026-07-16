@@ -19,3 +19,9 @@ tags: [印象笔记管理工具]
 
 ## 相关页面
 
+
+
+---
+
+[🌐 原始链接](http://mp.weixin.qq.com/s?__biz=MzA3NzY3NjUzNQ==&mid=2650125525&idx=1&sn=7ccc866d98c2edc7fd8aa52a109b46f7&chksm=874f7e4db038f75b485d0449bf3814808d8a7eecac0272b65b39097c4e5dc20971bc7c380495&mpshare=1&scene=1&srcid=1213JYTLgc3T12OqBYMOG8Tm&sharer_shareinfo=3c02aef00caf5513b373449512c87b7f&sharer_shareinfo_first=3c02aef00caf5513b373449512c87b7f#rd)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/3a0c1c08-2e3a-435e-8b6f-8cedb06df1d1/3a0c1c08-2e3a-435e-8b6f-8cedb06df1d1/)

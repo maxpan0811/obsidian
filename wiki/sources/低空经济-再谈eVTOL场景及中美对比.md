@@ -144,3 +144,9 @@ eVTOL载人飞行器很适合在西沙群岛这样的岛屿群中使用。
 而我国在电动车领域目前的绝对优势，也决定了我国eVTOL产业的发展将比美国迅猛很多，因为很多研发成本都被电动车行业给分摊了。而电动车产业链的企业也积极进军eVTOL领域以占据一席之地。以宁德时代为例，在2023年9月就称其正在进行民用电动载人飞机（也即eVTOL）项目的合作开发，准备将其最新的能量密度更高的凝聚态电池应用在eVTOL上。
 
 而电动车产业对eVTOL的帮助也不仅仅局限于三电，同样都是800V直流电充电，只要接口一致那么能充电动车就能充eVTOL对吧？你看这下连充电这个基础设施都配套好了。而这就是产业链所带来的优势，也是美国所不具备的优势。
+
+
+---
+
+[🌐 原始链接](http://mp.weixin.qq.com/s?__biz=MzI0MzAzNjk2Nw==&mid=2651699755&idx=1&sn=9c4f242442242904fc593f5dcbfacf74&chksm=f28a3c63c5fdb575a24e5c0032c65d52276993766527ae09854dc915226eabfe802040147ef2&mpshare=1&scene=1&srcid=041260NMfISsgOsdT1mgyV9u&sharer_shareinfo=9d4120e6afb93610efec299db4fb567b&sharer_shareinfo_first=9d4120e6afb93610efec299db4fb567b#rd)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/d291ce87-4ab7-464c-a332-b8a5f18c2a19/d291ce87-4ab7-464c-a332-b8a5f18c2a19/)

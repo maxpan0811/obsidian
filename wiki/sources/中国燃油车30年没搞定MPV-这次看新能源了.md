@@ -269,3 +269,9 @@ MPV的车载冰箱
 ******✎********THE END**![](attachments/60ba56c373a39588.gif)  
 ![](attachments/e8b00e798d66bb02.jpg)  
 ![](attachments/68b78cbfcefb9020.jpg)![](attachments/611afc52fa42bb9d.jpg)![](attachments/1eb4584994f62558.jpg)![](attachments/8d4fdd924e9f7d9e.png)![](attachments/3309f66f2934035a.jpg)
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MjM5MTU3Mzk2OA==&mid=2654915600&idx=1&sn=843ccf19b7a9dbaca0e881cedc1d4b10&chksm=bc97a0605b242f8a7fbcf8aa121271cc49d2c456742578fd863d0833dd2b944037e0f257d04b&mpshare=1&scene=24&srcid=1218neQCFlpoLbx3zN78GjrR&sharer_shareinfo=85689cba13b2c7d7b1b6b2b051c87254&sharer_shareinfo_first=85689cba13b2c7d7b1b6b2b051c87254&clicktime=1766043821&enterid=1766043821&ascene=14&devicetype=iOS26.2&version=1800422e&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQiU/wTCZl3880rCJ0qpgnwBLTAQIE97dBBAEAAAAAAIT2N58ESCMAAAAOpnltbLcz9gKNyK89dVj0NaZxT8WLrMGLlWn46+n67sL1yPSStmBuDQ91oGc1xR14zQhgqWMj1SXzHo5+yvpWgOwgLb1D4+K6IsNZKOCuGmiUSJ+gGwln0aU0LU/m3B6MBrNHNTdnq6J8VfLYSiHSh6iPj7Pt7kWMLy9+CihGsoeev+C70JF86QmGx8rXb9AyYjXewXPjUGYX9OvKDVkhefCqsB/X9xBOC53FL9k36AxJDNf/zDlgceGl7ec=&pass_ticket=ZKMYtdDo2IB/T0dAaLt4V9nc3YxTHvF2Fbw3k4n3ZEK0cGWNKDYMlLyYelJVnZFw&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/f2d953a1-da75-471c-a911-7bc6904a421d/f2d953a1-da75-471c-a911-7bc6904a421d/)

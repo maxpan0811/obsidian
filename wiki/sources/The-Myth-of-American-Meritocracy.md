@@ -482,3 +482,9 @@ Karen Ho
 *The Creative Elite in America* (1966) Nathaniel Weyl
 
 *The Geography of American Achievement* (1989) Nathaniel Weyl
+
+
+---
+
+[🌐 原始链接](http://www.theamericanconservative.com/articles/the-myth-of-american-meritocracy/)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/907c2aa8-396b-4b2b-ad88-c1226b2ffc70/907c2aa8-396b-4b2b-ad88-c1226b2ffc70/)

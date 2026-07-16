@@ -61,3 +61,9 @@ Original牲产队长 牲产队
 中国AI为什么能赢？因为我们不赌运气，我们靠的是“东数西算”的宏大布局，靠的是“新能源和算力”的深度融合，靠的是“14亿人口和全产业链”的超级应用场景。
 
 两年千倍增长，只是序章，这场属于中国AI的“黄金时代”，才刚刚开始。
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzkzODU2OTk1Mg==&mid=2247533662&idx=1&sn=22b0fa19e0478dd64e1b57bd2ae2c03e&chksm=c38b03b562782fe23a21d03a64b1215d929e520dc85d5b85f54efebbb70997fdaed1a20d7775&scene=90&xtrack=1&req_id=1775821454380636&sessionid=1775821391&subscene=93&clicktime=1775821632&enterid=1775821632&flutter_pos=5&biz_enter_id=4&ranksessionid=1775821454&jumppath=20020_1775821453979,1104_1775821496116,20020_1775821504896,1104_1775821627449&jumppathdepth=4&forceh5=1&ascene=56&devicetype=iOS26.4&version=18004634&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQaRfra5Z+AMokC2TUwoaQCxLTAQIE97dBBAEAAAAAAO3yAEIm13UAAAAOpnltbLcz9gKNyK89dVj0Sq2EqQUtvgaFZXgrIrqw5NhX1ci1dq8GnZrNnWJjI3fhQz1HBssKd+/RL7R3Gr2xHun5lBtYlqR3UuY0X1g1/veirN8XQVCDWRLRcizJdJRXfYp0nICX56g/hujM5lEfGKjSfK7PH/fk9nNGrOXqF/TUPyzABVFdhP6v8NA5SLNJIoj1OjSx+/oeODhP9zef4f1Gf5PgqE64yT3NW1UIb0p2YLsdh7ZaBPEGjk8=&pass_ticket=W+3iCQq2XSmJFfCnAKHiM8xU5XD4RjIk3Zy21rJ5P0IeRej5KaFqU0bAeSZmsnNS&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/582bf228-2dad-4c2b-9284-716f39999203/582bf228-2dad-4c2b-9284-716f39999203/)

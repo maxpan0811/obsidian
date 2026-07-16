@@ -226,3 +226,9 @@ What would they tell me to fix?
 提示词已经在上面。斯坦福已经证明了这套方法。剩下的，就看你了。
 
 希望这对你有用。Nav ❤️
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?chksm=ec75f728db027e3e958a8a5f4e2556654278b60a93f74a1ddf76800013100894a68ce09dac9b&exptype=unsubscribed_card_recommend_article_u2i_mainprocess_coarse_sort_tlfeeds&ranksessionid=1782029952_1&req_id=1782029952718987&scene=169&mid=2247486276&sn=3dc846ddb3dd865c74ac9ec1b16fb1fc&idx=1&__biz=MzI5MzI2ODczOQ==&sessionid=1782029952&subscene=200&clicktime=1782030211&enterid=1782030211&flutter_pos=4&biz_enter_id=5&jumppath=WAWebViewController_1782030186543,WAWebViewController_1782030187041,20020_1782030199118,1104_1782030199809&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=18004b28&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQFYpTur/mB8N38s5xeNYThxLTAQIE97dBBAEAAAAAADMRLAxIqMIAAAAOpnltbLcz9gKNyK89dVj0OA89PGSpXdf6RH7Zqo2Q6EK6ggSQ+g/p+TxgkuWjZetIKIo8FZUPno5tq2qAPf3mcrLLRvUTon2tYFtzWkgPb374msILAUwCDWOGUuPRW5wX0epH4XnH7/MPL/QSboVC491JC1E5MYEJ2ajWeVCJ6O6sVbQN9Qg7ip8mMRGjGv/xJdPTszRr+F2GmUnjN2M2QV/xmsjQcLWZfI2UR4mhjVDfe6ZIuTx7mAzi8hQ=&pass_ticket=I6S/Hs3GK/w1iorIW84e32vKGbm5xVV/h3lKDddZtkywiaD4qXbsPqQwZ704znT4&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/b2268b49-1d55-4789-81fa-17c06aa76ea3/b2268b49-1d55-4789-81fa-17c06aa76ea3/)

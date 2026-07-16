@@ -109,3 +109,9 @@ iOS 端如图所示：
 Measure
 
 Measure
+
+
+---
+
+[🌐 原始链接](https://blog.mazhangjing.com/2017/02/19/Anki-Advanced-Guide/)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/bfa7e3f9-11e5-44af-9469-9b05416c07ed/bfa7e3f9-11e5-44af-9469-9b05416c07ed/)

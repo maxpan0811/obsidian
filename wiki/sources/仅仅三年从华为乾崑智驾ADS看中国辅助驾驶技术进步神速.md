@@ -48,3 +48,9 @@ Original深圳宁南山宁南山
 2028年达成无人干线物流商用的目标。这个也是我看到之后感到很振奋的，因为目前交通事故，大车占到了很大的比重，而大车的驾驶员普遍学历低，年龄也偏大，普遍超载，经常疲劳驾驶，造成了很多惨烈的交通事故。这也被认为是最需要实现高水平辅助驾驶的领域，而如果在2028年开始了无人干线物流的商用，将会有助于减少大车交通事故的发生，挽救更多的生命。  
 某种意义上，由于国内顶尖人才在各个企业间是相互流动的，所以先进的技术必然会随着时间的推移扩散到整个中国汽车行业，带动全行业的技术进步。因此可以把华为乾崑智驾ADS的进步看成是全中国辅助驾驶技术的进步。当前搭载华为乾崑智驾的汽车保有量突破了100万辆，占中国几亿辆汽车保有量的比例还不高，1%都不到。但我们可以想象到三年后，五年后，十年后，随着辅助驾驶技术的不断进步，以及像搭载华为乾崑智驾ADS这种高水平辅助驾驶的车保有量越来越多，逐渐突破全国存量汽车比例的临界点，整个中国社会的交通安全将会发生多么巨大的变化。  
 不只是中国，由于中国汽车出口这几年呈现暴涨的态势，2024年汽车出口超过了600万辆，而今年肯定会超过700万辆，我不怀疑未来出口必定会突破每年1000万辆大关。越来越多具备了中国先进辅助驾驶技术的车出口到了国外，则会逐渐改变全世界的道路交通状况，带动国外道路交通安全的进步，挽救更多的生命，因此某种意义上，以华为乾崑智驾ADS为代表的中国辅助驾驶技术进步，也是对全人类做出的贡献。
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzI0Mjc2NDc2OQ==&mid=2247493099&idx=1&sn=a325888e583166802b6853225c801faf&chksm=e85d93664d65a79e7e6e158890010f641dae65d1edc83f4c98c231cdf36716641f06d26b7130&scene=126&sessionid=1763821784&subscene=90&clicktime=1763824630&enterid=1763824630&ascene=3&devicetype=iOS26.1&version=1800412d&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQRG5uY7wy5LK1RMIixnEXtBK9AQIE97dBBAEAAAAAAHMwNuTJV4AAAAAOpnltbLcz9gKNyK89dVj0NDrpqjLuv7RFAMsbsX/y0kX78rEiBnY9MiIfNQK7/GDZ3vJtkTgDNJ0hMRAIG1ufmvoUOUSKLU1DzIkQ0muHMUOf3Cw4R91rv3D4u+n1lCxfl8VVhZ+ZdwTaEXVVe3ZUDBvI6/mDBeLqcHs/LAcM8fkGxCLV0VC0vYhw+A5xvdtMS2oZHEbU2u9sFMmo7CX9BzGvZ4Xhuw==&pass_ticket=S9eByx71TLCA5qXsbgtXuq+1EpUDnDLHp2DORLSEBlHRX2JU32SYeVtlTOG6/uwT&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/c5e8c712-b655-4490-9f26-5d748afbed75/c5e8c712-b655-4490-9f26-5d748afbed75/)

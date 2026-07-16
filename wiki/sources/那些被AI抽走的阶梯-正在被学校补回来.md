@@ -119,3 +119,9 @@ Original 李南南 罗辑思维
 ![](attachments/38943bcb5f0752b9.jpg)![](attachments/ee4d5803abef6b40.gif)点击“阅读原文”，订阅《得到头条》
 
 Read more
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MjM5NjAxOTU4MA==&mid=3009360824&idx=1&sn=1463c075469bfcfe3911d606cef2c156&chksm=91c164258dcba2eef80be121ca045d9050fb7037ad1af96172f3112dcd36cf3120f5063cdf81&mpshare=1&scene=1&srcid=1111KwefuiAPlwju7auEphBo&sharer_shareinfo=987b5ff35274d50f086c7290d705cd23&sharer_shareinfo_first=987b5ff35274d50f086c7290d705cd23&from=groupmessage&isappinstalled=0&clicktime=1762833027&enterid=1762833027&ascene=1&devicetype=iPad+iPadOS26.1&version=18004124&nettype=WIFI&lang=en&countrycode=CN&fontScale=118&exportkey=n_ChQIAhIQlpGHRh00ZTKJo5kcTRc5MRLvAQIE97dBBAEAAAAAAL34GB7B+vgAAAAOpnltbLcz9gKNyK89dVj0yO54qcYpOKxGKZyYPX+ZGkIcMofTr6U/9zksFRpFknAyx51vw5E5fXcekXLnPORbA15m3VWIOECWvw0bRZ+XiLkNLJYsfW2MHPf7UxBKzPQ8DWfnEqFOSXK7AUvkPtFMEkLa5bmm2QXtUyqERpg3Axm7LRsAF70FW67NN+//u7Vaq99uKEgCgPCoxwJoHsViEvdIJYAlneW2yckDwRqJLpnbff+o2I16c45sW+HlgC/Y1GzpLqjuP0S5QX8uDu77rTnLw16i4ybA&pass_ticket=R9n+1Ob1NQGFpMMXWrO/Mqk2YMffuCV8Dq5MQS6GN94HUjRONrhAw1DxD/Uq9sSU&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/22c8459f-bd1e-4876-834b-2f18f4895433/22c8459f-bd1e-4876-834b-2f18f4895433/)

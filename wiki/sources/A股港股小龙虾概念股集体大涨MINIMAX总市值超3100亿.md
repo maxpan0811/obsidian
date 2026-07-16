@@ -49,3 +49,9 @@ guid: 0b584ae3-9454-415c-b9b2-f1c42e2aa33a
 兴业证券则指出，现象级产品的出现正有效拉动AI产业景气度提升，国产大模型凭借更高性价比持续出圈，后续有望实现需求拉动算力、并进一步推动AI普惠的正循环。
 
 **未经授权 禁止转载**
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MjM5NTE0ODc2Nw==&mid=2650938589&idx=1&sn=8267cb7f87337c8f4760f955876cdd82&chksm=bcdb645abec1ca1f2ac371a7afee5261daf616458611ff8192f34397bfefb78641e05b85d771&scene=90&xtrack=1&req_id=1773050717037151&sessionid=1773050738&subscene=93&clicktime=1773050766&enterid=1773050766&flutter_pos=3&biz_enter_id=4&ranksessionid=1773050716&jumppath=1001_1773050737970,1104_1773050739324,20020_1773050743445,1104_1773050748640&jumppathdepth=4&ascene=56&devicetype=iOS26.3.1&version=1800452e&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQxCQvWsyZ0oZmqod24IRbbBLVAQIE97dBBAEAAAAAAK8fKjtkJVMAAAAOpnltbLcz9gKNyK89dVj0Pmql05FpMnyWwvh/esR7HcqQQZIFIJMv7dAHNO4NWFG5GD6MIcBhAFC2rm+8IcZZz5xogG2pBom54zUtuv16e3kcBngLga9uwKAxHPp3uYMjuJ/uTkDZ1PcZEj+y9L2H8OG+YitquY3Arx+tH8i6uwPkhYpcqHxaUQFABM4cw2exOzBuRwptRmypz2mPxGwbJUao3TjY4LnH2BUEfRzegQBGnOZg1QVxXEV2VGioJA==&pass_ticket=FLkxvbOApIoOfKFSE08T+dUHxKMtvFD5UFW5VuVh/9q4sow3uK8TRVf/zRSe2h4L&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/0b584ae3-9454-415c-b9b2-f1c42e2aa33a/0b584ae3-9454-415c-b9b2-f1c42e2aa33a/)

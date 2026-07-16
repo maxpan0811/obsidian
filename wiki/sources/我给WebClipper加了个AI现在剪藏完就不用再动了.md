@@ -101,3 +101,9 @@ Original阿蔺ALin 阿蔺 A-Lin
 玩法就是改模板里的指令，语法都一样。自己试试，改坏了也不影响已有笔记。搞定，回顾一下今天做了两件事：① 开启了 Web Clipper 的解释器，接上了 Ring 模型 ② 在模板里加了一行 AI 指令，跑通了自动摘要以后每次剪藏网页，AI 自动帮你加工。 不用再手动提炼、不用再回头补标签。想要更多能力，往模板里加指令就行。
 
 ---
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzI4OTkyODUzOA==&mid=2247484053&idx=1&sn=e71da294510b243fc48377e292a5af17&chksm=ed883ac14d2804e4c59e4843264c1499b3c0d59e36c9c26e8fa7358ea3613ac0e00feefa7ef2&scene=90&xtrack=1&req_id=1779029786693150&sessionid=1779028622&subscene=93&clicktime=1779030185&enterid=1779030185&flutter_pos=91&biz_enter_id=4&ranksessionid=1779029786&jumppath=WAWebViewController_1779030161363,WAWebViewController_1779030161850,20020_1779030176224,1104_1779030177170&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=1800492a&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQ0Sx1/NZs7gYQHUC/2MZ0yxLTAQIE97dBBAEAAAAAALJ7FWFo+nEAAAAOpnltbLcz9gKNyK89dVj0/E5Bp4WZQXjbqQZ45OOeZqyFJVPaWL9Rde0ueYOaCR6GVFU5Sm/6RJqeyVqtqDFKIVQ3vGdOqCdkxKuqKqvBdcPSob1B9KI0wZXglHHG996xozHfzVV5r4Ac7G7Mpu2UXlK2H7HxcC0PoEFvjqtbzgLggzS6k0/SGh0w8mOS2MaK3gPlE3DbupEcBRDBjoL+voR2rSSn5GVtPDCm27JR/RC70udJTV8tMuq5F2E=&pass_ticket=jiXvJJDTeWTEL/XVQGk2WLf/RX6ebYGQCSmuE1MQES1Qhb47b0a2+bV0kvYikAPX&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/fe505b28-53b6-44b8-8843-cddfcb75b455/fe505b28-53b6-44b8-8843-cddfcb75b455/)

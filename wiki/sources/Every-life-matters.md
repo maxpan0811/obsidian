@@ -82,3 +82,9 @@ https://wenku.baidu.com/view/fb528e04d4bbfd0a79563c1ec5da50e2534dd10a.html?fr=se
 珍惜每条生命！我们自己和我们孩子，都要直面人生。总之，这件事跟“正能量”没关系，正能量让大家的人生更健康，指责“正能量”是不对的。
 
 在看
+
+
+---
+
+[🌐 原始链接](http://mp.weixin.qq.com/s?__biz=MzI5MzMzODE5MQ==&mid=2247487951&idx=1&sn=dcaf5ac745609457cdb52b0cc53d58be&chksm=ec72fcefdb0575f928201708b9f62980ec8cbd7050aa8685b221ab99069e906ecbc565cb8738&mpshare=1&scene=24&srcid=&sharer_sharetime=1592306220048&sharer_shareid=196a7290cec677abfe41ca4bbe251b79#rd)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/e387d864-0b1e-4e20-8e25-5c8a25e95abf/e387d864-0b1e-4e20-8e25-5c8a25e95abf/)

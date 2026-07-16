@@ -157,3 +157,9 @@ Claude Code火了。
 关注「AI落地手记」，每天分享AI落地真实经验。
 
 每天分享真实踩坑经验，只聊落地不画饼。
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzYzMjY1OTI0MA==&mid=2247484125&idx=1&sn=0d4e11795f805032444b6b39d7302388&chksm=f1c5659ad7aafdec04f808935faad9375192b10104fff321023c026f781827cc552970865547&scene=90&xtrack=1&req_id=1775183803070236&sessionid=1775182832&subscene=93&clicktime=1775183840&enterid=1775183840&flutter_pos=49&biz_enter_id=4&ranksessionid=1775183803&jumppath=20020_1775183767678,1104_1775183798328,20020_1775183802481,1104_1775183825746&jumppathdepth=4&ascene=56&devicetype=iOS26.4&version=1800462d&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQemcn1gNCICyvXPE3UHZiwhLTAQIE97dBBAEAAAAAAJI3LuqVZNYAAAAOpnltbLcz9gKNyK89dVj0W2lDSLHhjbUa7281DjF2v1PwfI/U54O8Eylq88hI8GGcBB/K8de0fn9SMdbULt8+g9W9YzeIDn3IL0jKfDg4fyoQLjil+Va4n6X9/YwqW42wfdSeDpGS7kOE/aVTS71rRWdsCcc8LCgwZpkQ+Mu61n1E9oudIZv5Heb9u9Iwp8c0vd9Sx1bgFPi9U57udGu32pz3aHnP/ZTK1KEEO4c9AmkgjCRA5TeSAJdWMWE=&pass_ticket=Ep4Ys2XM0Hx0yBsFOqlMvpyose7qh+8BwnliMOQezutQG1w1fdFC/hfAtjoiKpzq&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/918e0e29-c239-4399-a5a8-f516a80d662f/918e0e29-c239-4399-a5a8-f516a80d662f/)

@@ -146,3 +146,9 @@ GDP的构成
 所以，有人未必就有GDP，哪怕中国淘汰的落后产能也不是印度能轻易承接的，印度有配套产业链么？有成熟的基础设施么？有熟练的产业工人和充沛的高素质人才供应么？
 
 很多事情，中国能做，其他国家未必做的了。中国强大的GDP，带来的战争潜力远超你的想象。
+
+
+---
+
+[🌐 原始链接](http://mp.weixin.qq.com/s?__biz=MzU5MzcyMzc2OQ==&mid=2247814036&idx=7&sn=83df1b13d437e4c2f1bd0022eaddac29&chksm=ff4f2b4a2a6eda4c28d9b30dd47281898f3301c81375f75a6222e12b6a768253baf3b72d8f70&mpshare=1&scene=1&srcid=1228v7yyvXDR6aFF5IMlsXO3&sharer_shareinfo=a65c66c67bef1da63187e430e1b70c64&sharer_shareinfo_first=a65c66c67bef1da63187e430e1b70c64#rd)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/0a4ca0dd-c945-421b-8a17-cb4df2c17e20/0a4ca0dd-c945-421b-8a17-cb4df2c17e20/)

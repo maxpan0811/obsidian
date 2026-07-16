@@ -184,3 +184,9 @@ GPU硬件是现在唯一被卡脖子的，卡点就在EUV光刻机。
 *通关攻略！职场跃迁捷径，建议面试前背诵（已完结）*![](attachments/c89458726ac9c164.jpg)
 
 阅读原文
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzI3Njg3MzQ4Nw==&mid=2247489191&idx=1&sn=f94aa4cf120c8346df5b56ec325764db&chksm=ea9861fc6383800c8f3e7f7876a4ab295f6215b8a2428041e8ffe6419186d81edbc64ad4e6d6&scene=126&subscene=91&forbs=1&sessionid=1738415902&clicktime=1738416191&enterid=1738416191&flutter_pos=0&biz_enter_id=5&ascene=56&devicetype=iOS18.3&version=1800382d&nettype=WIFI&abtest_cookie=AAACAA==&lang=zh_CN&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQzgPPM/iiuHxMUOpUgl3E0hLWAQIE97dBBAEAAAAAABpdCot+M4gAAAAOpnltbLcz9gKNyK89dVj0cStqoA/pwcdtlis8Ts9TbJilUmukNIZQf0D/CCEjuTn3XS3gY5HbmF1FXoiddOsx9TCecM4qAHU4cmnuDXo+BAYaqI8rGHNT5BLp7vMSYORa7YElzMgWlPOYv48MXD4YUTum8ix6TjApEyKApHRGZmDxB7gCe+mw/R9fXGWRNiCRXzUKRq8qRMaLyywI0+OwBoHrTXQsiUSknMw0NWGCCaBLMJzebnB/ir+SljDY1wU=&pass_ticket=s10/Kmx3r6/REmq2O0FHxDG9NVem7vIFRYzlD7rGpKjcJ/CO16HdJkGlFsKQZsPV&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/9fed3b64-0077-46ee-9449-68ee0ce34c89/9fed3b64-0077-46ee-9449-68ee0ce34c89/)

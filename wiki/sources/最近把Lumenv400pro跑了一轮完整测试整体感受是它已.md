@@ -72,3 +72,9 @@ guid: 988f66f6-f63a-4e4a-a5f8-296e14074ec9
 #Obsidian#AI工作流#知识管理
 
 Close
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzI0MTEyODEzMA==&mid=2648668545&idx=1&sn=5741d1f6d8af26903aebe2f80a0a2381&chksm=f13b9e2cc64c173a8d2701af8852273f48d295b3f87d2ef6928d6cda41034d34c5ad97f91cc1&exptype=servicebox_1780304307906820&subscene=0&scene=288&clicktime=1780304314&enterid=1780304314&flutter_pos=1&biz_enter_id=5&ascene=56&devicetype=iOS26.5&version=18004a24&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQGNgInp+tuFYvzsSl5rPc0xLTAQIE97dBBAEAAAAAADAKBkE82OQAAAAOpnltbLcz9gKNyK89dVj0LhaWgfs3v0U2HPjl4ojaXeoZBeuQxikjoWBh8X/wXxJXU6xqsf6qQQ6qpTZy9RPxmq7bW8z0mEGMIGbG56PMFrIlGA6VqKlasdCzF+QCm43BJtPqbr/yvdkVabB4D/PZFxq/Gx1Y7K0Jq/r4FbDiT2dlgXLRR+HplZ6n0vkuo9azCB9e+eojd5oV3P2NVchnjMmKxoNsrSo0WK2rqY6NsT7k0gHYKaEVwVB6gGA=&pass_ticket=0W1WUT416w/jOc593HZHm0THGIqNo2/qx8q9TPLsdeT9dkCu5PkNNvYW4WblNV/1&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/988f66f6-f63a-4e4a-a5f8-296e14074ec9/988f66f6-f63a-4e4a-a5f8-296e14074ec9/)

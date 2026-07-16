@@ -44,3 +44,9 @@ Original 观察者 文化.旅行.知与见
   
 告别MakeMyTrip后的携程，独自踏上了全球战略的远航之旅。然而，前路充满了未知与挑战，区域市场的突围困境、全球化运营的重重难题以及激烈的竞争压力，都在考验着携程的战略智慧与应变能力。未来，携程能否冲破迷雾，找到属于自己的全球发展之路，仍需时间来验证。
 
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?chksm=fda4fa51cad3734793f960925fdf7e887596b246fbfef5dc991e97cd983dc27dd864f8b44ea1&exptype=timeline_recommend_friend_publish&ranksessionid=1752399806_2&scene=169&mid=2247484991&sn=e79743ca7f9f7d5064774d762c393a9d&idx=1&__biz=MzU4MzY1ODc1Mw==&sessionid=1752399768&subscene=200&clicktime=1752400386&enterid=1752400386&flutter_pos=25&biz_enter_id=5&jumppath=20020_1752400179144,WCWebImageBrowserViewController_1752400239034,20020_1752400243490,1104_1752400375166&jumppathdepth=4&ascene=56&devicetype=iOS18.5&version=18003d28&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQLVD7VCfezhSH6dHmoPUMpxLTAQIE97dBBAEAAAAAAKDRDFhTiOEAAAAOpnltbLcz9gKNyK89dVj064YvuMSx4lcr0MbYNMVQRFkrDCZnHVIeh0I8oJPhmVSPjCt29+kUCcKsBKFfGpR9oOExWgABbI+5tSV60SzPHixkmnboBV8PQxmrTX52L9wzgxM4Mch2YrtY/6Txs/SlN8nOXrHWGBhbrNztdFV4pJ5F4nTKN3HH5FciLg13GR79eTlc9XwDSbpCee5bKaEUxpZtL520SeMJk0aj0TROYh0oGAdp+Wm5e0sb9wU=&pass_ticket=trJSqYC7yTi5V6DiE7+D0T7DcWM3LQzPQH9ak2zUnYxICox+cSGOxwIC82FJpEbt&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/e4a10219-7be9-4b15-86b1-28d4428c4dad/e4a10219-7be9-4b15-86b1-28d4428c4dad/)

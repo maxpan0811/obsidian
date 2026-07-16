@@ -136,3 +136,9 @@ guid: c8bffd1c-d612-4c11-be10-ae00bd6e1363
 甚至于，这应该是巧克力！！![](attachments/15463c62147ffcc4.jpg)  
 另外，花满城无法识别植物；leafsnap无法识别花，可以查看植物叶片；flower ID只有western Europe、Indian Ocean、South America和North Africa地区的植物，对这些地区的植物感兴趣的可以关注一下；园艺植物识别是南通科技职业技术学院园艺与景观工程学院开发的教学平台，仅有江苏地区的部分园林植物；植物百科大全也无法鉴定，主要针对一些植物的栽培管理以及应用方面和部分植物的科普性知识的介绍。喜欢植物科普类以及栽培养护管理方面的，可以关注一下植物百科大全这款APP。
 
+
+
+---
+
+[🌐 原始链接](http://mp.weixin.qq.com/s?__biz=MzI1OTQzMzQ2Ng==&mid=2247484207&idx=1&sn=ec964786e1d61ada42973e4aa832447f&chksm=ea79b5badd0e3cac2e559c2944890b8cffd4e66ec4a53b2dde6e307921d688df8e2a884d9805&mpshare=1&scene=1&srcid=0225yGKw69sTPA3gXqXMJLrj#rd)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/c8bffd1c-d612-4c11-be10-ae00bd6e1363/c8bffd1c-d612-4c11-be10-ae00bd6e1363/)

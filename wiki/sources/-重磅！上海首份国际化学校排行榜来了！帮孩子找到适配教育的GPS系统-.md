@@ -224,3 +224,9 @@ From“爸爸真棒”的**清华爸**
 ![](attachments/25e9f936aaed6e9c.jpg)![](attachments/ebaea56b04b0f315.jpg)
 
 **********▼▼▼**********上海国际化小学、高中**评分详情**以及更多的********************学校信息****************************************、****************************************真榜点评********************，**择校小工具**和**评校社区，**尽在“**爸爸真棒**（id：babazhenbang）**菜单栏**查看。
+
+
+---
+
+[🌐 原始链接](http://mp.weixin.qq.com/s?__biz=MzA5OTY2MjIwNw==&mid=2653042091&idx=1&sn=74da441058c24342107e011ee28d7087&chksm=8b2875bbbc5ffcadb5b6c5f118e99804af301b9173f07893d657dc2e21710b992cffe1b85345&mpshare=1&scene=1&srcid=0420FURzdNHBgfWO2N14cFAN#rd)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/4e4d80ee-53a0-43cb-9ed7-60c9b7acfb4d/4e4d80ee-53a0-43cb-9ed7-60c9b7acfb4d/)

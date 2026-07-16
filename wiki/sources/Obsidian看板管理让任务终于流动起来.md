@@ -49,3 +49,9 @@ Obsidian 的 Kanban 插件，
 #obsidian#插件#效率#看板
 
 Close
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MjM5NjE2NTUwMQ==&mid=2247484231&idx=1&sn=b3876741d1ad49641814e496c37f3109&chksm=a7c4394604a03fa7edd26aa7291101dcb9666e1397df89b49f4b59cd1b664b0d7df070032378&scene=90&xtrack=1&req_id=1776253796452268&sessionid=1776253836&subscene=93&clicktime=1776254960&enterid=1776254960&flutter_pos=3&biz_enter_id=4&ranksessionid=1776253840&jumppath=20020_1776254634655,20020_1776254743209,20020_1776254954041,1104_1776254955693&jumppathdepth=4&ascene=56&devicetype=iOS26.4.1&version=18004637&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQazmQq2WADGoRbDkVEM4ewhLVAQIE97dBBAEAAAAAAOqjNEwmMvUAAAAOpnltbLcz9gKNyK89dVj0Wui1Uc3WFGvRZz8WkREXpEDMA1bQaeNcqA8FiDBKBpjh1gGahUsRj3CoV13Hmd7wU/n7Q1+Hd9tWKZy4qrECixY4/8MV4sZ64lFM1+5v0aAeStpGsj7Gve55bVvMTZQvN77wXAZRhcZIZz2PgkngC8Y5BFz4wBRM5/wI4YqGuummYlsaK5WVnx2EbACOLmAPXoU3a/54+wtLNHYCGXvhyod6o9uS6diRdlzhm+XVsA==&pass_ticket=WOtNOuxjuymLvzIRpeB2YKFQtl9+bAIcFImqH3xDhKUjAeLsh3oziq0U/a3LXQeU&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/ebf57ada-64ac-46a0-b62e-9f3856b998ef/ebf57ada-64ac-46a0-b62e-9f3856b998ef/)

@@ -174,3 +174,9 @@ Original深圳宁南山 宁南山
 不仅如此，日本的研修项目工作地往往都在比较偏的地方，应该说在最为青春美好的年龄这样忍受三年拿这个薪资，对现在中国人尤其是年轻人的吸引力已经很低了，无怪乎现在日本研修生已经是东南亚的越南，印尼人为主了。
 
 我觉得，对于一个国家来说，发展才是硬道理，各个产业在持续升级，技术在不断进步，经济总量蛋糕在不断做大，这个国家就还有希望。日本现在面临最大的问题就是经济不增长了，蛋糕不再继续做大了。其他像中国大陆，中国台湾，美国等都有各自的经济问题，但总体来说，经济总量还是在不断增长的。我个人觉得现在看日本经济最重要的经济指标，就是丰田，本田等几个日本头部汽车企业的财报，这些企业的财报好，日本还能多撑几年，这些企业的财报一旦快速恶化，日本经济会崩的更快。另外更为重要的是，一个国家经济走向崩溃，就会很容易右翼思想和军国主义思想壮大，当年的德国，日本，意大利等都是例子，日本现在就有这个趋势，这是值得我们高度警惕的，如果日本敢于拥有核武器，或者真的武装干涉中国统一，我们都必须为了中华民族的永续生存要敢于出手对其进行军事打击，要让日本明确的知道这一点，从而使其在我们期望的轨道上继续运行，逐渐的走向经济落败，回到其在东亚正常的地位。
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzI0Mjc2NDc2OQ==&mid=2247493193&idx=1&sn=b6398466341d5c291b900010c0df0e01&chksm=e80d8932023093dd6c27f3a1904ab41f6ac5aed4992c57b3feac2be4b97b65273e0587fac180&scene=0&xtrack=1&ascene=1&devicetype=iPad+iPadOS26.3&version=1800452c&nettype=WIFI&lang=en&session_us=gh_4f94e33f330a&countrycode=CN&fontScale=118&exportkey=n_ChQIAhIQAm5YqBvb79XoD3naY+/4ERLqAQIE97dBBAEAAAAAAIMCNTfaQOgAAAAOpnltbLcz9gKNyK89dVj0ulsaaMpLf8Ll2x+lNlSZajtYPO7dITyBfgZgN5/UZtEUHuZCPd9EbO/ar9uYyXZX+WJ9+uSV8Zo7NmvZ732elGM4QhiVrKQRok2F8R4IjJTY1bIORsUP4Xcr+h/Xnl3A600mXgvat5vzbX8UDkUqpw2m+GHQlvihYK0bHYPJoR8tZwhMboPhtQinJe+EYfY391mw9Z0SjPIQoHspDMeotw/HbGkD7Mh0ozVhzcvWVOBraGTchxeGyTOB5MXYyYpNnXRLzg==&pass_ticket=4kIYqNjo7dpcz76BLoo6TMEtYt54LJr3+4lNQxIyOc1Kc8iNbjhOc3ygO9pZJqhh&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/53de2b27-f4eb-4093-9ef2-49ad27563071/53de2b27-f4eb-4093-9ef2-49ad27563071/)

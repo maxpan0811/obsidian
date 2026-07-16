@@ -161,3 +161,9 @@ guid: 0b122c9e-4444-49c1-a1b3-0be86db182d1
 现在加入我的星球，工作日几乎每天更新一篇时政深度点评，了解我们对各类新闻热点的见解，和我们一起进步。
 
 如今，已有**40000+**读者加入我的星球，和我们一起重新开始认识世界的底层逻辑和本质规律。
+
+
+---
+
+[🌐 原始链接](http://mp.weixin.qq.com/s?__biz=MzIwMzAwMzQxNw==&mid=2756726634&idx=1&sn=44a11fd1f127a89b6602be8d76109957&chksm=b772ec1c8005650ab9da1040e5a71451c6f14a023a6344c16082fe3f9093215096741aa9038f&mpshare=1&scene=24&srcid=06039YqOHym0rZMuhrMsd9T2&sharer_shareinfo=912e13a8d06bde44892364d36b1b2d47&sharer_shareinfo_first=912e13a8d06bde44892364d36b1b2d47#rd)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/0b122c9e-4444-49c1-a1b3-0be86db182d1/0b122c9e-4444-49c1-a1b3-0be86db182d1/)

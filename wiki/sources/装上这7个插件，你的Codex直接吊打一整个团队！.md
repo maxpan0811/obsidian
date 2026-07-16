@@ -118,3 +118,9 @@ Codex 不像 Google AI Studio、扣子那些自带部署功能。
 你好呀，我是元小二
 
 期待与你在AI时代一起成长，欢迎关注我的公众号👇
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzI1NzA2MjU0Nw==&mid=2650841907&idx=1&sn=707b65750f7a28a8e6c7890d25f70216&chksm=f067536a9652ba10d3282f8008e61086a912249aa89a3f32961774920457380f92ec71404952&scene=90&xtrack=1&req_id=1781519083303010&sessionid=1781517262&subscene=93&clicktime=1781520656&enterid=1781520656&flutter_pos=8&biz_enter_id=4&ranksessionid=1781519083&jumppath=1001_1781517261746,1104_1781517263409,20020_1781519082908,1104_1781520645643&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=18004a2f&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQQtB2M5gXeTqMjcC1Wzw8TBLTAQIE97dBBAEAAAAAACBnAPVc5foAAAAOpnltbLcz9gKNyK89dVj0iyAII6Jd1tBX22hx1XCBUMzuk30wNf8sUsnFyrJ2SqQBwxFpDeav6l6u9Rk/TMoB4nv0A9LQxMKJSA6oKOsXuzxju5d8JTk/rU/DLL8Bh0U3ExTuO8ckONr/H7xyZwLDZ49Hgeh8O4kMWSk9cEsKzdDgYSz0IoQM0HvJkbM1fASlXOVApbylVJwRQ4ULLHJ730SYDLdLdcvPCDUJMaIpYbXGiMErq9Z1Tnhr+RY=&pass_ticket=jLtbSIY0A8YwQCBFAoN208q+xldOT33uo4IEKhubpUzkyPPeIP3jvG86CZzngkkY&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/429b01b2-e152-4967-ac6d-79d6782b6453/429b01b2-e152-4967-ac6d-79d6782b6453/)

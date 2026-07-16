@@ -29,3 +29,9 @@ kimi chat出来，
 
 ## 相关页面
 
+
+
+---
+
+[🌐 原始链接](http://mp.weixin.qq.com/s?__biz=MzkyMjUyMzAwMQ==&mid=2247484304&idx=1&sn=6d580b0d86022f976554f2f596ba2507&chksm=c1f24786f685ce909be012ff7603d542cd3a6cc12ab54d88fe3da6846aa039bb8ff22cc9a371&mpshare=1&scene=1&srcid=0411RMH4nOwOwAYrwTUFll5Q&sharer_shareinfo=d60f4aa295a65f8c6ce26530f2453433&sharer_shareinfo_first=f4b95a31282d0016a918cbb587476edf#rd)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/b0cacd0b-e1f9-4f66-b18f-45525f29fed6/b0cacd0b-e1f9-4f66-b18f-45525f29fed6/)

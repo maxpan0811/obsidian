@@ -89,3 +89,9 @@ guid: b574b481-e955-4d3a-ae2c-804a9268e97a
 ![](attachments/0cda7eb557bab042.gif)
 
 我是一臻，致力于发现和分享有趣有用有态度的AI内容。如果想第一时间收到推送，欢迎关注公众号，**设为星标**⭐。
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=Mzk0Mjc2MjU0OQ==&mid=2247484620&idx=1&sn=8d65eba9ff2159c01c8537ded1c03da5&chksm=c2ebe1e852beb4c7b1684ba4a97b447bf9c43e6fa254a9810015c54aa1dc5085e0633bbd2dba&scene=90&xtrack=1&sessionid=1741679070&subscene=93&clicktime=1741679526&enterid=1741679526&flutter_pos=3&biz_enter_id=4&ranksessionid=1741679080&ascene=56&devicetype=iOS18.3.1&version=18003838&nettype=WIFI&abtest_cookie=AAACAA==&lang=zh_CN&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQstpkqs2/UjcnotEqlD/3fBLYAQIE97dBBAEAAAAAAHmuC2Ed2coAAAAOpnltbLcz9gKNyK89dVj08YIIkxe5Ji95f8jm4Re9ylnD+/vniGrS2VuOp2H65/xjuASBI55IrPHKXVvyJp7bU2eA/29VPBgtUPizWP2KVOPb6E1hj0CRGPfLtiSJlFnFYMPPmiKCiQCgiNdCBFCnXmRIrNwppajpQqFBMstY7cKlKJPRHfawCg0uCrFBeWRBXEY7Nyi5Owvu4OchVtUP6EEz7IOdhU/ltTQyB8zeM8skF9R04y5Hj1xl6q4TCa9dxQ==&pass_ticket=Qj7H6eVBERP99ee4cJizUw9xERGRvziBjNCUlL1l27353wzJ0erOFHKxh/HuGyZN&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/b574b481-e955-4d3a-ae2c-804a9268e97a/b574b481-e955-4d3a-ae2c-804a9268e97a/)

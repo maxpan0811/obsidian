@@ -178,3 +178,9 @@ for (i = 0; i < sen.length; i++) {
 ---
 
 The end.
+
+
+---
+
+[🌐 原始链接](https://zhuanlan.zhihu.com/p/40219067)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/f01d1155-e1eb-43a7-b659-f732e6591804/f01d1155-e1eb-43a7-b659-f732e6591804/)

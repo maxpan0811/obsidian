@@ -57,3 +57,9 @@ demo.html:用这套规范搭出来的仿真落地页
 #UI#UI设计#前端#vibe coding
 
 Close
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?ranksessionid=1782340110_2&chksm=9bfc0288ac8b8b9eda133033094eac6743cf3e576a434a23848d2c6fa6362fc94271b0a8c796&exptype=masonry_feed_brief_content_elite_for_feeds_u2i&req_id=1782342212142578&scene=169&mid=2247483725&subscene=200&sn=736421ebaa35e4c353f5205ea808ef94&idx=1&__biz=MzAxNTg4MTg5OA==&sessionid=1782340109&clicktime=1782344883&enterid=1782344883&flutter_pos=0&biz_enter_id=5&jumppath=WAWebViewController_1782344841360,WAWebViewController_1782344841860,20020_1782344878398,1104_1782344878923&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=18004b2b&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQZ5M2cKR3GYybV5MMQ8WeChLTAQIE97dBBAEAAAAAAFv+NP4zrT0AAAAOpnltbLcz9gKNyK89dVj0FRVBkcXy/kruNi4z9hCUoiPahe7eXxUDq5XBY3DZBn5eeZ82s4NkhUB8VyMd0GfKUckbgPcsi5t2G+ieAWlO6G0rjKDX8nE+HESm9ce3t63pvJt/dYAxQYcC1R41ojTU4fydDfw5O7Uk3FgzzG5zlfECCZPVcRWPa4oS4c52B71hQ1p53JvsxkEWHSN8w5al0Q9IdVOLLxJdxGj9rjrF0pQ0jmu6hue3v7zoves=&pass_ticket=bnN74j24Ebc/bjJvEPAgNufc8nsAAUUSt7iiYmZ/aWF+wXlxen6zy/clsv+gl0yO&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/6c8ed006-13b8-45a6-a93b-5bee13231f7e/6c8ed006-13b8-45a6-a93b-5bee13231f7e/)

@@ -66,3 +66,9 @@ guid: 378a0ac4-6435-4412-be14-f43c91fcfdbb
 上一篇高科技产品“白菜价”没有什么好担心的
 
 个人观点，仅供参考
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s/3I-c5BLETQK-08B20_GmhA)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/378a0ac4-6435-4412-be14-f43c91fcfdbb/378a0ac4-6435-4412-be14-f43c91fcfdbb/)

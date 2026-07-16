@@ -171,3 +171,9 @@ Stage Manager是macOS里的“专注工作区”，可以让你只专注一个Ap
 ![](attachments/dd48e6fbf0a0d358.jpg)
 
 重点不是“看起来很高效”，而是真的让工作流程变得更顺畅、更舒服。掌握这些基础技巧，你会发现，Mac的体验提升不止一点点。好的，本期我们就到这里啦，感谢观看！我们下期再见！
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzU4Njc3NjQ1Nw==&mid=2247488785&idx=1&sn=c77f82cfb9318249c2c5ebfcf4e0736d&chksm=fc4d4a8d7de0720643790d3e9f8b784a1cd966fcc36f4e08813823f7f595518482979e0bb78e&scene=90&xtrack=1&sessionid=1744846165&subscene=93&clicktime=1744846596&enterid=1744846596&flutter_pos=3&biz_enter_id=4&ranksessionid=1744846169&jumppath=20020_1744846169403,WCWebImageBrowserViewController_1744846176605,20020_1744846188476,1104_1744846591871&jumppathdepth=4&ascene=56&devicetype=iOS18.3.2&version=18003a22&nettype=3G+&abtest_cookie=AAACAA==&lang=zh_CN&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQlwu6yU1RImANMA9IV8cV3hLYAQIE97dBBAEAAAAAAHWDFrQhYcoAAAAOpnltbLcz9gKNyK89dVj0Vkth34MevYxAGXlXStpOin5q9b1bCXLmTV6WYpuyydLzB/97mgBPRJEyhPHERUdV/zIUJG/p/4OhIHDx8F668sdYzizz+oixibHzw/M92CtX2bnYlvQ87aQM3QMfzRlkteosjKh3AGYhRG73YHd/oiUKcwZ4aHh5jpCYXHgK/PFCSY+4/npLBEdgSDqqYgV1OFv4molKs2id0DicoEa8wf56oidxkNVR3jfv5H7ReDLhwA==&pass_ticket=l2bzCqq07ijcHBbU+0PYSVcEXv5HfSSe9/h3uVMFm4r+B7rfzzYxplOvHZTQwYbP&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/d3a93df0-5007-4b69-8f30-ec5fb75152f3/d3a93df0-5007-4b69-8f30-ec5fb75152f3/)

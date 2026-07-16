@@ -157,3 +157,9 @@ deepseek创始人梁文锋
 我认为，**广东要高质量发展，首先要重视教育**，教育一方面可以培养、吸引更多人才，形成集群效应；另一方面也能提升人的眼界与格局，避免短视与急功近利，能玩周期更长的项目，做更大、更长远的生意。
 
 所以，广东近年来疯狂办大学，是有原因的，这真的是被大环境、大趋势逼出来的。
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzA3NjU2MzQ3OQ==&mid=2653100666&idx=1&sn=30461ca94569e357b1c672e8f313a88f&chksm=8531d01347a26d675b8a76f3b8fc0f742a635714b8cf2d4fdecb48ea9225c733bd2ccb638e3b&mpshare=1&scene=1&srcid=0207R2iEChZNX6naLLCGJ8Xa&sharer_shareinfo=867f9c316ffbcee6e38159d913f47e59&sharer_shareinfo_first=9e35c041b827a99bb9ed70fe5779b546&from=groupmessage&isappinstalled=0&clicktime=1738884437&enterid=1738884437&ascene=1&devicetype=iOS18.3&version=1800382d&nettype=WIFI&abtest_cookie=AAACAA==&lang=zh_CN&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQV0DSB/abMRMIfd2dkYOfDhLpAQIE97dBBAEAAAAAALLSDl0jWJwAAAAOpnltbLcz9gKNyK89dVj0cfwlx9ArvXQ2HXC0CRsaDF8WFQ31OjGsenBz/8fBFc/gNA3LYFWRfCL6NOrtzOOSW/bv4WodHRJnnjBmmphdlc29OgxhO31StAZCshuvnIJmnRAx1dJf6j69wQ19goeSVxZpgBtBt7lpUWYlVK7yD233OqNVYaHoyeNQyR+DLD/rX2R8IoahtezuIPRWLiSSgDz6nqrA5/gm5tuXUgZmcJWkVMZdnhDgIJoN5GSSKsMHnRTO409JiKxYMpjRfiypkOKV&pass_ticket=Xu6clCLH7PiS9imDa1NuecETD7+z3vmrm5u8Oh3u++L7Ls0EIMc8/YSqPbaTGw6j&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/99798f28-8e11-4ebd-b1cb-9ebf34c38548/99798f28-8e11-4ebd-b1cb-9ebf34c38548/)

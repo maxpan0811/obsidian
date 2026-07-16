@@ -99,3 +99,9 @@ Original摸鱼学副教授美第奇效应
 *笔者的新书上市啦，错爱笔者闲扯的读者，可以点击下边的 阅读原文 购买~~已购买的读者，记得后台联系笔者，加入VIP读者群*
 
 Read more
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=Mzg4NTU3NzU4OQ==&mid=2247532070&idx=1&sn=861c1169eaa6786f09f3284ea823fbbf&chksm=ce9b25db6ae94d2ae4dd85ac53a03295dbba7ffe2d6337d0d8ffcdb900246f4e372ccef37057&scene=90&xtrack=1&sessionid=1756379165&subscene=93&clicktime=1756379171&enterid=1756379171&flutter_pos=0&biz_enter_id=4&ranksessionid=1756379126&jumppath=1101_1756379148747,1106_1756379162802,1001_1756379164701,1104_1756379166323&jumppathdepth=4&ascene=56&devicetype=iOS18.6.2&version=18003e34&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQ/pT9HWxN4WsA1G2Qog1y3BLVAQIE97dBBAEAAAAAAD57JWPzD60AAAAOpnltbLcz9gKNyK89dVj0HJEENUwqhQZytFHthRTzUoKCSeO8OcIpS/u2ITSKbr1Igcuu4LsO6vp6aNVZcgmS3KiTpXJvd6gjhXaKi+Iw/HGGeV/Jqmib36OyPK1jkKL3OibdxxPqi+z7AsHWT8EchR7V+Y2/FJIycNuSLLi2Ic05j0HwE6i5/reCv1FUQRONPVRR2iC/OKNUNxYBX1O7SnYYSLbEHcdirelgK+HXJ2J7Br98KTze/srHCYG50g==&pass_ticket=0J+LHDpCyoQZUmjsRBQHc4drVXoGywoWrhkKeTCj8d7kKFG/UGhn5E6JSttiCcFy&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/97e76d3a-0198-4009-9838-a28b6413f802/97e76d3a-0198-4009-9838-a28b6413f802/)

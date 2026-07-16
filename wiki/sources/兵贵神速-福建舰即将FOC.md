@@ -73,3 +73,9 @@ Original达哥有点味达哥有点味
 央视新闻说，2026年完全战斗力形成后，福建舰将成为维护国家主权、安全、发展利益，维护地区和平稳定的战略铁拳。这个评价不夸张。
 
 一艘航母从下水到形成完整战斗力，美国福特号十年都没做到的事，福建舰只需要一年，这背后是两种工业体系的较量，两种技术路线的对决，两种发展理念的碰撞。
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=Mzg2Njg2MDAzNw==&mid=2247491090&idx=1&sn=20bcf67e9600648d59821924f1dd3b7a&chksm=cf8102d3341c00f84f2314b12a4c102b6889f4736a92d6ac7eb04299c784cbec28222e3a1f50&scene=90&xtrack=1&req_id=1776146162330399&sessionid=1776146191&subscene=93&clicktime=1776146195&enterid=1776146195&flutter_pos=0&biz_enter_id=4&ranksessionid=1776146162&jumppath=1101_1776146165837,1106_1776146190146,1001_1776146191024,1104_1776146192716&jumppathdepth=4&ascene=56&devicetype=iOS26.4.1&version=18004637&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQc6nddWnT84V/8tnNGouF9BLVAQIE97dBBAEAAAAAAOQME+/dwJ0AAAAOpnltbLcz9gKNyK89dVj0qv7wk+cnwbrjJ0Q9clnXd/uPlox9bQQ2MNpk3Yf6AtgPaaNdR0GxGKG1m96NEN5YhFX8WIyiR+dHfHLu3Oc3JHW1hhJ7L99GDUGwd32agRBfJx0GtIRUzB5PARvw4GkNKVxKWMwsT3o8d7i8zT7gyeTLoBM27Izgr8rXzcETG/t9FSQahBB1xhfinolTxBhN7G9BycGQi0lR1shpqP7Ow5doMPoamBgHqny6wVbKLw==&pass_ticket=/2uU6RApjFkBGM/zU9zsoi3K6mctxv7a+u4yU/x9dAezZB5pPQxU81/BzQ5BZrEz&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/32897350-b2ae-460d-81fe-9bbc25891584/32897350-b2ae-460d-81fe-9bbc25891584/)

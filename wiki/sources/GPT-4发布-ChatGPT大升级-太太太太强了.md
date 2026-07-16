@@ -208,3 +208,9 @@ OpenAI老板Sam Altman直接开门见山地介绍说：
 **科技前沿进展日日相见 ~**
 
 ![](https://mmbiz.qpic.cn/mmbiz_svg/g9RQicMD01M0tYoRQT2cMQRmPS5ZDyrrfzeksiay90KaDzlGBH61icqHxmgFKfvfXtVuwTHV740CDLAaXU1LIfZyoJEpYKcRIiaE/640?wx_fmt=svg)
+
+
+---
+
+[🌐 原始链接](http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247669077&idx=1&sn=d9cb406ebbb476467f66f9c58da728f2&chksm=e8dee227dfa96b3116d8857263ade8c40a2d740544caa8dfb2800cf9139c89b1e3171c05261e&mpshare=1&scene=1&srcid=0315byXbHEyRGTR7eAzswLnU&sharer_sharetime=1679036253888&sharer_shareid=ee47b9411760e9070f0b59d8d8655fa1#rd)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/02438d89-c42f-4d87-b69f-bc469ed0bfd4/02438d89-c42f-4d87-b69f-bc469ed0bfd4/)

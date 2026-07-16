@@ -55,3 +55,9 @@ guid: a637266c-4808-4a1d-8d38-38f153a1fd06
 **校对 | 郝珺石**
 
 请长按下方二维码关注我们or回到文章顶部，点击环球时报 （微信公众号ID：hqsbwx）
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MjM5MDk1NzQzMQ==&mid=2654044478&idx=1&sn=bd33a7fab17c5b278624ed7317241972&chksm=bcd73f13e046b8fe39ff0794fb5496ee916e7f3fe0a0d6c88b957cbd60caf6c3431ed93ec253&scene=90&xtrack=1&sessionid=1752192704&subscene=93&clicktime=1752193108&enterid=1752193108&flutter_pos=3&biz_enter_id=4&ranksessionid=1752192689&jumppath=WAWebViewController_1752192927669,20020_1752192944559,1122_1752193096631,1104_1752193098081&jumppathdepth=4&ascene=56&devicetype=iOS18.5&version=18003d28&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQHShmA4xAG7iAm4U5X1cCIRLTAQIE97dBBAEAAAAAADbgCtQe5HkAAAAOpnltbLcz9gKNyK89dVj0wKXnOBIT+zLLTvNtJnCD+iR3TfDXJGV3CWpsGrFMQ3xNVYaHckE+mgNIiXgQPaFHwsEecynmgcx4TkhVuzjo41rQNXr7Bz1LuTt58waMMkeYrfqUwVisjwJYpBh6T6yUPMNJ0yaxQFCQ5pCp4qVGApxwmfkombzDnE7YFjrmAJTYJlSkhOH7fj2y3F6JswP/3d/wXS9VhsgArhp0vGmA2eK+mcYvSpnplsuChtU=&pass_ticket=27qAkAy5ne06ZagbjVWfSE4vUEjnbIS/xzcrvtYV4SJ60Ohr2g3+EZaLsva8ID4b&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/a637266c-4808-4a1d-8d38-38f153a1fd06/a637266c-4808-4a1d-8d38-38f153a1fd06/)

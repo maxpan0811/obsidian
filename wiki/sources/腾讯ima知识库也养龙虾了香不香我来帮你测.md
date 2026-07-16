@@ -160,3 +160,9 @@ DeepSeek、Kimi、智谱、MiniMax、混元、千问
 根据自己的情况做出选择吧～ 
 
 Have fun！
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzI2NzM4MTQwMg==&mid=2247496131&idx=1&sn=65be3a54690f9704412e5691071457c1&chksm=eb1dc976b7e261d8e74cc2e476f95da5c78e1c4bda9d5e2ea14bd588cae0883e6eb7b89045ae&scene=90&xtrack=1&req_id=1779264918928133&sessionid=1779265009&subscene=93&clicktime=1779265014&enterid=1779265014&flutter_pos=0&biz_enter_id=4&ranksessionid=1779264918&jumppath=1001_1779265004645,1102_1779265005958,1001_1779265008870,1104_1779265010584&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=1800492d&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQfmzv20bfuLCKVlfAlGcKGxLTAQIE97dBBAEAAAAAAB33IiOMju0AAAAOpnltbLcz9gKNyK89dVj09JxrfvkXSQtG5Z24Irt8eBhMMj2o9MWEGK2EsswqBn0yx3MwWdGGPgV48z2v+Vv/tXNXm7OQBj1y+r6zmH5O60KgHzPPvDydn40wdTHPkq5oxdSrmf8GtAgUTjND48X+g1UYqN2qW0Eg/sxhgbHB0NU8GU+FdKcTspeK2hYBu+eamdtsgB1hs72OECgDPfkre3XboAb2RG7SK+pLRUm9hfrXD9WfvEgP8+l0/z0=&pass_ticket=CWO9op/1RyajkZSfUIxfuZRQ9DktNnzleL6zSX0FGwW3XTrZrwNh21rIghecyHVP&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/415536b3-9ead-441c-9fce-062ea9485878/415536b3-9ead-441c-9fce-062ea9485878/)

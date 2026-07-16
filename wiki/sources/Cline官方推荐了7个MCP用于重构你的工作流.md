@@ -101,3 +101,9 @@ Blender-mcp：可以执行复杂的 Python 脚本，利用polyhaven 快速填充
 有想一起交流学习 Cursor 的可以添加下方的微信，备注「编程」，邀你一起学习。
 
 ![](attachments/6152269943fcb06b.png)
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzI1MjU1MjU0NA==&mid=2247489746&idx=1&sn=e8e992b6d02758c4aeda4a6391ca9890&chksm=e865d11a8821e952932c6a8edfd6aa6de31388c901912fc2f08083b64fd11fd95a5051b9a33f&mpshare=1&scene=24&srcid=05178WBh0ai4UrsBpnQVKFrn&sharer_shareinfo=e23e89b03a49a03e4c8ce453ce662783&sharer_shareinfo_first=e23e89b03a49a03e4c8ce453ce662783&clicktime=1778992796&enterid=1778992796&ascene=14&devicetype=iOS26.5&version=1800492a&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQKMEHPlgN1XSSUPvKdTOdlRLTAQIE97dBBAEAAAAAAE/BJcL5FiYAAAAOpnltbLcz9gKNyK89dVj0t0FSbLdjBKvtLyX9KzdQPuwmpOE2TTI52j+QQJYMwyA996AERkxm+ScbZ1QXzoqMZfydf0BJBgWNMhFzNmN+s63fwE0tH7bXjGsIDbZNiHWv52SCFV+21+zBrbUY46cx2G0PkBwRQe6bNgLW8Ct6AckZKBzdj3PMOv7xczchabYaLhwj1/dD1S3bnpfaOT1IdnOI19hxrH0fhrblV0GlE1LsDBKoXwX5yIUn1W0=&pass_ticket=B7ojbRd2JKa0Js+cfBkTSYfDiV/5oa+u+mXTB5QNm8+c7otqKvPsCmgNskFkiIST&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/8a5e85ac-cb45-4114-9919-8ec0f95739d1/8a5e85ac-cb45-4114-9919-8ec0f95739d1/)

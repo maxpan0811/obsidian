@@ -115,3 +115,9 @@ Codex对ChatGPT免费用户开放，但额度很少。认真用的话，20美元
 ---
 
 【元小二学AI】👇公众号后台回复关键词【**claudecode**】，领取从小白到高手的Claudecode全套教程。
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzI1NzA2MjU0Nw==&mid=2650841992&idx=1&sn=184b97bd705472f6ae910dee01f456d5&chksm=f0b4a7e00996d881337cae526c2bef3742d9d9a5b5e9fe6c282656b9ee698b9817b091ca87bc&scene=90&xtrack=1&req_id=1782308154561314&sessionid=1782304295&subscene=93&clicktime=1782308324&enterid=1782308324&flutter_pos=22&biz_enter_id=4&ranksessionid=1782308154&jumppath=20020_1782308153824,1104_1782308170601,20020_1782308300507,1104_1782308318680&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=18004b2b&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQNyEGPuOWiO/2JIGNjUHCoxLTAQIE97dBBAEAAAAAAC6AA37RVMgAAAAOpnltbLcz9gKNyK89dVj0mOvBzjvnasebEoRgc+ybZbD+LkwDGdoHA5kdqsO94Qv94m77bid+ng2zk/qjy7LOLcfUyQhR31vpFgP3/uJJEEnCktsQ7PMfpT/2DAaXhxqiBf9snkRfdjtHIME5unIGyh27yWKHi4kn14pyJh+pNAHYUrEM8GwuzignJGm2XVtIiPXZ4dwQlrz5zNHmduYLhFfh63nOdCOwGueEI9jIcCGiq/RBehXPn0tkx6I=&pass_ticket=nlnvAz0wwRzvGWtJAurxgnZjSlYx6Ach0Q+ATpG6CAzN5K2oIeS+ZUqOxGbhnNv6&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/741bff06-2aa1-47a9-b7b2-11e205795e5c/741bff06-2aa1-47a9-b7b2-11e205795e5c/)

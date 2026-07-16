@@ -227,3 +227,9 @@ AI人才领域的发展，充分向我们展示了当中国教育遇到中国产
 **喜欢本文？欢迎扫码加入视角&翠鹿公益交流社群：**
 
 ![](attachments/b9b4f1096342bc0c.jpg)
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzUzMTkxMTQxNA==&mid=2247662400&idx=1&sn=1c238cd62828fe5e3aca2f715e41768b&chksm=fb0a2d1a1002b209a1a59a8a8a166a2f3a2dbd59ba6e33c1b23c83743bd23d4e67939faf1720&mpshare=1&scene=1&srcid=0305f9FIYtLvX316ikB1qQsY&sharer_shareinfo=5a3e69ae041786899f4fab0e43d3a265&sharer_shareinfo_first=5a3e69ae041786899f4fab0e43d3a265&from=groupmessage&isappinstalled=0&clicktime=1741136369&enterid=1741136369&ascene=1&devicetype=iOS18.3.1&version=18003835&nettype=WIFI&abtest_cookie=AAACAA==&lang=zh_CN&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQTfBGwo6f1aWAcs0Ktzr4hBLrAQIE97dBBAEAAAAAAH9rEqf5wyoAAAAOpnltbLcz9gKNyK89dVj0kX4kftgr3IQWm0tEZqjcQwItqEkNTR3TgL0EOI6Cf6qcCo1+c/8iY+t9UDvun6nL4c0N60E4tpUBfmRUH/K6y7hvZk6sWBH/Jfo7JQE76r1iC3KjbqvKjQ53M9Pr0cCawblp9GHbBm/Pv/qztFJWn5yF//D+4k65v2AB0ZBfJLK6xPlB/ENQhqgCpr7xNmuddibkNY4QrkgaSwVK5lFF7W5RvgWUvuYLf5LXtbNaf5hK7NK45FcZYdz+CX3TrhCA+zG+Cqw=&pass_ticket=uetdzreSgRlSsGpWVJOSKKp3Cnolh0YcnVo40VDn0EMoIeM+F1gzBcDWbXvvrnIo&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/8434b721-34df-493c-9a3d-11ade7b5dd70/8434b721-34df-493c-9a3d-11ade7b5dd70/)

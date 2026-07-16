@@ -138,3 +138,9 @@ guid: 5c122c5b-d44e-44a6-9cba-ab2734b069f4
 ![](attachments/e0fa0e34415c3717.png)
 
 　　不过作为《剑星》系列的第一部作品（已确认有二代作品）来说，成绩还算是相当令人满意的，毕竟很少有人会拒绝既能“暖暖换装”，还能“战斗爽”的涩气师姐。
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=Mzg2ODk1NTc5OQ==&mid=2247828844&idx=1&sn=79ce3a31325b58169c5432a779a4181f&chksm=cf4a4e8ab71a00e5e51ceb637359b212c395c46628e84ea349cda05ca60222b78b2b97ed6924&scene=90&xtrack=1&sessionid=1750514635&subscene=93&clicktime=1750515444&enterid=1750515444&flutter_pos=4&biz_enter_id=4&ranksessionid=1750515140&jumppath=WAWebViewController_1750515303408,WAWebViewController_1750515303893,20020_1750515313431,1104_1750515440546&jumppathdepth=4&ascene=56&devicetype=iOS18.5&version=18003c2e&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQMetyKgHMCSWqacqRPJKjSRLTAQIE97dBBAEAAAAAAAujKZlwYJ8AAAAOpnltbLcz9gKNyK89dVj0GHTwWOat1SmCqWlNxYIpU0xO2cvnAjrZ7u6BlMRmZjYMVcFR70jHaOYfJc7LJHf0CDtZSH7yMbtRvsQGaXfKe75lCSMIx7Eojw7OemudfrRDCLc8I/m2cexhfqtfGHp/1tjc2lK1tA17Gyag2wA0fXTIC5uL0a3ERuP13bBu8y0Di8QfgrdWaZYepz/3qUF1gtxUoUfC/50Wg63OrPA8FSkjEblEPshKx9tlXJ0=&pass_ticket=BdQbAnlxhKPwng2QjqPFLeo9098wMSdEfJX2YxzCEMeX4QeRZTETmQ8lc9/bSF6Q&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/5c122c5b-d44e-44a6-9cba-ab2734b069f4/5c122c5b-d44e-44a6-9cba-ab2734b069f4/)

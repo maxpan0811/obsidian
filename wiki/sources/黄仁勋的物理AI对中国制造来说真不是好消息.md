@@ -179,3 +179,9 @@ Physical AI lets autonomous systems like cameras, robots, and self-driving cars 
 这样的工厂我们有很多很多，但太平洋对岸，真的不多。
 
 **····· End ·····****星海情报局 系统研究中国制造与国产替代****专注中国产业崛起故事**
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzI5MDQxNzE1NQ==&mid=2247513809&idx=1&sn=cf5ed15764039156d0247e8a4414a740&chksm=ed42eb4c0a391b418899044f549c25a3616df52b0ac25a29927b4cd7e28676b2d25d5b38ba5d&scene=90&xtrack=1&req_id=1767785889628126&sessionid=1767785875&subscene=93&clicktime=1767786088&enterid=1767786088&flutter_pos=4&biz_enter_id=4&ranksessionid=1767785889&jumppath=20020_1767785901070,1101_1767786028505,20020_1767786032436,1104_1767786082219&jumppathdepth=4&ascene=56&devicetype=iOS26.2&version=1800432b&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQRdxkg/WUIUJ/pgTGDgNthhLTAQIE97dBBAEAAAAAAGIGL9VQFAcAAAAOpnltbLcz9gKNyK89dVj074Unpl4nQ23rtpQvNaLIzFbdePZWBnWMxNu5Xp6nSVwRt+e57NRS4upXQBsa9WNjuvV/89HMVZ3Hhwu/DzDUwZZ6Yo2DZPDKVvIlJyaz/P/E37rq60+y6kWrKRbQMiQmtnW4LhbiokOkwgFvGMECsc9awL/FJWvhdATY3Y8Am1wWnwnQO9182hvGGd1+rK2W6kCO4Ef1XlpaTSo9IaXvrVRVigqiS/qV6Ppv+Hw=&pass_ticket=JNj86fa1PMEfyoUuUPjeLsm/8g3lNRlBE10hLPC3ySJUU0VZ8s83BkK+OtM+rlQe&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/aa53e026-245e-4fdb-9c4c-d353a7e8acb3/aa53e026-245e-4fdb-9c4c-d353a7e8acb3/)

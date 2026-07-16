@@ -496,3 +496,9 @@ FT and 'Financial Times' are trademarks of The Financial Times Ltd.
 [![](attachments/5ed4060b890b259c.gif)Delicious](http://del.icio.us/post?v=4&noui&jump=close&url=http://www.ftchinese.com/story/001072839?full=y&title=%E3%80%90%E6%9C%89%E8%89%B2%E7%9C%BC%E9%95%9C%E3%80%91%E6%B2%83%E5%B0%94%E5%A4%AB%EF%BC%9A%E8%A5%BF%E6%96%B9%E7%9C%BC%E4%B8%AD%E6%9C%80%E5%A4%A7%E7%9A%84%E2%80%9C%E4%B8%AD%E5%9B%BD%E8%B0%9C%E9%A2%98%E2%80%9D%20-%20FT%E4%B8%AD%E6%96%87%E7%BD%91 "分享到Delicious")
 
 关闭
+
+
+---
+
+[🌐 原始链接](http://www.ftchinese.com/story/001072839?full=y)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/dab9d153-32ac-4ea8-80aa-9e79ebfbb6d8/dab9d153-32ac-4ea8-80aa-9e79ebfbb6d8/)

@@ -475,3 +475,9 @@ report.py · 完整可跑主程序
 工具拆解 · 实战踩坑 · 不画饼只讲落地
 
 这套三明治用法是我自己用AI分析数据踩了一堆坑才理顺的，代码也都跑通了才敢往外发。**整理不易，跑通更不易**。对你有用的话，**点个喜欢作者**，或**转发收藏**，下次再被一张乱表难住，直接照着抄。
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzYzMjY1OTI0MA==&mid=2247485997&idx=1&sn=88fa5dba9b0ae57fd8588ca5ce883e39&chksm=f108116c54bcb054823490f3e2405b41f4c04f00e9e183eba13f9528d8fa29c5c3c457087a7d&scene=90&xtrack=1&req_id=1780976600635237&sessionid=1780976559&subscene=93&clicktime=1780978092&enterid=1780978092&flutter_pos=7&biz_enter_id=4&ranksessionid=1780976600&jumppath=20020_1780978007019,1104_1780978013823,20020_1780978039363,1104_1780978081715&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=18004a2a&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQIYfHDWKroPDTDug8kLASKhLTAQIE97dBBAEAAAAAACmMGl7MzZIAAAAOpnltbLcz9gKNyK89dVj0KZmuBMEH/T5/8y3hQNXk3YVvui4mdPs+O+ANFfgvxiChsr24ikpXVdtDt7Qkx7hUjSyxn8vGfWLJUVNs3nHbSLoFTZA3cLNtM/oWuxiOFaHBFL0LNZxgirpAUro0ReCoBgm7963TLX++pijKCeuaif99vcHmJhKXH65p8k7FmIIKDEsICz28Rpm/XVtloMQxaNXed/06/7lTR1z8G1e9h5EL14iyfK9R4NHpfUc=&pass_ticket=UToqNFOJ1QLCLsi4tN4hvx5wPPD17T9vhkIkbQ2e2j65vHVGHNI6Ag0S6VavZh+z&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/92a35c6f-c566-4842-bdef-086e0d6e151d/92a35c6f-c566-4842-bdef-086e0d6e151d/)

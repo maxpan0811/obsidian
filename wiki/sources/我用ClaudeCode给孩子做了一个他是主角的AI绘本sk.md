@@ -142,3 +142,9 @@ END
 包含 30+ 应用场景，100+ 上手可用的提示词，随书赠送我们不断认知迭代的智能体。一定要扫码书签，智能体都在里面！
 
 如果你也在思考如何在 AI 时代培养孩子，这本书或许能给你一些启发。
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?chksm=c24ce6bef53b6fa81f7cb6ccf972ab003cfd6985d4f7f678dc741c2eb5685d709f5cf0d89fa3&exptype=unsubscribed_card_recommend_article_u2i_mainprocess_coarse_sort_tlfeeds&ranksessionid=1774078938_1&req_id=1774078938873208&scene=169&mid=2247485968&sn=867703a7b893e7c9f08525ca1f4b8f29&idx=1&__biz=MzkzMzM2MzEzNw==&sessionid=1774078777&subscene=200&clicktime=1774082088&enterid=1774082088&flutter_pos=15&biz_enter_id=5&jumppath=20020_1774082036543,1104_1774082041576,20020_1774082048094,1104_1774082082433&jumppathdepth=4&forceh5=1&ascene=56&devicetype=iOS26.3.1&version=18004533&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQ1HvoBKvrgB4WONBjk3OhwhLVAQIE97dBBAEAAAAAAH68Mv8PubEAAAAOpnltbLcz9gKNyK89dVj0Po9+EaBTwLWIuV4LqoExLmjYiNZbIiLKug0uBJsslSjCbJYcy5YG7WGynE9GRcRru5GIXPpfM9BiSDqCuNRCbG4PT85+zeUvKzYG3lfHop9d4OZK7YH7Kbyygy3RoMRdQf99xVW4XP6SQG+mRW2dnALz3SgJBIFZ6taEKgedvrbHDrbn5Hg2Me/0WFecX9ojHt8nE6LP5wYWv6nbIneVzzEmQXshzSd0o1UpaOtzdw==&pass_ticket=HZL+8yR8TBogk1sk5vazMWHXl6MiZdghvH7Bcpiu40XVj0zRR3WVhYS6sNNJ0s17&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/9cee63e7-b2c6-4e08-a451-e7c001b09be2/9cee63e7-b2c6-4e08-a451-e7c001b09be2/)

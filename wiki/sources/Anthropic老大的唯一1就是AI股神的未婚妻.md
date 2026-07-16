@@ -159,3 +159,8 @@ Dario在接受采访时表示极简管理模式让人倍感轻松：
 [2]https://x.com/BaumgarteMarkus/status/2059754651013075376?s=20
 
 [3]https://news.ycombinator.com/item?id=40552919
+
+
+---
+
+[📎 在印象笔记中打开](evernote:///view/207087/s1/2499155f-50c4-48d7-86e9-3e2804361fcf/2499155f-50c4-48d7-86e9-3e2804361fcf/)

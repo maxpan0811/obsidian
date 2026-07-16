@@ -131,3 +131,9 @@ AI正在改写旅游行业的竞争规则。
 当技术足够聪明，服务足够温暖，旅行的意义，终将回归那句古老的箴言：“重要的不是目的地，而是沿途的风景。”
 
 ---
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzU3Njg3Njg5Mw==&mid=2247538307&idx=1&sn=2451f11527aa0d248aa5128d85d6b12e&chksm=fc3213d227579144f463b2045701ca383741ab1ab653b476f70bc358151767dfbb55ec45f7b0&scene=1&sessionid=1745752676&from=groupmessage&isappinstalled=0&clicktime=1745752747&enterid=1745752747&ascene=1&devicetype=iOS18.4.1&version=18003b24&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQGilrCTgw4WJ+1c7P1iRmOxLbAQIE97dBBAEAAAAAAP11NFQZfe0AAAAOpnltbLcz9gKNyK89dVj0CnkxPAZOOvTF5IlW62nU04J6h61fI9pg59s/OcBdDu9FTr2SnyBPQqCBR7sitYja2icRlecR9i/l1hyr2mhl3gAl91WqqpSmOIw2dQnvaJS4vLgmFc3TC6tgPDfyeXhaSNOzWHBarbSgwZMqOQvcMZlLZSmqHg/I0JAstDAOuae/OcUfJf6oudB8WhmOCm8DMPYff8kLuKyJ///OAv68DGSHm+2IgehvmbflQ5eX6fGU5sB4lg==&pass_ticket=Dx3GxosLRu9vtBLJV5pn3UE6uPYhtpoQMVSJ+Q9ob/GaMzmXxUOuSf87QUJKH8l2&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/3bd2aaaa-7c23-4fc2-a4a6-bf6155aa5e00/3bd2aaaa-7c23-4fc2-a4a6-bf6155aa5e00/)

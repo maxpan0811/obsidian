@@ -53,3 +53,9 @@ guid: 309e9fec-9a64-4286-8c6a-e09313b4746c
 #知识管理#知识库搭建#第二大脑#obsidian#笔记管理#软件分享#效率神器#个人知识库#微信笔记#记笔
 
 Close
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzcyMTAxNTQ1OA==&mid=2247483677&idx=1&sn=8e6d1aff6189636e926ea9762c24aa15&chksm=f5f486d0c2830fc64265c9d8877a0182e322b35c72bcfcfd38953ecb9a072f2af00a5b0139fe&exptype=servicebox_1779071528789444&subscene=0&scene=288&clicktime=1779071596&enterid=1779071596&flutter_pos=2&biz_enter_id=5&ascene=56&devicetype=iOS26.5&version=1800492d&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQP6EfM0m1CldBRQe+tToiwBLTAQIE97dBBAEAAAAAAMzkJa8EW7IAAAAOpnltbLcz9gKNyK89dVj0N1gHFv+sF9ZgX+UAoYTvf4cfa7i0Zi7XecTclb/Gdw2qv2tVDjISGVpBSAS/iq63q+zeC/9E+3p45gqd6xomV43fu8d1aUvkwDZbeJCmp3IdfUlw4z5034k/GHh/kjoKraAi4hKmU3VIahYqwSG6zCdgrIZTFF9plk6BLYCujzW3h3vYvtCJQEkN4gAvA//pt7mMV05NyB8Y64G0KcapBAUIGJkP0jYb/GdqkAc=&pass_ticket=uSgmHgdnlEPqydC97adsyapxXXa7QYenQUfgP7I/eyatslXgeCxVDcUqH6qjrubX&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/309e9fec-9a64-4286-8c6a-e09313b4746c/309e9fec-9a64-4286-8c6a-e09313b4746c/)

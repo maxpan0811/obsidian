@@ -98,3 +98,9 @@ Seyed M. Hosseini & Guy Lichtinger: Generative AI as Seniority-Biased Technologi
 [梁建章：AI 时代的人口观](https://mp.weixin.qq.com/s?__biz=Mzg2OTAzNTUwMA==&mid=2247488790&idx=1&sn=09d63ea8cd72655ca0401e130f6e7a46&scene=21#wechat_redirect)
 
 ![](attachments/58de4bafe143e251.gif)![](attachments/e4c6184430a52764.jpg)
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s/7uQG-WFV0gGWnY11ROZvOA)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/f0c689db-7def-498d-ae73-e3c4e5beab15/f0c689db-7def-498d-ae73-e3c4e5beab15/)

@@ -236,3 +236,9 @@ AI接管客服，人们或许还抱有一丝侥幸，认为它只是替代了那
 NFCmagJiang
 
 ![](attachments/4bd017c55faab34f.png)
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=Mzg2Nzc0MDM3Nw==&mid=2248444300&idx=1&sn=88a7767cb36f70f1e406e61681aa7e86&chksm=cca594a1e61772aa47e4fe60a94cf023290db8622bbe49ecc2d9f1f271494650ffea5428df1b&scene=90&xtrack=1&sessionid=1743668676&subscene=93&clicktime=1743669821&enterid=1743669821&flutter_pos=9&biz_enter_id=4&ranksessionid=1743669238&jumppath=20020_1743669570309,1104_1743669609733,20020_1743669617332,1104_1743669817256&jumppathdepth=4&ascene=56&devicetype=iOS18.3.2&version=1800392b&nettype=3G+&abtest_cookie=AAACAA==&lang=zh_CN&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQJ7TiG9FhQBXK16hoV+vvzhLYAQIE97dBBAEAAAAAAKcnNR0ZFqMAAAAOpnltbLcz9gKNyK89dVj0x84A/SQ3l3XZsA6GwHdBpttAZW0OUa+CTv4ksEJZrRQ+2Vi2nugkS0ZkpgJujVmprXLWPRVRqJq/GfqkA2TBoh/mb4xXo5F13yNAFEjjz0kAyLKyt3+6dRW1ue+3RQAs4S9LvD27l3pky6+1B+gUTzhcrdwjdJkcoUEPwoyLDJFkyLy2jEIaGZyBmDGE1gdkTcAhmj06kzbAmaLC/xWjraf0wq5YJ1Wh5chQbhUJaDkwHw==&pass_ticket=Xx+RI8lJkYvqNf9bJkssDDeV1rw5Tj6Ay/UisoRaOphpya3P9iBfbTcpxIozIbl9&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/5eddcf09-683b-4e24-a7e7-f77c6a540d85/5eddcf09-683b-4e24-a7e7-f77c6a540d85/)

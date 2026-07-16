@@ -338,3 +338,9 @@ END
 我是甲木，热衷于分享一些 AI 干货内容，同时也会分享 AI 在各行业的落地应用。#Agent
 
 如果你觉得今天这篇有收获，欢迎**点赞、在看、转发**三连，我们下期再见 👋🏻
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?chksm=c14d940ff63a1d1985f9d3b6d9f0dcbe3fa2e414f130fd1e31090afd00d9f2fcf68c9c7f0561&exptype=unsubscribed_card_recommend_article_u2i_mainprocess_coarse_sort_tlfeeds&ranksessionid=1776482104_1&req_id=1776477378630175&scene=169&mid=2247491446&sn=708496f70f54dc8dde451845fcd9fe34&idx=1&__biz=MzkxNjY0MzM1MA==&sessionid=1776482569&subscene=200&clicktime=1776484052&enterid=1776484052&flutter_pos=24&biz_enter_id=5&jumppath=WAWebViewController_1776483809203,20020_1776483822349,BrandSubHistoryFlutterViewController_1776483824143,1104_1776483950390&jumppathdepth=4&ascene=56&devicetype=iOS26.4.1&version=18004724&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQ+o8SVBlu46ZufCVpmA41EhLVAQIE97dBBAEAAAAAANniJThsPDsAAAAOpnltbLcz9gKNyK89dVj0DezA5nf4h9A5pibSsdGiAH8K6qoYKeGotfbkisX135tBjQqn5hnaUREp14HtVhG10HZCW0y1TO4yyhHonuB5opxrZbBgmCvjo4i7kHLYBx+zvc16Pyt710trSf1Ut1JNGJ09URwUo6WETsmr12INl3fvuCGULRjTDulgq7s/FIsO/BaBcYQPJqhaIFbX3Uc5PD0vUmQMbG5JDRwVxyuue2fBhyQ1u+XGeagaH0Uxaw==&pass_ticket=//zznkkkaGCwFAQE5YP3PAJT20Ki/iGJeF2EDYYnBFjPIaWSnnEkQNT6EULm4ikr&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/1b58a7f3-9541-428f-b542-6625c458b9c4/1b58a7f3-9541-428f-b542-6625c458b9c4/)

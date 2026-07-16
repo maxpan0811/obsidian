@@ -127,3 +127,9 @@ AI是怎么工作的？大模型本质上是一个概率预测机器，它不是
 技术的车轮滚滚向前，这类工具的出现意味着我们正在从“人类使用工具”向“人类管理工具”转变。在这个过程中，保持清醒的头脑，比盲目追求新潮更重要。毕竟，AI闯了祸，拔电源的是你，承担后果的，也是你。
 
 你想好怎么在这个赛博时代，管好你的第一个数字员工了吗？评论区聊聊。
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzAxNTUyMDc1NQ==&mid=2247487546&idx=1&sn=03c224f3e28ebb5a8e6a1fed199bde11&chksm=9a19a2153dad93d6a1a6de64ed607517ddad9cfe5fed2187e382f620375d2049a69881c98584&scene=90&xtrack=1&req_id=1773137034872417&sessionid=1773137064&subscene=93&clicktime=1773137341&enterid=1773137341&flutter_pos=3&biz_enter_id=4&ranksessionid=1773137034&jumppath=20020_1773137072007,1104_1773137099995,20020_1773137104859,1104_1773137333837&jumppathdepth=4&ascene=56&devicetype=iOS26.3.1&version=1800452e&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQGyvUekj9YHm7ZuSnMcgOFxLGAQIE97dBBAEAAAAAACNgFBs3uUQAAAAOpnltbLcz9gKNyK89dVj0AP2iCdp72bfwRkO8wl1zQ5NIlQakq4IHlrOvT7c4z7/CN3BNCZCxifabqHc1NowB+f4x2WO/39obVvxMe+MAjFMlAPwrbP77cUPAt20W0jK17uxSQFxDISy59NmL8vcGd7GJ7iN0qOOFDCaac4kwqENl/bW/HBR4il88xLYKKzURheTCRWZyQte7ZRzvjo05YG/tLpmLjLKGyyCsHMqnug==&pass_ticket=r2TJZN18I2YefYHW75RYa2OUtahKD6HHvDpCRbic33fH9tASfrYRkOiWtfvO3/Vd&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/32730079-c54c-42ca-8fba-70afcd8121c9/32730079-c54c-42ca-8fba-70afcd8121c9/)

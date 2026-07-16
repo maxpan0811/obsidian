@@ -212,3 +212,9 @@ https://www.commonapp.org/files/FY\_application\_trends\_end\_season\_report\_23
 **喜欢本文？欢迎扫码加入视角&翠鹿公益交流社群：**
 
 ![](attachments/b9b4f1096342bc0c.jpg)
+
+
+---
+
+[🌐 原始链接](http://mp.weixin.qq.com/s?__biz=MzUzMTkxMTQxNA==&mid=2247647322&idx=1&sn=8b4d0a3bb4fc6cc43f5c6a498278d79b&chksm=fb5ac22b76b8cf91443369493f89edc0d4eb9b7ccbcc7842678d4c14b97f448c1da4abf71829&mpshare=1&scene=1&srcid=0901HsaCq8tvpXjNQ0rzzKJF&sharer_shareinfo=ee1d46b3553297b80834b502d092ee63&sharer_shareinfo_first=8a28e95385cd0f05426af6771d8cfa5c#rd)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/cf40581d-0fa2-43c5-8fb4-d6a8d194b1df/cf40581d-0fa2-43c5-8fb4-d6a8d194b1df/)

@@ -96,3 +96,9 @@ guid: 9fc29ab9-508e-4eae-b063-f58d0d10f51f
 **你如何看待 Kimi 的强大功能？有任何使用心得或者问题想分享吗？**一起来评论区互动吧！记得转发给你的朋友，让更多人受益。🚀
 
 — **完** —
+
+
+---
+
+[🌐 原始链接](http://mp.weixin.qq.com/s?__biz=MzkwODU5MjU3Ng==&mid=2247486120&idx=1&sn=0e356a4f8ee5a9e100e23983122071c8&chksm=c1f2cfaa294122cbd7addd66ca098f7884b5023235b48de722fddac0c3017b8c49103886e6ce&mpshare=1&scene=1&srcid=1124jqv1veSop4KMPsrGXZFg&sharer_shareinfo=d83b9a8f99a0be48355a1a68177f7497&sharer_shareinfo_first=d83b9a8f99a0be48355a1a68177f7497#rd)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/9fc29ab9-508e-4eae-b063-f58d0d10f51f/9fc29ab9-508e-4eae-b063-f58d0d10f51f/)

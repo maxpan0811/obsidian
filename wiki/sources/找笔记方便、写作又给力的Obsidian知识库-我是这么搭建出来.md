@@ -469,3 +469,9 @@ Ai-Tools 人工智能为个体服务研究
 `[2]` Nicky Case: *https://ncase.me/*
 
 Read more
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzIyMzA4MDQwOA==&mid=2247483876&idx=1&sn=716eee030dfeff25d1053cc383e7fde8&chksm=e822fb53df557245425e88d626cf6af572a8390564d7dd7ed1732e6aca0645f6800493d94d75&cur_album_id=3425301601517633539&scene=1&ascene=0&devicetype=iOS26.5&version=18004a2a&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQjmQTigfeuqlYtuUCIBEpRxLMAQIE97dBBAEAAAAAALTPLcfB4NwAAAAOpnltbLcz9gKNyK89dVj07a0MI4/vIPpULwiDVnznLfrHXH34D4PaZaaUXfpDYTKVJQYRUHQ5sTct1CwFnlIL50bc/UagGAOqT0XTGzOSRDaDJ5bu9Yd89gYiNvjVkPJK9IqIgK3lKOkEQ4Y87E7VoFqR5kSOKtd8nCm8Y2L0MNRI04ueAGBxUvJagKt0lMyfHt790cq0yJZFSKOF8BUbWkq+6jQCILz5gi9QE0Hh2rSIWDzUCw==&pass_ticket=80FDGZFwdqmH+0uyEVXK9fs6aq/Cf1l1AmHCGlrml3QK9U5gkVL1JRH4ESfksgsg&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/ea6543ad-8ede-4043-8d65-d46f5b4e5eba/ea6543ad-8ede-4043-8d65-d46f5b4e5eba/)

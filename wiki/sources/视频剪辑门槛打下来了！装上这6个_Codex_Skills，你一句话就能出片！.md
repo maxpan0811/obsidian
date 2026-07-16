@@ -150,3 +150,9 @@ Codex 现在可以接管整个视频制作流程了。
 ---
 
 【元小二学AI】👇公众号后台回复关键词【**codex**】，领取从小白到高手的Hermes全套教程。
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzI1NzA2MjU0Nw==&mid=2650841898&idx=1&sn=356b6dbb666a6e838ce0ba29d0297748&chksm=f05f614ef58accbd0f33be8080a20529b6baaa7ae4131b866cbb204ca71040105b17380ab5a2&scene=90&xtrack=1&req_id=1781498207622180&sessionid=1781497522&subscene=93&clicktime=1781498226&enterid=1781498226&flutter_pos=16&biz_enter_id=4&ranksessionid=1781498207&jumppath=20020_1781498128132,1104_1781498199810,20020_1781498206283,1104_1781498208359&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=18004a2f&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQlpZRLbOJ0PZQufG8ggOBTRLTAQIE97dBBAEAAAAAAOKnGKygV2UAAAAOpnltbLcz9gKNyK89dVj0TVvn6EhcVvdEujBrTHS1lYCU8hy1WJxZvI68kS5c+h4XU2KNnFomTKkyQG243V2XSrCR/Wiyw1VigGR2h+oeFGJL2Y8cznefF1JIHgMZmQhiJFpWg2sgGlQIAhgBP7Shp1nyqqzn/4h1vBldB9W4uBNztrdFOLzRrXxQKgYtwGVmj58WTFivnsZPmmh9z+SGJsRIzdp6TtHrkHE1Gom81a2xFpntGIIeHQgwDa8=&pass_ticket=TRdqx9NGYvjeW4RdJ807NVRLHEwjMK5B8qUYUi7T7Zg2tIrOAq7gUlGWoUeerk6T&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/f9e909fb-3613-4180-81b9-beceda9270ec/f9e909fb-3613-4180-81b9-beceda9270ec/)

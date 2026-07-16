@@ -146,3 +146,9 @@ Obsidian
 DeepSeek与Obsidian的联合使用，为知识管理带来了全新的可能性。无论是学术研究者、内容创作者，还是终身学习者，都可以通过这两款工具的结合，实现更高效、更智能的知识管理。如果你正在寻找一种方式来提升你的知识管理效率，不妨试试DeepSeek与Obsidian的组合，开启你的智能知识管理之旅吧！
 
 个人观点，仅供参考
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?chksm=c0f531ecf782b8fa6918c5f11328632021344a728e302346d8a9c6bed7a167cf3a0ab845a8f4&exptype=unsubscribed_card_recommend_article_u2i_mainprocess_coarse_sort_tlfeeds&ranksessionid=1746195939_2&scene=169&mid=2247484684&sn=c82780b80dcde47795da3ace2639cdac&idx=1&__biz=MzkwNTY1MTU5OQ==&sessionid=1746195110&subscene=200&clicktime=1746197164&enterid=1746197164&flutter_pos=34&biz_enter_id=5&jumppath=WAWebViewController_1746196924570,WAWebViewController_1746196925108,20020_1746196936440,1104_1746197155805&jumppathdepth=4&ascene=56&devicetype=iOS18.4.1&version=18003b25&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQk1Jal5qzCTu97KSklBg4sRLVAQIE97dBBAEAAAAAAOSNGi++cJMAAAAOpnltbLcz9gKNyK89dVj0F39qZ6JwEDwigYBpJNR02Fns0gXaPj+VimGkdGXwyimZsTRiTBhSbzF5tzMzBCNJxWhPMABXtcjPUh0DVfZY2fFVZE57A25/FkmecozcCVPYLklWW+093sibqhXdSiy5kZsmVgpMymrUfs39BBXvszs8zfL1MKz2evCnl6nGR6OpOsMX7MrCbq3bfaAEvmCVvk4357Zc9ye58cJyhygqn+ePU6Eb9w2MnY3WI72Gpw==&pass_ticket=R1mQSmCMdoOBbMNHtcsincy2MeKDyk/tL4u5/2JKrjPi4Ecl+nCvw+nf8EgzLMaD&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/b20ac8e9-003f-41dc-88cd-dbe067d024d7/b20ac8e9-003f-41dc-88cd-dbe067d024d7/)

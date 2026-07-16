@@ -27,3 +27,9 @@ MacBook Pro (Retina, 13 英寸, 2013 年中) - 技术规格
 
 ## 相关页面
 
+
+
+---
+
+[🌐 原始链接](https://support.apple.com/kb/SP691?viewlocale=zh_CN&locale=zh_CN)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/6a74c5f2-f022-4273-9b61-3922333e601a/6a74c5f2-f022-4273-9b61-3922333e601a/)

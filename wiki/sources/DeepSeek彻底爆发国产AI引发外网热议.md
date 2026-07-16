@@ -73,3 +73,9 @@ DeepSeek-R1的出现让情况更加严峻。具体细节属于机密，不便透
 **综合**｜ 九派新闻 每日经济新闻、证券时报、澎湃新闻、界面新闻等
 
 **编辑**｜ 吴莹莹
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MTk5NjQ0NTAwMQ==&mid=2650628510&idx=2&sn=66f203588c911ef319cf079328b5a80a&chksm=47a3029a348be69e48397ed0bee6618357fd40952058a2e889762fe6b105e0b2c00089344228&mpshare=1&scene=1&srcid=0126XNBpv2S7q72x6p7g2sPB&sharer_shareinfo=8d9c5c076edf6ec4ffb844dd847ce15d&sharer_shareinfo_first=8d9c5c076edf6ec4ffb844dd847ce15d&from=groupmessage&isappinstalled=0&clicktime=1737904623&enterid=1737904623&ascene=1&devicetype=iOS18.2.1&version=18003829&nettype=WIFI&abtest_cookie=AAACAA==&lang=zh_CN&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQfFQv2m7aqfzb6F8reA5qqRLsAQIE97dBBAEAAAAAAJR2Od7dF4UAAAAOpnltbLcz9gKNyK89dVj0awrFJvyxSyonktVWtwo423ivdUsgCSn9ybxIBvohwvtPBToNBcbSCUi37hfGAApYkX4hzLtKjLTo7A1gmAnNsTTyhjskMUUYzgwEQJl0G4zoj4yQwKGiY8f/RCEo0oV3GmcfgJ7GMIdzkap76abLvgjOnLpYhSjTHvj1/pT0+BMskytpawHupIWilEsHb/FUYfXDV/0anKAeFjN9TTPjRvkmXvBbN3HpTGSxvnRk0dbUOyGS1ZOsWj2+QBU++B1wlUIoJrnm&pass_ticket=WAWSEvUGKJa7IeXssm/Kvn5dDRsdGz2CHJzD0GZqej36+0F9ohL5gRRfj+qLFyDo&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/627c2745-ddd2-414e-9770-5a0ca4da04b1/627c2745-ddd2-414e-9770-5a0ca4da04b1/)

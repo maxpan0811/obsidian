@@ -151,3 +151,9 @@ AI从“工具”变成“基础设施”，从“助手”变成“数字操作
 现在开始布局，还非常早。
 
 共勉！
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?chksm=9ae7fe6cad90777a9be44e97749150430bcdb0f5052cd80e3fe8f73c58bb7742b98600ea3d27&exptype=unsubscribed_card_recommend_item_heat_tlfeeds&ranksessionid=1782032740_6&req_id=1782035691364054&scene=169&mid=2247489756&sn=7d25661b209eccef094aea05776f8a6e&idx=1&__biz=MzAwMDU4NjcxOQ==&sessionid=1782032739&subscene=200&clicktime=1782035984&enterid=1782035984&flutter_pos=53&biz_enter_id=5&jumppath=20020_1782035928056,1104_1782035961360,20020_1782035964540,1104_1782035977528&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=18004b28&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQTz5KKMLS2eWG0BByBj06bhLTAQIE97dBBAEAAAAAAN2qD/aeiJcAAAAOpnltbLcz9gKNyK89dVj0XcPV7J9/+v8vTE0YHwTy7TyAVv/YWhNzIanVbIPeF2dqcY5mGjjAzwy2zqzT512v2N0ixkxLJ2Jra/uoXNHuCVIOjfoZ3jtAbqbZenM8QB43GGF1KERtj8yXNcpbJtwoNVtMViuRnQSyroamPwbUlOaUWSNxGWPqJSGW8avxHjCblbWwmMcIl3jcDyWViGqQlzviNnoZwCJGf/haeVPdBdRiKXQhssBA5gBLrMQ=&pass_ticket=+KV/FCxLMuz6IfFuB1e3eeYw6Q1alQadFAie7yIqRcB3Bx7fAPDKeY6t2psHAJ32&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/d2b81cbb-4bf0-443b-870d-f7435506a050/d2b81cbb-4bf0-443b-870d-f7435506a050/)

@@ -47,3 +47,9 @@ GitHub：https://github.com/leoyang1984/ebookSkill
 #ContextEngineering#AIAgent
 
 Close
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzI0MTEyODEzMA==&mid=2648666301&idx=1&sn=1afbb9552911a1fb3d41bc4caf12ccbf&chksm=f13b9710c64c1e06bce4f179b92bc176b358553e7825bd1e45e08ce67bf038fe332f3fc9bbbb&exptype=servicebox_7449741252527284224&subscene=0&scene=288&clicktime=1776156729&enterid=1776156729&flutter_pos=2&biz_enter_id=5&ascene=56&devicetype=iOS26.4.1&version=18004637&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQkZ1WCnM68Zo56wm5mXLloBLVAQIE97dBBAEAAAAAADC0ALEPWqgAAAAOpnltbLcz9gKNyK89dVj0jptKdrRDFktzyIeaKFQ2IrxgQ0e82BAblme53ZG0jDWY6a3gyLW/DaTjFzu5X5seZVi9ZuIijULBYF57IPh5QcHqBP+jlDsTeWos256iyrPQTh7MK5jQdUON+G8pR6QekeFHbvGwSnLdGG/OoUUIWvgliW6J2QoiwWXWO50NEIPgiZW0yQJo1p+dlhO2yk6BkRoEH9YO83ZhN+S8WBGweqxD7RKWg2ZOZtIc425FoA==&pass_ticket=aNMAc4rczKIwpFcrX5pR6bWQUnsUfPO86SG4NdSSTD5OWs5yL4cT8t83cFk3/22t&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/23788674-7b3e-426f-aa89-dbad6be4c428/23788674-7b3e-426f-aa89-dbad6be4c428/)

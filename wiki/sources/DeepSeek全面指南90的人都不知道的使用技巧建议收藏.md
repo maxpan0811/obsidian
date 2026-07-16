@@ -134,3 +134,9 @@ DeepSeek-R1 的回答也非常非常惊艳，目前任何一个 AI 都做不到 
 既然你看到这里了，如果觉得不错，请随手来个一键三连吧，转发给同样需要的朋友，这对我很重要。另外如果想第一时间收到推送，**也请将本公众号加个星标🌟**
 
 感谢观看，下期见。
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500417&idx=1&sn=5905d68b2cdf6347ec847d39252e9ec1&chksm=c3c5831bdccbaea37b0c391535fc83eceabf586d1a917536c669946f10697ea85b86fd490fa5&mpshare=1&scene=1&srcid=0129CCEB6gVi2cWcG05R05U6&sharer_shareinfo=887b0b5f04a0382988dd2a5cccd086a1&sharer_shareinfo_first=bd8e4b62fe69ea91434256de01710901&from=groupmessage&isappinstalled=0&clicktime=1738191074&enterid=1738191074&ascene=1&devicetype=iOS18.2.1&version=1800382d&nettype=WIFI&abtest_cookie=AAACAA==&lang=zh_CN&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQn8h0pASiBmyl/cOEfV4E3RLsAQIE97dBBAEAAAAAAE3aADP1BU8AAAAOpnltbLcz9gKNyK89dVj0+0MPPyj6OlrtQLHwJoj7fVGrC7+gv6XKZDyDAdg0pGg9zdZzLkJgOxhDN4FN5ZzZaGWV/m1aVCPX/HP0qMOKcQ+beJFmFxClJGQ5UzycIFIf3Ob9vLWLaptzQDMFBlFRrcNWUJ/bvL6KwS/nivBY6vbLFObqC1FhDTmPxOS/Bw5nuRIOMdK+dbWyyQ2i7ZvyUC38L3kj4vty+c0mM26JXY+/p8N7cSIt2cSiTjIxVFw52Ujh7ttvVTO02t5ytJMmmRhL+LG2&pass_ticket=LYf5Iek1ysGKm6hnzc0u73dJcgLdoNMjdtOodLIN+lRe96VaDLQ8p+/6qe+jy8VO&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/53c92400-7d9c-4b45-9b2a-16b7edc328d0/53c92400-7d9c-4b45-9b2a-16b7edc328d0/)

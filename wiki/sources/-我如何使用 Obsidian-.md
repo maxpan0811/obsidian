@@ -233,3 +233,8 @@ guid: f727a47c-125e-4fea-b7e9-c5edbbb0a27d
 [31] 简洁的解释加速进步（Concise explanations accelerate progress）: https://stephango.com/concise  
 [32] 每十年问自己的 40 个问题（40 questions to ask yourself every decade）: https://stephango.com/40-questions-decade
 
+
+
+---
+
+[📎 在印象笔记中打开](evernote:///view/207087/s1/f727a47c-125e-4fea-b7e9-c5edbbb0a27d/f727a47c-125e-4fea-b7e9-c5edbbb0a27d/)

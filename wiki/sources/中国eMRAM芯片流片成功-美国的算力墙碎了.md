@@ -423,3 +423,9 @@ eMRAM，就是这群现代愚公，在AI壁垒上，砸出的第一道缺口。
 ![](attachments/65886fb43b4fb27f.jpg)
 
 有任何问题或者看更多文章可以联系扫描上面的二维码加我
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=Mzk5MDY3MDM0NA==&mid=2247484306&idx=1&sn=aff1ce411bfec7ee407fdd7ede1fab8b&chksm=c433d8f432d0340afa9c171f1c9e045e599837fa404a4bde2a00a047a140b9a0f130ef42d4d9&mpshare=1&scene=24&srcid=051276qQXRWqlGGQZ5RjctiC&sharer_shareinfo=6f5de6c75ed0105c5b23a63c9ab4a21c&sharer_shareinfo_first=6f5de6c75ed0105c5b23a63c9ab4a21c&clicktime=1778576025&enterid=1778576025&ascene=14&devicetype=iOS26.4.2&version=18004925&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQy/zKczF7DLWe6yR+JA05fhLVAQIE97dBBAEAAAAAABTvLHxz9sIAAAAOpnltbLcz9gKNyK89dVj0Q+vYBRaFIgnE48OZigy0cab6YZjYbjTgJ6d+0BIqP+GE+7Pglxgxi9EnzwqZU1/1PcRCX2ESiV11BQEDwSdIhCrFtV4guPgJay6BUPmHaV5M3FTlaRwPopS5Kfhzp/xMNbv9XxdaD4kP4I8lkYfRgGQDZpjcUPmvgi6V2NCRlE4ebnCrgNUzb/9W3b8aKhIdp3+MZc2nTWRdJYxix9QduSXwAnrPuQ8bUYFYcnDueg==&pass_ticket=fYJC622n8L1EQc6rIX3ClledcBLNObhsQzEBh4+vfqrK9lx9isgklQopEs4z07BC&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/7bf25c1c-0290-4ca7-bb64-086a45f7dbea/7bf25c1c-0290-4ca7-bb64-086a45f7dbea/)

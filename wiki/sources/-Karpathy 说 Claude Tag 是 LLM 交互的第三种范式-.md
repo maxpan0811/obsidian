@@ -113,3 +113,9 @@ Cat Wu 总结了内部使用 Claude Tag 的六种场景：
 ![](attachments/38823737f3f8a4ba.png)
 
 参考：Anthropic 官网Claude Tag 官方文档
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzI2NTI4MDczMA==&mid=2247490144&idx=1&sn=89e65b3173086e71dcd9f141d08132ca&chksm=eb61155b4a9cd7832f4fbe9c58c08905368865898143acfac070acee3fe2309bcbcbbca9fd0c&scene=90&xtrack=1&req_id=1782308689420484&sessionid=1782304295&subscene=93&clicktime=1782313795&enterid=1782313795&flutter_pos=26&biz_enter_id=4&ranksessionid=1782308689&jumppath=20020_1782308697536,1104_1782308698184,20020_1782308701857,1104_1782313774806&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=18004b2b&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQjYUb7K6fUOn2QvrKefNT1BLOAQIE97dBBAEAAAAAAIEpKL7r8KQAAAAOpnltbLcz9gKNyK89dVj0tKJjIXyuC9r0dLZ6esd0Z/FcX4HYDPFM5F24mCV5liPJA/nz4lo65XZ8OcFPZNlNDMfwnQ8ZnrLVcVIODNbiz1k9XlenVGOt9AvENcqayGwjpwqfTgEmoC7ykIZieizDkR08LVy+m1kcmUINbfIUn6NpdxPTnUA0wnSt9CD5FNqcTrVKpfLCDpfhqRNxeJu+BCXbA8X2mRIL5SytB0XD3mR7PEFzQl7C&pass_ticket=nEQyXJW5QyLfeOVzaj+khlRsOns4yckHQDj7el7WQoPoFGInTGf3a6DoRW4+zn7H&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/7da4b5e6-f350-4fa5-9739-c71530dacb74/7da4b5e6-f350-4fa5-9739-c71530dacb74/)

@@ -177,3 +177,9 @@ ima 对我来说最大的价值就一个字：**「用」**。
 如果你也在用 ima，或者有更好的知识管理方案，评论区聊聊，我每条都看。
 
 觉得有用的话，点个赞再走呗，下次继续给你分享我的龙虾军团新玩法。
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzU4NTE1Mjg4MA==&mid=2247498110&idx=1&sn=46652ca78e67a74f2eb5f84d2157982f&chksm=fc84588b34f518c1273334461697123a14291907e25c558dcfd9900f93aefe65af01e3a80991&scene=90&xtrack=1&req_id=1774002700922478&sessionid=1774001938&subscene=93&clicktime=1774002902&enterid=1774002902&flutter_pos=51&biz_enter_id=4&ranksessionid=1774002700&jumppath=20020_1774002700273,1104_1774002716012,20020_1774002738228,1104_1774002746071&jumppathdepth=4&ascene=56&devicetype=iOS26.3.1&version=18004533&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQ+mJ0kPVyLjkk8YXi/DPgmhLVAQIE97dBBAEAAAAAAGJgCAWhSjEAAAAOpnltbLcz9gKNyK89dVj0gyOLjeopdy2D0pyoTbfnNMtE0E+v/J+mB2k/fHp5iPX3FSSzL5BlokwdMqUjEUlu+MFfRAmpGNtmTmlklzArhFacoWZkkj6LeznUIia3xnb/6c3iA8vBOoSZYwXFt7bfWgN8Cokash64srnyiVaYA/MtZIHhgA6oAnZLZkvIfKmnmqMMeIaNOzwadGmUnOj154GohtCaA9lYyJk/me08yWt+kV+xHOl37pa38Bi5vg==&pass_ticket=B4QAG+YmCe73vwG72PuG4aHGBGcHA4OOEC6fG3Ud0cqdwfJ4/EETsOyrFE0Yc9FN&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/4d9566ed-0338-4254-a642-be831b0b7f4a/4d9566ed-0338-4254-a642-be831b0b7f4a/)

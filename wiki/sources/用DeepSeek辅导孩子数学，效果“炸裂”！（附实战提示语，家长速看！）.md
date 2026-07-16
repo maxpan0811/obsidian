@@ -136,3 +136,9 @@ DeepSeek会一题一题仔细批改，并给出详细解析👇
 未来已来，尽管当前的AI还存在这样那样的问题，但在这个风起云涌的时代，唯一不变的就是变化。不论是孩子还是家长，我们只有拥抱变化，才能立于不败之地。
 
 ![](attachments/eb8ae1f0614ff5c3.png)![](attachments/dda119e306a18072.jpg)
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?chksm=c1a5bb9ff6d23289817ccaf95d189ce26fb0029ac4f5076c7845e63b1dedfc9313a06f097632&exptype=unsubscribed_card_recommend_article_u2i_mainprocess_coarse_sort_tlfeeds&ranksessionid=1742739273_1&scene=169&mid=2247483891&sn=7b03f8c6c31f76a4ec2a51d6446990f7&idx=1&__biz=MzkxOTI1MjczOQ==&sessionid=1742739128&subscene=200&clicktime=1742739765&enterid=1742739765&flutter_pos=16&biz_enter_id=5&ascene=56&devicetype=iOS18.3.2&version=1800383b&nettype=WIFI&abtest_cookie=AAACAA==&lang=zh_CN&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQdw6fi22gzbtaukeTuN602xLYAQIE97dBBAEAAAAAAKhYAbdyE2sAAAAOpnltbLcz9gKNyK89dVj0TBqht2WSn4YJv+AV7chE1Bao2udBKsLQu9xSmM88aEH6+YHffHGYVHXYxiKoXDKdYQc+toiaGAwhrLXAb1cEVECzqLkGJJpnhTUUMSqrwN331kvag0CpCbAgNxjW9gkeIEQ4myAJKR/M9ekq2n6uHV7S6vXH1c8UtBFwqi4Bkv0lPrHJzFpVQhtT0pzBWRdxlaV6uszziYXl6pV0OKuhroirnzaxaJ4xPMmjCAjTkkDftg==&pass_ticket=vrUSLnxN9FmSfn2Fft/y9C0tDB2b5TMy7geG5rbeRA1FKS9RrkkUq3M0yBk2Lp7j&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/0bffbcfc-9783-466b-8bbf-1ed86a7a7629/0bffbcfc-9783-466b-8bbf-1ed86a7a7629/)

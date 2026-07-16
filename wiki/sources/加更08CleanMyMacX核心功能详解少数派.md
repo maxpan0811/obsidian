@@ -27,3 +27,8 @@ guid: 56d84e13-cd07-443f-810c-be1746bb9555
 加更 08：CleanMyMac X 核心功能详解
 
 ![](/images/file-generic.png)
+
+
+---
+
+[📎 在印象笔记中打开](evernote:///view/207087/s1/56d84e13-cd07-443f-810c-be1746bb9555/56d84e13-cd07-443f-810c-be1746bb9555/)

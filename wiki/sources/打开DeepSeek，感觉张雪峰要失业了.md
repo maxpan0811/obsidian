@@ -168,3 +168,9 @@ deepseek对两类人影响最大
 **公式：我要XXX，要给XX用，希望达到 XXX 效果，但担心 XX 问题。**
 
 为什么要用这个公式呢？因为Deep sick的核心是推理型大模型，而不是指令型。大模型就像两个实习生，指令型是一个小书呆子，需要你事无巨细的安排，不走任务，而推理型是一个小机灵鬼，只要你说明目的，他就会自己思考该怎么做。
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzA3NzgyNDA0MA==&mid=2649617600&idx=1&sn=9df54de74c7c1a30f6ec71b54a1840a9&chksm=8625beaa81024ecdc67f14c4f287a150dad810a2e716f9d49b2ed873087ea476a2880df70397&mpshare=1&scene=1&srcid=0131gNCDvNMq5PKufUGgmSaO&sharer_shareinfo=94cf2c365121f9f2b54324b51a96556d&sharer_shareinfo_first=a4e289558b97169f93b6d2ecc258a62e&from=groupmessage&isappinstalled=0&clicktime=1738374941&enterid=1738374941&ascene=1&devicetype=iOS18.2.1&version=1800382d&nettype=3G+&abtest_cookie=AAACAA==&lang=zh_CN&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQSJSWQy5RqXxAgC8m3DU8MxLrAQIE97dBBAEAAAAAAASDBXfB2QsAAAAOpnltbLcz9gKNyK89dVj0B3IZPYlw7wYWo2ZVUQtnu/7pnq3yizx/ue5Bd78mlQdeDcspQsbhXGqxlGMDHgDzaxQD1CpqiQSAW2KbxZtngPGKkyCfvL73i87n9RefaqEACl/LMLIIiFsxUMy9MhNa38T5f8WBFdqAvyfbS4jPifWyN4zAJFHSkmaQTfwZD9SLE1Eh4+bQ5EZfsjaSlmND2qqJJ2HZETspFoxc2rAG8kkEo7JNDVeqenV+5+Ctns5QyGgMMSpXxAY+nuoIQR5aNufIL4I=&pass_ticket=BKgQO86sQ80kXE4aJQN8RaSgnopMAsM5rs4NFEtdIX5FEXUOSBF9RQQ8SHFajBs/&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/e3bb5376-3383-4862-a1eb-442b47524bc2/e3bb5376-3383-4862-a1eb-442b47524bc2/)

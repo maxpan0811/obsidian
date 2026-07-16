@@ -242,3 +242,9 @@ Ai-Tools 人工智能为个体服务研究
 ![](attachments/da1cb7f61d22ae2a.gif)
 
 Read more
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzIyMzA4MDQwOA==&mid=2247483925&idx=1&sn=fe66c237c5a667ee925feb8229c66fd8&chksm=e822f8a2df5571b4d6d870f746686e4fcf95b9c98fe4e76c6eee4c9c593fcb8a729daa7b02a1&cur_album_id=3425301601517633539&scene=1&ascene=0&devicetype=iOS26.5&version=18004a2a&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQ01UyND/LjF+FucR7JNwnMxLTAQIE97dBBAEAAAAAAP49Ll94nrcAAAAOpnltbLcz9gKNyK89dVj0HoS2hucBJBz0PkaE3Ig6DIFp4bwN0xi5uuR18GaFW+jxhUVpW/wR9l8f0MkJvSKAQtVFKtQo2qjtxA/3HkCc/WET4IueFsoLS5sNS7zYdszSAAWkHfc7ykdjzMrJqxvjIsF3Yuuw/O+ZYuVR4Ps1lEsZFAR7H/hSk9hLOAmycdsvN6/Wrayvg0o28TQ2bGfzhyjmbly82pe7sgaYqBZL4Fb/eleEG8GEDduOaLA=&pass_ticket=VF7pASjQj0t8Uo/j0lE0W6y7fKwQOHiIJPt9kFC93czc2sWxQRJwoMjqNs+T4gW9&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/037e5d57-0085-492b-b3fe-fcd5223047e5/037e5d57-0085-492b-b3fe-fcd5223047e5/)

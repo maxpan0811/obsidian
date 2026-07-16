@@ -208,3 +208,9 @@ Manus 的出现，意味着 Agent 模式下的 AI 能够理解需求后独立工
 但因为有了 Manus 在自主性与通用性上的突破，通往 AGI 的大航海中，又多了一颗照亮我们的星。
 
 本文来自微信公众号：APPSO（ID：appsplution），作者APPSO。这是一个让你手机更好用的专业媒体，欢迎点击下方卡片进行关注。
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MjM5ODAxODQ0MA==&mid=2651382554&idx=1&sn=5a2a054bc60d5b72b9e5771d60885258&chksm=bce8112cb26d5d89f651ecb4870eb169e1ac70bdebf72bc9893c5e819573ecd1a7e33987a4bd&scene=90&xtrack=1&sessionid=1741251021&subscene=93&clicktime=1741256345&enterid=1741256345&flutter_pos=13&biz_enter_id=4&ranksessionid=1741251307&ascene=56&devicetype=iOS18.3.1&version=18003835&nettype=WIFI&abtest_cookie=AAACAA==&lang=zh_CN&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQCXza8YnEhkZhFY+fbNgnOBLYAQIE97dBBAEAAAAAAGrYFoMci0cAAAAOpnltbLcz9gKNyK89dVj0bXV+/4Xx5LHsUuGtI7mCp1CmkIjg5XwilayjHoPhQLSMPzYUFZtM1iXtygGhjR0kuil3yHE0vrjXQFvLraKxgixs1bovARPoIP8vcbSOdmjYdSV+7MHiLwDDGIdNlJjqE8hpyZfGVCHuc1j/sgEUHwblZ92ieV1Q3N1HOkug7NvAUYZc5i/ObrYn1rcIimvK7c1yxUS9Wo9a9NzjsLbTkbFMdMqau3nP9TpxO29T6jQyxQ==&pass_ticket=if6mecBN854eRSKVIM86+Gf/OuMHOux3os0GUT9hcvIuyclZzHiRG2PBYPWZwKZp&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/1bb5e19d-cbba-438a-93b2-236c589273b3/1bb5e19d-cbba-438a-93b2-236c589273b3/)

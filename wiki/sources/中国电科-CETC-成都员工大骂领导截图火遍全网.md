@@ -95,3 +95,9 @@ guid: a311609f-f5e7-40b7-b218-e8c8bb197b58
 最后，我想说的是，大家都是出来打工赚钱的，都是平等的。己所不欲勿施于人，人家不爱加班就不要安排工作，况且在管理低效、无效劳动的情况下。另外，CETC毕竟是国有企业，当地部门是否存在裙带关系、违法劳动法的问题，也应该予以关注和调查。
 
 国有企业应当为人民服务，但首先要服务好你的员工。如果小伙子说的是真话，该走的是那俩“领导”，此人应当留任加薪，因为有效地反映了公司问题，维护了国有资产的利益。
+
+
+---
+
+[🌐 原始链接](http://mp.weixin.qq.com/s?__biz=MzU3NDM0NzA0Nw==&mid=2247501328&idx=1&sn=a5e2ae6d16e8caed2360f35516afc7fb&chksm=fd314458ca46cd4ece77483271d4f3ece0bdfc0556911db0d3b41374b50b43f78995f2db201a&mpshare=1&scene=1&srcid=0405RMg2eidIl5wtptR0EoUg&sharer_sharetime=1680684712134&sharer_shareid=ee47b9411760e9070f0b59d8d8655fa1#rd)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/a311609f-f5e7-40b7-b218-e8c8bb197b58/a311609f-f5e7-40b7-b218-e8c8bb197b58/)

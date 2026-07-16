@@ -56,3 +56,9 @@ OpenAI的奥特曼口口声声说AI民主化，但GPT却越来越高不可攀，
 #DeepSeek#梁文锋#AI#OpenAI#中国AI
 
 Close
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MjM5MTg5NTU0MQ==&mid=2654155749&idx=1&sn=9e4e711976b69b822b35fedb28bf3761&chksm=bceb0f61fa5831e1fcccef016a50fa67b4e35a3b8ba53f6490532abe7e9153cfdae95ccee3fd&scene=90&xtrack=1&req_id=1779522096563956&sessionid=1779522314&subscene=93&clicktime=1779522962&enterid=1779522962&flutter_pos=5&biz_enter_id=4&ranksessionid=1779522588&jumppath=20020_1779522890294,1104_1779522954674,20020_1779522957834,1104_1779522959025&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=18004931&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQlbFTSLFrcsZ6ZsOkklxSSRLTAQIE97dBBAEAAAAAACpmJAlNAG0AAAAOpnltbLcz9gKNyK89dVj0z8eN8RfpFqXyVWaAFKykM2jDOOl9wcEyGjdB8P5Sy3XtpRSvpLHwSm7x4/mHM97DIGUdgEXJCBhPZmiss5wF/rlfcuNprbJWf5j03NjPxw/W4jvCNyY7h6nfwNaDD2xTqNu993lVFcJKWJgd0FRbKHOrXU2g+7CJHDqyvGBsHayacJXEo7FGKmB9Vj/BvWW3hOX6wg4QxsmNyzAkpKFoFf8cIq6/BlCXYHck098=&pass_ticket=cD3Ktzjk/u0lGIsrFynfF4IdlbY3josPR9vzPzSj38KF+G3kkuwDw+hSt5M2pQUK&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/d7aeee64-efb8-4e7c-a00a-017ad1265565/d7aeee64-efb8-4e7c-a00a-017ad1265565/)

@@ -322,3 +322,9 @@ BH5NCZJGQRYCREGGGXCQTI3FDFYJ27UFQ
 Measure
 
 Measure
+
+
+---
+
+[🌐 原始链接](https://bookfere.com/dict)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/b398d09a-7898-44f7-a42d-b036d5ee0a39/b398d09a-7898-44f7-a42d-b036d5ee0a39/)

@@ -199,3 +199,9 @@ Codex 支持你开多个 Thread 并行推进： 一个 Thread 写主逻辑，一
 - 被复杂 IDE 吓跑过
 
 那我真心建议你：从今天开始，就用 Codex 试一次。 你不用先变成程序员，你只需要先**把需求说清楚**。
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?chksm=9602eea4a17567b27c4a5df34109b50cf73dec47e8fc12717e5212e132011b13a8af3a295a5d&exptype=unsubscribed_card_recommend_article_u2i_mainprocess_coarse_sort_tlfeeds&ranksessionid=1773840352_1&req_id=1773840352209006&scene=169&mid=2247484171&sn=e415716499a47b85d47e2164831f4336&idx=1&__biz=MzE5MTYyNjQzMg==&sessionid=1773835575&subscene=200&clicktime=1773840637&enterid=1773840637&flutter_pos=79&biz_enter_id=5&jumppath=20020_1773840528587,1104_1773840559778,30024_1773840569337,1104_1773840629687&jumppathdepth=4&ascene=56&devicetype=iOS26.3.1&version=18004533&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQCWpAW4hx7bLI2Gz2FGS5gBLVAQIE97dBBAEAAAAAAP2IB8UyzooAAAAOpnltbLcz9gKNyK89dVj0ZUWd1hCOxwUcx8uh9Qt+m5OqNcKaSwdJGdB8wrnpfHhpqhuBhW1ToIjXmxWEBzyOl1GYLvJC/4IEN2IihKpHz1ZTBV+8wC0kuPILgee8+JEvYgT4D3pgfUaApjETjMCEv2n7All86eVv1siFyCYFoOm5B+y4iNUx5UZiKiiZPnxQQ/0RmMTuRPhuYY1ktEdCNtH17vf7PqraYloipRwAKFAeFiN1QtCDB1hjrrBLwA==&pass_ticket=etUTIJVwzjPWWMmW2upYLsupiIzOAEG8yokQogvGdyAy0eW42Wv13dGEu4/fBjQE&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/d5d7fbb9-b119-45ba-833b-c614b1e2c720/d5d7fbb9-b119-45ba-833b-c614b1e2c720/)

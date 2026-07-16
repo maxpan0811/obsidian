@@ -537,3 +537,9 @@ json
 如果你想一起交流、共建，
 
 无论是使用、改进，还是自己动手做法律 AI 应用，都非常欢迎加入我们的群聊。
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzkzMjg2NTcxNA==&mid=2247485884&idx=1&sn=7fa4c3caf83f5e75a8d89a4125d859fd&chksm=c2547a61f523f3776c54b06ce5a4c1eebd39b000027ab6b281fd0bd009830b170b411cf71451&cur_album_id=4406622888632549382&scene=189&ascene=3&devicetype=iOS26.4.1&version=18004725&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQDPRGr+U8Z5R8G73gKRtMFBLVAQIE97dBBAEAAAAAACSFJfsuxDwAAAAOpnltbLcz9gKNyK89dVj0m+L8/4f/gtwq1LjZLyfmgpqQVz8s606iezPUDzSYWM2AH+DSRdWcB3WHbpUgxKxhfCYfUZZS/UJvTfczNwOkYr433fjD8KMw+jBRXE0SR5idhMP2tyVUOfF20RA3HsTnWnDrloYRtFhMdSyyNRBI6lfQbCclWtR69abk7PXXW6Rg12utAlq5GbtIM0EdYR38VFuEfPg4z5FcXkxTIkkY2A5sdU9dfZSLJnJVe0fNMQ==&pass_ticket=VKIM36tq/aVuq0CbzUOJe3P4qM6UnLRxVgrotVvKZ/ci4lV9AJkZJNpBuLgqPmIy&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/83ec8932-6c20-4ff0-8d2c-aa8e6c566d69/83ec8932-6c20-4ff0-8d2c-aa8e6c566d69/)

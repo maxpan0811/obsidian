@@ -40,3 +40,9 @@ guid: 83ccaddb-64bf-4073-b005-13659774c5a9
 #AI产品经理 #人工智能 #大模型 #智能体 #AIAgent #Agent #llm #harness #职场有路子
 
 Close
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzkxODI4NTQwMw==&mid=2247484564&idx=1&sn=c54dfeabb910a456a418e97a80bf51f7&chksm=c1b2f9a0f6c570b6210a9fa0fb50999590fd0a272c479db1f493c003aa5bf4d0f84e2635ad08&exptype=servicebox_1782171823058596&subscene=0&scene=288&clicktime=1782172143&enterid=1782172143&flutter_pos=6&biz_enter_id=5&ascene=56&devicetype=iOS26.5&version=18004b29&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQOTNBS5c3Pz1z0JwRlo1p0hLTAQIE97dBBAEAAAAAAKeMMOWwkhEAAAAOpnltbLcz9gKNyK89dVj0pxvGOBRqYbwaMShQw3j+VuE6LTIRpLz6hoAVg48XGaD1XtIqIm16RMN8IVcs/lgjN4wu9BDobliSp0rqCwa3uec+icKwEG//dEBpsNWdst0tncz84gQvZtExgw73sAwZLpPilWtXISP6qOrOTOZaEdhsV3YgZloi/Qkja3lFfPdwjNUo+Vcu0jUilSSz7Kq3q6+pbkbYyvsTCm1C/PcMj2aYoaU4oJ+NscObv/s=&pass_ticket=a9qfsU/a/4Q+spxrInhnKNHOnb8WHaEIwvlSc/PJcSiaJ2CbVmDV0mePAE9B1NY4&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/83ccaddb-64bf-4073-b005-13659774c5a9/83ccaddb-64bf-4073-b005-13659774c5a9/)

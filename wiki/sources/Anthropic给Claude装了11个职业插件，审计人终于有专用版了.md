@@ -307,3 +307,9 @@ claude plugin install finance@knowledge-work-plugins
 这60KB不是终点。但它可能是一个起点。
 
 ![](attachments/a87c8bbb734457b3.jpg)
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzI0MjgxMzg1Mw==&mid=2247505600&idx=1&sn=0dad922c107212761d53a15c5349e218&chksm=e81ed7d0f12359806e480be5da299ccceaa531ccee0fb2660272eed85783776660fca3161230&scene=90&xtrack=1&req_id=1779750943057682&sessionid=1779750938&subscene=93&clicktime=1779752601&enterid=1779752601&flutter_pos=3&biz_enter_id=4&ranksessionid=1779750943&jumppath=20020_1779752318852,1104_1779752319560,20020_1779752329884,1104_1779752594993&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=18004933&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQd+anYIezbIQ3JNIE74i2NRLTAQIE97dBBAEAAAAAAHFQJZSDGuMAAAAOpnltbLcz9gKNyK89dVj0fvRDv9jVhOo07T2zWBICYAulv0+QDZtmb5wQUcT3wO4O/nX6dxqC2Ur7rDTvhmXgAFiVewCChsmkM544w81IKSgflYbPgutTlxnLMdzD2Tq/HVrJvSQqLM1DKHYhyxXMTS51SHV54BIVgI/1HN5cRAYmdornjBf1JE1gLOF7ujBnoPiap7og+R9OTwSh/ZuM89GIVvGaBiX6mcDNt0RrSg+uT3P0xTmlRSirdCI=&pass_ticket=Gp5lqitVnjRLCOu3UHQo4+BMveB1vIwvbWRJeWqJGL5zbIyv1rOpYGybtRy/Cd6S&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/8f491f91-eb7e-43b0-aa3b-be0a9327f043/8f491f91-eb7e-43b0-aa3b-be0a9327f043/)

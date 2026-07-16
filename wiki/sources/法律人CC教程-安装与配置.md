@@ -338,3 +338,9 @@ claude
 参考链接
 
 [1] Releases: https://github.com/farion1231/cc-switch/releases
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzkzMjg2NTcxNA==&mid=2247485751&idx=1&sn=33d24ddf860b6bdfd0fb9211a4cb979c&chksm=c3062dfbea6214ed29fc51aa341563d4449dd95d11dfeb3905939e346c55c29761011c3c5ee1&scene=231&sessionid=0&clicktime=1776654331&enterid=1776654331&ascene=3&devicetype=iOS26.4.1&version=18004725&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQrQQemvyuEV8+moaIHq5wehLVAQIE97dBBAEAAAAAAJXSKRSJ6xwAAAAOpnltbLcz9gKNyK89dVj04lAjuyESXeVbjKQyK1hvqgDhBTdIeAjx45940xfp/YwK8lE0iMr91gWfOG+lXmrp/ocymChvu5xDt5tdwVxMHMdFquBmOxrmuiy0TiO5Ez1vB8GjNzT/1cSSWV8Hvs4yucgOAZA4daI40N9X1KkjeHq8jqIRhLQXBZQPwebW6IaXN9aTb3O3JFkjL5xgKkEZEcMVdCZnSXSu+FUfTRgljYSd+/GNjMnN7opBCFwXvA==&pass_ticket=uChoo265B1dqFzQrF2qmOwcCyR2zPIgm/wyQza6Qdg3Q0lT5dqyif7VHeDexnvS0&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/f3915ee7-96d9-4c3f-9549-63d6e77a004a/f3915ee7-96d9-4c3f-9549-63d6e77a004a/)

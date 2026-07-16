@@ -35,3 +35,9 @@ Tech.feng.com
 
 ## 相关页面
 
+
+
+---
+
+[🌐 原始链接](http://tech.feng.com/2015-08-12/Life-is-so-good_621413.shtml)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/43948ffb-1aa2-40a8-9159-560fb3f49dde/43948ffb-1aa2-40a8-9159-560fb3f49dde/)

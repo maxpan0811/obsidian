@@ -135,3 +135,9 @@ HA 管数据采集、展示、告警。Mac 管视频处理和 AI 推理。两边
 养龟是个慢节奏的事。但每天翻翻聊天软件的报告，看看谁又霸占了晒背台、谁偷偷换了个位置，比蹲在缸前看半天有意思多了。
 
 原文链接：https://sspai.com/post/108453?utm\_source=wechat&utm\_medium=social作者：叶水水
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzU4Mjg3MDAyMQ==&mid=2247611689&idx=1&sn=377ba9af569af2dfb2e26d4f609bf1ae&chksm=fc805fb897eb54782ae3c2530c5037f977ac3f486d5114a58af5c2dd082e5e51d94531e3e5ce&scene=90&xtrack=1&req_id=1776007940938855&sessionid=1776007097&subscene=93&clicktime=1776008152&enterid=1776008152&flutter_pos=12&biz_enter_id=4&ranksessionid=1776007941&jumppath=20020_1776007993713,WCWebImageBrowserViewController_1776008087901,20020_1776008092735,1104_1776008146325&jumppathdepth=4&ascene=56&devicetype=iOS26.4&version=18004635&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQ2gwzJ3Rw4qRwboM4v3SichLTAQIE97dBBAEAAAAAACmBCNEGHxEAAAAOpnltbLcz9gKNyK89dVj0/c5gqDm6BN9uzQcFKJ0Ca+litNzIB7d7z+WltfxXj8hJmjSU8wMTa48WDOBhe1PmkOSHWv7poQ9uaH/9FX1Tgm5r1UpJ0q4xaY/8U2D4pmjvUqWL0Qp9EsmefPH44KfuWlYZCNIEhHR1tcF3SiOLTq9FAqontQ9TfE9hsoa6OSC+ZHvHHvxQLj9U6JZzYoIIEijX/pqMqKCbKNw2iK0656jLMSMcDIMJZjiQbYk=&pass_ticket=D61PUxfOJR6ZWPmg4opy/q4gxhfiqjjca5IV2ze8QNm7hdZHCF9CO51o4BF4DVVF&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/52fe9eeb-ea57-4c6b-8655-e8bbb851867b/52fe9eeb-ea57-4c6b-8655-e8bbb851867b/)

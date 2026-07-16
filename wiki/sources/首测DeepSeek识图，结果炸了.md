@@ -244,3 +244,9 @@ Original雷科技AI硬件组 雷科技
 **#DeepSeeK#视觉理解#多模态**
 
 **End**
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MjM5MTg5NTU0MQ==&mid=2654153571&idx=1&sn=f88549ddfb76fe1b44b072df84bf8482&chksm=bc9db8fe8cb063e4bfdc2b10ad1d6eadd42a3a97b027655b51e328b8699707b2ee781042c98a&scene=90&xtrack=1&req_id=1777475868036785&sessionid=1777475893&subscene=93&clicktime=1777475901&enterid=1777475901&flutter_pos=0&biz_enter_id=4&ranksessionid=1777475868&jumppath=1001_1777475869238,1101_1777475870374,1001_1777475892819,1104_1777475894653&jumppathdepth=4&ascene=56&devicetype=iOS26.4.2&version=1800472e&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQoYwKuf8a+T67PVcwqfYo0xLVAQIE97dBBAEAAAAAAKuZOARIDmEAAAAOpnltbLcz9gKNyK89dVj0tcf0Nu4UnXCFUq3Yz0BrRFeMutS4d3N7vCiRfURiTVRdbnBuj1vMsDnAOmst56W6nb5bRVdwcgF+hAHoKzqDTvkRcChAwOlmJqQInFd2F/i63oH3Jh1RefvyCBuaHyQfShKlYETvmyFh8HfWVRQ6OVQAPSY+rOXePu8lNBN6XCMp3Mxt//fWKhdmDOr30zu41srVdSM1G3fMZEZ6V33xONVjSrcaWC6qZMzCaYCoeA==&pass_ticket=rukbf/d46/wzgee1Y3p8/+rKyYUIsFZBS2/VySrSTBN6q4nbdgIBxylp/BUwCeJh&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/95495e85-cc1f-47e9-8a7f-061ac285ecb7/95495e85-cc1f-47e9-8a7f-061ac285ecb7/)

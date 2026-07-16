@@ -72,3 +72,9 @@ YouTube / X: huangyihe
 OK，以上就是本期内容。想了解AI，想成为超级个体，想找到志同道合的人，就来我们newtype社群。那咱们下期见！
 
 ![](attachments/9cfba4641d3f514d.jpg)
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzkyNzU0MzQwOQ==&mid=2247485138&idx=1&sn=79f57e41cb0815b6aec4e6f0f5aa444d&chksm=c30a04d12f53e81c4461c2cb6ba79d8acf5df60a9d9c2fb0c513ba32c4ccb80ec384bf6ebb15&scene=90&xtrack=1&req_id=1779028645315181&sessionid=1779028622&subscene=93&clicktime=1779029177&enterid=1779029177&flutter_pos=72&biz_enter_id=4&ranksessionid=1779028645&jumppath=WAWebViewController_1779029149795,WAWebViewController_1779029150291,20020_1779029172559,1104_1779029173454&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=1800492a&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQcTzx5+ZKqlaDWbotxD0SXxLTAQIE97dBBAEAAAAAABa/Is39458AAAAOpnltbLcz9gKNyK89dVj04XrSuJhSCZ59noh3gDQQal3eE3bSaBrkIbsNkQLLL5pUzDRzpXQ2KVcFbH9G5ncuzSGqO5HI+8ksxXPsQpkT3AR/bipsNuUH86o+sG8oNX6f+c6Mv7hiZZXz/WI7nDy8+BjssHeH9+W+i62LunU5LKmTq6BXNrGPvkzPlqlhXG3lrCbiDcYuBuaFDr5Au/dmJO+nyLBKQVNxkGMDF/PPCsB0UqYmzAu88skVO2Y=&pass_ticket=AYqj/dSmjoG38PBOLhXfpgrCIaZONZxvulBr35MX1KD+pk9qMHbfuVJW7x3zvyYx&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/eb14e1c4-5277-47a2-a1a8-475d69a5708a/eb14e1c4-5277-47a2-a1a8-475d69a5708a/)

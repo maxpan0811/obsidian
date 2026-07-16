@@ -361,3 +361,9 @@ guid: 68affbcf-e184-4d33-8129-d395bfaefe1b
 **团队最看不得的是什么，领功劳的时候，这个哥们跑在前面，有问题的时候，躲在一边，推给下面团队。**
 
 广告合作：微信 15617776962（手机和微信同号，联系请备注品牌+姓名）
+
+
+---
+
+[🌐 原始链接](http://mp.weixin.qq.com/s?__biz=MzAwNzEzNzU0Ng==&mid=2649625385&idx=1&sn=966e833fb7680e53923655e80d11a6db&chksm=8318034cb46f8a5a400caa1a12b95a9e33acdda7d6afa85036f1f468361af214152f8431f264&mpshare=1&scene=1&srcid=&sharer_sharetime=1572770901636&sharer_shareid=196a7290cec677abfe41ca4bbe251b79#rd)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/68affbcf-e184-4d33-8129-d395bfaefe1b/68affbcf-e184-4d33-8129-d395bfaefe1b/)

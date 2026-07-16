@@ -150,3 +150,8 @@ One More THing
 人类的角色，从“执行者”变成了“发起者”。
 
 参考链接：[1]https://x.com/victor207755822/status/2059269472297623843?s=20
+
+
+---
+
+[📎 在印象笔记中打开](evernote:///view/207087/s1/57ea7794-9fe4-4eba-b4ae-ee95a7945371/57ea7794-9fe4-4eba-b4ae-ee95a7945371/)

@@ -277,3 +277,9 @@ Create a screenshot of an X post by OpenAI announcing Sundar Pichai As th
 这类实测类的文章我每周都会发，关注笨笨聊AI
 
 觉得有用的话，记得点赞、在看、转发给需要的同事朋友
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?chksm=c083b077f7f439617965105a95b2668960ba8f73ac28823851c8f8366290b14a29a57649a538&exptype=unsubscribed_card_recommend_article_u2i_mainprocess_coarse_sort_tlfeeds&ranksessionid=1777197112_1&req_id=1777197112095175&scene=169&mid=2247487506&sn=1b0b16ca8781ef4e33369080cccabca3&idx=1&__biz=MzkwNDcwNjMxNA==&sessionid=1777197111&subscene=200&clicktime=1777197289&enterid=1777197289&flutter_pos=5&biz_enter_id=5&jumppath=20020_1777197118178,1104_1777197153785,20020_1777197164052,1104_1777197285403&jumppathdepth=4&ascene=56&devicetype=iOS26.4.2&version=1800472c&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQqXEcyNIid2cljUIxrusUBRLVAQIE97dBBAEAAAAAAEA+E6ydUT4AAAAOpnltbLcz9gKNyK89dVj04fJNSyNTYh9LQW1gKog+efAqsKcRTiNXMXDp4s3HicJ1lLSZv0OXEQKDDUdNoROguDFRcivxXYIJMKXJnASHtTZdAj00MWUGEG5eW9q93goKmkMHoAGg5PiCLi1RPpHgarTBOZkY+N4FyyLvIbUHByaFeLcNQ6Jls4a6uVtHIr0KGj84ygIBFJttiyXaomrDe7kThg/QsA7WEOyCu2rUBoy/J/wpygLDsOej3tAdgA==&pass_ticket=YHz2oEg9kadwdz+ASZ3SVIgE5X9ww03AkkqSzxq4V8pTANEYGThHsaf71Nyn2m5G&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/b8903b60-e0c6-4f52-a2fa-af72fd3f64cf/b8903b60-e0c6-4f52-a2fa-af72fd3f64cf/)

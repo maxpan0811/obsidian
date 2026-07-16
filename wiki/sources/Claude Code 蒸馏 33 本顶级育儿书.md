@@ -1138,3 +1138,9 @@ Claude Code 蒸馏
 樊登《读懂孩子的心》《成长的觉醒》《陪孩子终身成长》· 萨巴瑞《家庭的觉醒》· 蒙台梭利《童年的秘密》· 李跃儿《关键期关键帮助》· 阿尔瓦雷斯《儿童自然法则》· 高普尼克《园丁与木匠》· 法伯《如何说孩子才会听》· 戈登《P.E.T. 父母效能训练》· 卢森堡《非暴力沟通》· 雷纳《不吼不叫》· 布雷恩《你就是孩子最好的玩具》· 菲约扎《孩子,你的情绪我能懂》· 德雷克斯《孩子:挑战》· 尼尔森《正面管教》· 伯恩斯坦《叛逆不是孩子的错》· 西格尔《全脑教养法实战指南》· 斯蒂克斯鲁德《自驱型成长》· 萨斯金德《父母的语言》· 德韦克《终身成长》· 阿克夫《翻转式学习》· 迪安杰里《天才的学习方法》· 比达尔夫《养育男孩》《养育女孩》· 刘华清《解码青春期》· 琼斯基《让孩子远离焦虑》· 兰妮《内向孩子的潜在优势》· 罗宾森《忙碌爸爸也能做好爸爸》· 费勒《爸爸军团》· 尹建莉《好妈妈胜过好老师》· 麦克布莱德《母爱的羁绊》· 舒尔《如何培养孩子的社会能力》
 
 **关键实验**:高普尼克 MIT 玩具教学实验(2016)· 哈特和里斯利 3000 万词汇研究 · 德韦克成长型思维 7 项实验 · 蒙台梭利"儿童之家"奖励观察(1936)。
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?chksm=f13cc390c64b4a861a8c9b7de5e03fce550d489f98b66964f45fdd51656c61e24bfb8c375f6a&exptype=unsubscribed_card_recommend_article_u2i_mainprocess_coarse_sort_tlfeeds&ranksessionid=1782029952_1&req_id=1782029952718987&scene=169&mid=2247485476&sn=2f69ad4c5b4fda88813def6645aa0d2c&idx=1&__biz=MzY0MDgxODkwNw==&sessionid=1782029952&subscene=200&clicktime=1782030748&enterid=1782030748&flutter_pos=6&biz_enter_id=5&jumppath=WAWebViewController_1782030714500,WAWebViewController_1782030715014,20020_1782030740331,1104_1782030741006&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=18004b28&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQZRmNxvHSaN4hQkDN5w2XTRLTAQIE97dBBAEAAAAAAEKvN2HYxuUAAAAOpnltbLcz9gKNyK89dVj0ENSIdusDuMkxllbJOiOgZBhYATsK1Ovn3YD2NENkDezMarDxvo5XvnASkV7v6jC1elNT5xCxqnXQ8o87EFkqusogOkecIU63/zjY026iFPHCIi+FHCoktRl/w/yAasI7hNEuR/2vZSCAIlDMiXPrHvLibL4yhvBDa2jYSQMUE2d3lfbYA2eqf7VtPRu0K4G4VXY60X36kLfyUaRPJplJz+JzSLluDdCXifzlAmc=&pass_ticket=q3apZlafVDEfQHNNsJNB+PGYCabvmPFLH543QkjMOppsKoTI1vgTkzznpc9X22dC&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/ff3f4816-f382-45bd-b060-6f3d1093c89f/ff3f4816-f382-45bd-b060-6f3d1093c89f/)

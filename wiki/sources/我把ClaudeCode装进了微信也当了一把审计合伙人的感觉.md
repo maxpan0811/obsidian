@@ -86,3 +86,9 @@ Originalnigo逆行的狗
 ---
 
 https://github.com/chenhg5/cc-connect
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzI0MjgxMzg1Mw==&mid=2247505526&idx=1&sn=bd3ce30d035cc9cba4830f1be4533f05&chksm=e83446740aa6f71aa7a5a66189e9d7ab65875ff8373932b10b3582f230bebadb8102dea0fddb&scene=90&xtrack=1&req_id=1778317482930140&sessionid=1778317478&subscene=93&clicktime=1778317521&enterid=1778317521&flutter_pos=6&biz_enter_id=4&ranksessionid=1778317482&jumppath=1001_1778317477215,1104_1778317478849,20020_1778317482335,1104_1778317498270&jumppathdepth=4&ascene=56&devicetype=iOS26.4.2&version=18004922&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQP0018/nC3iAADVxfX/Fk+xLVAQIE97dBBAEAAAAAAJ8FOdSpR7QAAAAOpnltbLcz9gKNyK89dVj0AagFNWG1Ni81YGdgC7f5VZmfBB8rTuxmrjQK1Opu1ddrCz2ltAk4TPPC2RKGgpvybiFnlrIvJQS7N2JFTOMsFrGKtngQ7A3eYB0d/pHkT6WdOfq0cAQJedJ6VQGFqdt5jbw3NQvdJjfoMlR9vw4RHTvWq63RyN27pAQOGRll6/iogA2Wl91zuZZn0cfHiOJRM3zCGe2ygQ7n3EFxGOhYv3BrdR0zj67+BvWb4XjFtw==&pass_ticket=OzhIhnnT7WwdA03ljlBLJIUXv3PfcOPpSjZyHeoztCXL9F0I/mWqd7z8xgcFXcae&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/eccff49d-62d0-46f5-b115-77c305568746/eccff49d-62d0-46f5-b115-77c305568746/)

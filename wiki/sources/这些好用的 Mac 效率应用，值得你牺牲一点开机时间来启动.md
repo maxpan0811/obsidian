@@ -215,3 +215,9 @@ Mac
 >想看更多关于 Mac 效率应用的内容，你可以继续前往专题「[把 Mac 菜单栏变成万能工具箱](https://sspai.com/topic/224)」阅读更多文章。
 
 > 下载 [少数派 iOS 客户端](http://sspai.com/s/nqQk)、关注 [少数派公众号](http://sspai.com/s/KEPQ)，读有趣的内容
+
+
+---
+
+[🌐 原始链接](https://sspai.com/post/45343)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/1aec9e0b-acb0-4410-b724-02c5c6bc2b70/1aec9e0b-acb0-4410-b724-02c5c6bc2b70/)

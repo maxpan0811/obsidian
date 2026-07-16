@@ -128,3 +128,9 @@ guid: 1276fb29-494d-457c-bab3-b70e3fb16f92
 科技战决定大国争霸的胜负，这是持久战，是效率战。要不清理学阀，要不让科技发展重归产业主导，远离高校。只要他们这些人不从位子上下来，这科技长跑我们赢不了。
 
 天与不去反受其咎，到了二选一的时候。
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=Mzg4NTU3NzU4OQ==&mid=2247529908&idx=1&sn=4c14d3f336b8f458944e76388553cafa&chksm=ce947e0ebfc193fe7a16daad4ed24a706518f7b27533b5ccd0b3fe6e68d40ebd7ced8d1d608b&scene=90&xtrack=1&sessionid=1737977345&subscene=93&clicktime=1737977347&enterid=1737977347&flutter_pos=0&biz_enter_id=4&ranksessionid=1737977034&ascene=56&devicetype=iOS18.2.1&version=1800382b&nettype=WIFI&abtest_cookie=AAACAA==&lang=zh_CN&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQuz5wMo1XTyY3C2z0lRKa0hLHAQIE97dBBAEAAAAAAOimIH1lejMAAAAOpnltbLcz9gKNyK89dVj0mRlou6v1P5UTyHrJOKl5DFvSNtvLE3S9EPpRtbqHwSuya/tt9DzxGJwIdzGJPukddbyThR2fpKRjyESsHCE2yvVTm1zZ/uC62acs3A0CcZ343Z2gvivIb0IwQgpk+wXM8kMEgoD6af01qf3GkGFnNOB/253HqFti93OD257htLgg7io/7YdD73KRU1f8tOXEX5eQdCQ6Ttq5FaCnf0FkOyI=&pass_ticket=3cdRlGKN2Bkg7ifV29qz0cNhPz3lnGAcQRNBvEvlYToE35dS+PM2TkoVKPbwGlW7&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/1276fb29-494d-457c-bab3-b70e3fb16f92/1276fb29-494d-457c-bab3-b70e3fb16f92/)

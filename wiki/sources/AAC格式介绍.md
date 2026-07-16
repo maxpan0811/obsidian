@@ -252,3 +252,9 @@ iTunes LP只能在电脑上播放。运行iTunes LP需先安装iTunes 9或更高
 第四个与第五个图都是我们常用的MP3 320K，非常明显，20K以上频谱稀疏，几乎全被截掉。文件大小：9.72M  
   
 最后一个是iTunes的特殊格式：Apple Loseless，顾名思义，也是无损的一种格式，苹果公司的iPod产品不支持现在的APE、FLAC等无损文件，在此也点一下Apple Loseless。
+
+
+---
+
+[🌐 原始链接](http://www.verycd.com/groups/@g2381491/757876.topic)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/4597021f-a5da-4f40-9458-d5e84998609e/4597021f-a5da-4f40-9458-d5e84998609e/)

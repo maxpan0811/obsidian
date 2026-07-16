@@ -29,3 +29,9 @@ PostTime：2015-05-25 12:58:22,*今天下午*
 
 ## 相关页面
 
+
+
+---
+
+[🌐 原始链接](http://www.feng.com/apple/news/2015-05-25/17-Siri-command-Apple-Watch-this-play-more-fun_614987.shtml)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/a8b7859c-5a75-479c-8931-5225ac154fba/a8b7859c-5a75-479c-8931-5225ac154fba/)

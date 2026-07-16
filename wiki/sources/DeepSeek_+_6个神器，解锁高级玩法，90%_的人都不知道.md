@@ -158,3 +158,9 @@ https://cherry-ai.com/
 - [DeepSeek 高速直连，解决服务器繁忙](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NTk3OA==&mid=2651267246&idx=1&sn=1eef87224ded17392a0eff77e9c4ec16&scene=21#wechat_redirect)
 
 更多优质软件关注效率君公众号：**高效率工具搜罗**（ID：gongju006）。
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NTk3OA==&mid=2651267361&idx=1&sn=40b43594018ac146400f7d3669874ed1&chksm=f2d355773e85ecc8ba8d43084ff4fa28f098308d23ceba95550027e332ac529de9a9398f7d51&scene=90&xtrack=1&sessionid=1739855391&subscene=93&clicktime=1739855400&enterid=1739855400&flutter_pos=1&biz_enter_id=4&ranksessionid=1739855365&ascene=56&devicetype=iOS18.3.1&version=18003830&nettype=3G+&abtest_cookie=AAACAA==&lang=zh_CN&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQWhBDGBSyyfgfkoZ5FSA4thLYAQIE97dBBAEAAAAAAIwbOrw+6e4AAAAOpnltbLcz9gKNyK89dVj0ynhrZ1DhE3nRE7Y1AfOuvghBqFQOOhh4ip8hLhSmKzHhDfhGHhNJY4c3ZKWEBVP9TNRiOj10YqVMzyt/PHPXgH3mloLBaaYIBCRx5gad8WgEhW3oXWSVZMEIKpbRhIWv7Q5ivIKJSQ3TG3XXwwr4G5y0IPxleKTy5CU1RezVqs7PkzBLCB/iPoKH0hyFcQQBOwQ1h16pMcmFqlqmrG8eNUV+Eo2Nx+eYSbsF5ebhEstgJQ==&pass_ticket=WP9vruqgwdblnf0xZYZPqy1SYceoi2JKMiiXYcV4qGMDTAMtP9mNsctfs4T6KS/1&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/32357cf1-3ab7-4518-9eae-a62960f5aea4/32357cf1-3ab7-4518-9eae-a62960f5aea4/)

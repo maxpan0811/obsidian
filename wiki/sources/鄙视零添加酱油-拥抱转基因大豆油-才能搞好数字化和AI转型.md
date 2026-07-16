@@ -95,3 +95,9 @@ ERP、CRM 等传统信息系统本质上是一个确定性系统。它的运行
 而成天沉溺于网络上的食品安全流言的人，同样会因为对IT项目失败或对AI的黑箱恐惧，而拒绝数字化转型和AI 转型。
 
 个人观点，仅供参考
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzI5MzMzODE5MQ==&mid=2247498710&idx=1&sn=43a16458deb7015801f98adebb5ffa3b&chksm=ed6bd9a51e2e618c3bb385b6623f50d4b74c2d98d7ebe729c070125fcfac1bb28051beaf7dc0&mpshare=1&scene=1&srcid=10039RqiGS2553b1KhMrrHDt&sharer_shareinfo=b573e453dc5caf66231b463d422409e5&sharer_shareinfo_first=56b01b218bce61d1a1931030c7d7b0ab&from=groupmessage&isappinstalled=0&clicktime=1759456394&enterid=1759456394&ascene=1&devicetype=iOS26.0.1&version=18004028&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQPPJjMvm3P6OrNuEjf6hKAhLoAQIE97dBBAEAAAAAAAkDEvgh9AAAAAAOpnltbLcz9gKNyK89dVj0WIu7AnioK+W2p3AMvX7Ta2thHCmdo+65JxMnMxR1N6AfxykCz+0vqqz5ZJ8/jhCs5c6ItE3SgxWgc3dT2HhJRFSRp346x+OOCnqSCxo7F4eg0apeboYOBcn8tE/vi8f34OyrDBnB0u3j3lG5Rw2OZXmSPI4yPh8QyAo3ni05h9Jl7BcyQqGXCS+AFbKKPRR4Y2mQPgFrbOKcojLH25+ofrCI8Chly+CLQ7QEpOu8PBX3F17HkLZ6FuPXF8iIwUENYBA=&pass_ticket=BE86//hp79v5ePblTiAEwAYJmKlAsnuRlJxByH8dRvYWt2UVMlyhhaRtFBh7FZuc&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/bec0a3cb-81d1-40ab-8609-07464c82fd16/bec0a3cb-81d1-40ab-8609-07464c82fd16/)

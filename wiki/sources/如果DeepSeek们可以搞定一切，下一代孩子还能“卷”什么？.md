@@ -139,3 +139,9 @@ AI到底可以如何帮助教育进行变革？学生和老师怎么才能更好
 ![](attachments/b08f13d90ef8eb9f.jpg)
 
 修改于
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MTc5MTU3NTYyMQ==&mid=2651497825&idx=1&sn=0a12b6d664a452cd16cfe0a8f628a6c5&chksm=58cd7be9c8eede8c7861cddefa556a10a9c963e2f75c4eff1d566e6f84f74ab7c1237609c090&mpshare=1&scene=1&srcid=0218jQapIwwhTvI7StvPLcvP&sharer_shareinfo=ec6865e71d9ad6a858a82342830b286a&sharer_shareinfo_first=ec6865e71d9ad6a858a82342830b286a&from=groupmessage&isappinstalled=0&clicktime=1739849185&enterid=1739849185&ascene=1&devicetype=iOS18.3.1&version=18003830&nettype=WIFI&abtest_cookie=AAACAA==&lang=zh_CN&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQCcE226Drc9qdk4G9LOz26BLrAQIE97dBBAEAAAAAAG+GNgQzmM8AAAAOpnltbLcz9gKNyK89dVj0t+LOEPcCa3YsKEpcrMNPJmXcqcrsp0oieZvM0SC5lI7h4ntV3Rxu9oPQCkwevwrjzXp8iGQq3f/smSri+hVf9h32i93loRsVAPoixgib+B8OZ0qXCL4LJ94jiKeOAgpoKd/kFO5y4gQuAKpbYoV5aGqwLQQMIT1Dd/kh7zbnYdrg6fSxDjMoy41mWwYRlRzZ1uQFyEmDFQONLl2D9Z85lOCRDj7/rDkBYhHCqlO9sackkCSYPQ9mIokgy9Ogl4O4O0xGZzM=&pass_ticket=LE+jQ4H4qPiQaMs9J31PYgq7DaQEJvMVzmIOYHZ5L7ryc3v6F475TIjukUgp+NMN&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/954e9245-3e37-4d2b-8617-9b4e7d165f54/954e9245-3e37-4d2b-8617-9b4e7d165f54/)

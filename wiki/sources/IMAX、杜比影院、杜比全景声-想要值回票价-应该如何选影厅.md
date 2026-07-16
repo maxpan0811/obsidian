@@ -98,3 +98,9 @@ IMAX 厅相比其他影厅最大的优势是画幅更大，如下图所示：
 《黑水公园》：主播 Alvin、金花
 
 *原文发表在我的博客 [Septillion's Blog](https://www.septillion.cn/archives/2686)，文章经过修改以符合少数派排版标准。*
+
+
+---
+
+[🌐 原始链接](https://sspai.com/post/38919)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/4e6ed3e0-3153-455a-b631-be8be8de7d15/4e6ed3e0-3153-455a-b631-be8be8de7d15/)

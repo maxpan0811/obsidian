@@ -90,3 +90,9 @@ catdiscuss
 看来，懂王和睡王还是有区别的。懂王上台就先要断了中国公知们的狗狼，睡王还没正式上台，中国的公知们就已经群情激奋难以抑制喜悦激动之情。好吧，接下来四年，我们一起来细数那些为拜登跪舔之人吧。
 
 [![](attachments/2a466f7a9a5f90e7.jpg)](http://mp.weixin.qq.com/s?__biz=MzA5MTk4NTU2Nw==&mid=2654535796&idx=5&sn=aed62015e7d5657de8acf0637b35b082&chksm=8bb9a384bcce2a923843fa7eca8fd1dea362c44b5901c8aedd06d0283303f5eaf8266e384209&scene=21#wechat_redirect)
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s/wERBaVx3XWnwts1EHXijmw)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/7637f05d-70f6-45a5-9468-f9636e93cd74/7637f05d-70f6-45a5-9468-f9636e93cd74/)

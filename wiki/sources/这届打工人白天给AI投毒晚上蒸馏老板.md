@@ -105,3 +105,9 @@ Gallup 的研究最后提到了一句话，大意是 Z 世代并没有在拒绝 
 文 | 姚桐
 
 编辑 | 李超凡
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&mid=2652449970&idx=1&sn=e77c83ec13d2789423846505c6008b44&chksm=9a2e1cbd3d4e798f3b1c236984a839fa3d92f0a7a0ef3b0b4e0e1340a26915bc2f868c69e76d&scene=90&xtrack=1&req_id=1776147096096021&sessionid=1776147158&subscene=93&clicktime=1776147165&enterid=1776147165&flutter_pos=1&biz_enter_id=4&ranksessionid=1776147096&jumppath=1001_1776147138505,1102_1776147141600,1001_1776147150287,1104_1776147159370&jumppathdepth=4&ascene=56&devicetype=iOS26.4.1&version=18004637&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQEGVdd0pbcVaaPr0dEi3VAxLVAQIE97dBBAEAAAAAAKMuCnzIm0MAAAAOpnltbLcz9gKNyK89dVj0EEVoy1IzhhZzpT85uCN3T801WI4ay/vIiFWEuBypm1G0wHCoiJ4f69qUo7ZSVpSfXwVQVNf0XGQS6iKfOXyvQAc6nH45Ibh9+pODNx9eEAhkAQM/a2/la+giXsQ3ybunEPRIyWG6982eZv3hkaKsIm7U1qNmPpl/jCfNVinDzCYF3IIHZr+x0uU/QrYTrt0zeA/7IZ+gwsQbEXRnJPwIbZG5HrRz668v26N28c4KUw==&pass_ticket=cJjJUzNBWGK0LB8biwS9IGItFNpSiGNF3rxSZWGajIrmyO+TgbydSPkTAKgHS9E0&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/f78f3f96-fbf7-4855-aedc-aaf1db65a5a1/f78f3f96-fbf7-4855-aedc-aaf1db65a5a1/)

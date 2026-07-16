@@ -156,3 +156,9 @@ Claude Code 帮你把"想到"变成"做到"。剩下的，交给它。
 别怕，动手试。最坏的结果不过是 `git reset --hard` 回滚重来。
 
 作者提示: 内容由AI生成
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?chksm=8804b9c4bf7330d22189ae3cbcdf41e4a793e9dd22b7f9fd3651fdd2e65fd8ddfd6feace89d1&exptype=unsubscribed_card_recommend_item_heat_tlfeeds&ranksessionid=1782032740_3&req_id=1782034214604406&scene=169&mid=2649444824&sn=09ca6dbe853f0d4d547178720c762552&idx=1&__biz=MzA4OTQxNjA1MQ==&sessionid=1782032739&subscene=200&clicktime=1782034818&enterid=1782034818&flutter_pos=29&biz_enter_id=5&jumppath=20020_1782034796304,1104_1782034796877,20020_1782034803949,1104_1782034815915&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=18004b28&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQzvFK4FR6jJffNKPKK7nLQhLTAQIE97dBBAEAAAAAAMo7IkkqN68AAAAOpnltbLcz9gKNyK89dVj0M+Yew8o9R3/vsNTF596HE8o7gWkZggV0DDSPIAOUluGSXTp+5EyKWNNTxgjktka2TD2+iK32yIhH5XUhLk37Ys+hUMIyeClP6ZEUUtH8/Rtbe+8mNOEkOirMIRWhe7nLwoVNs36hvkwGdlFvSlPSwvJARO2cbx/YLevjArcubgJCpsPqNsoTCAgLvn5dHv7NXESpJHpcfXyQlomhzXkTgNuKByi5KG6patdiUok=&pass_ticket=Pmh24WZtf4efjjIo3ksiqm+N+i/JSNZtL+nh0Aw+tge4+mgF5ScQYPPrvuSTdlqh&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/00f4ec00-9104-4e73-84e0-ec4e784cdfb0/00f4ec00-9104-4e73-84e0-ec4e784cdfb0/)

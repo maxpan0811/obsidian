@@ -221,3 +221,8 @@ OpenClaw就会自动调用ProcessOn AI，生成符合你需求的结构清晰的
 用OpenClaw调用Processon Skill，流程图的绘制变成了即时生成，本质上是把时间还给思考本身，让大家把更多时间和精力放在逻辑、结构和决策上，这是我们一直致力在做的事情。希望今天的分享对大家有帮助～
 
 ![](attachments/fab267736e6fd87d.gif)![](attachments/fab267736e6fd87d.gif)
+
+
+---
+
+[📎 在印象笔记中打开](evernote:///view/207087/s1/eccca3ad-5d37-4211-b22e-39de42a951b6/eccca3ad-5d37-4211-b22e-39de42a951b6/)

@@ -82,3 +82,9 @@ VS Code有一个让我离不开的插件Remote - SSH。这个插件可以说是G
 现在你还亲自打开 IDE 吗？
 
 修改于
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzIzMzQyMzUzNw==&mid=2247517656&idx=1&sn=f84908515540f2169a811b4224096588&chksm=e91cb6ac7a4a1f154d19d6182e070231eb06656933636ade9cb833ab3bb0d3d33ae0a7732355&scene=90&xtrack=1&req_id=1780477858551484&sessionid=1780477974&subscene=93&clicktime=1780477977&enterid=1780477977&flutter_pos=0&biz_enter_id=4&ranksessionid=1780477858&jumppath=1001_1780477970264,1102_1780477971345,1001_1780477973425,1104_1780477975763&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=18004a25&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQ8vbko8FcDYEmeNmCtODu9hLTAQIE97dBBAEAAAAAAD+nNDN0IlEAAAAOpnltbLcz9gKNyK89dVj0pdLZdX2MlMmVbBc1ZfXz+3Jdi9HmgWRd8fctOfroc1C7UztuoDEm62lBsR2TbXgiZglzr2y2sE2txMDoeNaebANTQXELQGR0kuCBSnnfCiRajpdoF7fFkX5AWHtMGGxNNULxzHOqimGciEvL7OTEYHY2AUMlZMzoOYhBjShUDESftTTwsrxWc9Gb0WQxNqlLb6mpbxdMepXDHneo+oKQU48YPMa8ppZzGP4r+jY=&pass_ticket=FKmmW2PIWQU/jBDdSoGeyNQD7TtNcxaPalBTMG+VTJb7ZdAPA4gu0AVA5KfEULE9&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/8939d4b6-e0c3-41c9-a74f-47d2415fa7db/8939d4b6-e0c3-41c9-a74f-47d2415fa7db/)

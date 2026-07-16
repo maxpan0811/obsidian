@@ -171,3 +171,9 @@ guid: d09132df-df34-4492-9014-5d94c5133816
 而这些新兴产业恰恰是日本的弱项。
 
 虽然最近几年肯定不太可能，但我不认为中国人均GDP超过日本的那一天会特别遥远，毕竟我们的经济总量在2010年就超过日本了，而在仅仅14年后就已经人均也追到日本的四成了。
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzI0Mjc2NDc2OQ==&mid=2247492524&idx=1&sn=df7bd674277c39fb40727ef57a06cbd5&chksm=e81fb4a1f9de93d567d41b499fd298f02b4080cd2ba3acacb3dbe84e18e097f35b3a16896dbf&scene=126&sessionid=1739540095&subscene=90&clicktime=1739541740&enterid=1739541740&ascene=3&devicetype=iOS18.3.1&version=18003830&nettype=WIFI&abtest_cookie=AAACAA==&lang=zh_CN&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQwY7km4BjGh/pnamNnFdTgBLYAQIE97dBBAEAAAAAAJ1bFI0BLZQAAAAOpnltbLcz9gKNyK89dVj06zK21/0+ZInPHBVmKOeV0mRbROdUwb9Z9eMTiJ5Gpy/K1N6oj8RAEACAe0JcLdNm8KD2i2ND5C0k7x2b/uR/srjEE2Xw5ipKjMMiwo1FV3ofUG5X1UQCeZf31BJYv7knHLf3rMs+fz1iIQhA31hsoc+081LrTW4cv3gO7+U5yEmlkEK0c3S+UvPSuoGfothwfgtA1KZzrdGb88ggVNMZnPVZL1lcMr2ox9tZw0vkSZlTbw==&pass_ticket=UYZVKs6IvIOCcuVvF9P/+39p1kXRLtdJ14Qxay4yJxgjFIjl9T1PhPTr9zyfzlys&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/d09132df-df34-4492-9014-5d94c5133816/d09132df-df34-4492-9014-5d94c5133816/)

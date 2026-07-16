@@ -417,3 +417,9 @@ allowed\_tools: "Bash(npm:\*),Bash(sqlite3:\*),mcp\_\_playwright\_\_browser\_sna
 GitHub‍ 集成将 Claude 从开发助手转变为自动化团﻿队成员，可以直接在你的 ‌GitHub 工作流程中﻿处理任务、审查代码并提供见解。
 
 mQKtpv74BWKCp/xIVfU9iS80+xV5ZB7eSk1mngkp/rk=
+
+
+---
+
+[🌐 原始链接](https://ai.codefather.cn/library/2013190748227702785)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/c21bcbba-8185-41d3-87e4-4159204656da/c21bcbba-8185-41d3-87e4-4159204656da/)

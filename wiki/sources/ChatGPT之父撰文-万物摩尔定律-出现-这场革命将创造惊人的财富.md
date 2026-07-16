@@ -178,3 +178,9 @@ guid: 6afdf637-11fc-4aab-bd87-1d163d7a8389
 来源：机器之能 参考链接https://moores.samaltman.com/
 
 ![](attachments/9c97f7af2ab41c87.png)
+
+
+---
+
+[🌐 原始链接](http://mp.weixin.qq.com/s?__biz=MzAxMjAwNDQxNQ==&mid=2652216869&idx=2&sn=e5c548e414889f4bce0641e8774de3df&chksm=80594375b72eca6330e56b9a404c01f243f947613b5d999e9756a03743637bdb725e388501a6&mpshare=1&scene=1&srcid=0317oSB4ZeFHLbXU74rCHQUj&sharer_sharetime=1681542591315&sharer_shareid=ee47b9411760e9070f0b59d8d8655fa1#rd)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/6afdf637-11fc-4aab-bd87-1d163d7a8389/6afdf637-11fc-4aab-bd87-1d163d7a8389/)

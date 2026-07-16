@@ -263,3 +263,9 @@ Codex CLI是直接打开就可以使用，`Codex app`模型选择 **Moon Bridge*
 要了Moon Bridge作为中转，我们也可以借助它在任意的Code Agent 的端使用，大大提升了Deepseek在多端的适用范围。
 
 不过Deepseek目前还不支持多模态，如果你想让它支持多模态，可以参照如下的内容：
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzIzMzQyMzUzNw==&mid=2247517003&idx=2&sn=f1a544c9d84feb20ff9ddd159cdc870d&chksm=e9d66386416c50a910ddb481f75cfcd181b459859361f14b103aaf1103e384833fef232f5927&mpshare=1&scene=24&srcid=0609TnO818h3RTf0j7FtQbwx&sharer_shareinfo=dfc5940325c654994398497dcc661712&sharer_shareinfo_first=dfc5940325c654994398497dcc661712&clicktime=1780992816&enterid=1780992816&ascene=14&devicetype=iOS26.5&version=18004a2a&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQ1pdYqQJK40O3ACgjr1RuChLTAQIE97dBBAEAAAAAAAmBGZn+2XYAAAAOpnltbLcz9gKNyK89dVj0L/UVz+b2iOdzQhxGT58Paa4HUKmxovfdV1focgbw0w6Y8NoQmQqatfZ27+X8XwFOUDl1zuMD0Mf2owFup5TR3Pr0r948DMP1FQq+u9+ca3ZobOIZ7HLIx26//7kflCPt5d336cre/hhbQYyGo6AzmPuh/DRbbow1Uy/nusw+Jlr0wOGOLgTqZw7QsZFnbjRQHzeDtBke+qqc5NJopo5DNRibAlPwsL0HwpUYj0U=&pass_ticket=dtVAEb7WRQyBF9D/K0Dw2teFnusfIhqsCdyzyogKxz4/24Z7Sh2hGXMkrCRzelFo&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/8aac9313-4f1c-45f1-942b-f8c9d5c49e1c/8aac9313-4f1c-45f1-942b-f8c9d5c49e1c/)

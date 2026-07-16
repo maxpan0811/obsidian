@@ -107,3 +107,9 @@ AI不是凭空工作的，它需要标准流程、清晰结构、稳定数据，
 所以，一人公司、消灭经理只是技术妄人的臆想，认为AI 将替代经理人，就等于是认为有了充气娃娃，就可以不要老婆了。AI 时代将使得经理人的领导力更为重要，能利用好AI 的大组织将更强。
 
 ![](attachments/d7418e1973905d6b.jpg)
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzI5MzMzODE5MQ==&mid=2247500397&idx=1&sn=95abbf7bc58df43b875fa03fc62bde99&chksm=ed55a8e0ca14d06d6bca268c0bf664234d639f7fda666480d57fe07839283e7c52973a25cbfe&mpshare=1&scene=1&srcid=0427FoFZ3DOwAgTOzVHh33Tp&sharer_shareinfo=af6f0ee976a0a9ea175f85809899390d&sharer_shareinfo_first=af6f0ee976a0a9ea175f85809899390d&from=groupmessage&isappinstalled=0&clicktime=1777246765&enterid=1777246765&ascene=1&devicetype=iOS26.4.2&version=1800472c&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQL5FAKL0z68NjNOn9FD/0whLoAQIE97dBBAEAAAAAAFPZOjhmRKMAAAAOpnltbLcz9gKNyK89dVj0nKKCbYiX+lvtGAzIqo/gJVapaD10rVuZJahyEgEfrH4VTx0OuIbZb82Int1n27/ukdK4gJ8U0SYm9ib7grw2td4WWKmIeRrOOZxTZmid+RWUWzP8P3Ym74dOhrvsaapO/j4659WaV2qf+kM9Qv9S3YhxIiL+xiuZwsD+CossO7n2CLzraVwJ9CzSlnwEjP/+QET46QLop1+ssS7kp8WDc6MMlSlA61S5b6MX/xa/FXj50WSvC5SUa4Nb8QoWf6rENaw=&pass_ticket=uklK4Pexcssx1QbsA9b76k+zy+bHR4p/4utY9DrYUgwDn//3wwZ2tjNrFtiRuQed&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/ca9d9ffa-3e21-48f9-a21f-4d273d3758a9/ca9d9ffa-3e21-48f9-a21f-4d273d3758a9/)

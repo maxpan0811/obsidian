@@ -87,3 +87,9 @@ Original直树桑拾书小记
 ![](attachments/4d8ee47ca9439ed8.jpg)![](attachments/08fc0e4342096f4f.jpg)
 
 大家都会怎么用微信读书Skill 呢？可以留言谈谈你的用法，让我们一起探索、交流。
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzI4MDA2MzUwNQ==&mid=2649286608&idx=1&sn=4c87ef184469de5fabeca2f18763febf&chksm=f26faa8a9c4d5853722adc4aad75b8e486c3247c5034ddf5219e81e7277bf78a65d15299db47&scene=90&xtrack=1&req_id=1779709806229398&sessionid=1779709900&subscene=93&clicktime=1779709904&enterid=1779709904&flutter_pos=0&biz_enter_id=4&ranksessionid=1779709806&jumppath=1001_1779709827944,1156_1779709829518,1001_1779709898842,1104_1779709901877&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=18004933&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQ979r1CLKzsByNztrpAnC4RLTAQIE97dBBAEAAAAAAGYxLhTcRqQAAAAOpnltbLcz9gKNyK89dVj0pQh2kDa8/UJxym+EqjAIJ3Y0RP/5pulhvDj6NobyVecX968C73xi203kq6MVekMP7yZCrw3agrCyYmTPEs2m5PAChBjkTiGm5wqbh4d3RcdsTY12HS+6LeSyC5bbRtCDfJZXqJ7WYizl4OoaJLnAhuhpITfhFN1AEuh6PIb7wGirjZs9mqYqEnn/ribmhhgPvv9wB/LylNSfuap+tGqwhfSsFFQoQpnZDStUeI0=&pass_ticket=Jo49VzmEb10+PYiJF54swVIGXnZjooIMm8ZGwrsLpUtVUu7J8gskG62byyUZwp58&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/78ad9b8a-2034-4611-92c4-21ef2320ff4d/78ad9b8a-2034-4611-92c4-21ef2320ff4d/)

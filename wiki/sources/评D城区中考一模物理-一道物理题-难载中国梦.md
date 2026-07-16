@@ -100,3 +100,9 @@ guid: 9c1dc6de-3336-404e-aa73-87c05f2e6d05
 还好，这只是一道中考模拟考试题，不是中考题，也不是教科书！
 
 ![](attachments/f676abc5851855b0.jpg)
+
+
+---
+
+[🌐 原始链接](http://mp.weixin.qq.com/s?__biz=MzA5MzQxMjY3OA==&mid=2652370939&idx=1&sn=94bbc7f0ddc053215a38663cf3a346d6&chksm=8bbd1bd2bcca92c40d0a7dd22eea383d907777fc6f86733a35e4b405f5e7d682544434eb797d&mpshare=1&scene=1&srcid=0503efK1aulh9C17O7XGUQEX#rd)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/9c1dc6de-3336-404e-aa73-87c05f2e6d05/9c1dc6de-3336-404e-aa73-87c05f2e6d05/)

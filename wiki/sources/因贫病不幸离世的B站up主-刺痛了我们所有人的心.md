@@ -164,3 +164,9 @@ guid: 82430f52-7ff5-4342-9283-97ae5b462064
 第二本新书正在付费连载中：[《资本囚笼》：初阶屠龙术——你们公司发年终奖了吗？](http://mp.weixin.qq.com/s?__biz=MjM5NzE2NTY0Ng==&mid=2650679226&idx=2&sn=3ecbfc8a85567c83987be5739f89a0f9&chksm=bed4a89b89a3218d13bd1ffbbe4a855bd0143bf52d05edd88dafcb042a1b38871c39746ff6f3&scene=21#wechat_redirect)
 
 ![](attachments/0ea140055a9e780f.gif)
+
+
+---
+
+[🌐 原始链接](http://mp.weixin.qq.com/s?__biz=MjM5NzE2NTY0Ng==&mid=2650680666&idx=1&sn=67ab08130bc5c931ce67391fdd58da1e&chksm=bed4a27b89a32b6ddb7fb793653ef02193a96dea9b53c6ad962a0f76cd95ac5c7fa56a4d593b&mpshare=1&scene=24&srcid=0122VvcV8oZizq5BCOBaFVpd&sharer_sharetime=1611324485885&sharer_shareid=196a7290cec677abfe41ca4bbe251b79#rd)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/82430f52-7ff5-4342-9283-97ae5b462064/82430f52-7ff5-4342-9283-97ae5b462064/)

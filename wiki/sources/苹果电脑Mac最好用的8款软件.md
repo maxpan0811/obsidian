@@ -72,3 +72,9 @@ Original搜罗万相 搜罗万相
 ![](attachments/6ab152fdbbc86b9b.jpg)
 
 Mac 系统自带的复制粘贴有个遗憾，就是只能记住最后一次复制的内容。如果你刚才复制了 A，现在复制了 B，那 A 就没了。Paste Now 这款软件就是来弥补这个遗憾的。它会帮你把之前复制过的文字、图片、链接都记录下来，想用的时候按个快捷键就能翻出来。
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?chksm=f035e8e5c74261f38598fb34f6746c70462be8bcd47c91d63097271525b152befdae14cf93c3&exptype=unsubscribed_card_recommend_article_u2i_mainprocess_coarse_sort_tlfeeds&ranksessionid=1769000981_1&req_id=1769000981187440&scene=169&mid=2247490814&sn=600da58ced6892b4fbca9d390484f297&idx=2&__biz=MzYyNDYxNjgyMA==&sessionid=1769000343&subscene=200&clicktime=1769002149&enterid=1769002149&flutter_pos=13&biz_enter_id=5&jumppath=20020_1769002022333,1104_1769002074240,30024_1769002081403,1104_1769002146445&jumppathdepth=4&ascene=56&devicetype=iOS26.2&version=18004330&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQMttz12rTLgA7g3ur+Hd4HxLTAQIE97dBBAEAAAAAAN00CPV4CNsAAAAOpnltbLcz9gKNyK89dVj05o3to3v8AsdcUkNrvEVSp7V92xRj73yG6boFGOsO0M9sxSokAiwywq20Vz4XPfzeDzHvI9Cu0/ghR2n7ZxTWltMuqMsgJt/59Wgk/ZKIJsyqMfqO+LJX6Qw5rWpZNgF67nkdz801F2Ja/40E8X6xwXK4X2G24vIgE9r/8PkTmvRh08bbOzGLYBSlc+d+TGIDb6qvzA3Tw37zD7CDwvwOovZb1UgRFPf/X28KgaM=&pass_ticket=WaSEY64BSAENmnYGl5Sr848acOPQOTgBuJuNyLWBOD07R4v8eQ1wJ8+fDTsrvmo/&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/5c480b66-cc3f-4bed-b7af-7f0fbd7777a3/5c480b66-cc3f-4bed-b7af-7f0fbd7777a3/)

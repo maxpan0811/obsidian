@@ -58,3 +58,9 @@ OriginalZLib图书馆Zlibrary
 ![](attachments/f0e90fa8f43f9ae0.jpg)
 
 下面这三本书的作用各不相同：第一本书的功能就是打破人们对于"祥和太平的景象"的美好幻想；第二本书就像是给你的一台显微镜，用来仔细地观察那些不容易被发现的隐藏规则；第三本书要探讨和揭示的是暴烈的力量和权力运作之间可以互相折算的内在规律。黄仁宇先生曾说过，看历史的一种很重要的方法就是把观察的镜头拉得足够远，从远处去观察；吴思先生的方法就是，特意把镜头对准台面之下、看不见的地方。如果能把这两种视角结合起来使用的话，那么你再来看中国的过去和现在的时候，心里就会觉得清楚明了多了。选择一本自己最感兴趣的书今晚就直接开始吧。
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?chksm=f0e111e5c79698f3876538dbd6ff3201b0607365d451b8b0142a7341a7aaca7b05325685ce7c&exptype=unsubscribed_card_recommend_article_u2i_mainprocess_coarse_sort_tlfeeds&ranksessionid=1782032740_3&req_id=1782034214604406&scene=169&mid=2247484211&sn=fd11eb03bf2a37a741defbb736bd414b&idx=1&__biz=MzYzODUzNTYwOQ==&sessionid=1782032739&subscene=200&clicktime=1782034929&enterid=1782034929&flutter_pos=31&biz_enter_id=5&jumppath=20020_1782034901188,1104_1782034914708,20020_1782034916663,1104_1782034927357&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=18004b28&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQ+iqB6DlJedabdGoAF7BjtxLTAQIE97dBBAEAAAAAABVMCjnMR/UAAAAOpnltbLcz9gKNyK89dVj0UioGPIaSUosuKFRCfTtJ4XBeFm+Xb0MeMMtuPY2K0inWMY9ZpdJzuNxTm3JQl8lAALeI+aSSFEljuQNezfJOssd5f9NI39frZ0txW9Bk0tJqVaOdBu3HeS5Obd5dl/y2qisNeqXFsWXmcBJMTNWXAYsRU7fyNYDFmFQ/aJiID9bbkXzbYCi0tEZbDNJvYGvy7EqI0SGrWuJDdf2vxd61bnc90DjtyqYdcKWxMcQ=&pass_ticket=9SFgpsktH/JjD16UggDIs78U+duFmZLpwKr35tHZpGyycKPlHVAV32ZJb7LPPe0Y&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/66ad6871-60e1-4d53-8f60-b701011394ee/66ad6871-60e1-4d53-8f60-b701011394ee/)

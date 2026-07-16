@@ -134,3 +134,9 @@ guid: b10c6d8c-149c-4bd0-9833-f99c456794ca
 只要我们步伐不乱、决心不变、自信不减，谁当美国总统也翻不起什么大浪。想想抗美援朝，无论是杜鲁门还是艾森豪威尔，能阻挡中国人民前进的脚步？
 
 **如果说谁当总统才好？我认为越多越好，美国如果有几十个总统那才是真的好。**
+
+
+---
+
+[🌐 原始链接](http://mp.weixin.qq.com/s?__biz=MzA4OTk1MjA0MA==&mid=2674329827&idx=1&sn=ae81d835084a45338908cd672db6dc3e&chksm=8a80b2a4bdf73bb27df37a8b8ef54c7a334c6166eb466388cff6da69fb53c7d326a54e9abf00&mpshare=1&scene=24&srcid=1104OWOQZcfdfEeTGiMxTvWv&sharer_sharetime=1604446309574&sharer_shareid=196a7290cec677abfe41ca4bbe251b79#rd)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/b10c6d8c-149c-4bd0-9833-f99c456794ca/b10c6d8c-149c-4bd0-9833-f99c456794ca/)

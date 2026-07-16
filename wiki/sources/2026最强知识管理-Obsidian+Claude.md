@@ -102,3 +102,9 @@ CEO 亲自发布了官方 Claude Skills，3 个月 GitHub 12,900+ 星
 ▪️ 正向增长闭环：AI产出沉淀笔记，知识持续指数级迭代📈
 
 Close
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzY4ODI5Mzk3Ng==&mid=2247483987&idx=1&sn=3c51d770546aeb1c840dd09fdd6839af&chksm=f3e85364c49fda7292258ad7bc4731da2a496892c259c63d0dd1bcac9563ab78a929830acc0c&exptype=servicebox_1780496694862566&subscene=0&scene=288&clicktime=1780496702&enterid=1780496702&flutter_pos=1&biz_enter_id=5&ascene=56&devicetype=iOS26.5&version=18004a25&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQNrYQwlD514i3AyXgeEJ3ohLTAQIE97dBBAEAAAAAANeiCpFBHlYAAAAOpnltbLcz9gKNyK89dVj0UA0wZx6FQ4bNcIfvh+44IlwTouTFoTwsg0lF7o585rKGeCEgr3KUaURfkk7z4sEBHFKjzCMOKJFwQYLeLT0ssSIjKwmvGIe3WJRGnEKcWlbYsCVi3I+WwSreEUrDVzhH8U3EcvPg3X2AdHFsfge5W54mNOGstWtwFS/viIdQgzI6j0pYA9m5Rn0kD0wAHteZP/zrnXNS+VqpynPQUUV1L0eoABzYrksAq3G6bDI=&pass_ticket=2p8kc1fQZ13+p6eSQVkYYByfcvhSpixZNyQCktu9Z+6fLOXKyNFr3iJwftMhYznP&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/4492a5df-76cb-4b60-82b3-eda57d31071e/4492a5df-76cb-4b60-82b3-eda57d31071e/)

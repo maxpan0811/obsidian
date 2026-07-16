@@ -214,3 +214,9 @@ Q系也不能等于“白人”“洋人”。虽然西欧亚方向也有不少Q
 10. [【分子历史连载8】Y-N系的迁徙与俄罗斯人兴起](http://mp.weixin.qq.com/s?__biz=MzAwNTU3OTM5MA==&mid=2247485044&idx=1&sn=d0d3bb3d8368ccfe1503794b86b5aecb&chksm=9b1b3165ac6cb8732e05c696bf7d61e340059a7d991d2e9cb65e6759b5fdbb6bc9be856a4689&scene=21#wechat_redirect)
 11. [【分子历史连载11】Y-D系的东亚分布与迁徙](http://mp.weixin.qq.com/s?__biz=MzAwNTU3OTM5MA==&mid=2247485209&idx=1&sn=c24dc78bc66635d697d3da23e306f21b&chksm=9b1b3008ac6cb91e252a865c9690117b30fa2d8991cddbdedf646e1dcdd5852c5f73395f6423&scene=21#wechat_redirect)
 12. [薛蛮子Y类型或源于斯基泰人的扩张](http://mp.weixin.qq.com/s?__biz=MzAwNTU3OTM5MA==&mid=2247484872&idx=3&sn=61be8d0a74815ef75e81a223ae887210&scene=21#wechat_redirect)
+
+
+---
+
+[🌐 原始链接](http://mp.weixin.qq.com/s?__biz=MzAwNTU3OTM5MA==&mid=2247487437&idx=1&sn=77fc4c53ff47f0858bf5f03ccc215e75&chksm=9b1b38dcac6cb1ca5af6679d84a2c8ab3dbb41966bd5b659504ee1e04236fdff824be4f63015&mpshare=1&scene=1&srcid=012717ADms6N2tY7XQcJQ249#rd)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/a32c9e61-66f9-43b3-b143-67b255575397/a32c9e61-66f9-43b3-b143-67b255575397/)

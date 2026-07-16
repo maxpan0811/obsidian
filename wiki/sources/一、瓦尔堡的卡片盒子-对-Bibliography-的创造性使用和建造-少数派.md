@@ -132,3 +132,9 @@ Die Auseinandersetzung mit dem werdenden Gedanken dem ernsthaften Sucher zu erle
 Measure
 
 Measure
+
+
+---
+
+[🌐 原始链接](https://sspai.com/post/58895)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/79dd1dcf-3187-4d1c-a8be-2494e9f629fe/79dd1dcf-3187-4d1c-a8be-2494e9f629fe/)

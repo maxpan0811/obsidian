@@ -690,3 +690,9 @@ https://mp.weixin.qq.com/s/3T0\_dJ02Jw\_Z1YFdN3\_Npg
 https://writings.stephenwolfram.com/2023/03/will-ais-take-all-our-jobs-and-end-human-history-or-not-well-its-complicated/
 
 ![](attachments/b2fe779de407cfca.png)
+
+
+---
+
+[🌐 原始链接](http://mp.weixin.qq.com/s?__biz=MzI0MjI1NTgxNQ==&mid=2651476342&idx=1&sn=a994c984ed42eafdc3e4b0a6fb13e299&chksm=f281e3dec5f66ac817b23ddf79b519ab49c473cfdf7dff022864951f4a24727ef90f3f8e4d03&mpshare=1&scene=1&srcid=0419EzJwKD7uNMEpiay5obvm&sharer_sharetime=1681916514354&sharer_shareid=ee47b9411760e9070f0b59d8d8655fa1#rd)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/002dae7c-a5c2-48dd-800d-c13acf3586ea/002dae7c-a5c2-48dd-800d-c13acf3586ea/)

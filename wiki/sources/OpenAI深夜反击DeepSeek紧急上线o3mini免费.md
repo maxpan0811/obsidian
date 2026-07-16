@@ -191,3 +191,9 @@ Meta 甚至专门成立团队，对其技术进行逐帧学习。
 尤其是，被誉为真正 OpenAI 的 DeepSeek 已经开始牢牢占据开源 AI 领头羊的生态位。
 
 闭源的围墙越高，开源的力量越显珍贵。2025 年，开源与闭源真正的较量或许才刚刚开始。
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&mid=2651038897&idx=1&sn=799bdedd46f04fc13e81e115cab66d4d&chksm=bccb603464abbbf98dbc487e2768b718d99fe6a7dbdf8cfc2769ad5fe7d2c54857c82564dbba&scene=90&xtrack=1&sessionid=1738378853&subscene=93&clicktime=1738378952&enterid=1738378952&flutter_pos=2&biz_enter_id=4&ranksessionid=1738378587&ascene=56&devicetype=iOS18.2.1&version=1800382d&nettype=3G+&abtest_cookie=AAACAA==&lang=zh_CN&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQy8UlsjuR5vMk7LN/udytwBLYAQIE97dBBAEAAAAAALMxLJhH+WMAAAAOpnltbLcz9gKNyK89dVj0O8ECT6I2BceGs37zn+zNimPOSHWxQ7b09+IZSZcbjkdk73zfREs6xo+BjxS7y9/mi6XL6HPZgtayabCQdhAYyp5kYwtXchLpS5r1zVdYwwoPfGCIelYtwdUHTgMWAMmIzpLfRM3ftWzzpbb+2XDqMcJNazzCb2t/nhHj2WUSPqrAT7LBKu92yiG4EbLPQDa0fcMCTYFACQDmEERVsm3fSIchrvvxzqqOZLk6FV1e0h8RPA==&pass_ticket=g0j1t9pH16vhyKnIaIoHhuJf1lm4kVWpTypgpzVrl42nCXDOu+JU5gx8lQFD6X7L&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/48777e07-ee45-4db0-bb56-a192f55e6a73/48777e07-ee45-4db0-bb56-a192f55e6a73/)

@@ -356,3 +356,9 @@ text
 自定义命令‍对于项目特定的工作流程特别有用，如运﻿行测试套件、部署代‌码或按照团队约定生成﻿样板代码。
 
 rqSLrC9+VsupyuuN5CJXBcTogV3TB0PLFwn6Ar40W6Y=
+
+
+---
+
+[🌐 原始链接](https://ai.codefather.cn/library/2013190746419957761)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/d186982f-503c-4954-800e-196ca41b3cb2/d186982f-503c-4954-800e-196ca41b3cb2/)

@@ -38,3 +38,9 @@ PlayStation 官博昨天公布，现已开启 2024 年度 PS5 年度最佳游戏
 Switch头号玩家官网：allnintendonews.com
 
 ![](attachments/9e86890456347a6a.jpg)
+
+
+---
+
+[🌐 原始链接](http://mp.weixin.qq.com/s?__biz=MzU3NjA0NjEwMw==&mid=2247542542&idx=2&sn=44658f910710e4b70bc61d52e740eee4&chksm=fc0e53a2c79b786b76a53e55d2d83419787283445163d1a5870ab1080e1680287d324dd3e111&mpshare=1&scene=1&srcid=1204PEN5XnnivbN8RZwffC58&sharer_shareinfo=1d9c2558e373bdf16fae6592d1b68340&sharer_shareinfo_first=1d9c2558e373bdf16fae6592d1b68340#rd)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/322bd84b-11e9-4b30-ad15-3c2043683aa1/322bd84b-11e9-4b30-ad15-3c2043683aa1/)

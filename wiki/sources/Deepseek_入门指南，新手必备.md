@@ -173,3 +173,9 @@ https://api-docs.deepseek.com/prompt-library
 - [推荐6 款免费无敌的软件，真的没有对手](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NTk3OA==&mid=2651267122&idx=1&sn=b6ff5a377e64f46ce63f52e173110073&scene=21#wechat_redirect)
 
 更多优质软件关注效率君公众号：**高效率工具搜罗**（ID：gongju006）。
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NTk3OA==&mid=2651267199&idx=1&sn=117bde69c93b5b2e4c6e5022940e0a84&chksm=f2d971604b6f510a28319eaffcac79605b6ebb2b3cef05b5d02e9145cdeb6dcd7bea540d8a11&scene=90&xtrack=1&sessionid=1738654840&subscene=93&clicktime=1738656152&enterid=1738656152&flutter_pos=6&biz_enter_id=4&ranksessionid=1738655331&ascene=56&devicetype=iOS18.3&version=1800382d&nettype=WIFI&abtest_cookie=AAACAA==&lang=zh_CN&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQYVc9aTJnjbexPpnCaJoNKRLWAQIE97dBBAEAAAAAACSNA0+oSc8AAAAOpnltbLcz9gKNyK89dVj0GPTPSIdlEHrir3+5wDrcgMfFwsrJicQhOqPqy5QmvkfNYb5dhQ7oXAswKGHOPje+gqgyZ5DuKWRZ3ow9g18IhBTXMxycm8Aw+gHOZuzC6KJzOY7MeqguMeHmvQH36kYZ/3IxY+U9a+aKOiuNdZWx5sEkrzt8uO1HkD4xSf2knyAAVrVeiBwMai5t19p8hSAHtKUPO2uTc57X255gqLNJ9+pcazuljCUV/0QSdWPWMKE=&pass_ticket=tOp2jrPpH0J1E382kq6g0Xv2d/nSgqUFocoT6YcR3HLBtho5ai95WeUPcVUxjI9c&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/6bdb486a-cad2-47c7-99f2-aa5783de3142/6bdb486a-cad2-47c7-99f2-aa5783de3142/)

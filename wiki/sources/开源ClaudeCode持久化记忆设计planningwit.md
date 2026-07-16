@@ -326,3 +326,9 @@ Stop Hook → 验证完成 → 任务结束
 **既然看到这里了，如果觉得有启发，随手点个赞、推荐、转发三连吧，你的支持是我持续分享干货的动力。**
 
 推荐阅读：[开源 Claude Code 编程宝藏搭档 Oh My Claude Code 完整上手攻略](https://mp.weixin.qq.com/s?__biz=MjM5NzA1NzMyOQ==&mid=2247486606&idx=1&sn=1b132d9e0db262123da1a0ac868af6de&scene=21#wechat_redirect)
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MjM5NzA1NzMyOQ==&mid=2247486649&idx=1&sn=8b083e5bf234869fe886c20836951095&chksm=a706edcee9c440d28e205d35b8aa26fc8d71bf385b056be610ab9f9362632131956878b77c32&mpshare=1&scene=24&srcid=0607jxR8CkJpDIpaLDGKKTZm&sharer_shareinfo=09131461e48c0dbde5b5486cab0914d3&sharer_shareinfo_first=09131461e48c0dbde5b5486cab0914d3&clicktime=1780824610&enterid=1780824610&ascene=14&devicetype=iOS26.5&version=18004a29&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQGoOc6F3zzWFpLL35na7UTBLTAQIE97dBBAEAAAAAAN3kMQVIAW4AAAAOpnltbLcz9gKNyK89dVj0CrRHeUm+a5+l+3cU6vIGxdaTRbr8l57gGV45XmKF4PHaP23iiUPydW+teGJuLFSnbB5LewzpM+m84ZaC167P3QEMp8b+ND/i4Ua1LZGmjUk69mNxqo83ZeX95Ep6Rwwa9RoWuEA6B2yEILCFhaWRp+nmxfUrImHA38+ud+8c7X29oVZnICtrCTwrJt38SrawjZnyK/pa70Og2HfSHvPtY0PUrAGZ7hnYNBSqZ0E=&pass_ticket=rpWzfJE/tXG9S5FauYjuqnGaULdYdJ9LECy6dbpTm6ay9zmU2wQhIuUzfgB/1lxc&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/3a926faa-f9ed-4227-b78d-f74005aa54cb/3a926faa-f9ed-4227-b78d-f74005aa54cb/)

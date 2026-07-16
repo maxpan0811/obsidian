@@ -106,3 +106,9 @@ https://www.apple.com/shop/gift-cards
 以后再也不用去折腾各种各样的虚拟货币和虚拟信用卡了，使用苹果Apple Pay绑定国内信用卡的方式可以非常方便地订阅各种海外的AI服务。
 
 由于国外的订阅习惯和国内不一样，很多订阅会默认采用每月或者每年自动扣费，建议在掌上生活这类APP里面临时关闭国外信用卡的付款功能的话，可以防止账户被盗用或者是乱扣费的情况。
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzIzMzQyMzUzNw==&mid=2247512847&idx=1&sn=630e6c43cded14395be4f19ee44f0781&chksm=e9930ef7a09de2adcb4b45477b2135f34a221cf44ff937f3506af263568463430a0390426a8a&scene=90&xtrack=1&req_id=1768483221969270&sessionid=1768483336&subscene=93&clicktime=1768483356&enterid=1768483356&flutter_pos=11&biz_enter_id=4&ranksessionid=1768483226&jumppath=1001_1768483281615,1101_1768483283686,1001_1768483335744,1104_1768483337282&jumppathdepth=4&forceh5=1&ascene=56&devicetype=iOS26.2&version=1800432e&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQYyeG6NuwF0saZC/n7+RX3BLTAQIE97dBBAEAAAAAAJy0AktSnXMAAAAOpnltbLcz9gKNyK89dVj0dYSr+Ybst1Mp797DKi54Zizc99RUXcoOfx5SSJVX5i3Ik07wRWOklwqdsUn0syJ9uu+lsgE0zeVnlMmqGSKS1s19uUIpyjImSbtwH/nyLUozSgfY5IaaijAntBCCBiVpuVNQo2UqoOqNked72acZww/M+ly+OZTa4KWqpEeeCsx8vcTbDuTu02PZjCBx76HDMoCzq9eFKKA/S2/Pj3fWkqrBEuBRDCGy/F+3sWk=&pass_ticket=jqe1dM24IRKl1e4H4RpyXfivhGgW5AVX97p6VyAv7PWpGax/myGGOlzpfOufWndw&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/b9cc6b96-f29c-4a4b-a976-fd3aafc584dc/b9cc6b96-f29c-4a4b-a976-fd3aafc584dc/)

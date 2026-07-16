@@ -147,3 +147,9 @@ npx skills add MiniMax-AI/cli -y -gnpm install -g mmx-cli
 “亲爱的主人，我也爱你💗。”
 
 MMX-CLI 敬上
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzE5MTA3NzcxMQ==&mid=2247488291&idx=1&sn=b92c388430676cf6c50b68d867a56dae&chksm=97cf4bc076cdcef92d358a3c1a3712c194866dffdac4a40967747414c05588f08e8b5afd8b69&scene=90&xtrack=1&req_id=1775711832793819&sessionid=1775711799&subscene=93&clicktime=1775711938&enterid=1775711938&flutter_pos=10&biz_enter_id=4&ranksessionid=1775711832&jumppath=30024_1775711871641,1104_1775711877656,30024_1775711881760,1104_1775711900071&jumppathdepth=4&ascene=56&devicetype=iOS26.4&version=18004632&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQMKbdaJwZGG2lxdZeeOJJtRLTAQIE97dBBAEAAAAAAF6HLwDqKjcAAAAOpnltbLcz9gKNyK89dVj0ul72cWjBrCF5DonNrb/j2RNo5gdApeenH2h4Hv+w/TodRJNGGMx9w2EXC25TrvT4vozrslLKXWZO8CHHyk+1VnWOF7wT2Oi6nhPAPyCUScz6k6IoZU5J0flQj7SJeS7wUhbw2HsI8zmWp6JSSWA80Ylqq/HoOUh9CkxG2e74a4H9Cr1LDrgvbnONflqCL5qbLlmBiHszuy7b2W6MiM0BKd6mEeznfRYIzIvcoWM=&pass_ticket=piTc1V3IUx+jtwLLP2dN2urEEXjKXCBuZoU+woMomcBDGxWj9gWqAcNX+P9PgqEa&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/b6cccc74-e75e-4bf0-96f4-0eb393b9ed63/b6cccc74-e75e-4bf0-96f4-0eb393b9ed63/)

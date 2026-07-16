@@ -175,3 +175,9 @@ Original 军武菌  军武次位面
 ▲中国还有很多反无人机装备没有在阅兵中出现
 
 **-END-**
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzI2MTA4Njg3Ng==&mid=2653186976&idx=1&sn=b3ddbb4ee554580770e7d4bb72e67057&chksm=f01f083e76647733b166e5e9963d6982d200b0b75fdab184a271d5f8472063783c0fe2bf753e&scene=126&subscene=91&forbs=1&sessionid=1757415159&clicktime=1757418229&enterid=1757418229&flutter_pos=0&biz_enter_id=5&jumppath=30024_1757415530817,1104_1757417373546,20020_1757418124909,1104_1757418134472&jumppathdepth=4&ascene=56&devicetype=iOS18.6.2&version=18003f24&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQV3GC1VVstLMrW/Iwvg3+CxLVAQIE97dBBAEAAAAAAH22MPJ1bVoAAAAOpnltbLcz9gKNyK89dVj0GfmotL74R/POLi85I4UsrtMpuHjjgjTPd+Tj+dY2xr4Cy2CZ3hGIEFJchgmnMEEst0SPR7q3heeUilP9Xsyr9/Zzq17ri3FoFYkQvPTpcOp6W/+rlDnY11s945lv0qZP/O4A4b8i/ItotgzymVCYTSYtZga6Xw9bQGg/G0xUtaiteZNYd/ArRZsYDkZM4a22q6LgF6LKsMdSWJ8ll5LN73BA+WHjZwt7L8lgaiO+DA==&pass_ticket=JhD1Av2Ln6nYjS7m4My5XwrH222D5uOKXLTd6zMehIc6Z4dvWqzFbvwwBQdV+Noo&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/65b67b06-c6d3-459e-b48b-81c22294629d/65b67b06-c6d3-459e-b48b-81c22294629d/)

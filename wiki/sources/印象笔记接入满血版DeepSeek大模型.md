@@ -45,3 +45,9 @@ AI帮我读 —— DeepSeek V3大模型加持
 从2023年在行业内率先提供生成式人工智能服务，到2025年接入DeepSeek满血版，印象笔记始终以用户需求为核心，让技术回归工具本质。
 
 服务端升级已就绪，客户端改造正加速，未来大家对印象AI服务还有什么样的期待，也欢迎留言告诉我们。
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MjM5OTA3MjUwMA==&mid=2651285600&idx=1&sn=974bfb3a2f0c9de341f9d75ad3423243&chksm=bc3228c05672a0c3d09937514ab8ea1d790d0457ce1aea9aa28ae4f36d3607413056c0c1b6fd&scene=0&xtrack=1&sessionid=1739935113&subscene=7&clicktime=1739935456&ascene=1&devicetype=iOS18.3.1&version=18003831&nettype=3G+&abtest_cookie=AAACAA==&lang=zh_CN&session_us=gh_e20281e19936&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQL+NqcUT77II6DwRXlXtKZRLnAQIE97dBBAEAAAAAAD2NMUvAODgAAAAOpnltbLcz9gKNyK89dVj0zGPVGUmp6YJ+k64AniXCj27yCmS97so3v2XcP5PORnxxuDeAv1u8Kdm7LtlSoX5togfdibjKGQhlmXVl1f/ZRRiH7lKxnJSDrOspNI0ZQAmjLUsulBDvOj6H6JOmn+MaTUeWfYj+UhZaFnGJI0s/tF6ChNkZhE2W0ZvXDPPsgEleElLVxkmKydoTSjjt1sOEGwngbNx4O1PUBHjQ4ESW2z6/ioGZcK2Gjp7y+5gyw3g/L0nwaAdsHS+UDsOkDw1OnA==&pass_ticket=R3Sliw6rwWMima5HRBnEkpWDSa5dlNM3HFGFcJjts44PTuDUDCb32sv7mdS9gXnh&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/9f326390-154b-4066-9f3a-e613f10e1904/9f326390-154b-4066-9f3a-e613f10e1904/)

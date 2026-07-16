@@ -307,3 +307,9 @@ guid: b8e123be-723c-4d40-84a6-efd225fb55f6
 [为什么军人优先？看完这段抗洪视频，你就会明白……](http://mp.weixin.qq.com/s?__biz=MzU1NTcxODQ0OQ==&mid=2247591444&idx=2&sn=241c6a863a2163e192bce2cc881f6190&chksm=fbd3244acca4ad5cab670d1f2d76f507eb1cb8af98927d9655126080198960eb3c30c94e7a96&scene=21#wechat_redirect)
 
 ![](attachments/31123f6210247481.jpg)
+
+
+---
+
+[🌐 原始链接](http://mp.weixin.qq.com/s?__biz=MzU1NTcxODQ0OQ==&mid=2247591455&idx=1&sn=2961e653d21faff562605805f4b5a532&chksm=fbd32441cca4ad57970936c359e577e71efbd450695e924437120a71bc407fc0310a5dee3f38&mpshare=1&scene=24&srcid=0801BdziAwo1D9CUk0HRKrqT&sharer_sharetime=1596273190068&sharer_shareid=196a7290cec677abfe41ca4bbe251b79#rd)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/b8e123be-723c-4d40-84a6-efd225fb55f6/b8e123be-723c-4d40-84a6-efd225fb55f6/)

@@ -379,3 +379,9 @@ guid: faf6d230-ac08-4d97-b05a-a0f5d7c9e7d3
 ![](attachments/7ea70f0ec4a0d4f1.png)
 
 骆驼遇上印度兵，羡慕对面解放军
+
+
+---
+
+[🌐 原始链接](http://mp.weixin.qq.com/s?__biz=MzI5Mjk4NDIxOQ==&mid=2247579319&idx=1&sn=4b3a44f547d96dde7bf207a8f7a77618&chksm=ec7af243db0d7b5507f4a2ca006756a1fe63413f3d0380eb2e9cca07d2aee945d9c3eac8fc72&mpshare=1&scene=24&srcid=1003dgezQidNLgojvSUxgud0&sharer_sharetime=1601710086604&sharer_shareid=196a7290cec677abfe41ca4bbe251b79#rd)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/faf6d230-ac08-4d97-b05a-a0f5d7c9e7d3/faf6d230-ac08-4d97-b05a-a0f5d7c9e7d3/)

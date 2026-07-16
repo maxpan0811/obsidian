@@ -58,3 +58,9 @@ guid: 101d8bc1-04e3-491b-ba27-d4029460566a
 观美利坚二百年基业，成于开拓创新，败于骄奢扩张；兴于海纳百川，衰于唯我独尊。若使白宫诸公能存敬畏、去贪戾、修内政、睦四邻，则星条旗何至风雨飘摇？然其执迷霸权旧梦，犹效罗马修斗兽之场，妄学大英续炮舰之策，岂不见世贸双塔之尘烟乎？后之览者当鉴：天命无常，惟德是辅；霸业难久，仁政方长。存麦迪逊之宪政精神，守杰斐逊之民本遗训，去门罗主义之痼疾，破军工复合体之铁链，则密西西比河水可再清，自由女神炬火得不灭。若固守"例外论"而凌驾寰球，终将重蹈日不落帝国之辙，徒留好莱坞残片，供后人唏嘘耳。
 
 内容由AI生成
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzAwNTk5OTQxNw==&mid=2247502409&idx=1&sn=a34c10d5dc3691c21aa317f1540c1dc7&chksm=9aa4ca2dda41cbe83bea49c743dcf341522c00c407790bce1296c10098687b878abb9e9efce5&scene=90&xtrack=1&sessionid=1737957145&subscene=93&clicktime=1737957149&enterid=1737957149&flutter_pos=0&biz_enter_id=4&ranksessionid=1737956005&ascene=56&devicetype=iOS18.2.1&version=1800382a&nettype=3G+&abtest_cookie=AAACAA==&lang=zh_CN&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQHNT8GSzuoCuGubAo2dlN9hLYAQIE97dBBAEAAAAAAIzuLf4Nc88AAAAOpnltbLcz9gKNyK89dVj0bmSwubNYjdCNpJB/r7XmI/9Fl+uMwvYhu4uEyb1BF0f1DrDZEcS9PvDunaAF4toEuXY4BJ7rZSoqjeUAcB1WR36GfcN0dS7pRe7OvpaIAwHVoXM97mwYSK3zcLv+A1VvJVtAgU2esvgEf22OQGHPPjR1l6iyYdt8qyBvxL0207ocxG3tYtTXXMIapTwbMV3n7/UKdVOivjBK1xflmqUDor9yd0ATEFcJrL1xXYsu4NilQw==&pass_ticket=QojeIUcpsyCylEj0bydUdtH9gEyf8lWUOZzAnqoIdOlvlL82f+Z5f21oRCb9k+yw&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/101d8bc1-04e3-491b-ba27-d4029460566a/101d8bc1-04e3-491b-ba27-d4029460566a/)

@@ -479,3 +479,9 @@ PS
 而你我手中的 DeepSeek，就是那颗已经点燃的爆竹。
 
 听，AI 革命的声音。
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&mid=2651038863&idx=1&sn=599826d5584237dcece5620da6c256be&chksm=bce2f8d996be4539ff98f2d607b2a549b4700d72696aa5d5d7de52adf1f517ec369c49a1dd69&scene=90&xtrack=1&sessionid=1738394343&subscene=93&clicktime=1738394523&enterid=1738394523&flutter_pos=7&biz_enter_id=4&ranksessionid=1738394348&ascene=56&devicetype=iOS18.2.1&version=1800382d&nettype=3G+&abtest_cookie=AAACAA==&lang=zh_CN&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQVnbpeI8rRKG42ubj2+nJJBLYAQIE97dBBAEAAAAAAK6VK18QFOgAAAAOpnltbLcz9gKNyK89dVj0bykusOumu9C83GI4XKjeR3akB7Cv+DHGAnY4/qDnhjAv8TgF2V9DZWm6duQwl507wQiKo6wLRBf5umZYQpPiNb3T3ewM2Kz+829scxUI6skfUJSQ8I1UdWy/Ud+/X0C6otJq3VyebvlxyS/P0OekhtJwni9h4+/ejUfDcwXbYFjHigbHscXl+RETLMoWjhSDfp0LykPmn48i+JUrGEi6prlqD8yDO+yD+8zlRbkGnckFkg==&pass_ticket=nFZTpmgZBTpdl3v+DLfzC4Q34R89LdZonsTwF9gRyTQMEuA1EQQhrSj8vW9IbtA1&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/65fa953f-cc87-4948-9d27-7226d006fe5c/65fa953f-cc87-4948-9d27-7226d006fe5c/)

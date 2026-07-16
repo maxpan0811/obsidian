@@ -276,3 +276,9 @@ Power+ 读者提问
 以上，就是关于 Word 中「邮件合并」相关的知识和技巧，大家如果还有更多的问题，欢迎在评论中交流探讨。
 
 [#Office](https://sspai.com/tag/Office)[#技巧](https://sspai.com/tag/%E6%8A%80%E5%B7%A7)
+
+
+---
+
+[🌐 原始链接](https://sspai.com/post/54882)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/d4c38127-6ac8-41a1-87f2-46221787c338/d4c38127-6ac8-41a1-87f2-46221787c338/)

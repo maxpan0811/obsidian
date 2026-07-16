@@ -205,3 +205,9 @@ Claude Code 会自动写到对应的配置文件里。
 我也在持续分享更多法律 AI 的实践经验和工具，都会发布在公众号里。
 
 如果你想一起交流、共建，无论是使用、改进，还是自己动手做法律 AI 应用，都非常欢迎加入我们的群聊。
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzkzMjg2NTcxNA==&mid=2247485855&idx=1&sn=4028e9203f0f2bfefd96954ad609d530&chksm=c2547a42f523f35460a461a7d1f04b76a86dd5fc537ed56712018466e1e629f93d2a4514c2dc&cur_album_id=4406622888632549382&scene=189&ascene=3&devicetype=iOS26.4.1&version=18004725&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQukK3tMclDJMQ7HCfKOy0wRLVAQIE97dBBAEAAAAAAEc6BlXTNcUAAAAOpnltbLcz9gKNyK89dVj0ZpOZkMn615aTHx4JV1sdQ8cZIgpbhUmEM3SSCBTRu4eOK4JYmVfxJOuNPK0zOtQXb+BdRVwfUKbEdjQAxxuvFj7oaQr5Ljf3F57L2B+qwzyZaDoBX+OTixQvSnVMYAxgCgOd9Sd1ALXSn2K7chloaKjaFjsUOaAl+/ZBM09wN6DAhjDsUwioKz6aX6dBiCPDUDWuyAClbM68QLWsJ+JayuMeyImULgiFX6/YN++uJw==&pass_ticket=IXrhzDkOYSi5Sy89bUvPFuCsLBa6OcrYOC/mARGoQ07o1UyEuDgqC6GqtRNOU9/l&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/ba91481d-a690-4cb2-9aad-3f1d100f5a4a/ba91481d-a690-4cb2-9aad-3f1d100f5a4a/)

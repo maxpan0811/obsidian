@@ -143,3 +143,9 @@ AI入口已成
 ![](attachments/8706790c612e1809.png)
 
 合作咨询请联系：环球旅讯研究院
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MTEzMzIzODIyMQ==&mid=2654992355&idx=1&sn=aaa7e5b5c930d20e22516eba3b562579&chksm=71f83a5abb0d2f9e59ff77f2002db534472a59f81ea55cc95857cd1552c6c3e4d82779a1c80f&scene=90&xtrack=1&req_id=1780224673316200&sessionid=1780224461&subscene=93&clicktime=1780224812&enterid=1780224812&flutter_pos=5&biz_enter_id=4&ranksessionid=1780224673&jumppath=20020_1780224672708,1104_1780224776666,20020_1780224785241,1104_1780224805082&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=18004a24&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQgD4GZ0ha0RhUavPuCX0yRxLTAQIE97dBBAEAAAAAAFSnIt0PMH8AAAAOpnltbLcz9gKNyK89dVj0oKgtJpyAHe7/IrYmWTVfsl/jtWCV3mlEECmbot8Xp0EoJgW2zqsGLsvUq8EI8vYyJxt4N7JIef14cm7BlFRv6UwIw1BqPsHTxuEfDUTfcHlymfg+h9KWfD2GLit+NWEut/GGJqw6I0HoNue5H9rm6S5uho09l8p3b2ppLsFkZz7+0sdu82Igt+HDG2qY4p+lmriZp0IZOQGpFBTQEgydqHsAEUUNhi5pbgysj8U=&pass_ticket=6kfs+4BGIUiCR27rByKXyczG1VO+EiRjPsty+NvWvGMwM1KZlKl8TOBwekfecdG9&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/849b7b7c-fdb1-41b8-a2a8-91b14af66f6c/849b7b7c-fdb1-41b8-a2a8-91b14af66f6c/)

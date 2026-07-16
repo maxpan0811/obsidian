@@ -273,3 +273,9 @@ Original效率不成瘾 效率不成瘾
 通过合理的多库策略，我已经将 Obsidian 从一个可能变得混乱和缓慢的单一知识库，转变为一个高效、清晰且互联的知识管理生态系统。希望我的经验能够帮助你建立自己的多库策略，提升知识管理效率，而不会带来额外的负担。
 
 ##
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?chksm=c321be08f456371ed3af69e376bdeb0dab865ebcdb44819cf95bdd1febb2c7ac4401d789679d&exptype=unsubscribed_card_recommend_article_u2i_mainprocess_coarse_sort_tlfeeds&ranksessionid=1745934793_1&scene=169&mid=2247483785&sn=7aa19d8def0ee9cd7eda8802a79987b6&idx=1&__biz=Mzk0NDY3OTY2Mg==&sessionid=1745933309&subscene=200&clicktime=1745935327&enterid=1745935327&flutter_pos=39&biz_enter_id=5&jumppath=20020_1745935147013,1104_1745935278971,30024_1745935288145,1104_1745935321744&jumppathdepth=4&ascene=56&devicetype=iOS18.4.1&version=18003b24&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQmHAbdXRzxxEkmY5VoVNY5RLVAQIE97dBBAEAAAAAAMVtAfSlnZ8AAAAOpnltbLcz9gKNyK89dVj0ITeomsYFyGhc+um2J5fiFxPYBQpFj+khpppzUefXKoQQQD+Rgxmw3NCiYvtvzMamqezdi30E6HkwJbe07zjeVnfOYUM5wwJ7Gsu+yy/hzRHqGBdz95NrWcjScWMrVNVI5ejONGrS0uhGXC0tLfGqmTbyCMXIxP+bZKZZM/rgD3MVdfzdnaAAL/wwmdMDLAn/q5w3fOWhRhYYv8hGwkrXN9BX+PTJlqjCJBX4QvO6Yg==&pass_ticket=l/dnqI17jqkegzNURU8rVDQHkbCQVRhIV+txbe7y4Cz8sfi/7QucCN+gjJzyZeiW&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/77ffe551-016c-4c77-ba9f-abae877ec334/77ffe551-016c-4c77-ba9f-abae877ec334/)

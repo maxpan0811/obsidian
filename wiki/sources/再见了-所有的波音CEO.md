@@ -194,3 +194,9 @@ guid: a8cec5ef-9734-4f2e-a4cd-2c8ad4058f77
 在美国去工业化以及吸毒率居高不下的大背景下，能否获得合格的产业工人也是个问题。这些问题不仅仅是波音的问题，同样也是整个美国面临的问题。目前波音准备将2005年由斯通西佛出售的威奇塔工厂（也就是势必锐）收购以整合生产供应链提升质量，但能否如愿还有待观察。
 
 如果不能将上述问题解决，哪怕再次更换CEO也注定不会有什么大改变，他的结局终将是等待下一个丑闻爆发然后引咎辞职，就如他的众多前任一样。
+
+
+---
+
+[🌐 原始链接](http://mp.weixin.qq.com/s?__biz=MzI0MzAzNjk2Nw==&mid=2651699693&idx=1&sn=d8cd87a1c76b3617a05d0fecbd69ae3c&chksm=f28a3fa5c5fdb6b3d54d5e475cd3f346f68f346246099748badeb2084c76866552e2e5a0a29c&mpshare=1&scene=1&srcid=0408GxtKE9hjaap9r5kwr73F&sharer_shareinfo=3739c7a30d95e20602fcc8ae7ab1b0e0&sharer_shareinfo_first=3739c7a30d95e20602fcc8ae7ab1b0e0#rd)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/a8cec5ef-9734-4f2e-a4cd-2c8ad4058f77/a8cec5ef-9734-4f2e-a4cd-2c8ad4058f77/)

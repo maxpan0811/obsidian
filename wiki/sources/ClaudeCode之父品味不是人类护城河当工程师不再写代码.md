@@ -223,3 +223,9 @@ Boris 想了一下，说：价值观。
 转载请联系本公众号获得授权
 
 投稿或寻求报道：liyazhou@jiqizhixin.com
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651037590&idx=1&sn=43a77cc96f1adc263166826563156f64&chksm=852c3ac4213f0b4933f073cc8b8ef6743242393e34d0ba11c4e4e21a6e6ab551ceb64e0b8cb3&scene=90&xtrack=1&req_id=1780824949337322&sessionid=1780825080&subscene=93&clicktime=1780825180&enterid=1780825180&flutter_pos=4&biz_enter_id=4&ranksessionid=1780825081&jumppath=20020_1780825103019,1104_1780825132899,20020_1780825143963,1104_1780825173608&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=18004a29&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQIcn6/SMKsGUnrSlwEdC45hLTAQIE97dBBAEAAAAAACGBJQApLrAAAAAOpnltbLcz9gKNyK89dVj0X2bK9z6lxuoWPDD6eSCCqarE0IirG9mTQ29gj0D3VMr8JeNFAg4zh4XnwvQzNFvA8/2P1PMCIjx7i2FypzOUWoRA+dY6kBL8PtHy4Qetje1v2eWHHsipoY0qIepWFhnU4lRdtMzs3KpPDB6BhT4nmyGgTbttRKLvR82YvhFy7Ew6eZHa0rYDm8BscboE5rV1CeQfZZCqn5mc60JCuqIWDLYFFa5eExuPZQmqXeA=&pass_ticket=uOi0zvEDHbC48lf6jZO88iTonxj4Bisl4BXrVL/vmDVJAfOue6xaVn+c4pYzVv9O&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/bc374749-8a18-40cd-a076-2defd108020c/bc374749-8a18-40cd-a076-2defd108020c/)

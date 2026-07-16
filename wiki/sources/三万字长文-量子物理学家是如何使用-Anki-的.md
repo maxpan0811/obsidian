@@ -480,3 +480,9 @@ Ebbinghaus 之后，有数以千计的研究分布练习不同变种的研究。
 Measure
 
 Measure
+
+
+---
+
+[🌐 原始链接](https://zhuanlan.zhihu.com/p/65131722)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/2a776ee7-c067-43a7-8772-294f88c9d2f5/2a776ee7-c067-43a7-8772-294f88c9d2f5/)

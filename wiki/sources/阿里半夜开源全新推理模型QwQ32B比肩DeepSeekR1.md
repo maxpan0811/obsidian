@@ -120,3 +120,9 @@ QwQ-32B 一发布就收获了无数好评，甚至我们的不少读者也在催
 测试链接：https://chat.qwen.ai/
 
 © THE END
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650958115&idx=1&sn=26927008dad5cd9fb55576ebf460e25e&chksm=85d07517b4616f329da29d5333de051ac2d18ec5604ca5596d59c9ffcd2792789b43d89aff32&scene=90&xtrack=1&sessionid=1741230165&subscene=93&clicktime=1741230171&enterid=1741230171&flutter_pos=1&biz_enter_id=4&ranksessionid=1741229564&ascene=56&devicetype=iOS18.3.1&version=18003835&nettype=WIFI&abtest_cookie=AAACAA==&lang=zh_CN&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQ/5XR/Fm1bZ1KgWXDmi1cNBLMAQIE97dBBAEAAAAAACriIM2/TaYAAAAOpnltbLcz9gKNyK89dVj0x0YdfRc2u6DDd3R3KS1m/BpI9E38gEDHsob4XGGY1dpWHLK0pUikwonHBauOoMO/squQx7DdJ2uBFgAA5NTESP+bjMCzAxYxJc3ppbfsGm2GEc/yGSpXUoxM1pPlUIf1PeE2wKvz3IiIdieQka/xPXcPGmGy58sljgqkJrxxodO4vdNN8l1pO65ktSxe0kRCBFleSxBQ90egmtaAA5fmoLpPhJYatg==&pass_ticket=DHGKQYhRLXs4ttgZyjpzQF0ovFmTD9orMHuEYvIMTqIart2qPEYJHUuBkWfK2Y3j&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/2ccee6e4-19c5-4bfc-b007-308b4f08cf29/2ccee6e4-19c5-4bfc-b007-308b4f08cf29/)

@@ -102,3 +102,9 @@ guid: e5bd00a5-6d17-4c33-8fb5-dda0f6495ce0
 涛涛[嘉陵江](http://baike.baidu.com/view/33724.htm)边，巍巍[钓鱼山](http://baike.baidu.com/view/5310114.htm)之上，便是那坐令[蒙古人](http://baike.baidu.com/view/252835.htm)肝肠寸断的死亡之地－－－钓鱼城。相传混沌初开时，青华大帝曾在此钓鱼，以此救济了一方饥荒中的百姓，[钓鱼山](http://baike.baidu.com/view/5310114.htm)即因此而得名，南宋重庆知府[余玠](http://baike.baidu.com/view/67144.htm)修筑这道铜墙铁壁时，亦因此而命名，数年之后，这坐他亲手打造的钢铁堡垒，竟然钓到11世纪人类战争史上最大的一条鱼，历史的滚滚洪流在此处转弯，[蒙古帝国](http://baike.baidu.com/view/374629.htm)奔腾不息的扩张脚步自此戛然而止，无数苦难[民族](http://baike.baidu.com/view/2907.htm)的命运，都将为这坐伤痕累累的小城所救赎。
 
 从1236年，蒙古帝国第二代可汗[窝阔台](http://baike.baidu.com/view/23403.htm)悍然撕毁与[南宋](http://baike.baidu.com/view/24010.htm)的和平协议，对南宋转入全面战争开始，至蒙古帝国第四代可汗[蒙哥汗](http://baike.baidu.com/view/848252.htm)亲征[四川](http://baike.baidu.com/view/7627.htm)，宋蒙战争已经整整持续了18年，18年来，多少横扫欧亚的蒙古名将碰得头破血流，多少蒙古士兵一去不返，南宋硬生生抵抗了无敌于天下的蒙古大军半个世纪50多年，直至崖山之役陆秀夫抱幼帝[赵昺](http://baike.baidu.com/view/73595.htm)跳海，十万军民相随。
+
+
+---
+
+[🌐 原始链接](http://baike.baidu.com/view/111483.htm)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/e5bd00a5-6d17-4c33-8fb5-dda0f6495ce0/e5bd00a5-6d17-4c33-8fb5-dda0f6495ce0/)

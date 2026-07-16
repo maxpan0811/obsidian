@@ -1289,3 +1289,9 @@ guid: 1e35dbb0-ef3d-459a-af12-60164c8835b4
 
       [菅野美穗、松隆子出演《坂上之云》添色彩](https://baike.baidu.com/redirect/9267FfsiE1KYMAZtNn_xBkGFr9YcWhrnQsKjpKaRQWe2LzdbsC4IAKJJW0a-220gtzVyNQaKyODHsOt3ohQIWdy_JiY)
       ．腾讯娱乐．2009-11-26[引用日期2015-04-29]
+
+
+---
+
+[🌐 原始链接](https://baike.baidu.com/item/%E5%9D%82%E4%B8%8A%E4%B9%8B%E4%BA%91/5425682?fr=aladdin)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/1e35dbb0-ef3d-459a-af12-60164c8835b4/1e35dbb0-ef3d-459a-af12-60164c8835b4/)

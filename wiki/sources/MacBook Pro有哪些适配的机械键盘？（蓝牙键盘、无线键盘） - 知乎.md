@@ -214,3 +214,9 @@ MacBook Pro和iPad都可以用，而且配对好，一键就能进行切换。
 ---
 
 ## 其他外设：
+
+
+---
+
+[🌐 原始链接](https://zhuanlan.zhihu.com/p/273731352)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/3dcbe211-6bdf-420f-8ec3-245dfb6d9d1e/3dcbe211-6bdf-420f-8ec3-245dfb6d9d1e/)

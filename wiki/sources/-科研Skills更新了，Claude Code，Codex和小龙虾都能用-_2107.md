@@ -248,3 +248,9 @@ gh skill install K-Dense-AI/scientific-agent-skills --pin v2.39.0
 - 项目地址: https://github.com/K-Dense-AI/scientific-agent-skills
 
 如果觉得有用，点个赞或者在看，也方便更多朋友看到。有什么好的想法或者意见，在评论区和我聊聊吧。
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?chksm=f029695dc75ee04be5bb672f04d207afce41feb66bfa1d090d3afdc132d073a95f0121667b23&exptype=unsubscribed_card_recommend_article_u2i_mainprocess_coarse_sort_tlfeeds&ranksessionid=1782032740_1&req_id=1782031330553375&scene=169&mid=2247484475&sn=41944484040793313a9fd891fff88efe&idx=1&__biz=MzYyNTQ0MTgwMQ==&sessionid=1782032739&subscene=200&clicktime=1782033335&enterid=1782033335&flutter_pos=7&biz_enter_id=5&jumppath=WAWebViewController_1782033282033,WAWebViewController_1782033282544,20020_1782033309451,1104_1782033332934&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=18004b28&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQXGT9znSzRwgjXGRNrmt5nBLTAQIE97dBBAEAAAAAAE5uL0tlT34AAAAOpnltbLcz9gKNyK89dVj0PMWn635Pe69mBWCBAWrRs0rOGiUcfN9dUKfo2bepC410ZVAKcPcAlYIpUTozN2f9tNWTRn+6CemEC6NNei671VdlOYy6nwNIqLJfGSTRiopF+4UwP5XpYY4CPpOEuhiDgL3urBeSv+Lrtb9G0P4dDMTS1OMKZq1uqgpnKL7aXd92SDfHhDZHQ3dI7sgK4t1OYaHA2m59MNmuJn/uu5Zqb/ObIg4WRMnHfBdyPpg=&pass_ticket=r0zJoc2DB9aHcUCBU+ZBkUARY+f3mwq7dfQLOB8OBi5BPtrILvj8sPpwU6qGJCbb&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/de739a26-db32-44e8-86aa-87ccced8d4fa/de739a26-db32-44e8-86aa-87ccced8d4fa/)

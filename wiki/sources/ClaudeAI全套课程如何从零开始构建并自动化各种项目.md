@@ -85,3 +85,9 @@ Claude 能自动搜索最新的行业新闻和 AI 工具更新，整理成结构
 每个案例都是作者真实在用、已经验证有效的工作流。从内容创作到技术开发，从营销推广到数据管理，这套教程覆盖了完整的自动化工作场景。
 
 开始学习（记得点赞收藏）以下是完整课程：视频原地址：https://x.com/cyrilXBT/status/2039897779728765248
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&mid=2247721554&idx=1&sn=581eff5b5c6ee6f745928b82b6cd147b&chksm=e9abf588a61612eeffb2a796b90df35961be8c6d11799a0e1bb902030e51d721d663cdffc592&scene=90&xtrack=1&req_id=1775317649297907&sessionid=1775317679&subscene=93&clicktime=1775317834&enterid=1775317834&flutter_pos=7&biz_enter_id=4&ranksessionid=1775317649&jumppath=20020_1775317755903,1104_1775317770277,20020_1775317778818,1104_1775317825962&jumppathdepth=4&ascene=56&devicetype=iOS26.4&version=18004630&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQYemt/DqXcEPu8+Eb2/TnvxLTAQIE97dBBAEAAAAAAIxHMnurOJAAAAAOpnltbLcz9gKNyK89dVj0tvbl04pY8mOtKB2ajVhu5/VOEkJnV/3FOYzB+CYeKBx5kY5fVgWe2bdnQGdYfcuC7tR5d80QNBttohY4tM8g5Xhdv0cDf9/POBvjxqGVwh+88fBWnC7VWhYzXdIvi7HtVPt3zY2/mae6oL+N1pKagtBqMQ53Ad4MZAS32viePBQ6YymZLdp4sIYSRy42rBLeNEjZSKR3IviPErG++dupVm6Ow4xbYDINUcP29PU=&pass_ticket=sEI6qq+u3bTRJYvWajxlNGH9fM2dwFs4g9kzucbrTMpQ5rdKn8dzh1z7oIyELdwk&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/d7fe6641-3e83-4c71-b41c-01b592475c3e/d7fe6641-3e83-4c71-b41c-01b592475c3e/)

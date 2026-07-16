@@ -170,3 +170,9 @@ DeepSeek自发布首个开源大模型以来，技术迭代呈现结构设计持
 不过这个报告就跟《科技共和国》一样，更代表公司主张和利益，对一些客观事实进行了修饰，比如还认为中美当前AI差距在12个月以上，事实上美国AI公司敢停下哪怕半年吗？这种夸大也可以理解，毕竟如果承认现在中美差距已经缩小到几个月，又如何支撑美国庞大的AI泡沫？
 
 由此也可以看出，美国已经在认真考虑中国追平乃至超越的可能。
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzI2MzY3NjAwOQ==&mid=2247507287&idx=1&sn=3c5f57ff20dcf8a4b45d44f1b0fed8a8&chksm=eba885e6e59485a45ea43ebb7df33bfb2fb5dfffebaf60088453a2b5428433128f982b780b2c&scene=90&xtrack=1&req_id=1779752330452764&sessionid=1779750938&subscene=93&clicktime=1779752762&enterid=1779752762&flutter_pos=4&biz_enter_id=4&ranksessionid=1779752330&jumppath=20020_1779752749771,50096_1779752752849,20020_1779752758827,1104_1779752759506&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=18004933&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQv3JDbAXM8r/qBzRvfcVUWRLTAQIE97dBBAEAAAAAAO+1GhatRNkAAAAOpnltbLcz9gKNyK89dVj0jfDeNyns6iumJXT/ugiNuEbg8rT2uzFzYAEiiB+AlIitBWU6KEw6WyRIqmRKjxI/K16RB2wbXWIIX6prjcrfirm4UHzb+wBmrdC0piEJbhQ99cpIDjXl362fDdGQ8qCXPWQSIZ3w0emAWCZ1MQXyRMClc3M+8VzuVx8CFyZaW6py/NVCAxkBFwOC5fLV267tlUMUjLqcZpgNxuLTrb0/3dxaH0PD6grv8G4hjuE=&pass_ticket=eaBBnEjShLUTmH7LBvruqY/z4R2NURAlDR1F9MwcH9MRsm9j0vrJWgGRdb4C3Amu&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/ebfa5212-1aa2-4af0-8fc2-730cd6760a3a/ebfa5212-1aa2-4af0-8fc2-730cd6760a3a/)

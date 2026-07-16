@@ -126,3 +126,9 @@ Original周德宇底线思维
 点一下右下角“在看”，让我们做的更好
 
 ![](attachments/40f2391c53f55f98.gif)
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzA4MTQ0ODEwNg==&mid=2650219835&idx=1&sn=1064c72b71eb6a2b680ffe608f023282&chksm=864a22ea84b66634578ff6bcb020a5278c1a49234d1e2d9988afdf449f15aead97541b11b825&scene=90&xtrack=1&req_id=1771408592082139&sessionid=1771408093&subscene=93&clicktime=1771411780&enterid=1771411780&flutter_pos=5&biz_enter_id=4&ranksessionid=1771408592&jumppath=20020_1771408975937,1104_1771408976332,20020_1771409198417,1104_1771411778984&jumppathdepth=4&ascene=56&devicetype=iOS26.2.1&version=1800452b&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQ5zDDC5p4sL0xqqMp7t2kmBLVAQIE97dBBAEAAAAAAN0XKvu58UwAAAAOpnltbLcz9gKNyK89dVj0eXqnSjAIRmkAaAP8GE8WrGT4Fc+DG+IeDZcdQrgUgBwq5xc+5q0WYf60OvrMG7m8A/i3G6mq2bGILEg3tNt3KHWhPCyOOCIRfXO3Et3YmswAboSE41NcUT73hWUdLgJMLzm0KG5YAC1yTrXzp0aHJTWaqL5FUKok1og8/lazDnibcRPUk1FP84Ce3hegC5e8+nLLueO/dmucboyOzPyF/9E65Bh+icDy1BcwpCrjbw==&pass_ticket=1YWHzmubNFhKCRp+DaS70618SBxkMKz+RWTSxv3XfTiNJyZGUZBNPNec5wnD+YHs&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/bf0f3547-bece-4bb8-b189-2d8860502415/bf0f3547-bece-4bb8-b189-2d8860502415/)

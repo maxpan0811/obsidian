@@ -209,3 +209,9 @@ guid: 2c554d92-cc51-441c-8df1-06c5f6f0ed19
 组织过软件汉化，写过时间管理文章，研究过个人知识管理。关注科技的发展，创投资讯、移动互联网。
 
 [邮箱](mailto:yibie@ifanr.com) [Twitter](http://twitter.com/yibie) [Facebook](http://www.facebook.com/yibie) [新浪微博](http://weibo.com/yibie)
+
+
+---
+
+[🌐 原始链接](http://www.ifanr.com/480874?utm_source=rss&utm_medium=rss&utm_campaign=)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/2c554d92-cc51-441c-8df1-06c5f6f0ed19/2c554d92-cc51-441c-8df1-06c5f6f0ed19/)

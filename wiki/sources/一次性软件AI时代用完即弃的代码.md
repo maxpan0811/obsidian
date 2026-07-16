@@ -95,3 +95,9 @@ AI 带来了三个变化：
 一次性软件是 AI 时代的副产品。开发代码变得足够便宜，以至于我们可以为了一些临时、碎片化的需求写代码——然后删掉。
 
 关键是记住：**用完即弃是原则，不是借口。** AI 是工具，不是决策者。限定范围、快速完成、避免膨胀，这个模式才好用。
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzAxNzIyODMwOA==&mid=2651299012&idx=1&sn=ad3540fc489496c338b66a53cf84bd39&chksm=81cdb71f56f952a9d9ef0e5b20a29e8e6f1d9f1e9cd1db0ed9e94a8c3669f469a94ae1c2452b&mpshare=1&scene=1&srcid=0315uESG0mmeSTyNr2kGZrER&sharer_shareinfo=8ec7f2716ec1f666899926761722db4b&sharer_shareinfo_first=cfb5003114b1d46f906f849fe65cbc3d&from=groupmessage&isappinstalled=0&clicktime=1773546043&enterid=1773546043&ascene=1&devicetype=iOS26.3.1&version=18004531&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQoWHfiw5nIRZbpcSSJukXmxLoAQIE97dBBAEAAAAAACOFDNWiOgMAAAAOpnltbLcz9gKNyK89dVj0/QUyYTrPom/WccNzjYc5YnFZyvyfOpboptkt9FegPMgW/lXqypnwrEkFDxtkXNos6kSb/ymYnyoxgk+DnhJarYGib/qQwF+aytvPh+8iYzlmANOdQSACsxUmVzi6DjkDTFWI8QcJgxpMIvIH3X2lvDdKUdUIFTWXaRtIcTu/78SL9gGf7p9sZwC2/b5lgMahcJmykeu1nQiwNRxkh5r7TCZl8/VcHheQR4YOglNUcocBBRQ0fFagUQCL6quvfjvxrpA=&pass_ticket=pLjsKHZU+GOQ+AKNgMdxW+/NMULO2uSnvr8/A+PwuSWUdI4MYWw/qu/cL53j6s+e&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/25b3a4e4-fec6-4d4d-875b-3e104e0d0478/25b3a4e4-fec6-4d4d-875b-3e104e0d0478/)

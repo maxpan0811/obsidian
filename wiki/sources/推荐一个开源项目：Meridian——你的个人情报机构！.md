@@ -77,3 +77,9 @@ pnpm --filter @meridian/database migrate
 # Deploy via Wrangler, run Python briefing notebook manually
 
 有兴趣的朋友可以部署试下！
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?chksm=9681dfdca1f656cae6260ff22f498fe80f5de66fc43d7910767eed311d6f2f3fbaef1319704d&exptype=unsubscribed_card_recommend_article_u2i_mainprocess_coarse_sort_tlfeeds&ranksessionid=1745717379_1&scene=169&mid=2247485198&sn=59ce54996ffdd35a849d4c64d527ae47&idx=1&__biz=MzIwMDIxNzAyMQ==&sessionid=1745717378&subscene=200&clicktime=1745717422&enterid=1745717422&flutter_pos=3&biz_enter_id=5&jumppath=20020_1745717386346,1104_1745717401455,20020_1745717406681,1104_1745717416334&jumppathdepth=4&ascene=56&devicetype=iOS18.4.1&version=18003b24&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQ36Yqtlkfv+MGQS++WFeVxhLVAQIE97dBBAEAAAAAAPEaMHsimu0AAAAOpnltbLcz9gKNyK89dVj0dbu+EXek8EONFTkqPrLKahLuk1WCnHcozUPYZDwfLAafqWu7FtRACnnirRnh5KgNED/BC8yN4owiEk35sIrbK8eolOC5uh0p78KnRPAFxUGMSDTXuw+RwahD/H/4eHkm/0ljbyJvezmlnVjZXyU+ADDiXG5LIoDjlE5KBWrvDC5tTkhIhIVwtP/OiH6tlWzImtBbUkbSAeN2jPiHdgTv/BCTlhr6jczXFocuzPbdOg==&pass_ticket=4LWSkpb4sL9zj1CONePMhRF8NM2Xqn4few712KRNXfw5tLvgx/J3dXsB6Tg8ChA4&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/83f09d26-1a7c-4f68-a5ea-b6072fb3ea2e/83f09d26-1a7c-4f68-a5ea-b6072fb3ea2e/)

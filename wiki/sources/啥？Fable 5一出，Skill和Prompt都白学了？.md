@@ -270,3 +270,8 @@ AI时代最残酷的事，或许不是学不会。
 [2]https://digg.com/tech/zrppa6ui
 
 [3]https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos
+
+
+---
+
+[📎 在印象笔记中打开](evernote:///view/207087/s1/d339001c-14f2-4cfe-8b06-2dc679f2ed1c/d339001c-14f2-4cfe-8b06-2dc679f2ed1c/)

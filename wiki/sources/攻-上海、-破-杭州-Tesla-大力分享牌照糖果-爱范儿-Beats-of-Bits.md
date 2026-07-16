@@ -48,3 +48,9 @@ guid: c7af578a-03e4-410e-9aa0-b3cad0d657cc
 Tesla 在国内打造的充电网络分为三级：超级充电站、“目的地充电”计划和普通充电桩。用核心城市的超级充电站支撑跨城市旅行，用遍布大型商业地产的“快速目的地”充电车位确保市内通勤，车主家里的普通充电桩则充当最后保障。
 
 题图来自 [bmwblog](http://www.bmwblog.com/wp-content/uploads/Tesla-Model-S-vs-BMW-M5.jpg)
+
+
+---
+
+[🌐 原始链接](http://www.ifanr.com/438176?utm_source=rss&utm_medium=rss&utm_campaign=)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/c7af578a-03e4-410e-9aa0-b3cad0d657cc/c7af578a-03e4-410e-9aa0-b3cad0d657cc/)

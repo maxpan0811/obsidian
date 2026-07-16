@@ -161,3 +161,9 @@ AI可以输出完美的答案，但它不会提出一个让所有人沉默的、
 最珍贵的资产，恰恰是那些无法被写成skill的东西。
 
 ![](attachments/5a516af881d96640.png)
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzA5NzIwMjQzMA==&mid=2650622351&idx=1&sn=e2541162bd38c4ccea4ab9b29468114d&chksm=8974fe9ed938993b170f1ec473b2fbff3cb51e7969df45a60ca02781738909670a3884c559f6&mpshare=1&scene=1&srcid=0411hIUyoYP3lJqQXCMfDnjp&sharer_shareinfo=d70d784a82289e3d640452287967fd94&sharer_shareinfo_first=d70d784a82289e3d640452287967fd94&from=groupmessage&isappinstalled=0&clicktime=1775913491&enterid=1775913491&ascene=1&devicetype=iOS26.4&version=18004634&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQC9qccgqXzajk04uEVjr+xxLmAQIE97dBBAEAAAAAAPoWIt/EzQwAAAAOpnltbLcz9gKNyK89dVj0QcysY/y2MT31zRnVFic1M6iW40O+2c6u61YUQk3wCZuk96jmOcKvX4lQa7BKxVGVkfDXUcAFmO0msoGSdggHcpBHAzlMEM8HS9OzI3bVxiS5JN3DjTk/EdFqbYrxbqaK/oOgegO2VRGq/RU4lqu28AYWNooNLKEB1/P/aS9vVOjh7CFLkZrD2e8Nok080xm08iOHCtcfyMKjNrbRDTuL8LCa0AII+5P8eL15OZXr6G6LM1Fq9rvmKfOKZOdb9Flf&pass_ticket=GJnUJ3iOPJR4Kyrse99EwpdBamPNPiD3l6eNSCUIT+AfyiTdyFcCVWFeS0IEWDHH&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/2fb00100-13ee-4c4e-bd9a-a51733d031fb/2fb00100-13ee-4c4e-bd9a-a51733d031fb/)

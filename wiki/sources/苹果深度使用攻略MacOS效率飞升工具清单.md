@@ -247,3 +247,9 @@ Original 摆烂的beizeng 土拨鼠的安全屋
 - **Downie 4** - 多媒体抓取工具（ YouTube/Bilibili 多平台支持）
 - **IINA** - 现代媒体播放器（ MPV 内核/硬件解码加速）
 - **Infuse** - 多协议流媒体播放器（ NAS 挂载/杜比全景声支持）
+
+
+---
+
+[🌐 原始链接](https://mp.weixin.qq.com/s?chksm=c3651ac9f41293dfb6f943640851a3ce2bb5239bbdd7fa66ed72a43fcbebe790987ad460e180&exptype=unsubscribed_card_recommend_article_u2i_mainprocess_coarse_sort_tlfeeds&ranksessionid=1745494793_1&scene=169&mid=2247488618&sn=6e7d9e10a0c0f6b5e6fc123460ff0687&idx=1&__biz=Mzk0ODY1NzEwMA==&sessionid=1745495307&subscene=200&clicktime=1745495315&enterid=1745495315&flutter_pos=13&biz_enter_id=5&jumppath=20020_1745495219550,1102_1745495220885,1001_1745495303567,1104_1745495307643&jumppathdepth=4&ascene=56&devicetype=iOS18.4.1&version=18003b22&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQANTHVB5igwU9pXoL04a2MRLVAQIE97dBBAEAAAAAAPSdIqpU2C4AAAAOpnltbLcz9gKNyK89dVj0RJLo46BvEJNxfP8gR/O1NHRf37brEbA+jiiYmwUrRwg4L/0f3yUHfoTrxztdbMB4BegTp4OmkefEIsQ6GHdRvx5tLvuPS6njXRJO20OhCMzH0xOmEZdEPpUSgITjRlGhlND3bPSjEwnzbIw905g5+cVo8qlO0Riyf7XZm9joJO6QKI6UX1I1DLvd1ErcLpDt8klqgC2z3fVETzEpd1s1FgsJgnoBPcqepQ0x0p2wSw==&pass_ticket=ZpNiD1lHMYlbyJqNRmsMJFoOrd8+YPP7KNJBPwKOE+dBxwXEZmVil1BzUzZd7kzk&wx_header=3)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/3c5363bf-2a1c-44f6-82da-03b634d7a6f4/3c5363bf-2a1c-44f6-82da-03b634d7a6f4/)
