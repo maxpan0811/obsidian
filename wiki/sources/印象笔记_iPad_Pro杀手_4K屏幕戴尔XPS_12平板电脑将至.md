@@ -1,0 +1,46 @@
+---
+title: "iPad Pro杀手 4K屏幕戴尔XPS 12平板电脑将至"
+type: source
+created: 2026-07-15
+updated: 2026-07-15
+source_path: 印象笔记管理工具/iPad Pro杀手 4K屏幕戴尔XPS 12平板电脑将至.md
+tags: [印象笔记]
+---
+
+# iPad Pro杀手 4K屏幕戴尔XPS 12平板电脑将至
+
+# iPad Pro杀手 4K屏幕戴尔XPS 12平板电脑将至 --- [![](.evernote-content/6FD6AF10-7D06-4F01-8E25-6F39E9C5D37A/6B36
+
+---
+
+# iPad Pro杀手 4K屏幕戴尔XPS 12平板电脑将至
+
+---
+
+[![](.evernote-content/6FD6AF10-7D06-4F01-8E25-6F39E9C5D37A/6B36FC76-A2B3-42EC-8CC5-A7D348C565A7.jpg)](http://tech.feng.com/2015-09-11/The-4-k-Pro-killer-dell-XPS-12-tablets-will-be-to-screen_624209.shtml)
+
+![](.evernote-content/6FD6AF10-7D06-4F01-8E25-6F39E9C5D37A/6B36FC76-A2B3-42EC-8CC5-A7D348C565A7.jpg)
+
+近日，苹果发布了旗下最大的平板电脑 iPad Pro，并声称其强悍不羁的“桌面级”性能，能够轻松胜任那些以往在工作站和 PC 上完成的工作，甚至从某些方面来看，或许还能做得更加出色，更大的显示屏尺寸和高分辨率，令你无论做什么事情都能有身临其境之感。不过，iPad Pro 真的能在移动“桌面”独树一帜？显然不是，它将迎来一波前所未有的新对手，不只是 Surface Pro 3 和 Yoga 系列平板，还包括这款戴尔全新的 XPS 12 平板电脑。
+
+威锋网 9 月 11 日消息， 日前，德国网站 Giga 爆料了一款戴尔还未发布的 12.5 英寸 XPS 系列 2 合 1 平板电脑，XPS 12 并不是戴尔的新产品线，只是这款最新型号经过改良延续了微软 Surface Pro 的线路，它配备有一块可拆卸的键盘，就像苹果的 Smart Keyboard，不过戴尔的键盘配有背光，并且与平板电脑合体变成笔记本电脑之后，键盘可以旋转 180 度使用。
+
+至于新款 Dell XPS 细节，规格上看起来比 Surface Pro 和 iPad Pro 更强大，更薄，配备，而且仅 12 英寸的 IPS 屏幕配备了 4K 级别的分辨率，实际像素达到 3840×2160 像素，完全不输给 XPS 系列中最受欢迎的 XPS 13。更重要的是，戴尔会将采用“无边显示屏技术（Infinity Display）”，屏幕边框经过超窄处理，实现边到边近似“无边框”的设计，相当于在 11 英寸外壳里塞进 12.5 英寸屏幕。
+
+![](.evernote-content/6FD6AF10-7D06-4F01-8E25-6F39E9C5D37A/39EFB73A-08B4-4AE2-B2D5-5FDA04EA72BB.jpg)
+
+毋庸置疑，更高的分辨率意味着比传统屏幕像素密度更高，如果不出意外的话，该屏幕还将提供 170 度的垂直和水平可视角度，亮度达到 400 流明左右，符合 100% 的 Adobe RGB 色域，对比度为 1200:1，爆料者称该屏幕也支持压敏手写笔，可用戴尔电磁笔手写笔 Active Stylus。另外，新 XPS 12 标配切换平板和笔记电电脑模式的“分离式键盘”，将通过磁性吸附的方式连接，同时也会和 Surface 键盘盖一样具备背光功能和标准的触控板。
+
+其他参数方面，Giga 表示 XPS 12 将搭载诸多主流的新的硬件和技术。可以确定的是，将采用英特尔第六代 Skylake 微架构的处理器，机身上设有 Thunderbolt 3 和 USB Type-C 接口，保证超高速的外部连接扩展性，正面和背面分别提供了 800 万像素的后置摄像头 500 万像素的前置摄像头。
+
+其他更多的详情 Giga 并未透露。一些关键的规格参数还有待确认，比如会有多少 RAM 运行内存，搭载哪个系列的处理器等等。预计戴尔为了实现无风扇超静音设计，将采用 Core M 处理器，提供 10 小时的续航时间，所集成的 Intel HD 500 系列核显，具有足够的性能同时输出三台 4K UHD 显示器，并且帧率可以达到每秒 60 帧。
+
+若上述描述属实，那么整体而言，全新戴尔 XPS 12 将会是市面上“最好的 2 合 1 设备”之一。预计该设备将于 10 月份登场，圣诞购物季之前出货。
+
+[阅读全文](http://tech.feng.com/2015-09-11/The-4-k-Pro-killer-dell-XPS-12-tablets-will-be-to-screen_624209.shtml)
+
+---
+
+[🌐 原始链接](http://tech.feng.com/2015-09-11/The-4-k-Pro-killer-dell-XPS-12-tablets-will-be-to-screen_624209.shtml)
+
+[📎 在印象笔记中打开](evernote:///view/207087/s1/1aee461a-2d1a-4005-9a35-03d5fc84463b/1aee461a-2d1a-4005-9a35-03d5fc84463b/)

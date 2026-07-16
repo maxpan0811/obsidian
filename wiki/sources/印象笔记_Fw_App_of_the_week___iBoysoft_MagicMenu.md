@@ -1,0 +1,56 @@
+---
+title: "Fw_App of the week _ iBoysoft MagicMenu"
+type: source
+created: 2026-07-15
+updated: 2026-07-15
+source_path: 印象笔记管理工具/Fw_App of the week _ iBoysoft MagicMenu.md
+tags: [印象笔记]
+---
+
+# Fw_App of the week _ iBoysoft MagicMenu
+
+# Fw:App of the week | iBoysoft MagicMenu --- | | | | --- | --- | | | 潘渤 | | maxpan0811@hotmail.com 
+
+---
+
+# Fw:App of the week | iBoysoft MagicMenu
+
+---
+
+|  |  |
+| --- | --- |
+|  | 潘渤 |
+| maxpan0811@hotmail.com | |
+
+签名由
+[网易邮箱大师](https://mail.163.com/dashi/dlpro.html?from=mail81)
+定制
+
+--------- Forwarded Message ---------
+
+From： 
+
+[Setapp Team <hello@setapp.com>](mailto:hello@setapp.com)
+
+Date： 
+02/18/2022 00:54
+
+To： 
+
+[Max Pan <maxpan0811@hotmail.com>](mailto:maxpan0811@hotmail.com)
+
+Subject： 
+App of the week | iBoysoft MagicMenu
+
+Expand the functionality of your right-click menu with Setapp's new addition iBoysoft MagicMenu
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  | | --- | |  | |  | | Expand your right click tools | | Use right click (two-finger click on the Touchpad) all the time? Us too. This week, we are welcoming a new app on Setapp that can add more power to your right click! Meet iBoysoft MagicMenu — an app that helps you move, copy, create files, access apps or saved webpages directly from your right-click menu. | | [Check it out](https://apac01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsetapp.cmail19.com%2Ft%2Fd-l-auddug-jykhhikhut-i%2F&data=04%7C01%7C%7Cb0a3a362489b43d7402908d9f2361f1c%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637807136554715332%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=XPqiSXL73U6vCCtx4NIUFG8gS28oVB8HPx07SxrTUMs%3D&reserved=0) | |  | | Why iBoysoft MagicMenu | | * Add extra functionality to your right-click menu * Move, create, copy files through right-click menu * Access apps or web pages in your right-click menu | | [Check it out](https://apac01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsetapp.cmail19.com%2Ft%2Fd-l-auddug-jykhhikhut-d%2F&data=04%7C01%7C%7Cb0a3a362489b43d7402908d9f2361f1c%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637807136554715332%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=Akfm%2FwOP8Bh6zYJq6ex5xQ7Mzr8DEbSsDI3dURTqf9Y%3D&reserved=0) | |  | | Our fresh additions | | |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Lofi Garden | | | |  | | --- | | Single-button instant playlist of lofi music to help you focus and tune out the noise.  [Learn more](https://apac01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsetapp.cmail19.com%2Ft%2Fd-l-auddug-jykhhikhut-k%2F&data=04%7C01%7C%7Cb0a3a362489b43d7402908d9f2361f1c%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637807136554715332%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=Bz0YRb6d4a%2FcMnKjQT5MPsKKMntal%2B3kkX6aKGgN3lA%3D&reserved=0) | |  |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Daily | | | |  | | --- | | Track the time it takes you to work on projects and tasks with this proactive time tracker for Mac.  [Learn more](https://apac01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsetapp.cmail19.com%2Ft%2Fd-l-auddug-jykhhikhut-o%2F&data=04%7C01%7C%7Cb0a3a362489b43d7402908d9f2361f1c%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637807136554715332%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=ernfS0fWg%2BioLk%2B3Eb9MVIR9KYHdWeEJdyQbvF3Ep7g%3D&reserved=0) | | | | | |  | | --- | |  | | Read on the blog | | |  | | --- | |  | | How to view your Apple purchase history | | Apple offers a bunch of services you might be using, so if you want to track this part of your budget, check our guide. | | [Read now](https://apac01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsetapp.cmail19.com%2Ft%2Fd-l-auddug-jykhhikhut-n%2F&data=04%7C01%7C%7Cb0a3a362489b43d7402908d9f2361f1c%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637807136554715332%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=vEIHQq3hXE5bN%2BsM2%2BcNFst%2BtI1Az3qH%2FabXfrnjZbA%3D&reserved=0) | | | |  | | --- | |  | | How to install Microsoft SQL Server on Mac | | Working with SQL? Microsoft SQL Server is a popular tool, but takes a few extra steps to install on Mac. Let's go through them. | | [Read now](https://apac01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsetapp.cmail19.com%2Ft%2Fd-l-auddug-jykhhikhut-x%2F&data=04%7C01%7C%7Cb0a3a362489b43d7402908d9f2361f1c%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637807136554715332%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=OHdoBS1FE4mpxSruKnReMaKdv5t8MRNYPQoqo8KfHPs%3D&reserved=0) | | | What did you think of this email? | |  | |  | | This email was sent by Setapp Ltd. | | [Manage subscriptions](https://apac01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsetapp.updatemyprofile.com%2Fd-auddug-E5349AC7-jykhhikhut-v&data=04%7C01%7C%7Cb0a3a362489b43d7402908d9f2361f1c%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637807136554872015%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=IrbdzLap7gSpsvlCzsnLdPASPj%2FI0oVMxl%2FB%2FsgoK7U%3D&reserved=0) [Unsubscribe](https://apac01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsetapp.cmail19.com%2Ft%2Fd-u-auddug-jykhhikhut-e%2F&data=04%7C01%7C%7Cb0a3a362489b43d7402908d9f2361f1c%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637807136554872015%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=ttAwxN09e9C9kpQ8bjP9GmAToe8GQXPW%2Bw5kutXOtIE%3D&reserved=0) | | 9‌  Tallow Street,  Youghal, Co. Cork,  P36YE14, Ireland | |  | | | |
+
+[📎 在印象笔记中打开](evernote:///view/207087/s1/d4e0431b-25da-4cdf-a863-f6e563471b42/d4e0431b-25da-4cdf-a863-f6e563471b42/)

@@ -1,0 +1,77 @@
+---
+title: "别再让 Kindle 吃灰，试试用 Reabble 在线阅读 RSS 吧"
+type: source
+created: 2026-07-15
+updated: 2026-07-15
+source_path: 印象笔记管理工具/别再让 Kindle 吃灰，试试用 Reabble 在线阅读 RSS 吧.md
+tags: [印象笔记]
+---
+
+# 别再让 Kindle 吃灰，试试用 Reabble 在线阅读 RSS 吧
+
+# 别再让 Kindle 吃灰，试试用 Reabble 在线阅读 RSS 吧 --- ![](.evernote-content/57DDBD71-BFE5-4D69-8D05-9A07587FE75
+
+---
+
+# 别再让 Kindle 吃灰，试试用 Reabble 在线阅读 RSS 吧
+
+---
+
+![](.evernote-content/57DDBD71-BFE5-4D69-8D05-9A07587FE754/5F1702AE-54B9-4D32-AC4E-5D314BF04A47.jpg)
+
+ 今天又是美好的一天。叫醒你的不是闹钟，是便意。
+
+床头摆着手机、手表、卫生纸，没有女朋友也没有男朋友。当你想要拿一件读物消磨一点卫生间的无聊时光时，你发现到了压在枕头下面的 Kindle。
+
+你打开 Kindle，柔弱的电子墨水屏幕闪烁而过，你想起已经很久没有碰过它，但它还坚强地有 20% 的电量，而距离上一次完全充电已经有 6 周。6 周，这个时间很清楚，因为这是你上一次旅行时信誓旦旦要带上 Kindle 在旅途中读完几本书的日子。
+
+你坐在马桶上时才发现 Kindle 里的书一本都没有读完，现在也不想读，你甚至记不得有些书是什么时候下载的。现在你开始后悔把 Kindle 带进卫生间了，不过你不后悔买 Kindle，至少不能告诉别人你后悔。
+
+**但是。还好你记得之前看到有这样一个叫做 [Reabble](http://reabble.com/) 的服务，可以让你直接在 Kindle 的浏览器中阅读 RSS。**
+
+打开你在 Kindle 上几乎从未试用过的几乎没有什么体验的「体验版浏览器」，然后**只需要输入网址「Reabble.com」就可以打开这个服务。**
+
+要在 Reabble 上开始浏览 RSS，你**需要使用你的 Inoreader 帐号来登陆**。少数派推荐过 [Inoreader](http://sspai.com/27576)，这是一个比 Feedly 功能更强大 RSS 订阅网站，虽然它稍微丑了一点，但这不妨碍什么。
+
+使用 Inoreader 成功登陆 Reabble 后，你就可以立即开始在舒适的电子墨水屏幕上阅读 RSS 了。当然，你的已读与未读，还有收藏的文章都是同步的——毕竟这是一个在线服务。
+
+![](.evernote-content/57DDBD71-BFE5-4D69-8D05-9A07587FE754/5097EC89-E04A-4813-82F8-5127613EBB9C.jpg)
+
+你知道，Kindle 的电子墨水屏幕刷新缓慢，你要用它来拖动查看网页真是痛苦无比。因此，**Reabble 为 Kindle 的操作体验进行了优化，在 Reabble 上所有的操作都是点击而无需拖动。**
+
+打个比方，要在 Kindle 上完成拖动来查看完整列表这样的操作简直能让你烦到晕厥过去。而如果你使用 Reabble，只需要点击翻页按钮就可以查看全部列表了。在阅读文章时也是如此，你不再需要拖动网页，你只需要像在 Kindle 上阅读原生文档一样在屏幕右侧点击就可以翻页，Reabble 不光为你实现了**横屏翻页**，还在底部为你显示了**进度条**，缓解你焦虑的心。
+
+![](.evernote-content/57DDBD71-BFE5-4D69-8D05-9A07587FE754/4512A056-91F9-45D3-AF9F-91A0664B517C.jpg)
+
+![](.evernote-content/57DDBD71-BFE5-4D69-8D05-9A07587FE754/4224EA55-F2D5-4D6D-83DA-8E66F05DE022.jpg)
+
+**全文输出是要有的** ，因为不提供全文的 RSS 源可没有考虑过你在 Kindle 上浏览网页是不是方便。在阅读一篇文章时点击左上角，就可以为你输出全文。当然这里还有一些别的快捷操作，比如**点击顶部返回文章列表，点击右上角直接阅读下一篇文章**，这些操作很自然，可以让你很快上手。左下角的菜单还能让你设定排版和对文章收藏。
+
+![](.evernote-content/57DDBD71-BFE5-4D69-8D05-9A07587FE754/9AD3F344-1B30-4A89-9429-FC4B19E6ADAF.jpg)
+
+很快，你就可以开始熟练地用 Reabble 阅读 RSS 了。
+
+回想起以前，倒是有一段时间兴起过 RSS 的推送服务，它们每天定时把 RSS 推送到你的 Kindle 里，不过慢慢就让人感觉很烦，因为推送的文章数量有限，加入的图片数量也有限制来控制文档大小，而且还无法与你在用的 RSS 服务同步已读和收藏。唯一的好处是离线，但久而久之也变成了坏处——越来越多的投递文档侵占着你的 Kindle 和云存储空间，还需要你手动清理。
+
+![](.evernote-content/57DDBD71-BFE5-4D69-8D05-9A07587FE754/C35BF0AD-056D-4BB9-BF69-B200942BE358.jpg)
+
+![](.evernote-content/57DDBD71-BFE5-4D69-8D05-9A07587FE754/6A97962E-7411-44B2-B7CB-598A74291569.jpg)
+
+现在有了 Reabble，倒是都为你解决了这些问题，在 Kindle 上读新闻，终于找回了一点报纸的感觉。哦对了，虽然这个服务不是免费的，但你可以试用一个月。然后你猜猜付费价格是多少？**一年 19 人民币**，嗯，我说的是一年哦。
+
+即使累到不想读书，但希望这个 RSS 服务至少能在你阅读新闻时保护你的视力。记得在 Kindle 内置浏览器中输入 **[Reabble.com](http://Reabble.com)** 就可以直接使用这项服务，你需要准备的只是你设定好的 Inoreader 帐号。
+
+好了，今天就到这里，那么你现在可以把 Kindle 摆在床头了。不过依然希望明天早上叫醒你的是梦想，反正你知道 Kindle 是没有闹钟的。
+
+文章来源 [少数派](http://sspai.com) ，原作者 [特伦](http://sspai.com/author/687709) ，转载请注明原文链接
+
+喜欢少数派？欢迎关注我们的微博：@少数派sspai ，微信公众号： sspaime  
+少数派（ <http://sspai.com> ）
+
+[![](.evernote-content/57DDBD71-BFE5-4D69-8D05-9A07587FE754/0CA7B5F5-7368-426E-B8F6-2181D83422F4.jpg)](http://aos.prf.hn/click/camref:111l75A/pubref:buyAW/destination:http%3A%2F%2Fwww.apple.com%2Fcn%2Fwatch%2Fbuy%2F)
+
+---
+
+[🌐 原始链接](http://sspai.com/32936)
+
+[📎 在印象笔记中打开](evernote:///view/207087/s1/e89cf2fd-1a9a-4f9b-bb14-a93f069e19ea/e89cf2fd-1a9a-4f9b-bb14-a93f069e19ea/)

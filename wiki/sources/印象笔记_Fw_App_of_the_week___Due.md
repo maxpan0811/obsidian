@@ -1,0 +1,56 @@
+---
+title: "Fw_App of the week _ Due"
+type: source
+created: 2026-07-15
+updated: 2026-07-15
+source_path: 印象笔记管理工具/Fw_App of the week _ Due.md
+tags: [印象笔记]
+---
+
+# Fw_App of the week _ Due
+
+# Fw:App of the week | Due --- | | | | --- | --- | | | 潘渤 | | maxpan0811@hotmail.com | | 签名由 [网易邮箱大师
+
+---
+
+# Fw:App of the week | Due
+
+---
+
+|  |  |
+| --- | --- |
+|  | 潘渤 |
+| maxpan0811@hotmail.com | |
+
+签名由
+[网易邮箱大师](https://mail.163.com/dashi/dlpro.html?from=mail81)
+定制
+
+--------- Forwarded Message ---------
+
+From： 
+
+[Setapp Team <hello@setapp.com>](mailto:hello@setapp.com)
+
+Date： 
+12/18/2020 00:35
+
+To： 
+
+[Max Pan <maxpan0811@hotmail.com>](mailto:maxpan0811@hotmail.com)
+
+Subject： 
+App of the week | Due
+
+An app that remembers everything so that you don't have
+to. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  | | --- | |  | |  | | Set reminders you can't possibly miss | | Meet the world's most persistent reminder tool, Due. Unlike other apps that gently prompt you to complete tasks, Due actually makes sure you complete them. Create reminders for anything and keep receiving notifications until you mark your task done, reschedule, or disable auto snooze. Even save countdown timers for repetitive jobs. With Due, you're never overdue. | | [See how it works](https://eur06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsetapp.cmail19.com%2Ft%2Fd-l-cktuiil-jykhhikhut-j%2F&data=04%7C01%7C%7C73f662f0acd542d5554208d8a2a9b98d%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637438197126784516%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=vgOm%2FWOWrpf9PIAYmPQMCoWirrVqPsAMhwvf07STwSo%3D&reserved=0) | |  | | Why Due | | * Handy time picker (subtract or add time) * Custom auto snooze intervals * Mark complete or reschedule in one click * Run and reuse countdown timers | | [See how it works](https://eur06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsetapp.cmail19.com%2Ft%2Fd-l-cktuiil-jykhhikhut-t%2F&data=04%7C01%7C%7C73f662f0acd542d5554208d8a2a9b98d%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637438197126794510%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=h6pgewUKCMq1Ivn4%2FGw0VeuuDBJH8bdeaAKF3dmNTgg%3D&reserved=0) | |  | | You might also like | | |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Dash | | | |  | | --- | | Offline access to all the API documentation sets you need for your dev projects.  [Learn more](https://eur06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsetapp.cmail19.com%2Ft%2Fd-l-cktuiil-jykhhikhut-d%2F&data=04%7C01%7C%7C73f662f0acd542d5554208d8a2a9b98d%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637438197126804505%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=jV3%2F94A8cx2nANYwlGpARin%2Fb8SSDIsPuJfaecIs314%3D&reserved=0) | |  |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Keysmith | | | |  | | --- | | Create custom shortcuts (macros) for anything on your Mac and on the web.  [Learn more](https://eur06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsetapp.cmail19.com%2Ft%2Fd-l-cktuiil-jykhhikhut-k%2F&data=04%7C01%7C%7C73f662f0acd542d5554208d8a2a9b98d%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637438197126814499%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=srvO%2B1XWcn5ARpn98adUWoawTkMddWGQOt2rB0VUQms%3D&reserved=0) | | | | | |  | | --- | |  | | This week's highlights | | |  | | --- | |  | | Hide (and don't seek) desktop icons | | There are two things that make you human: eating dessert before dinner and making a mess out of your Mac's desktop. This guide will help with the latter. | | [Read now](https://eur06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsetapp.cmail19.com%2Ft%2Fd-l-cktuiil-jykhhikhut-o%2F&data=04%7C01%7C%7C73f662f0acd542d5554208d8a2a9b98d%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637438197126814499%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=Dmglq8Y89n0O4Czjpi523v4UVo4skSZHhYP0uhxS8Zw%3D&reserved=0) | | | |  | | --- | |  | | How to edit login items on Mac | | Do you know what's harder than remembering passwords? Finding them on your Mac. Here's how to find and change any login item securely. | | [Read now](https://eur06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsetapp.cmail19.com%2Ft%2Fd-l-cktuiil-jykhhikhut-n%2F&data=04%7C01%7C%7C73f662f0acd542d5554208d8a2a9b98d%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637438197126824493%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=5IJ43nquaQASsY7jZeq73y1ryjDoLYC3UfNNeE0gMbM%3D&reserved=0) | | | What did you think of this email? | |  | |  | | This email was sent by Setapp Ltd. | | [Manage subscriptions](https://eur06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsetapp.updatemyprofile.com%2Fd-cktuiil-E5349AC7-jykhhikhut-f&data=04%7C01%7C%7C73f662f0acd542d5554208d8a2a9b98d%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637438197126844482%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=qQ3vdLuBZM8edeTO6zmDe1euY93HxOBo9eTPvR27xRc%3D&reserved=0) [Unsubscribe](https://eur06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsetapp.cmail19.com%2Ft%2Fd-u-cktuiil-jykhhikhut-z%2F&data=04%7C01%7C%7C73f662f0acd542d5554208d8a2a9b98d%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637438197126854475%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=WF1vzcRWtaYMZOKQD3R9EibTaPQuetOwVJsW4AIHarY%3D&reserved=0) | | NSC Campus, Mahon, Cork, T12 XY2N, Ireland | |  | | | |
+
+[📎 在印象笔记中打开](evernote:///view/207087/s1/bf188ad4-9469-4ec3-a179-02c5465ee2d2/bf188ad4-9469-4ec3-a179-02c5465ee2d2/)

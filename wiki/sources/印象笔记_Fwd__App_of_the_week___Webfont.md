@@ -1,0 +1,37 @@
+---
+title: "Fwd_ App of the week _ Webfont"
+type: source
+created: 2026-07-15
+updated: 2026-07-15
+source_path: 印象笔记管理工具/Fwd_ App of the week _ Webfont.md
+tags: [印象笔记]
+---
+
+# Fwd_ App of the week _ Webfont
+
+# Fwd: App of the week | Webfont --- Get [Outlook for iOS](https://aka.ms/o0ukef) --- **From:** Seta
+
+---
+
+# Fwd: App of the week | Webfont
+
+---
+
+Get [Outlook for iOS](https://aka.ms/o0ukef)
+
+---
+
+**From:** Setapp Team <hello@setapp.com>  
+**Sent:** Thursday, August 6, 2020 22:02  
+**To:** Max Pan  
+**Subject:** App of the week | Webfont
+
+Your own icon fonts in one spot  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  | | --- | |  | |  | | Create curated SVG icon fonts on Mac | | Any self-respecting codebase deserves icon fonts. Webfont is an awesome Mac app that lets you create as many of them as needed. Drag and drop vector icons into a project, customize, and export in a click. | | From there, you can easily copy and paste CSS to use it anywhere on a website. If there’s more than one person working on it, share your fonts, or invite the team to collaborate on a project. Easy squeezy. | | [Check it out](https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsetapp.cmail19.com%2Ft%2Fd-l-clukue-jykhhikhut-j%2F&data=02%7C01%7C%7C3674d2959f294cdcfc2108d83a116164%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637323193601633016&sdata=R%2B5vgW4sTEYv458ScDuskNNhwEejAzlLRGQJ80cLzYs%3D&reserved=0) | |  | | Why Webfont | | * Customize each icon on the go * Shared access across teams * Easy to share and export * Drag and drop new icons to update the font | | [Check it out](https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsetapp.cmail19.com%2Ft%2Fd-l-clukue-jykhhikhut-t%2F&data=02%7C01%7C%7C3674d2959f294cdcfc2108d83a116164%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637323193601633016&sdata=l76Ges3Z3Fc6jPuuMSjcIUy9XEcE4yF%2FsWtZ7CIjld8%3D&reserved=0) | |  | | Newly added apps | | |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Diagrams | | | |  | | --- | | Enhance your presentations and communicate complex stuff with effective diagrams.  [Learn more](https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsetapp.cmail19.com%2Ft%2Fd-l-clukue-jykhhikhut-d%2F&data=02%7C01%7C%7C3674d2959f294cdcfc2108d83a116164%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637323193601643010&sdata=PSwmeDcteLZr6IOA7vjLAL2gQPD%2BZdFJU30A3mKJkho%3D&reserved=0) | |  |  |  |  | | --- | --- | --- | | |  | | --- | |  | | PliimPro | | | |  | | --- | | One-click presentation assistant that allows you to safely share your screen.  [Learn more](https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsetapp.cmail19.com%2Ft%2Fd-l-clukue-jykhhikhut-k%2F&data=02%7C01%7C%7C3674d2959f294cdcfc2108d83a116164%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637323193601653002&sdata=aKUCe6pMOY61ZvCA2vzOCYPgvF0V%2FfTKcKmJodIeYOU%3D&reserved=0) | | | | | |  | | --- | |  | | Discover on blog | | |  | | --- | |  | | Forget Instagram cropping you best vacation pictures | | How to adjust horizontal photos for Instagram stories? How to optimize size for vertical, square, and horizontal photos? In this article, we’ll answer all those questions. | | [Read now](https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsetapp.cmail19.com%2Ft%2Fd-l-clukue-jykhhikhut-o%2F&data=02%7C01%7C%7C3674d2959f294cdcfc2108d83a116164%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637323193601662996&sdata=h%2BNtwZQtemjKEcYYKZSyfXI7M%2BnoQnUupRCzfQFvpFI%3D&reserved=0) | | | |  | | --- | |  | | Get rid of browsing history on your iOS and iPadOS devices | | Here’s all you need to know about how to clear cache on iPhone and iPad. Remove redundant clutter and make sure no one sees your browsing history. | | [Read now](https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsetapp.cmail19.com%2Ft%2Fd-l-clukue-jykhhikhut-n%2F&data=02%7C01%7C%7C3674d2959f294cdcfc2108d83a116164%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637323193601662996&sdata=kfMAxyPT7qrV%2BexW3Ia8gy6dD5fZAd83AdXPWkwbZgI%3D&reserved=0) | | | What did you think of this email? | |  | |  | | This email was sent by Setapp Ltd. | | [Manage subscriptions](https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsetapp.updatemyprofile.com%2Fd-clukue-E5349AC7-jykhhikhut-f&data=02%7C01%7C%7C3674d2959f294cdcfc2108d83a116164%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637323193601682987&sdata=b6xcsn5s3mzsY5ikyGFqEkV8mxfTAWoYXdY9elgaJzY%3D&reserved=0) [Unsubscribe](https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsetapp.cmail19.com%2Ft%2Fd-u-clukue-jykhhikhut-z%2F&data=02%7C01%7C%7C3674d2959f294cdcfc2108d83a116164%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637323193601692982&sdata=SjRsBYkpl6lmNnO5uuyIETojnxC4UnxINYzfuzf9g9U%3D&reserved=0) | | NSC Campus, Mahon, Cork, T12 XY2N, Ireland | |  | | | |
+
+[📎 在印象笔记中打开](evernote:///view/207087/s1/2b293806-b5c0-4e96-ae40-f870b3fb39f3/2b293806-b5c0-4e96-ae40-f870b3fb39f3/)

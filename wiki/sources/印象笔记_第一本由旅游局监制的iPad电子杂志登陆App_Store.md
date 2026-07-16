@@ -1,0 +1,39 @@
+---
+title: "第一本由旅游局监制的iPad电子杂志登陆App Store"
+type: source
+created: 2026-07-15
+updated: 2026-07-15
+source_path: 印象笔记管理工具/第一本由旅游局监制的iPad电子杂志登陆App Store.md
+tags: [印象笔记]
+---
+
+# 第一本由旅游局监制的iPad电子杂志登陆App Store
+
+# 第一本由旅游局监制的iPad电子杂志登陆App Store --- 第一本由旅游局监制的iPad电子杂志登陆App Store ============================= weip
+
+---
+
+# 第一本由旅游局监制的iPad电子杂志登陆App Store
+
+---
+
+第一本由旅游局监制的iPad电子杂志登陆App Store
+=============================
+
+weiphone.com | Nov 30th -0001  
+  
+iPad电子杂志也在推陈出新！目前，四川省旅游局联合壹旅游公司，以成都为专题内容，推出了第一本iPad电子杂志《天府自游行（成都专辑）》。
+
+据了解，《天府自游行（成都专辑）》多媒体杂志，是四川省旅游局和壹旅游公司历时数月制作完成的，结合了视频、原创动画、手绘地图还有原创音乐等多媒体元素。这是国内第一本官方推出的iPad旅游杂志，动画封面+手绘地图+原创音乐+语音互动是杂志的四大特色。翻阅杂志，会带给你与传统杂志完全不同的视听体验。
+
+省旅游局拟将《天府自游行》杂志制作为系列电子期刊，未来会以线路、景区等专题宣传四川旅游。杂志的制作方壹旅游公司，是位于天府软件园的本土高科技企业，以“数字化旅游”为主体业务，在旅游数字化内容制作、旅游信息软件开发、旅游智能机研发方面享誉国内，曾是去年上海世博园数字化导游的合作伙伴，近期该公司研发的“自游行”智能机，是全球第一台以旅游为产品定位的智能平板电脑。
+
+《天府自游行（成都专辑）》电子杂志现已在App Store正式发布，一经上架便受到iPad用户的热捧，并成为旅游类杂志排行第一名。西博会期间，这本杂志限时免费下载，请抓紧时间，这本杂志绝对值得收藏！
+
+![](.evernote-content/388F990A-BF24-4EF0-9BD2-09DB3780DFB9/B1BC1A9D-DD61-4FA4-BC89-560DDD6A6BC4.jpg)  
+
+Original Page: <http://www.weiphone.com/iPad/app/2011-10-25/First_produced_by_the_Tourism_Bureau_of_the_iPad_App_Store_e-_magazine_visit_304024.shtml>
+
+Shared from [Read It Later](http://readitlaterlist.com/)
+
+[📎 在印象笔记中打开](evernote:///view/207087/s1/4b5101a6-bde0-446a-bf3e-a7ae8b5413da/4b5101a6-bde0-446a-bf3e-a7ae8b5413da/)

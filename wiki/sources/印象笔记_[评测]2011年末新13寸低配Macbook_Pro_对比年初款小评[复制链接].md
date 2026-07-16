@@ -1,0 +1,36 @@
+---
+title: "[评测]2011年末新13寸低配Macbook Pro 对比年初款小评[复制链接]"
+type: source
+created: 2026-07-15
+updated: 2026-07-15
+source_path: 印象笔记管理工具/[评测]2011年末新13寸低配Macbook Pro 对比年初款小评[复制链接].md
+tags: [印象笔记]
+---
+
+# [评测]2011年末新13寸低配Macbook Pro 对比年初款小评[复制链接]
+
+# [评测]2011年末新13寸低配Macbook Pro 对比年初款小评[复制链接] --- | | | --- | | [[评测]](http://www.macx.cn/forum.php?mo
+
+---
+
+# [评测]2011年末新13寸低配Macbook Pro 对比年初款小评[复制链接]
+
+---
+
+|  |
+| --- |
+| [[评测]](http://www.macx.cn/forum.php?mod=forumdisplay&amp;fid=4000&amp;filter=typeid&amp;typeid=3)[2011年末新13寸低配Macbook Pro 对比年初款小评](http://www.macx.cn/thread-2024569-1-1.html)[[复制链接]](http://www.macx.cn/thread-2024569-1-1.html "您的朋友访问此链接后，您将获得相应的积分奖励") |
+
+|  |  |
+| --- | --- |
+|  |  |
+
+|  |  |  |
+| --- | --- | --- |
+| [insidejob](http://www.macx.cn/space-uid-181088.html)  **[insidejob](http://www.macx.cn/space-uid-181088.html)***当前离线*  注册时间  2010-9-11  最后登录  2011-10-27  在线时间  2451 小时  阅读权限  200  积分  4125  帖子  [3731](http://www.macx.cn/home.php?mod=space&amp;uid=181088&amp;do=thread&amp;type=reply&amp;view=me&amp;from=space)  精华  9  UID  181088  [狗仔卡](http://www.macx.cn/home.php?mod=magic&amp;mid=checkonline&amp;idtype=user&amp;id=insidejob)  *[.](http://www.macx.cn/home.php?mod=spacecp&amp;ac=usergroup&amp;gid=1)*  注册时间  2010-9-11  积分  4125 | 电梯直达 **[*1*#](http://www.macx.cn/thread-2024569-1-1.html "您的朋友访问此链接后，您将获得相应的积分奖励")** *发表于 昨天 23:49*|[只看该作者](http://www.macx.cn/forum.php?mod=viewthread&amp;tid=2024569&amp;page=1&amp;authorid=181088)|[倒序浏览](http://www.macx.cn/forum.php?mod=viewthread&amp;tid=2024569&amp;extra=page%3D1&amp;ordertype=1)  |  | | --- | | 昨天 23:42 上传 [**下载附件** (129.4 KB)](http://www.macx.cn/forum.php?mod=attachment&amp;aid=MzUzMDc5fGMxOWZmYWZkfDEzMTk3Njg3MDR8MHwyMDI0NTY5&amp;nothumb=yes "屏幕快照 2011-10-27 下午10.38.29.jpg 下载次数:0")   苹果本周刚刚对Macbook Pro笔记本电脑产品线进行了小幅度的升级，此次升级主要包括CPU、GPU和硬盘容量的小幅度升级，具体报道[跳转可见](http://www.macx.cn/thread-2024089-1-1.html)。   这次苹果网为大家首先带来的是刚刚更新的2011年末新款13英寸Macbook Pro低配的对比评测。13英寸低配的Macbook Pro产品是全系列Macbook Pro用户群最为广泛的一个型号，也是大家最为关注的。此次更新中，13英寸低配Macbook Pro获得了两个方面的提升： 1、CPU：Core i5 2.3GHz——Core i5 2.4GHz 2、硬盘：320GB——500GB  先来看开箱照，MD313包装与外观与前辈产品MC700完全一样，随机配送物品也相同，自带狮子系统后同样不再赠送光盘。  昨天 23:42 上传 [**下载附件** (53.68 KB)](http://www.macx.cn/forum.php?mod=attachment&amp;aid=MzUzMDc3fDY3YWJjMTY4fDEzMTk3Njg3MDR8MHwyMDI0NTY5&amp;nothumb=yes "屏幕快照 2011-10-27 下午10.34.58.jpg 下载次数:0")  8 小时前 上传 [**下载附件** (65.94 KB)](http://www.macx.cn/forum.php?mod=attachment&amp;aid=MzUzMDk4fDI2ZDliNGJifDEzMTk3Njg3MDR8MHwyMDI0NTY5&amp;nothumb=yes "234214o76guuxjmgi222u2.jpg 下载次数:0")   昨天 23:42 上传 [**下载附件** (66.59 KB)](http://www.macx.cn/forum.php?mod=attachment&amp;aid=MzUzMDc2fDhkNmQzYTNmfDEzMTk3Njg3MDR8MHwyMDI0NTY5&amp;nothumb=yes "屏幕快照 2011-10-27 下午10.34.27.jpg 下载次数:0")  昨天 23:42 上传 [**下载附件** (73.9 KB)](http://www.macx.cn/forum.php?mod=attachment&amp;aid=MzUzMDc4fGE5YTQxNDg3fDEzMTk3Njg3MDR8MHwyMDI0NTY5&amp;nothumb=yes "屏幕快照 2011-10-27 下午10.36.25.jpg 下载次数:0")    经过简单的配置进入系统，首先迎接我们的是iCloud注册，没错，通过这个大家已经可以猜到新产品是自带OS X 10.7.2系统的  昨天 23:42 上传 [**下载附件** (158.37 KB)](http://www.macx.cn/forum.php?mod=attachment&amp;aid=MzUzMDgzfGUxYTYyOWNifDEzMTk3Njg3MDR8MHwyMDI0NTY5&amp;nothumb=yes "2.jpg 下载次数:0")    接着来看一下配置和系统概述，提升的部分只有CPU与硬盘容量，500G硬盘是东芝公司的产品：  昨天 23:42 上传 [**下载附件** (37.04 KB)](http://www.macx.cn/forum.php?mod=attachment&amp;aid=MzUzMDczfDc4MzMxNDhlfDEzMTk3Njg3MDR8MHwyMDI0NTY5&amp;nothumb=yes "3.png 下载次数:0")  昨天 23:42 上传 [**下载附件** (46.11 KB)](http://www.macx.cn/forum.php?mod=attachment&amp;aid=MzUzMDcyfDljZDI0N2IxfDEzMTk3Njg3MDR8MHwyMDI0NTY5&amp;nothumb=yes "1.jpg 下载次数:0")    既然没有什么可以更多关注的地方，那就闲话少说直接进入Geekbench跑分。经过10次的跑分测试，2011年末低配13英寸Macbook Pro的得分均在6690左右，取最接近平均值的得分6691。  昨天 23:42 上传 [**下载附件** (228.1 KB)](http://www.macx.cn/forum.php?mod=attachment&amp;aid=MzUzMDc0fGViMGY5Mzg1fDEzMTk3Njg3MDR8MHwyMDI0NTY5&amp;nothumb=yes "4.png 下载次数:0")    通过此前的 [评测文章](http://www.macx.cn/thread-1749658-1-1.html) 我们直接使用当初2011年初前辈产品的得分6495进行对比，来看看2.3GHz与2.4GHz CPU的差别有多大：  昨天 23:42 上传 [**下载附件** (12.54 KB)](http://www.macx.cn/forum.php?mod=attachment&amp;aid=MzUzMDgxfDQ3YzI3NjEzfDEzMTk3Njg3MDR8MHwyMDI0NTY5&amp;nothumb=yes "屏幕快照 2011-10-27 下午10.56.07.jpg 下载次数:0")   昨天 23:42 上传 [**下载附件** (13.78 KB)](http://www.macx.cn/forum.php?mod=attachment&amp;aid=MzUzMDgyfGFlYjg0OGI1fDEzMTk3Njg3MDR8MHwyMDI0NTY5&amp;nothumb=yes "屏幕快照 2011-10-27 下午10.58.00.jpg 下载次数:0")  通过计算，我们可以得出年末新款在性能方面的提升为3%，而在硬盘容量的提升为56.25%.   ---   小结：3%的性能提升作用有多大？如果从日常使用，凭我们的感受是不会十分明显的，但性能提高是确实存在的，可以在长期的使用中帮助提高运行效率。而硬盘空间提升的比例却是达到了56%，可以多方多少文件在这里就不细说了，现在硬盘价格已经很低廉了，苹果早该提升了。    ---   导购：苹果官方的价格是没有变化。目前市场上2011年初的机型依然有少部分供货，现在这些年初的Macbook Pro的价格已经接近最低点了，如果不在乎此次小幅性能提升的朋友可以选择在近期入手。而2011年末新款机型由于刚刚上市，近期的确会和价格进入最低点的年初产品形成一个几百元的差价，类似多花些钱买更高的性能，但还是那句话，早入手早享受，怎样决断还看自己的需求程度。 | |
+
+---
+
+[🌐 原始链接](http://www.macx.cn/thread-2024569-1-1.html)
+
+[📎 在印象笔记中打开](evernote:///view/207087/s1/368d9790-0b9f-4302-8a5d-43711a05378f/368d9790-0b9f-4302-8a5d-43711a05378f/)

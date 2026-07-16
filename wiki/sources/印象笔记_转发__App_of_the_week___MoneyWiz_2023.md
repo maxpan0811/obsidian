@@ -1,0 +1,38 @@
+---
+title: "转发_ App of the week _ MoneyWiz 2023"
+type: source
+created: 2026-07-15
+updated: 2026-07-15
+source_path: 印象笔记管理工具/转发_ App of the week _ MoneyWiz 2023.md
+tags: [印象笔记]
+---
+
+# 转发_ App of the week _ MoneyWiz 2023
+
+# 转发: App of the week | MoneyWiz 2023 --- **发件人****:** Setapp Team <hello@setapp.com> **日期****:** 星期
+
+---
+
+# 转发: App of the week | MoneyWiz 2023
+
+---
+
+**发件人****:** Setapp Team <hello@setapp.com>  
+**日期****:**
+星期二, 2023年5月23日
+22:42  
+**收件人****:** Max Pan <maxpan0811@hotmail.com>  
+**主题****:** App of the week | MoneyWiz 2023
+
+Manage your spending, budget, and review expenses with MoneyWiz 2023
+🪄  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  | | --- | |  | |  | | Manage your spending, bills, and budgets | | Looking to get a better grasp on your personal finances? This handy tool on Setapp can help you manage income and spending, track bills, create budgets, and analyze your personal finances. Available both for macOS and iOS, MoneyWiz 2023 is the money manager app to try | | [Check it out](https://setapp.cmail20.com/t/d-l-vlyluyk-jykhhikhut-j/) | |  | | **Why MoneyWiz 2023** | | * Input spending and income * Create and manage budgets * Generate forecasts using recurring expenses * Import data from your bank | | [View on Setapp](https://setapp.cmail20.com/t/d-l-vlyluyk-jykhhikhut-t/) | |  | | **Fresh on Setapp** | | |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Luminar Neo | | | |  | | --- | | Whether your photos need just a little zhuzh or total overhaul, this AI-powered editor is up for the task!  [Go to app](https://setapp.cmail20.com/t/d-l-vlyluyk-jykhhikhut-d/) | |     |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Structured | | | |  | | --- | | Manage your schedule on the go and set timely notifications about upcoming tasks.  [Go to app](https://setapp.cmail20.com/t/d-l-vlyluyk-jykhhikhut-k/) | | | | |  | | |  | | --- | |  | | **Read on the blog** | | |  | | --- | |  | | Analyze your WiFi with these tools | | Browse our selection of Mac apps to quickly scan and review your WiFi connections. Perfect both for routine checks or troubleshooting! | | [Read on](https://setapp.cmail20.com/t/d-l-vlyluyk-jykhhikhut-o/) | | | |  | | --- | |  | | How to use Mac widgets | | Are you making the best of widgets on your Mac? Our quick guide will help you master this useful feature. | | [Read on](https://setapp.cmail20.com/t/d-l-vlyluyk-jykhhikhut-n/) | | | **What did you think of this email?** | |  | |  | | This email was sent by Setapp Ltd. | | [Manage subscriptions](https://setapp.updatemyprofile.com/d-vlyluyk-E5349AC7-jykhhikhut-v) [Unsubscribe](https://setapp.cmail20.com/t/d-u-vlyluyk-jykhhikhut-e/) | | 9‌ Tallow Street, Youghal, Co. Cork, P36YE14, Ireland | |  | | | |
+
+[📎 在印象笔记中打开](evernote:///view/207087/s1/718bc829-730e-4567-8fc6-459127974dc0/718bc829-730e-4567-8fc6-459127974dc0/)

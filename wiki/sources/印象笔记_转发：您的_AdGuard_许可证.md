@@ -1,0 +1,41 @@
+---
+title: "转发：您的 AdGuard 许可证"
+type: source
+created: 2026-07-15
+updated: 2026-07-15
+source_path: 印象笔记管理工具/转发：您的 AdGuard 许可证.md
+tags: [印象笔记]
+---
+
+# 转发：您的 AdGuard 许可证
+
+# 转发：您的 AdGuard 许可证 --- | | | | --- | --- | | 发件人 | [AdGuard<order@adguard.com>](mailto:order@adguar
+
+---
+
+# 转发：您的 AdGuard 许可证
+
+---
+
+|  |  |
+| --- | --- |
+| 发件人 | [AdGuard<order@adguard.com>](mailto:order@adguard.com) |
+| 发送日期 | 2023年12月16日 10:14 |
+| 收件人 | [<642770893@qq.com>](mailto:642770893@qq.com) |
+| 主题 | 您的 AdGuard 许可证 |
+
+许可证信息和接下来要做的事情 
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| |  |  |  | | --- | --- | --- | |  | |  | | --- | | [购买](https://email-link.adtidy.org/email.html?m=j71kas1t9p&l=5yTRVLYMpjYKlIGuLV07116Dl9NlgpNId2wfvUuWlHkJ3ASOO6uiaaV8cJSiLqRLfW59BN5nCmsDMlv1KkPKdErBps4WPglX3PizpAHmj2ojSFrSdFTIzd9jtrKDz9BuQ2aFyvVH4cHfK7hl2qk89VvfaaZxahoGJwLSDXOuCS1LxZulBf2Co2FhUaahKFFAW1) | | |
+| |  |  | | --- | --- | | |  | | --- | |  | | | |  | | --- | | 您的 AdGuard 许可证 | | | |  | | --- | | 感谢您选择 AdGuard！这是您的许可证详细信息。 | | | |  | | --- | | 许可证: 个人（最多可连接 3 台设备），1 年订阅 | | | |  | | --- | | 许可证密钥：H2E9YE57FG5EASCH | | | |  | | --- | | 订单编号： 11623829 | | | |  | | --- | | 要激活您的许可证，请安装 AdGuard 应用程序并使用您的 AdGuard 账号或您的许可证密钥登录。 | | | |  | | --- | | [获取 AdGuard 应用程序](https://email-link.adtidy.org/email.html?m=j71kas1t9p&l=5yTRVLYMpjYKlIGuLV0710dka5ZwdGMxeUhOLb1KQ9w1Y0HT6MiwqllddUZM9nPoQNNpvgISVYjNA9nP18BuJuyTVvfe6pPVA5XWCjWb0ObSlZ9zcP0x9UAalFSPVITZXU3QEje6nadK2pafEUK7cdFZ85B8vhCzs0NoZm0JtSmdEwoerNcexkkyobCjOlgBvW) | | |
+| |  | | --- | | 保护所有设备免受广告侵害 | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  | | --- | |  | | Windows | | |  | | --- | | [下载](https://email-link.adtidy.org/email.html?m=j71kas1t9p&l=5qjrCyj6qV3i2sYx9n0VYfBZCyq8XC4HfwM2vfhcszPhBn2YyJxMBCPeKofQ0FdzOeaDlkluMnz8tfBJHGvqOTDdTk9MkEb6JAPWN4Jns07J0wHvcYdD161vdtYh8lwUVqSu3CoB9vPx4DAZBijwHYruGkIJSPjUUDM5ioDcZG9pUaEQkPh01HjBnv4bcmwAnhSb24A17S4Hlcl4Xrzd8BQOT8SDwdae1QEP57mXZOdQs) | | |         |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  | | --- | |  | | macOS | | |  | | --- | | [下载](https://email-link.adtidy.org/email.html?m=j71kas1t9p&l=kYVUPBjUefQY5gdlKlbTCOVICTFq3FE0A5GLhDU5rDV7ZTx3kT9nYRmzmZX1AsIFHAdM1Ej2FBnWGP9aWXPJzylqtXspGMvfESOKwQTIRmuX4lXL5p8Vj1rIWll8PIHDUXhn4qO164klK1Gh4vChQrv3or29GfcvfrUOdTUZHP3ezhiQVM1gT1chSYvCCiRmD7xq4S5PBxguFNCx63NzCtf) | | |         |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  | | --- | |  | | Android | | |  | | --- | | [下载](https://email-link.adtidy.org/email.html?m=j71kas1t9p&l=5qjrCyj6qV3i2sYx9n0VYfBZCyq8XC4HfwM2vfhcszPhBn2YyJxMBCPeKofQ0FdzPA3I1RNPzSzr9BBaZmhdAEgV3hYOaZtTtQvyhvP7Gh3T1LJjdg7x01NxKqv5TRiywSJSs4voNqClEHBli0GQYDhYb7YLpNf6jrbMioOSse1dGtETRD0PjIrUuKG84uPJC4elYUnWUJbLLFkrck9pJBeeAlBXKBMApRHy8AcEmNThT) | | |         |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  | | --- | |  | | iOS | | |  | | --- | | [安装](https://email-link.adtidy.org/email.html?m=j71kas1t9p&l=kYVUPBjUefQY5gdlKlbTCOVICTFq3FE0A5GLhDU5rDV7ZTx3kT9nYRmzmZX1AsIFLGzBBghhK5tB7mQMfKmVfzaxPPAtGHjIu7CCLVo5U6jXZR7enE35EDA7tyqKqJr6cggjuJj4HL53nMieBXRWk3U6OKOk0kL9iTJMEbsNmKRuEhnUw7ih3hyUFQZXpuJhfI6lFyNsBwQQWQxAptxYInw) | | | | |
+| |  | | --- | | 试试我们的其他产品 | | |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | | |  | | --- | |  | | AdGuard VPN | | 让用户匿名浏览网页 | | |  | | --- | | [相关信息](https://email-link.adtidy.org/email.html?m=j71kas1t9p&l=6RYgP1VOfh7vdhiYDQ3BoAxaWX3ELPok87Eiat24uaa5pZbZnBcgYHyo8EDnnQEb6inxd1ryWpAJ1uL0SLoYw33Voz7HADFUSdLqgOznyb4ffwrkVP2g5puu3t38GD8JQyjgW0p5T8zkDHl2I1xlZaSQLNY80aO8ir01Bm4wH2YsqvNFo72wObVzPWHUF5zZqj) | | |         |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | | |  | | --- | |  | | AdGuard DNS | | 帮助控制所有设备上的网络流量 | | |  | | --- | | [相关信息](https://email-link.adtidy.org/email.html?m=j71kas1t9p&l=6RYgP1VOfh7vdhiYDQ3BoAZqFqobVrJYCXv1ttWZDulcxWkLARMlkaY1lrL0Up5RCUHPl7jnsdAEoSMiSnghIGBQ9BB68T7Zu8jV9KQlEfgyp3AF2CFR8xxTRCfYW1ACfrdssoAaLgyY1HcqmPZDosEDaGUnMq3qgpuTNIVgHf1Vl9JLUCIAvSolpdIh4H7y6I) | | | | |
+| |  | | --- | | 为 AdGuard 评分 | | 您的反馈有助于我们改进 AdGuard 服务。要在 AdGuard 网站上留下评论，请按下面的按钮。 | | |  | | --- | | [为 AdGuard 评分](https://email-link.adtidy.org/email.html?m=j71kas1t9p&l=5yTRVLYMpjYKlIGuLV0711JQD8rGmZJ2FK0AmXEaeAnpwJsKTVlMZljzzDWXvClE5z248W9TZvH2m34ykBVY2jsGxVIIbTBIaJNQMDSNAGPk2Geczoti8DE6yuxKbiXmUxhngT5X6DW8Agbmq8kuIruHHQ3vbwTzs6ThrWSfy9QdfOzsROAgGmJMTF8JQxBshR) | | |
+| |  | | --- | | 有关于 AdGuard 广告拦截程序的问题吗？请联系我们的[支持团队](mailto:support@adguard.com)。 | | [© 2009–2023 Adguard Software Ltd.](https://email-link.adtidy.org/email.html?m=j71kas1t9p&l=lY3nedEHt6thaTg6m7CsOYWn65B3dpYIs61n54MmjlhyGEuorXlYN8BAoVKiFBt6dPkhPzFrfR4ITnWyKdmvBQ5U1M6OeJ3iAytZ2NbLWwqw7aylbmWDNUewAxD2kmlBheWlEeEkQiyGgCqkVy6ULQoYZsbAfgSNHVCULHsR4d6y) | | 交易类邮件让用户了解账号活动、密码重设以及购买行为。用户只能通过删除 [AdGuard 账号](https://email-link.adtidy.org/email.html?m=j71kas1t9p&l=Ydlv6bLfxZcY3YkcHmmNyX72S9S3e4Al85T5KdBL8wieAyLxof5rbZkFJ6EAqxyXs9ZIdJXJpeiwv02PowEQofuDCiuvqWBtgy7ZxZcoj3rexZRr2whkjH2HmMmPS4ui9JuruxX4MYhk7Gp4VQ5XJoQLhZKidwL0DnEoDl7pGtRoD0801Wp8HXwRA6C4xn1MhNgV2kKMo80eMKmM6tb1wLB)取消交易类邮件的订阅。 | |
+
+![](https://email-link.adtidy.org/open/j71kas1t9p)
+
+[📎 在印象笔记中打开](evernote:///view/207087/s1/075618f1-30f1-49be-aa51-218eebdd31b2/075618f1-30f1-49be-aa51-218eebdd31b2/)

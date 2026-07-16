@@ -1,0 +1,56 @@
+---
+title: "Fw_App of the week _ Speech Central"
+type: source
+created: 2026-07-15
+updated: 2026-07-15
+source_path: 印象笔记管理工具/Fw_App of the week _ Speech Central.md
+tags: [印象笔记]
+---
+
+# Fw_App of the week _ Speech Central
+
+# Fw:App of the week | Speech Central --- | | | | --- | --- | | | 潘渤 | | maxpan0811@hotmail.com | | 
+
+---
+
+# Fw:App of the week | Speech Central
+
+---
+
+|  |  |
+| --- | --- |
+|  | 潘渤 |
+| maxpan0811@hotmail.com | |
+
+签名由
+[网易邮箱大师](https://mail.163.com/dashi/dlpro.html?from=mail81)
+定制
+
+--------- Forwarded Message ---------
+
+From： 
+
+[Setapp Team <hello@setapp.com>](mailto:hello@setapp.com)
+
+Date： 
+12/24/2021 01:34
+
+To： 
+
+[Max Pan <maxpan0811@hotmail.com>](mailto:maxpan0811@hotmail.com)
+
+Subject： 
+App of the week | Speech Central
+
+Listen to content with text-to-speech suite Speech Central and stay focused on what matters.
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  | | --- | |  | |  | | Meet text-to-speech suite | | Tired of getting sidetracked by endless distractions on and off the web? Start getting just the info you need with text-to-speech suite Speech Central. The app turns headlines, articles, and other content to speech for easy listening — now or later. Explore this newcomer on Setapp! | | [Check it out](https://apac01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsetapp.cmail19.com%2Ft%2Fd-l-ahjitn-jykhhikhut-w%2F&data=04%7C01%7C%7Ce4202b51fffa493bd7a508d9c63a7ee5%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637758776809999037%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=T82uLdWApnuqEyNiN%2FXNFjM%2BUyLjhqO%2BC8sqy3KeKUk%3D&reserved=0) | |  | | Why Speech Central | | * Turn headlines and articles to speech * Adjust voice settings * Export audio files * Save content for later | | [Check it out](https://apac01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsetapp.cmail19.com%2Ft%2Fd-l-ahjitn-jykhhikhut-yd%2F&data=04%7C01%7C%7Ce4202b51fffa493bd7a508d9c63a7ee5%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637758776809999037%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=XCvyd%2F9OPYID%2BRZZoB23k%2F7ab0XQgZkT32jSAxhLvA4%3D&reserved=0) | |  | | Eye on the updates | | * [CleanShot X](https://apac01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsetapp.cmail19.com%2Ft%2Fd-l-ahjitn-jykhhikhut-yh%2F&data=04%7C01%7C%7Ce4202b51fffa493bd7a508d9c63a7ee5%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637758776809999037%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=6uX63bLr9JFu8%2B1hLUPw1Fsm9YrZx65DBFkWbJlF8V8%3D&reserved=0) introduces editable projects format, more saving options, and other updates * [Taskheat](https://apac01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsetapp.cmail19.com%2Ft%2Fd-l-ahjitn-jykhhikhut-yk%2F&data=04%7C01%7C%7Ce4202b51fffa493bd7a508d9c63a7ee5%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637758776809999037%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=w2jGwIAsqxqi9mcXydUjMwLWu%2BUYUk6n3MaP1elodmo%3D&reserved=0) expands recurring tasks functionality, brings Siri shortcuts, and more | |  | | Our fresh additions | | |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Wunderbucket | | | |  | | --- | | Use this magic website maker to turn your folders into instant websites.  [Learn more](https://apac01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsetapp.cmail19.com%2Ft%2Fd-l-ahjitn-jykhhikhut-jl%2F&data=04%7C01%7C%7Ce4202b51fffa493bd7a508d9c63a7ee5%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637758776809999037%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=AwVN1fbE%2BQjufB0OUQCJWhSQNltEjIFPAJobvv5Whx0%3D&reserved=0) | |  |  |  |  | | --- | --- | --- | | |  | | --- | |  | | MonsterWriter | | | |  | | --- | | Utilize this Setapp newcomer to write, format, and navigate your academic texts.  [Learn more](https://apac01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsetapp.cmail19.com%2Ft%2Fd-l-ahjitn-jykhhikhut-jy%2F&data=04%7C01%7C%7Ce4202b51fffa493bd7a508d9c63a7ee5%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637758776809999037%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=teVKTY%2ByAYQadpAw9kF1KNhUdtr3uw9vJrkiEuEJXys%3D&reserved=0) | | | | | |  | | --- | |  | | Read on the blog | | |  | | --- | |  | | Customize your folders on Mac | | Did you know you can customize folder icons and even the background? Click below to find out how in our fresh guide. | | [Read now](https://apac01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsetapp.cmail19.com%2Ft%2Fd-l-ahjitn-jykhhikhut-jt%2F&data=04%7C01%7C%7Ce4202b51fffa493bd7a508d9c63a7ee5%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637758776809999037%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=uQNO7NZ8ZbOh%2B1u4VvhVJHG9dhF%2FhIjg%2F%2FAUt52tgOM%3D&reserved=0) | | | |  | | --- | |  | | Best time-tracking apps for 2022 | | Time flies, and the New Year is almost here. Don't let the hours pass you by in the coming year with these handy time-trackers! | | [Read now](https://apac01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsetapp.cmail19.com%2Ft%2Fd-l-ahjitn-jykhhikhut-jd%2F&data=04%7C01%7C%7Ce4202b51fffa493bd7a508d9c63a7ee5%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637758776809999037%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=XLo5N%2BKxG26SsPlTmLhibbLmOiQf%2FpgAxb5ofnT97FM%3D&reserved=0) | | | What did you think of this email? | |  | |  | | This email was sent by Setapp Ltd. | | [Manage subscriptions](https://apac01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsetapp.updatemyprofile.com%2Fd-ahjitn-E5349AC7-jykhhikhut-tj&data=04%7C01%7C%7Ce4202b51fffa493bd7a508d9c63a7ee5%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637758776809999037%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=PMIi8BStWy9rpcxx4IRKTGG2dmP6Wb%2Bn64iN%2BEkj544%3D&reserved=0) [Unsubscribe](https://apac01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsetapp.cmail19.com%2Ft%2Fd-u-ahjitn-jykhhikhut-tt%2F&data=04%7C01%7C%7Ce4202b51fffa493bd7a508d9c63a7ee5%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637758776809999037%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=r8CawwHzHEhK9ndrak7vUDwQla0UGjM%2Fdv8NtyqVXmA%3D&reserved=0) | | 9‌  Tallow Street,  Youghal, Co. Cork,  P36YE14, Ireland | |  | | | |
+
+[📎 在印象笔记中打开](evernote:///view/207087/s1/eb9e1762-54d5-48ed-bc29-ffe22f263c0f/eb9e1762-54d5-48ed-bc29-ffe22f263c0f/)

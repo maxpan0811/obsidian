@@ -1,0 +1,127 @@
+---
+title: "全球首发！武汉19-nCoV 肺炎影像学表现"
+type: source
+created: 2026-07-15
+updated: 2026-07-15
+source_path: 印象笔记管理工具/全球首发！武汉19-nCoV 肺炎影像学表现.md
+tags: [印象笔记]
+---
+
+# 全球首发！武汉19-nCoV 肺炎影像学表现
+
+# 全球首发！武汉19-nCoV 肺炎影像学表现 --- 全球首发！武汉19-nCoV 肺炎影像学表现 ---------------------- 放射科 武汉协和医院 ![](.evernote-
+
+---
+
+# 全球首发！武汉19-nCoV 肺炎影像学表现
+
+---
+
+全球首发！武汉19-nCoV 肺炎影像学表现
+----------------------
+
+放射科 武汉协和医院
+
+![](.evernote-content/E5DE0501-1DD1-4ECA-ADCE-0EB483C28732/92D9F0AF-32BF-4F99-B88A-45F9B527694A.gif)
+
+我们武汉协和放射科组织人员统计分析确诊病例的病史资料和影像学表现，并查阅国内外文献。赶出了这套幻灯！供大家学习参考。全国全球该病的第一套影像诊断资料。
+
+这个疾病的影像学表现有特征：1. 早期，2. 进展期，3.重症期，4.治疗转归期，四个时期的影像表现不一样。与其它病毒性肺炎的CT表现也不一样！
+
+![](.evernote-content/E5DE0501-1DD1-4ECA-ADCE-0EB483C28732/AA631299-4EE1-425C-9C06-A9FDC6D6F4A6.png)
+
+**武汉19-nCoV肺炎影像学表现初探**
+
+![](.evernote-content/E5DE0501-1DD1-4ECA-ADCE-0EB483C28732/E8A419BA-3F68-4536-943C-23375996D212.jpg)
+
+![](.evernote-content/E5DE0501-1DD1-4ECA-ADCE-0EB483C28732/0E4F9CD4-723D-423C-8E6A-B3384D75D0A3.jpg)
+
+![](.evernote-content/E5DE0501-1DD1-4ECA-ADCE-0EB483C28732/520B7779-B88F-4367-946E-9556F95D183B.jpg)
+
+![](.evernote-content/E5DE0501-1DD1-4ECA-ADCE-0EB483C28732/7D0A1AF7-9BD6-4566-AC83-F7EC21FD7D36.jpg)
+
+![](.evernote-content/E5DE0501-1DD1-4ECA-ADCE-0EB483C28732/57CEA70F-25B2-4569-856F-649F77A061E3.jpg)
+
+![](.evernote-content/E5DE0501-1DD1-4ECA-ADCE-0EB483C28732/DF84D59E-DAB3-48CF-A9CB-88EB97830214.jpg)
+
+![](.evernote-content/E5DE0501-1DD1-4ECA-ADCE-0EB483C28732/3FFC66E8-EC43-4FE6-B8EC-7C9586E5681D.jpg)
+
+![](.evernote-content/E5DE0501-1DD1-4ECA-ADCE-0EB483C28732/9EA087A0-3315-46A8-9C24-1CF75E644536.jpg)
+
+![](.evernote-content/E5DE0501-1DD1-4ECA-ADCE-0EB483C28732/3F16FE6A-45F1-41AC-A5CC-C3098CFAA3CC.jpg)
+
+![](.evernote-content/E5DE0501-1DD1-4ECA-ADCE-0EB483C28732/05385EBB-8A64-4F43-A6E0-05292B901108.jpg)
+
+![](.evernote-content/E5DE0501-1DD1-4ECA-ADCE-0EB483C28732/F44C1877-D3A0-4B11-ACFB-01C41E45CDFE.jpg)
+
+![](.evernote-content/E5DE0501-1DD1-4ECA-ADCE-0EB483C28732/A4F38A17-6146-485E-A997-0DDC37A82DF0.jpg)
+
+![](.evernote-content/E5DE0501-1DD1-4ECA-ADCE-0EB483C28732/E8E1A1A6-A928-4E45-B93F-1EBBD4C3E221.jpg)
+
+![](.evernote-content/E5DE0501-1DD1-4ECA-ADCE-0EB483C28732/551431D3-7414-4D8C-93F9-FEE377AD9AE8.jpg)
+
+![](.evernote-content/E5DE0501-1DD1-4ECA-ADCE-0EB483C28732/35FD8399-F626-4F20-86B9-9B9A6C2DCA5F.jpg)
+
+![](.evernote-content/E5DE0501-1DD1-4ECA-ADCE-0EB483C28732/6CAE6DDC-AEF6-4F73-9429-AC03EE3C639B.jpg)
+
+![](.evernote-content/E5DE0501-1DD1-4ECA-ADCE-0EB483C28732/8172CA3B-1E22-4216-A66A-A062ADDD4309.jpg)
+
+![](.evernote-content/E5DE0501-1DD1-4ECA-ADCE-0EB483C28732/8E025275-D90B-43CC-846F-CB0BF5DFE026.jpg)
+
+![](.evernote-content/E5DE0501-1DD1-4ECA-ADCE-0EB483C28732/DFA2B951-74B1-4B2F-AA97-6430DFF9B56A.jpg)
+
+![](.evernote-content/E5DE0501-1DD1-4ECA-ADCE-0EB483C28732/92F7BD80-639C-4183-96F0-40417065D771.jpg)
+
+![](.evernote-content/E5DE0501-1DD1-4ECA-ADCE-0EB483C28732/7584E70A-C4E2-4FBF-9DC0-51BC0B4B3B51.jpg)
+
+![](.evernote-content/E5DE0501-1DD1-4ECA-ADCE-0EB483C28732/376D26B1-13BD-463C-91F0-8D90A4AC59D9.jpg)
+
+![](.evernote-content/E5DE0501-1DD1-4ECA-ADCE-0EB483C28732/D8864F09-5BD4-4C91-9316-ABB88352D0D7.jpg)
+
+![](.evernote-content/E5DE0501-1DD1-4ECA-ADCE-0EB483C28732/5D47EC96-E8F2-46A8-B996-A44FB96F853B.jpg)
+
+![](.evernote-content/E5DE0501-1DD1-4ECA-ADCE-0EB483C28732/5C983609-BBF6-453D-BFD3-9C35E91BEFB7.jpg)
+
+![](.evernote-content/E5DE0501-1DD1-4ECA-ADCE-0EB483C28732/F30831D6-7075-4BE2-BDAC-81EF31AAC267.jpg)
+
+**我们的城**
+
+**我们自己守护！**
+
+***还是和以往一样***
+
+***欢迎大家留言***
+
+***小编和专家期待和你的互动***
+
+***我们比你更关心你的健康！***
+
+![](.evernote-content/E5DE0501-1DD1-4ECA-ADCE-0EB483C28732/DD3BBE6C-5005-47EA-8A55-D425C71CE54B.jpg)
+
+—END—
+
+监制：孙晖 王继亮
+
+信息来源：放射科
+
+编辑制作：彭锦弦
+
+审稿：聂文闻
+
+转载请注明以上内容
+
+部分图片来源网络
+
+![](.evernote-content/E5DE0501-1DD1-4ECA-ADCE-0EB483C28732/00B2FF96-C94D-4C90-9B31-5E785D462586.jpg)
+
+***感谢关注，小编那么拼请点右下角"在看”噢！***
+
+![](.evernote-content/E5DE0501-1DD1-4ECA-ADCE-0EB483C28732/F0F66F35-A0C3-46E0-A2E0-8812B848D264.gif)
+
+在看
+
+---
+
+[🌐 原始链接](http://mp.weixin.qq.com/s?__biz=MjM5MzQ0MzI5Nw==&mid=2650810438&idx=3&sn=2c5783aa9a386ca938b24c6f62107b6c&chksm=bd6274c88a15fddeffe12720e185040e627388c39ad356fa2b1a88285e79d34758c20b5b1162&mpshare=1&scene=1&srcid=&sharer_sharetime=1579773486919&sharer_shareid=196a7290cec677abfe41ca4bbe251b79#rd)
+
+[📎 在印象笔记中打开](evernote:///view/207087/s1/90c77973-1fc0-4aaa-9316-f86ec95c3f87/90c77973-1fc0-4aaa-9316-f86ec95c3f87/)

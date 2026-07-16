@@ -1,0 +1,86 @@
+---
+title: "GitHub如何征服了Google、微软及一切"
+type: source
+created: 2026-07-15
+updated: 2026-07-15
+source_path: 印象笔记管理工具/GitHub如何征服了Google、微软及一切.md
+tags: [印象笔记]
+---
+
+# GitHub如何征服了Google、微软及一切
+
+# GitHub如何征服了Google、微软及一切 --- ![](.evernote-content/8A1AEF39-97C7-44BF-8890-F4508DFD3899/01EEC7CA-55
+
+---
+
+# GitHub如何征服了Google、微软及一切
+
+---
+
+![](.evernote-content/8A1AEF39-97C7-44BF-8890-F4508DFD3899/01EEC7CA-55F2-4E61-861A-28BC1A692699.png)
+
+Chris DiBona担心所有的东西会在一个地方终结。
+
+那是10年前，当时开源软件的想法尚未把技术世界翻个底朝天。开源的Linux操作系统已经在华尔街等地的大量机器上运行，证明了通过与世界免费共享软件代码一样可以创造巨大价值和金钱。但是开源社区的力量仍然相对较小。码农启动新的开源项目时，往往要到一个相当geeky且有时不大可靠的网站上，它的名字叫做SourceForge。
+
+DiBona ，Google的开源大牛担心把全世界所有的开源软件都放到一个篮子上的风险：“只有一个篮子，那个篮子就是SourceForge”。
+
+于是，像许多公司一样，Google建立了自己的网站，让大家来托管开源项目，这个网站的名字叫做Google Code。Linux等开源软件是Google建立在线帝国的基石，Google提供一个SourceForce替代的想法是，确保开源教不断演进，让它最终遍布全网。
+
+不过这中间杀出了个[GitHub](http://36kr.com/search?q=github)，而它的传播速度更快。
+
+今天，也就是诞生10年后，Google宣布关闭Googe Code。这个决定并不难预料。过去3年Google已经将大概1000个项目移出了网站。不过它的正式死亡值得注意。Google Code之死跟大环境脱不开关系，因为现在势力庞大的开源界大部分都把自己的代码托管到GitHub上。
+
+有人认为Google建Google Code可能有另外一个更加自私的想法：控制或者致力于把尽可能多的数据弄到它自己的机器上（这家公司一贯如此）。但GitHub最终体现出了比上述更高的价值。GitHub以比SourceForge或Google Code更彻底的方式实现了软件开发的民主化。而这就是软件开发世界最有价值的货币。
+
+**GitHub：开发者的猫薄荷**
+
+上线仅7年的GitHub现在据称已有将近900万注册用户。每个月还有2000万的访客浏览。根据web流量监控服务Alexa的数据，GitHub位列全球百大流行网站之中。
+
+可别小看GitHub的上榜，因为榜单上的其他网站不是社交网站就是Google在各国的局点，再就是媒体机构，主要用户为码农的GitHub是个异类。
+
+不过，具有讽刺意味的是，GitHub的成功之处正好在于开源世界回归到一个集中容器上。但这次DiBona的感觉跟大多数其他码农一样，对于把所有东西都放到一个地方感到相当欣慰。集中到一个地方可以让大家更容易就所有事情进开展协作。由于GitHub的独特设计，把所有鸡蛋放到一个篮子的压力并没有像SourceForge那么大。
+
+因为虽然GitHub在逻辑上是一个地方，但在物理上却无所不在。这一悖论正是开源软件的美丽之处—也是它对技术的未来很重要的原因。
+
+**Git Ready**
+
+如何解释这一悖论呢？这得扯到Git，这个“版本控制”软件是GitHub的基础。Git是Linux创始人Linus Torvalds于2005开发出来的。Git的好处是可以让许多人同时折腾一套代码而不会发生冲突。.
+
+或者说，Git的作用是让任何人很容易就可以复制一份Linux源代码到自己的机器上，进行变更，并可以在任何时候把变更上传到中心版本库上。而且每个人的变更都可以无缝地合并到一起。“这就是Git天才的地方，” DiBona说：“而GitHub的天才指出在于它理解这一点。”
+
+GitHub创建了这样一个网站，这个网站让任何其他项目基本都能像Linux项目一样运作，使得一般编码者都能轻松掌握。“GitHub的确非常流畅，”经历过这场开源革命的Slashdot主编Rob “CmdrTaco” Malda说：“它拥有一个性感且现代的界面。”
+
+现在相当大部分的人都把自己的开源项目托管在GitHub上，其中就包括Google、Facebook、Twitter甚至还包括开源界一度讨厌的微软。最近几个月，微软开始把自己部分最重要的代码开源了，它把这些代码托管在GitHub而不是自己的开源网站CodePlex。
+
+S. “Soma” Somasegar，这位掌管微软大量工具的老兵说CodePlex像SourceForge及BitBucket等库一样仍将继续运营。但是他把GitHub视为像Microsoft.NET这样的项目的唯一托管地。“开发者在哪里我们就去哪里，”他说：“而大多数的开源社区都在GitHub上。”
+
+**公私兼顾**
+
+尽管如此，正是由于DiBona所谓的“Git的天才之处”，这个社区也能脱离GitHub运营。由于有了Git，编码者在做特定项目时不仅能够将代码搬到自己的机器上，也很容易就能够“fork（分支）”出代码，然后建立新的独立项目。他们还可以将部分代码公开并让一部分代码保持私有。
+
+所以Git和GitHub并不仅仅适用于开源软件。也能用在私有代码上。从私有到公有的转换十分方便。你可以孤军奋战，也可以发挥集体的力量。这就是开源的天才之处。
+
+Google就是这么干的。它的新一代语言Go就在GitHub上托管，且是彻底公开的。有个名为Kartes的项目放在GitHub私有库上面，但是这个又为另一个名为Kubernetes的公开项目提供资源。Chrome浏览器则托管在Google内部的一个私有Git服务上。
+
+微软这里系统也是基本一样的运作方式。该公司内部通过Visual Studio及Team Foundation Server这样的工具来使用Git。通过将Visual Studio及Team Foundation Server这样的工具提供给世界，微软也在将Git推给其他的业务。Somasegar估计约有20%的微软客户或多或少在使用Git。
+
+**开发者是人**
+
+此外，软件开发者社区已不再渺小。他们现在几乎就是掌控世界的人。对于GitHub挤进了前100，Doll认为：“这告诉我一点，即软件正变得跟书面文字一样重要。”
+
+Google工程师Igor Minar说，开发者社区变得如此之庞大，以至于GitHub现在不得不努力提供可以适应其最大型项目活动的工具。Minar是开源项目Angular的监管人，这个托管在GitHub上的项目有上万开发者参与。
+
+开发者无所不在。其中许多都在GitHub上。而在GitHub上，他们正在为上千万的开源项目作出贡献。Minar把这个网站看作是某种集市，上面几乎有任何你想要的代码—且大都是免费的。“想找东西上GitHub就可以了”。总之，开源已经到来。而这意味着我们最终可以比以前迅捷得多的方式建设塑造和改善我们的世界。
+
+*有关GitHub的文章还可以参见：*
+
+[开放的力量—破解GitHub的发展密码](http://36kr.com/p/215000.html?utm_source=site_search)
+
+[GitHub：互联网上的创新中心](http://36kr.com/p/204785.html?utm_source=site_search)
+
+---
+
+[🌐 原始链接](http://www.36kr.com/p/533581.html)
+
+[📎 在印象笔记中打开](evernote:///view/207087/s1/2f03745f-6d5d-4089-b04c-5a62d99364b9/2f03745f-6d5d-4089-b04c-5a62d99364b9/)

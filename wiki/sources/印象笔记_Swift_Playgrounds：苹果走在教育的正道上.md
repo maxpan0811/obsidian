@@ -1,0 +1,42 @@
+---
+title: "Swift Playgrounds：苹果走在教育的正道上"
+type: source
+created: 2026-07-15
+updated: 2026-07-15
+source_path: 印象笔记管理工具/Swift Playgrounds：苹果走在教育的正道上.md
+tags: [印象笔记]
+---
+
+# Swift Playgrounds：苹果走在教育的正道上
+
+# Swift Playgrounds：苹果走在教育的正道上 --- 尽管果粉们对苹果在 WWDC 上提到的 Swift Playgrounds 教学应用并不太感兴趣，但在这个生态无比重要的大环境下，
+
+---
+
+# Swift Playgrounds：苹果走在教育的正道上
+
+---
+
+尽管果粉们对苹果在 WWDC 上提到的 Swift Playgrounds 教学应用并不太感兴趣，但在这个生态无比重要的大环境下，它能够帮助孩子们迅速成长成为下一代的开发者。Swift Playgrounds 或将对苹果很重要，就效果上来说，它也很有可能代表着高科技教育的正确方向。
+
+![](.evernote-content/36920130-46F9-4500-8837-E6EF452E384B/1D486AED-2180-4038-9059-AB054B6FFCBC.jpg)
+
+就孩子们学习编程这一点上，如今存在着两个误区。第一个误区是让他们过快地接触编程本身，缺乏对概念和理念这些基础的打造。另外，编程教育通常太过抽象和精简，许多老师会尝试所谓的“伪代码”，学生根本无法使用它。前一种情况会让孩子们不知所措，不理解整体的概念会导致他们吸收知识困难；后一种情况虽然能让学生有更好的概念理解，但他们接触的东西和实际并没有太大的关系。
+
+苹果 Swift Playgrounds 最成功的一点是，它将概念和实践结合在了一起，先让孩子们理解概念，然后才开始实际编程。在第一课中，Swift Playgrounds 将系鞋带的过程转化成了 Swift 语法的代码，让学习者能够体会到程序的本质，还有它的运作原理。有了这样的理解，孩子们才不会出现理解困难，不知道代码为什么要呈现出那种面貌。
+
+尽管 Swift Playgrounds 应用内的代码无法让你写出能够提交到 App Store 中的应用，但学生们在其中能够使用到的是真真正正的 Swift 语言。而且在程序编写完成之后，他们能够即时进行调试，并且查看结果。这样的体验，比起那些简化的代码更实在，使得孩子们在接触实际的代码编写时不需要再经过一次学习的过程。
+
+最让人受到触动的一点是，苹果的 Swift 开发团队表示该语言在最初设计的时候，他们就已经考虑到了教育。不仅仅是要让已有的开发者更容易使用它，还为了让其他人能迅速学习上手。从 Swift 第一次亮相至今已经过去了两年，Swift Playgrounds 不是此间哪个高管的灵机一动，而是“早有预谋”。
+
+有趣的是，Swift Playgrounds 团队中的每一个人都当了父亲或母亲，他们也因此被激发了动力。如果一个学生通过学习了解了 Swift 代码的使用，他的知识就可以被应用在 SceneKit、Metal 等一切方面。
+
+Swift Playgrounds 是苹果极具野心的一步，而且它很有可能已经走在了正确的方向上。许多巨头都十分重视开发者的教育和培养，但苹果的这步看起来更加友好。很期待它未来还会推出什么，将“寓教于乐”进行到底。
+
+[阅读全文](http://www.feng.com/iPhone/news/2016-07-17/Swift-Playgrounds-apple-walk-on-the-right-ways-of-the-education_652059.shtml)
+
+---
+
+[🌐 原始链接](http://www.feng.com/iPhone/news/2016-07-17/Swift-Playgrounds-apple-walk-on-the-right-ways-of-the-education_652059.shtml)
+
+[📎 在印象笔记中打开](evernote:///view/207087/s1/17bb1ee3-9bbc-4721-abb4-75655e7a44bb/17bb1ee3-9bbc-4721-abb4-75655e7a44bb/)

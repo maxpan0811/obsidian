@@ -1,0 +1,37 @@
+---
+title: "Fwd_ App of the week _ Moment"
+type: source
+created: 2026-07-15
+updated: 2026-07-15
+source_path: 印象笔记管理工具/Fwd_ App of the week _ Moment.md
+tags: [印象笔记]
+---
+
+# Fwd_ App of the week _ Moment
+
+# Fwd: App of the week | Moment --- Get [Outlook for iOS](https://aka.ms/o0ukef) --- **From:** Setap
+
+---
+
+# Fwd: App of the week | Moment
+
+---
+
+Get [Outlook for iOS](https://aka.ms/o0ukef)
+
+---
+
+**From:** Setapp Team <hello@setapp.com>  
+**Sent:** Wednesday, September 23, 2020 22:24  
+**To:** Max Pan  
+**Subject:** App of the week | Moment
+
+Keep track of life events on Mac. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  | | --- | |  | |  | | Make every moment of your life count | | Meet Moment, an app that tracks moments. Create countdown timers for anything you look forward to, or set the app to count up from a past date. See yearly/monthly/weekly progress — and even progress on your own age. Moment is hugely customizable: you can turn countdown timers into menu bar items, personalize events with photos, set reminders, and more. | | [Check it out](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsetapp.cmail19.com%2Ft%2Fd-l-cjdbhk-jykhhikhut-j%2F&data=02%7C01%7C%7Cc89a9c8d0e0f4fa0d24e08d85fcc56f9%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637364678520565376&sdata=fCeVhBiJg58wkUhVBxSW%2FppNyCrtRYYquq%2BqL42q99A%3D&reserved=0) | |  | | Why Moment | | * Countdown and count up timer * Ability to add events to the menu bar * Custom look through emojis and photos * Integrates with Today Widget | | [Check it out](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsetapp.cmail19.com%2Ft%2Fd-l-cjdbhk-jykhhikhut-t%2F&data=02%7C01%7C%7Cc89a9c8d0e0f4fa0d24e08d85fcc56f9%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637364678520575369&sdata=8hRYFJkvHx0VG7xyqyX3hwAaLXS2QZjhjZHn2E5WXgM%3D&reserved=0) | |  | | More new apps | | |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | NoNotify | | | |  | | --- | | Enable Do Not Disturb mode in specific apps. Choose where to focus.  [Learn more](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsetapp.cmail19.com%2Ft%2Fd-l-cjdbhk-jykhhikhut-d%2F&data=02%7C01%7C%7Cc89a9c8d0e0f4fa0d24e08d85fcc56f9%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637364678520595374&sdata=3eoYOapbbO%2FFo0wUJbiLoE1UdW5PudOiPTpHpnmPc98%3D&reserved=0) | |  |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Grids | | | |  | | --- | | Instagram app for Mac that lets you post Stories, upload photo/video, etc.  [Learn more](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsetapp.cmail19.com%2Ft%2Fd-l-cjdbhk-jykhhikhut-k%2F&data=02%7C01%7C%7Cc89a9c8d0e0f4fa0d24e08d85fcc56f9%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637364678520615351&sdata=Mz50t1Cl3A8QU61n6U3f1QubpPXbQCTID6PCzamZazo%3D&reserved=0) | | | | | |  | | --- | |  | | This week's how-tos | | |  | | --- | |  | | Password protect any folder on Mac | | Shared Mac? Learn how to keep all the sensitive information under lock and key. Here's how to add passwords to folders on Mac. | | [Read now](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsetapp.cmail19.com%2Ft%2Fd-l-cjdbhk-jykhhikhut-o%2F&data=02%7C01%7C%7Cc89a9c8d0e0f4fa0d24e08d85fcc56f9%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637364678520625346&sdata=pQ4k7gA4%2BZ4ZTyDi4E8wb0TNCKbUcHvMPqGfUp%2BhBl0%3D&reserved=0) | | | |  | | --- | |  | | Meet Google Meet | | Google Meet is by far the best solution if you want to have your video calls in a browser. Learn how to make the best out of it. | | [Read now](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsetapp.cmail19.com%2Ft%2Fd-l-cjdbhk-jykhhikhut-n%2F&data=02%7C01%7C%7Cc89a9c8d0e0f4fa0d24e08d85fcc56f9%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637364678520645338&sdata=tqwiaWDUQqU41ugky%2B%2Fkb8ROJiSq3EKNJ6tzfWjxf9E%3D&reserved=0) | | | What did you think of this email? | |  | |  | | This email was sent by Setapp Ltd. | | [Manage subscriptions](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsetapp.updatemyprofile.com%2Fd-cjdbhk-E5349AC7-jykhhikhut-f&data=02%7C01%7C%7Cc89a9c8d0e0f4fa0d24e08d85fcc56f9%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637364678520685337&sdata=CDmRLNuvqJTsQqNYliA1NFaK8YK8ABW5gYtFeUw69%2F8%3D&reserved=0) [Unsubscribe](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsetapp.cmail19.com%2Ft%2Fd-u-cjdbhk-jykhhikhut-z%2F&data=02%7C01%7C%7Cc89a9c8d0e0f4fa0d24e08d85fcc56f9%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637364678520695327&sdata=5PfBTAOzSgNKLBzEgMgOAtrNStn%2FIiZ5ocIETbHONsM%3D&reserved=0) | | NSC Campus, Mahon, Cork, T12 XY2N, Ireland | |  | | | |
+
+[📎 在印象笔记中打开](evernote:///view/207087/s1/4a332499-d9a7-4b74-a55f-e13958d93499/4a332499-d9a7-4b74-a55f-e13958d93499/)

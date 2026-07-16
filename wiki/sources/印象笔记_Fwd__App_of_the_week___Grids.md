@@ -1,0 +1,37 @@
+---
+title: "Fwd_ App of the week _ Grids"
+type: source
+created: 2026-07-15
+updated: 2026-07-15
+source_path: 印象笔记管理工具/Fwd_ App of the week _ Grids.md
+tags: [印象笔记]
+---
+
+# Fwd_ App of the week _ Grids
+
+# Fwd: App of the week | Grids --- Get [Outlook for iOS](https://aka.ms/o0ukef) --- **From:** Setapp
+
+---
+
+# Fwd: App of the week | Grids
+
+---
+
+Get [Outlook for iOS](https://aka.ms/o0ukef)
+
+---
+
+**From:** Setapp Team <hello@setapp.com>  
+**Sent:** Wednesday, September 9, 2020 23:38  
+**To:** Max Pan  
+**Subject:** App of the week | Grids
+
+Finally, full-fledged Instagram on Mac. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  | | --- | |  | |  | | Bring Instagram into your Mac routine | | The web version of Instagram might be the most unwieldy thing in the world. Luckily, there's an alternative. We're thrilled to welcome Grids, an app that makes Instagram on Mac feel normal. Grids is the only desktop app that allows you to view and post stories. And not only that! DMs, likes, comments, photo/video upload, and anything you've ever done on Instagram — covered. | | [Check it out](https://nam05.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsetapp.cmail20.com%2Ft%2Fd-l-cyktruk-jykhhikhut-j%2F&data=02%7C01%7C%7C235d54c75b8441e5582008d854d65c71%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637352626931736345&sdata=H%2BPN%2FxI%2BBVLDsD4rvxZquGGYfxQer9cgHB7DHOKQqbc%3D&reserved=0) | |  | | Why Grids | | * Post stories from your Mac's desktop * Switch across accounts * Share locations, tags, and posts in DMs * Get notified about likes, comments, and followers * Choose from 4 beautiful layout styles | | [Check it out](https://nam05.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsetapp.cmail20.com%2Ft%2Fd-l-cyktruk-jykhhikhut-t%2F&data=02%7C01%7C%7C235d54c75b8441e5582008d854d65c71%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637352626931746338&sdata=sr4P7Ff0F%2FKtFPM4k2t9myWLnmir5N5aaZSJeISdiQ0%3D&reserved=0) | |  | | More new apps on Setapp | | |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Carbonize | | | |  | | --- | | Convert source code into shareable images, effortlessly. Check it out.  [Learn more](https://nam05.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsetapp.cmail20.com%2Ft%2Fd-l-cyktruk-jykhhikhut-d%2F&data=02%7C01%7C%7C235d54c75b8441e5582008d854d65c71%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637352626931766327&sdata=VwdteVytfLBhXCXi78UoT4ug34A%2BEHC7PYl7JOFzMbE%3D&reserved=0) | |  |  |  |  | | --- | --- | --- | | |  | | --- | |  | | 24 Hour Wallpaper | | | |  | | --- | | 80+ high-quality wallpapers synced with your time and location.  [Learn more](https://nam05.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsetapp.cmail20.com%2Ft%2Fd-l-cyktruk-jykhhikhut-k%2F&data=02%7C01%7C%7C235d54c75b8441e5582008d854d65c71%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637352626931786321&sdata=iX5p%2Fa1dRZWrrssmapZ%2Bk1GJIYTNyAeuW1y0VLPvDWQ%3D&reserved=0) | | | | | |  | | --- | |  | | New on blog | | |  | | --- | |  | | Digital distractions to kill | | The amount of online distractions in the WFH era is insane. Now, more than ever, focus is the key. Here are 5 best ways to improve yours. | | [Read now](https://nam05.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsetapp.cmail20.com%2Ft%2Fd-l-cyktruk-jykhhikhut-o%2F&data=02%7C01%7C%7C235d54c75b8441e5582008d854d65c71%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637352626931816323&sdata=sYbVZQDzPHQ%2B3b5bg8VPoEMY1oVehBGDgu3gYMC%2BOBk%3D&reserved=0) | | | |  | | --- | |  | | Mac power on a budget | | The fastest and most reliable Macs that also happen to be the least expensive. Check out our 2020 edition of affordable Macs. | | [Read now](https://nam05.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsetapp.cmail20.com%2Ft%2Fd-l-cyktruk-jykhhikhut-n%2F&data=02%7C01%7C%7C235d54c75b8441e5582008d854d65c71%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637352626931836344&sdata=7ZPiqZ2rGSQhYAZ2fqXFLpAhmItOx1Z1cOrGAFZ4yks%3D&reserved=0) | | | What did you think of this email? | |  | |  | | This email was sent by Setapp Ltd. | | [Manage subscriptions](https://nam05.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsetapp.updatemyprofile.com%2Fd-cyktruk-E5349AC7-jykhhikhut-f&data=02%7C01%7C%7C235d54c75b8441e5582008d854d65c71%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637352626931876328&sdata=T2ElqiOObad%2FEbCnU%2BJWFEGxO3Ru9IbDNK7sNtg3THg%3D&reserved=0) [Unsubscribe](https://nam05.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsetapp.cmail20.com%2Ft%2Fd-u-cyktruk-jykhhikhut-z%2F&data=02%7C01%7C%7C235d54c75b8441e5582008d854d65c71%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637352626931886325&sdata=%2BuFE3sdlDGbctpvfYnLpdxaQbfBxrghTN6%2BkUIL85DM%3D&reserved=0) | | NSC Campus, Mahon, Cork, T12 XY2N, Ireland | |  | | | |
+
+[📎 在印象笔记中打开](evernote:///view/207087/s1/56243db4-9149-4e2e-ad83-e4282b334f3d/56243db4-9149-4e2e-ad83-e4282b334f3d/)

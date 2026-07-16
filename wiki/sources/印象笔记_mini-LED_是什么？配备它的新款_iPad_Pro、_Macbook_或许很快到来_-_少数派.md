@@ -1,0 +1,119 @@
+---
+title: "mini-LED 是什么？配备它的新款 iPad Pro、 Macbook 或许很快到来 - 少数派"
+type: source
+created: 2026-07-15
+updated: 2026-07-15
+source_path: 印象笔记管理工具/mini-LED 是什么？配备它的新款 iPad Pro、 Macbook 或许很快到来 - 少数派.md
+tags: [印象笔记]
+---
+
+# mini-LED 是什么？配备它的新款 iPad Pro、 Macbook 或许很快到来 - 少数派
+
+# mini-LED 是什么？配备它的新款 iPad Pro、 Macbook 或许很快到来 - 少数派 --- mini-LED 是什么？配备它的新款 iPad Pro、 Macbook 或许很快到
+
+---
+
+# mini-LED 是什么？配备它的新款 iPad Pro、 Macbook 或许很快到来 - 少数派
+
+---
+
+mini-LED 是什么？配备它的新款 iPad Pro、 Macbook 或许很快到来
+============================================
+
+![](.evernote-content/1C8C8F53-C018-455A-8674-1ED64BA9E3E0/25BCDF3E-D014-4A2D-99A2-34E022E3F3F3)
+
+mini-LED 是什么？配备它的新款 iPad Pro、 Macbook 或许很快到来
+
+1天前
+
+各家媒体的报道陆续指出，Apple 将在[新款 iPad Pro](https://www.macrumors.com/2021/03/17/digitimes-12-9-ipad-pro-mini-led-q2-2021/)、[新款 MacBook Pro](https://www.macrumors.com/2021/01/07/digitimes-mini-led-macbook-air-to-launch-in-2022/)上采用 mini-LED 技术，并将其作为产品的主要升级点。
+
+那什么是 mini-LED？相比于目前的屏幕优势又是什么？为什么 Apple 没有选择手机市场主流的 OLED？本文将围绕这几个问题展开，如果你有兴趣了解，不妨跟本文来一探究竟吧。
+
+什么是 mini-LED？优劣势何在
+------------------
+
+目前市面上的屏幕若以材质区分，主要以 LCD、OLED 两类为主。在近几年的手机市场中，OLED 逐渐取代了 LCD，即便在价格更实惠的机型中也是如此。
+
+LCD 即液晶显示器，它的发光原理主要依靠背光层（背光、彩色滤光片、液晶三者缺一不可）；而 OLED 则依靠有机化合物涂层发光，只需通电就会亮，并且由于没有液晶层、背光层的存在，相比 LCD，OLED 不仅拥有高对比度和高饱和度，还有着轻薄、可弯曲、省电的优势，市场发展空间十分巨大。
+
+![](.evernote-content/1C8C8F53-C018-455A-8674-1ED64BA9E3E0/3DF75CAD-C154-4015-A98E-5DACB3C101B8)
+
+OLED 的可弯曲特性，开启了 iPhone 的全面屏时代
+
+在这样的竞争背景下，传统 LCD 屏幕也在寻求新的突破，除了 Local Dimming（简称LD，局部调光）出现外，mini-LED 技术也应运而生：它并不是全新的屏幕材质，而是针对液晶层背光进行升级的一种屏幕背光技术，即将背光中的 LED 灯 Mini 化。
+
+一般情况下，传统 LCD 屏幕配备的 LED 背光往往只支持统一调节，无法对某一区域明暗进行单独调节，但借助 LD 便可实现屏幕分区，实现单独的亮度调节（受限于灯泡尺寸，分区数量仍有局限）。
+
+而 mini-LED 技术不同的地方在于，它的**背光灯泡尺寸更小**，可以让一块屏幕集成更多的背光灯泡，不仅实现了轻薄、可弯曲的特性，而且还让局部调光实现了比以前更精细的屏幕背光分区，达到更接近像素化的动态背光效果（更好地控制背光并带来更好的图像显示质量）。
+
+不过需要注意的是，mini-LED 技术本身并非涵盖局部调光（Local Dimming 局部调光、Full Array Local Dimming 全阵列局部调光），采用 mini-LED 技术也可以是统一亮灭且无分区的背光，但 mini-LED 技术在显示色彩上的进步，一定无法脱离与局部调光的结合。
+
+![](.evernote-content/1C8C8F53-C018-455A-8674-1ED64BA9E3E0/357804B9-D325-4544-9BA8-C3A133B6094E)
+
+mini-LED结构，图/ TCL
+
+基于上述的特性，mini-LED 技术的优势便十分明显：
+
+* **相比 LCD，拥有更高的屏幕亮度和对比度：**结合局部调光，支持单独控制更多的屏幕区域，明暗控制更灵活。在纯黑背景下，可以把分区调暗甚至关闭，获得接近 OLED 屏幕的对比度；
+* **相比 OLED，不存在低频频闪，拥有更长寿命：**由于采用传统背光层发光，mini-LED 并不会存在 OLED 屏幕的低频频闪问题，也不会因为有机材料寿命短，而引起的亮度不均匀和烧屏等问题。
+
+采用类似技术（但并非 mini-LED1)、背光由 576 个蓝光 LED 组成的 Pro Display XDR 就是对优势一最好的证明：全屏持续亮度 1000 尼特，峰值亮度可达 1600 尼特，对比度达到 1000000:1。
+
+![](.evernote-content/1C8C8F53-C018-455A-8674-1ED64BA9E3E0/FC000B67-6788-41AB-83CC-A29F906D9878)
+
+Pro Display XDR，图/Apple
+
+Apple 为什么会选择 mini-LED？
+----------------------
+
+尽管目前 iPad、MacBook 的屏幕观感都属于市场上的第一梯队，但传统 LCD 屏幕先天条件的限制，提升空间十分有限，并不能拥有 OLED 屏幕诸如无需背光源、可自发光、可视角度更大、色彩丰富、节能显著、可柔性弯曲等优点。
+
+不过若直接采用 OLED 屏幕，缺点也十分显著：
+
+* **寿命短，容易老化，不适合用在使用年限长的平板和电脑：**OLED 屏幕子像素自发光，若屏幕长时间显示同一画面，则该画面的子像素便都处于工作状态，长时间则寿命便降低，甚至会在该屏幕区域留下残影（烧屏）；
+* **加深对三星的依赖，议价权被削弱：**iPhone 等设备的屏幕面板目前主要产能由三星提供。若 Apple 其他产品线也继续采用三星的面板，则更会长期受制于三星。可参考近期 [iPhone 12 mini](https://9to5mac.com/2021/03/23/likely-apple-will-compensate-samsung/) 屏幕因采购低于预期，Apple 向三星支付赔偿。（类似赔偿 [2019 年](https://www.macrumors.com/2019/07/05/apple-paid-samsung-683-billion-missing-oled-target/)、[2020 年](https://www.macrumors.com/2020/07/13/apple-samsung-oled-panel-payment/)都发生过）；
+* **长期角度看成本始终偏高：**即便经过多年的发展和技术的迭代，OLED 屏幕在产能和成本上已有很大改善，但相对于成本更低的 LCD 屏幕、以及随着技术成熟而成本逐步下降的 mini-LED 技术，OLED 屏幕长期成本依然较高。
+
+在这样的背景下，mini-LED 技术的优势（结合局部调光技术的前提下），对 Apple 而言便十分明显：即在拥有可视角度更大、色彩丰富、节能显著、可柔性弯曲等优点的同时，不存在寿命问题以及不会加深对三星的依赖。即便目前 mini-LED 技术成本较高，但根据 LEDinside 的[调查](https://www.ledinside.com/intelligence/2020/5/miniled_cost_reduction)显示，预计 2022 年，mini-LED 技术的成本将有机会低于 OLED，形成更强的市场竞争力。
+
+而 Apple 也能借助 mini-LED 技术，对 iPad、MacBook 更高端更专业的 Pro 系列进行屏幕升级，以此来更好地与其他系列的产品进行区分。
+
+mini-LED 是电子设备屏幕的未来吗？
+---------------------
+
+先说结论，mini-LED 技术并非是电子设备屏幕的未来。
+
+mini-LED 技术的劣势同样明显：首先是依然集成背光区，屏幕面板在厚度、重量上与 OLED 仍有差距；其二并非是像素级的控光，目前还无法做到与 OLED 一样的单像素发光；其三是初期阶段的 mini-LED 制造成本高于传统的 LCD 和 OLED。
+
+在最普遍的电子设备手机（小型且高像素密度的屏幕）中，mini-LED 技术受限于像素密度、厚度功耗等问题，始终无法取代 OLED 的地位（由于手机换新周期短，OLED 寿命短也并非是问题）。未来几年，手机的屏幕应该会继续以高刷新率的 OLED 为主，但会在能耗控制上取得新的突破。
+
+根据 [The Elec](http://www.thelec.net/news/articleView.html?idxno=2535) 的报道，三星在 2021 年上半年开始为 Apple 生产拥有 LTPO 技术的 OLED 屏幕，相比于传统 OLED 拥有更低的功耗，新款 iPhone 将有望搭载该屏幕，并实现 120Hz 刷新率。
+
+![](.evernote-content/1C8C8F53-C018-455A-8674-1ED64BA9E3E0/3DE72088-D1C6-4479-AAD7-5A82D7D19C9C.gif)
+
+Apple Watch Series 5 使用 LTPO 技术：实现全天候显示的同时，续航未减弱
+
+不过在未来几年里，mini-LED 技术会在更换周期和使用年限长的中大型尺寸的显示器、液晶电视普遍使用。因为它的出现，缩小了 LCD 和 OLED 两种屏幕材质之间的差距，让 LCD 屏幕实现了媲美 OLED 的色彩质量和对比度，同时还不存在 OLED 使用寿命短的问题。但 mini-LED 技术必须尽快降低成本，才能真正取代传统 LCD，并在和 OLED 的竞争中取得价格优势。
+
+**至于电子设备屏幕的真正未来，业内普遍都认为会是 micro-LED 屏幕技术，并称之为次世代显示技术**。
+
+micro-LED 即微型发光二极管，是 LED 微缩化和矩阵化技术。简单点说，既是将 LED 背光源进行薄膜化、微小化、阵列化，集成度高并且具有自发光无需背光源的特性（采用无机氮化镓作为发光材料，相比 OLED 的有机材料使用寿命更长）。而 mini-LED 是介于传统 LED 与 micro-LED 之间，简单来说是在传统 LED 背光基础上改良的一种背光技术。而与 LCD、OLED 相比， micro-LED 在亮度、分辨率、对比度、能耗、使用寿命、响应速度和热稳定性等方面都具有明显的优势。
+
+micro-LED 所具备的优势，也很早让海外巨头 Apple、三星、SONY、LG 等纷纷投入研发。当下主要有两种发展趋势，分别是小间距大尺寸高分辨率的室外/室内公共显示，以及包含手机、电脑、电视、头戴式设备等的消费电子显示。
+
+但截止到 2021 年，使用 Micro LED 技术的产品大多停留在原型展示机阶段，进展到商品化的产品十分少见且价格高昂，比如三星发布的 [110 英寸 Micro LED 电视](https://finance.sina.com.cn/chanjing/gsnews/2020-12-10/doc-iiznctke5771939.shtml)，售价 1.7亿 韩元，约 102.5 万元人民币。
+
+![](.evernote-content/1C8C8F53-C018-455A-8674-1ED64BA9E3E0/68D51CDC-52C8-4655-8AD2-26EBF35EC95F)
+
+图/ 三星
+
+根据 LEDinside 的[报道](https://www.ledinside.cn/research/20200921-48236.html)，micro-LED 技术依然不够成熟，主要的挑战集中在关键技术的突破与量产成本的降低，在大众消费市场的商用化进程还很漫长。
+
+即便如此，它的种种优势表明，它确实代表着电子设备屏幕的未来方向。
+
+---
+
+[🌐 原始链接](https://sspai.com/post/65708)
+
+[📎 在印象笔记中打开](evernote:///view/207087/s1/8b3b9faa-660c-4828-97c3-f69c5b366c71/8b3b9faa-660c-4828-97c3-f69c5b366c71/)

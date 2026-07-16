@@ -1,0 +1,37 @@
+---
+title: "Fwd_ App of the week _ AdGuard"
+type: source
+created: 2026-07-15
+updated: 2026-07-15
+source_path: 印象笔记管理工具/Fwd_ App of the week _ AdGuard.md
+tags: [印象笔记]
+---
+
+# Fwd_ App of the week _ AdGuard
+
+# Fwd: App of the week | AdGuard --- Get [Outlook for iOS](https://aka.ms/o0ukef) --- **From:** Seta
+
+---
+
+# Fwd: App of the week | AdGuard
+
+---
+
+Get [Outlook for iOS](https://aka.ms/o0ukef)
+
+---
+
+**From:** Setapp Team <hello@setapp.com>  
+**Sent:** Wednesday, July 8, 2020 23:09  
+**To:** Max Pan  
+**Subject:** App of the week | AdGuard
+
+The #1 ad-blocking tool for Mac  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  | | --- | |  | |  | | Your Mac just went ad-free | | Meet AdGuard, the top trusted ad-blocking and privacy tool. Block ads across all browsers and inside apps. Prevent trackers from accessing your personal data. | | AdGuard is a full-featured safety toolkit that makes sure your web surfing is fast and secure. Written for macOS, a good friend for any browser. | | [Open AdGuard](https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsetapp.cmail20.com%2Ft%2Fd-l-mutthe-jykhhikhut-j%2F&data=02%7C01%7C%7Ccee9fe098abc4fe8948c08d82350e49a%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637298177619225217&sdata=xtQFA7POQwrh1qHJ4D7VbtoJWj%2FnO0zg99SVZo5dDhg%3D&reserved=0) | |  | | Why AdGuard | | * The first standalone ad blocker for Mac * Advanced tracking protection * Custom ad blocking filters * Manual blocking available * Saves traffic and improves browsing speed | | [Open AdGuard](https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsetapp.cmail20.com%2Ft%2Fd-l-mutthe-jykhhikhut-t%2F&data=02%7C01%7C%7Ccee9fe098abc4fe8948c08d82350e49a%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637298177619235209&sdata=FV7kONiLq3t8iJId%2F4ZLRspC5%2BboGZtJwB5MZA94r7Y%3D&reserved=0) | |  | | More new apps | | |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Presentify | | | |  | | --- | | Enhance your remote presentations with screen annotation and cursor rhighlight.  [Learn more](https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsetapp.cmail20.com%2Ft%2Fd-l-mutthe-jykhhikhut-d%2F&data=02%7C01%7C%7Ccee9fe098abc4fe8948c08d82350e49a%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637298177619245203&sdata=Pl4iEi3qOZ%2F7Ladb7LkO3IK95gxm87Fvyn%2FX1bLjal0%3D&reserved=0) | |  |  |  |  | | --- | --- | --- | | |  | | --- | |  | | Meeter | | | |  | | --- | | Zoom, Hangouts or FaceTime, this app brings all your upcoming meetings into one spot.  [Learn more](https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsetapp.cmail20.com%2Ft%2Fd-l-mutthe-jykhhikhut-k%2F&data=02%7C01%7C%7Ccee9fe098abc4fe8948c08d82350e49a%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637298177619245203&sdata=ERunWFjDBDo0LegEOFm5dcGd1d7LCj8kf4vCsfl0O%2BI%3D&reserved=0) | | | | | |  | | --- | |  | | Blog bestsellers | | |  | | --- | |  | | External drive, a stranger no more | | Here’s why your Mac won’t recognize an external drive and how to fix it. | | [Read now](https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsetapp.cmail20.com%2Ft%2Fd-l-mutthe-jykhhikhut-o%2F&data=02%7C01%7C%7Ccee9fe098abc4fe8948c08d82350e49a%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637298177619255198&sdata=KY%2BpBhGgGGEJe1lQOgkJaAFmtInUD9bRokI3oAXyqTQ%3D&reserved=0) | | | |  | | --- | |  | | Mirror, mirror on the Mac | | Fix camera not working on Mac — just in time to make it to your next remote meeting. | | [Read now](https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsetapp.cmail20.com%2Ft%2Fd-l-mutthe-jykhhikhut-n%2F&data=02%7C01%7C%7Ccee9fe098abc4fe8948c08d82350e49a%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637298177619265192&sdata=776Ihrl3LrpPoWQZ4cNYXG43Okiz3eMfCkKEAbHjRA4%3D&reserved=0) | | | What did you think of this email? | |  | |  | | This email was sent by Setapp Ltd. | | [Manage subscriptions](https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsetapp.updatemyprofile.com%2Fd-mutthe-E5349AC7-jykhhikhut-f&data=02%7C01%7C%7Ccee9fe098abc4fe8948c08d82350e49a%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637298177619285180&sdata=WlFfhm4z1It1u0xKlphF4VFnoMJ3L17mpzpj663u4bE%3D&reserved=0) [Unsubscribe](https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsetapp.cmail20.com%2Ft%2Fd-u-mutthe-jykhhikhut-z%2F&data=02%7C01%7C%7Ccee9fe098abc4fe8948c08d82350e49a%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637298177619285180&sdata=9ZhdxQDuiUsRzR38CsrNS0osakVnBMXXZGWFVFzePRQ%3D&reserved=0) | | NSC Campus, Mahon, Cork, T12 XY2N, Ireland | |  | | | |
+
+[📎 在印象笔记中打开](evernote:///view/207087/s1/4ed2fcea-d360-4788-a01e-d13349702a21/4ed2fcea-d360-4788-a01e-d13349702a21/)

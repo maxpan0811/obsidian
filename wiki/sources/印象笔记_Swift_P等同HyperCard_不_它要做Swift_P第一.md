@@ -1,0 +1,74 @@
+---
+title: "Swift P等同HyperCard_不 它要做Swift P第一"
+type: source
+created: 2026-07-15
+updated: 2026-07-15
+source_path: 印象笔记管理工具/Swift P等同HyperCard_不 它要做Swift P第一.md
+tags: [印象笔记]
+---
+
+# Swift P等同HyperCard_不 它要做Swift P第一
+
+# Swift P等同HyperCard?不 它要做Swift P第一 --- 对于那些想接触编程世界的朋友来说，苹果在 WWDC 2016 上为我们带来的 Swift Playgrounds 或许是
+
+---
+
+# Swift P等同HyperCard?不 它要做Swift P第一
+
+---
+
+对于那些想接触编程世界的朋友来说，苹果在 WWDC 2016 上为我们带来的 Swift Playgrounds 或许是一个非常不错的选择，而苹果也希望更简单，更有趣味性的 Swift Playgrounds 可以让更多的孩子对编程产生兴趣。好吧，在节奏明快的 21 世纪，其实 Swift Playgrounds 的出现也是非常符合潮流的。我们都知道苹果曾经推出过 HyperCard ，那么，这两者之间能否划上一个等号呢？答案是否定的。
+
+![](.evernote-content/9C9A5774-4A63-402A-BC08-E31025FAFA8C/05919BB3-32BC-416A-B4FE-D99761880BEB.jpg)
+
+让我们先回顾一下 HyperCard ，在上世纪 90 年代，我们想利用苹果电脑来做一些东西时，往往缺少了应用程序，但是 Hypercard 的到来改变了一切。它第一次通过软件程序的形式将文字、图片和声音链接在一起，而 Hypercard 的流行将超文本最基本的概念“节点”和“链”带给了所有的用户，可以说，Hypercard 形成了一种设计数据库，这是非常现代的方法，而且并没有给人生硬感。
+
+HyperCard 风靡起来的另一个原因是因为它提供了一种功能很强的脚本语言 Hypertalk，它适用于快速开发图形界面的原型，只不过， HyperCard 不适于开发大型信息管理系统。
+
+有些人还会告诉你， HyperCard 的 Hyper Talk 是面向对象；别人叫它程序，各种各样的管理者，科研人员，教师，游戏开发商，作家，艺术家们发现他们可以很快进入学习简单的编程的状态。
+
+![](.evernote-content/9C9A5774-4A63-402A-BC08-E31025FAFA8C/B5F786A2-308D-422D-BA97-35DD8652A5C0.jpg)
+
+HyperCard 其实与名片整理程式也很类似，它可用于纪录人物与相关事物。HyperCard 管理着许多称为“卡片”的资料。而每张“卡片”上都可划分栏位，用户可以加上有样式的文字、图片和按钮等等图形使用者介面的元素，而且这些内容在查阅卡片的同时还可以编辑修改。这些“卡片”也可以聚成一个堆栈。一个堆栈的卡片可以全部一起修改。
+
+HyperCard 成为了创建和分享自制软件的一个媒介，它还成为了一个快速开发应用程序的工作，提供了视觉创作环境，创造了突破图形冒险游戏等等。HyperCard 的成功在于它并没有试图教导人们成为一个程序员，也就是说，它刻意淡化了代码这个概念。HyperCard 将任何用户都扣合在一起，它实现了许多用户心目中的界面和功能。
+
+![](.evernote-content/9C9A5774-4A63-402A-BC08-E31025FAFA8C/21819121-4236-486A-9C95-2E0C0201A114.jpg)
+
+而 Swift Playgrounds 呢？苹果开始尝试让编程过程变得更为生动和简单以及平民，这也有助于让更多人对编程产生兴趣，毕竟在很多人印象里，编程是非常枯燥和乏味的。只不过，Swift Playgrounds 非常强调代码，而 HyperCard 则反之。
+
+一般的共识是，Swift Playgrounds 作为面向孩子和老师学习编程环境的工作，它给人留下了非常深刻的印象，而且它的潜力是非常巨大的。虽然说它的目的是帮助孩子们学习更多关于编码和数字制作方面的知识，不过它同样适合成人们使用。
+
+“这是一个令人振奋的，很有创造性的技术。”iOS 开发者告诉我们。“很多孩子看到它的那一刻起，就会喜欢上它，从 5 岁开始就进入编程的世界，这实在太棒了。”
+
+不过，也有人担忧，不知道学生是否会接受 Swift Playgrounds ，而这也或许也要依赖于老师们的引导，相信老师们会找到使用它的最佳方法。不过尽管 Swift Playgrounds 强调编程和代码，但是一些专家也指出，希望不要让孩子们觉得这个是一个应用程序，我们要让孩子们感觉自己走进了一个物理班，他们正准备建立一个超级对撞机。
+
+所以说 Swift Playgrounds 有帮助学习编码变得更容易吗？其实这最终还是取决于学习者。而 Swift Playgrounds 只是提供了一个好的契机，对于成人来说，他们还需要一个更结构化的课程。
+
+![](.evernote-content/9C9A5774-4A63-402A-BC08-E31025FAFA8C/D88FD7C3-FCE1-4ADE-9825-624D05D8E316.jpg)
+
+Swift Playgrounds 使用的是真正的 Swift 程式码，玩家可以将写好的程式码汇出到 Xcode 来转换为真正的应用程式，或是与其他人分享，而 Swift Playgrounds 并不希望你远离课程计划，对于一些更渴望“自由”的人来说，这或许会成为一个问题。依靠苹果提供的项目，学生们可以利用 Swift Playgrounds 提升自己，只是，这仅仅是编程世界的一部分，要继续提升，还需要继续去摸索。
+
+Swift 本身是一个严格的计算机科学原理设计，它可以满足专业开发人员的最高层编程语言， Swift Playgrounds 相对来说，在权力方面是等价的，但是，Swift Playgrounds 还处于比较低的层次，但是从科学高度来说，Swift Playgrounds 与 Swift 是差不多的。
+
+Swift Playgrounds 的未来不应该只关注与一种语言，如果孩子们只是在一种特定的语音中学习了一些技巧，其实对于他们没有什么用。从教育的角度来说，孩子们需要更多的创造性。如果说古老的语言让学生接受编程很困难，那么 Swift Playgrounds 就该发挥自己的最大优势，但是 iOS 开发者还是要强调，编程从本质上来说是很困难的，即使有 Swift Playgrounds 的帮助。
+
+许多学生遇到困难时可能会后退，但是 Swift Playgrounds 的实践接口可以帮忙他们度过难关，完成拼图，而在这样的过程中，学生会发现事情变成更容易理解。
+
+而苹果的封闭生态系统或许也会带来一些障碍，毕竟 iPad 不是无处不在的，很多学生用的依然还是 Windows 电脑，这不得不说是苹果需要面对的问题。
+
+除此之外，Swift Playgrounds 还有一个限制就是它不能直接生成成品应用，不过苹果高层也提到，Swift Playgrounds 只是契机和起步而已，它对编程进行了简化，自然就要做出一些牺牲，但是 Swift Playgrounds 或许可以帮助更多人进入 Xcode 。
+
+Swift Playgrounds 更像是一个寓教于乐的程式设计课程，从根本上来说，大家都希望看到苹果能突破代码，Swift Playgrounds 反过来也证明了 Swift 的不容易，作为一个当代的快速应用程序开发环境，它还不完善，但是依然非常能干，我们已经看到越来越多孩子开始编程简单的应用程序了，这难道不让觉得未来一片光明吗？
+
+以前，由个人创建的软件无疑是一种可用的艺术和非常好的沟通技巧，而这并不是编程技巧，现在，我们最好的想法就是试图教给大家编程技能，用正确的工作，这是可以改变的。
+
+不过从时代发展的趋势来看，Swift Playgrounds 的出现也是顺理成章的，即使 Swift Playgrounds 并不是 HyperCard ，但是只要它是好用的，有用的，其实等于不等于，又有什么关系呢，用一句很时髦的话说，Swift Playgrounds 并不是想做 HyperCard 第二，而是想做 Swift Playgrounds 第一。
+
+[阅读全文](http://www.feng.com/iPhone/news/2016-07-13/Swift-is-equivalent-to-HyperCard_651703.shtml)
+
+---
+
+[🌐 原始链接](http://www.feng.com/iPhone/news/2016-07-13/Swift-is-equivalent-to-HyperCard_651703.shtml)
+
+[📎 在印象笔记中打开](evernote:///view/207087/s1/d9434bde-602f-4b9c-ad3f-0fbe1865b224/d9434bde-602f-4b9c-ad3f-0fbe1865b224/)

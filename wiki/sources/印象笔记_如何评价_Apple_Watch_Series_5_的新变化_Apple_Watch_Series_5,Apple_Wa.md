@@ -1,0 +1,81 @@
+---
+title: "如何评价 Apple Watch Series 5 的新变化 Apple Watch Series 5,Apple Watch, 苹果 _威锋网"
+type: source
+created: 2026-07-15
+updated: 2026-07-15
+source_path: 印象笔记管理工具/如何评价 Apple Watch Series 5 的新变化 Apple Watch Series 5,Apple Watch, 苹果 _威锋网.md
+tags: [印象笔记]
+---
+
+# 如何评价 Apple Watch Series 5 的新变化 Apple Watch Series 5,Apple Watch, 苹果 _威锋网
+
+# 如何评价 Apple Watch Series 5 的新变化 Apple Watch Series 5,Apple Watch, 苹果 _威锋网 --- 如何评价 Apple Watch Seri
+
+---
+
+# 如何评价 Apple Watch Series 5 的新变化 Apple Watch Series 5,Apple Watch, 苹果 _威锋网
+
+---
+
+如何评价 Apple Watch Series 5 的新变化
+==============================
+
+12 小时前
+
+[Ruins](https://bbs.feng.com/u.php?uid=3229498)
+
+威锋网
+
+[53](https://www.feng.com/iPhone/news/2019-09-21/_702583.shtml#comments)
+
+8716
+
+吸引新用户才是它的任务。
+
+[![](.evernote-content/F7BCDEE9-EBE0-4E24-842C-4BA4A73E83E5/390DB81C-4323-4FBA-9F46-C377B02E0AA3.jpg)](https://resource.feng.com/resource/h068/h71/img201909210914130.jpg)
+
+Apple Watch Series 5 的硬件是建立在上一代 Series 4 的成功之上的，这款新的全天候视网膜屏和内置指南针的新一代苹果智能手表体验如何？让我们来看看众多媒体对其特色功能的评价。
+
+屏幕常显和电池续航
+
+毫无疑问 Apple Watch Series 5 最大的新功能就是号称「全天候」的屏幕，它的屏幕不再像以往息屏全黑，而是平时变暗但仍可看到时间和表盘，抬腕或点击的时候则重新亮起。几乎所有的媒体评测都对这个新功能给予好评，应该没有不喜欢这样的屏幕，更何况它合理地分配着电量，不会对续航造成太大影响。
+
+它还带来了一点有趣的变化。以前我们设置一个复杂表盘上面随便堆满信息都没事，现在当你戴着这块表出入各种场合，得考虑换个合适点的表盘了 —— 因为其他人也会看到它。
+
+科技博客 TechCrunch 对 Series 5 的续航进行了测试，他们发现它确实可以在常规用法下坚持一天，接近 20 个小时不充电，但即便如此，这款设备也需要每天一充，否则第二天肯定会没电，从这一点来说，新产品跟以前几代没什么实际的差别。
+
+[![](.evernote-content/F7BCDEE9-EBE0-4E24-842C-4BA4A73E83E5/74D9C28C-DF99-48EE-A841-30D7ED756104.jpg)](https://resource.feng.com/resource/h068/h71/img201909210914430.jpg)
+
+指南针
+
+今年不太显眼的升级是内置指南针，该应用可以显示佩戴者目前的坡度、海拔、纬度和经度。值得注意的是，指南针也可以作为一个复杂的特定手表表面。指南针还使手表的苹果地图 App 变得更有用，因为它现在可以准确地指示你所面对的方向。此外，在训练中或者跑步乃至骑自行车使用海拔数据也是非常有用的。
+
+新的传感器也将使其他第三方 App 受益，不过现在利用该功能的第三方应用数量非常有限。
+
+处理器
+
+说到芯片，Apple Watch Series 5 的处理器规格与去年 Series 4 相同，该信息可在最新版本的 Xcode 上找到。
+
+苹果官网上提到 Apple Watch Series 5 具有 64 位双核 S5 处理器，比 S3 处理器快 2 倍。S5 Soc 增加了 S4 SoC 没有的显示控制器和内置指南针，所以换句话说，我们不必担心 watchOS 在 Series 4 上比在全新型号上慢。
+
+这并不奇怪，因为一些报道此前曾表示苹果除了钛和陶瓷模型之外今年不会宣布新一代 Apple Watch。苹果可能选择专注于将更多的新用户群体，而不是在重新设计 Apple Watch Series 4 之后一年内再来一次性能提高或设计改进。
+
+[![](.evernote-content/F7BCDEE9-EBE0-4E24-842C-4BA4A73E83E5/8D4AE7D5-4A49-4A45-9A4F-CE0D28856B10.jpg)](https://resource.feng.com/resource/h068/h71/img201909210915190.jpg)
+
+新材质
+
+手表在时尚界扮演着重要的角色，这就是为什么苹果今年推出了钛金属和陶瓷两款新表壳的原因。陶瓷表壳其实我们已经见过，只是苹果在去年 Series 4 发布的时候取消掉，现在又重新回归而已。钛金属的 Apple Watch 是首次亮相，这种材质更轻，更坚固，它采用类似 DLC 涂层和金属拉丝工艺，经过苹果特殊的表面处理，可以防指纹和防污。
+
+不过也随之让人们提出一个问题，关于优质表壳材料在智能手表中的作用：人们真的愿意或者需要为每年更换一次的设备用上更昂贵材料去买单吗？
+
+欢迎关注威锋网官方微信：威锋网（weiphone\_2007) 汇聚最新 Apple 动态，精选最热科技资讯。
+
+Measure
+
+Measure
+
+---
+
+[🌐 原始链接](https://www.feng.com/iPhone/news/2019-09-21/_702583.shtml)
+
+[📎 在印象笔记中打开](evernote:///view/207087/s1/75b76e29-94ab-4b8f-b2f6-d594a5168116/75b76e29-94ab-4b8f-b2f6-d594a5168116/)

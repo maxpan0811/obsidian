@@ -1,0 +1,36 @@
+---
+title: "微软最新的Mac应用 专为Office 365用户准备"
+type: source
+created: 2026-07-15
+updated: 2026-07-15
+source_path: 印象笔记管理工具/微软最新的Mac应用 专为Office 365用户准备.md
+tags: [印象笔记]
+---
+
+# 微软最新的Mac应用 专为Office 365用户准备
+
+# 微软最新的Mac应用 专为Office 365用户准备 --- 根据国外媒体消息，微软的软件开发团队 Garage 最近专门为经常使用 Office 365 的 Mac 用户带来一款可以提高工作效
+
+---
+
+# 微软最新的Mac应用 专为Office 365用户准备
+
+---
+
+根据国外媒体消息，微软的软件开发团队 Garage 最近专门为经常使用 Office 365 的 Mac 用户带来一款可以提高工作效率的小工具应用。简单来说，这款名为 My Workspace 的软件隐藏在屏幕右上方的菜单列表中，用户可以快速查看 OneDrive 文件、iCloud 日历、Skype 通话等内容。
+
+![](.evernote-content/7C822950-6480-40B8-964A-3AE07ED4E3B0/FB495239-8818-4BFC-A0B6-DB217E3A158B.jpg)
+
+就像 Dropbox 和 OneNote 一样， My Workspace 还包括最近使用的文件列表，您可以将重要的文件进行锁定，也可以直接从应用程序打开，还可以对 Office 365 设置热门快捷方式。值得注意的是该应用程序可以免费使用这些功能。如果您是经常使用 Office 365 文档的用户，这或许这个软件将能带给用户更方便快捷的 Office 365 使用体验。
+
+![](.evernote-content/7C822950-6480-40B8-964A-3AE07ED4E3B0/0646239F-EF3B-433B-A207-2B7A67052979.jpg)
+
+按照网站 iMore 的说法，这款软件是由几个来自温哥华的软件实习生所打造，而他们当时所接到的任务是为那些使用微软生产力套件的用户“提升每日价值”。那么，My Workspace 有没有达到这个小目标呢？这个需要用户自行下载体会了。
+
+[阅读全文](http://tech.feng.com/2017-09-12/_690796.shtml)
+
+---
+
+[🌐 原始链接](http://tech.feng.com/2017-09-12/_690796.shtml)
+
+[📎 在印象笔记中打开](evernote:///view/207087/s1/f4a6b7a2-3352-4e80-bee7-ed34d4424565/f4a6b7a2-3352-4e80-bee7-ed34d4424565/)

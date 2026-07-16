@@ -1,0 +1,50 @@
+---
+title: "不起眼处见真章：MacBook键盘真是有内涵 键盘,设计,MacBook,苹果,MB介绍图片 MacBook产品新闻频道_WeiPhone威锋网"
+type: source
+created: 2026-07-15
+updated: 2026-07-15
+source_path: 印象笔记管理工具/不起眼处见真章：MacBook键盘真是有内涵 键盘,设计,MacBook,苹果,MB介绍图片 MacBook产品新闻频道_WeiPhone威锋网.md
+tags: [印象笔记]
+---
+
+# 不起眼处见真章：MacBook键盘真是有内涵 键盘,设计,MacBook,苹果,MB介绍图片 MacBook产品新闻频道_WeiPhone威锋网
+
+# 不起眼处见真章：MacBook键盘真是有内涵 键盘,设计,MacBook,苹果,MB介绍图片 MacBook产品新闻频道_WeiPhone威锋网 --- 不起眼处见真章：MacBook键盘真是有内
+
+---
+
+# 不起眼处见真章：MacBook键盘真是有内涵 键盘,设计,MacBook,苹果,MB介绍图片 MacBook产品新闻频道_WeiPhone威锋网
+
+---
+
+不起眼处见真章：MacBook键盘真是有内涵
+======================
+
+> 新 MacBook 键盘究竟美在何处？我们不妨来个前瞻。
+
+以下为文章全文：
+
+[![](.evernote-content/0607F4CE-CF91-4AEF-B021-567A424E9EFF/6914C7B0-76E5-42A8-B5B7-CF4684884765.jpg)](http://resource.feng.com/resource/h050/h59/img201503100749040.jpg "不起眼处见真章：MacBook键盘真是有内涵")
+
+  
+　　（威锋网 3 月 10 日）在这一次的主题演讲里，大家都注意到了一个有趣的事情：除了轻薄，苹果对 MacBook 提及最多的就是它的键盘。究竟 MacBook 的键盘有什么神秘魔力呢？  
+  
+　　由于 MacBook 那令人难以置信的纤薄，使得苹果需要对其方方面面的体验进行重新设计，键盘自然是主要部分之一。苹果最为自豪的，就是摒弃了传统的剪刀式结构，改成了独创的蝶式结构。  
+  
+
+[![](.evernote-content/0607F4CE-CF91-4AEF-B021-567A424E9EFF/657279FC-4AA0-43F2-99CB-A53BA6A71819.jpg)](http://resource.feng.com/resource/h050/h59/img201503100749041.jpg "不起眼处见真章：MacBook键盘真是有内涵")
+
+  
+　　许多笔记本电脑的键盘采用的是剪刀式结构，即在键帽下安装 X 型交叉支架的设计。这种设计优点是薄而轻，很适合笔电的需要。不过，剪刀式结构由于自身形状，容易发生边缘晃动不稳的情况，导致输入不准确。而且，剪刀式结构的按压结构较为脆弱，寿命很难说长。  
+  
+　　MacBook 所采用的蝶式结构与传统剪刀式相比，形状更加对称，单体架构保证稳固，不会发生按压受力不均的情况，与此同时轻、薄、快的特性更为突出，占用垂直空间更少。为此，苹果采用了较之以往更为坚硬的材料，保证寿命。  
+  
+　　另外，蝶式结构允许按键做得更宽，下凹弧度更大，这也带来了更加舒适的敲击体验。  
+  
+　　键盘体验看似不为人所留意，但这是一台笔记本电脑整体体验的重要组成部分。在这个方面能精益求精，有所突破，苹果在 MacBook 上投入的诚意是可以看到的。
+
+---
+
+[🌐 原始链接](http://www.feng.com/apple/macbook/2015-03-10/Humble-destined-MacBook-keyboard-is-connotation_609418.shtml)
+
+[📎 在印象笔记中打开](evernote:///view/207087/s1/97f952cf-a303-4ef8-9a67-d9f69d91ed06/97f952cf-a303-4ef8-9a67-d9f69d91ed06/)

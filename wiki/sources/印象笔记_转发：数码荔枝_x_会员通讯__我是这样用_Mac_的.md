@@ -1,0 +1,44 @@
+---
+title: "转发：数码荔枝 x 会员通讯_ 我是这样用 Mac 的"
+type: source
+created: 2026-07-15
+updated: 2026-07-15
+source_path: 印象笔记管理工具/转发：数码荔枝 x 会员通讯_ 我是这样用 Mac 的.md
+tags: [印象笔记]
+---
+
+# 转发：数码荔枝 x 会员通讯_ 我是这样用 Mac 的
+
+# 转发：数码荔枝 x 会员通讯: 我是这样用 Mac 的 --- 发自网易邮箱大师 | | | | | --- | --- | --- | | | 转发的邮件 | | 发件人： [DIGITALYC
+
+---
+
+# 转发：数码荔枝 x 会员通讯: 我是这样用 Mac 的
+
+---
+
+发自网易邮箱大师
+
+|  |  |  |
+| --- | --- | --- |
+|  | 转发的邮件 |  |
+
+发件人： 
+[DIGITALYCHEE](mailto:hi@tongxun.lizhi.io)
+
+发送日期： 
+2017年01月02日 08:42
+
+收件人： 
+[maxpan0811@hotmail.com](mailto:maxpan0811@hotmail.com)
+
+主题： 
+数码荔枝 x 会员通讯：我是这样用 Mac 的
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  |  |  | | --- | --- | --- | --- | | |  |  |  | | --- | --- | --- | | |  | | --- | |  |  |  | | --- | | 在浏览器中 [阅读本文](http://lizhi.us12.list-manage.com/track/click?u=d7d162204694c4d5a53462f09&id=0a42710f10&e=9065a2420a)  或，浏览 [所有](http://lizhi.us12.list-manage1.com/track/click?u=d7d162204694c4d5a53462f09&id=ac482ee538&e=9065a2420a)[往期内容](http://lizhi.us12.list-manage.com/track/click?u=d7d162204694c4d5a53462f09&id=a6f1b383bf&e=9065a2420a) | | | | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | |  | |  |  |  | | --- | --- | | |  | | --- | | 数码荔枝 x 会员通讯：我是这样用 Mac 的   没想到吧，元旦假期还没过，会员通讯就如期而至了~        遥忆2016，多次有顾客反映说作为 Mac 新手，虽然慕名而来，但一打开「数码荔枝」店铺首页其实是懵圈的——虽然看着吸引，但还没对 Mac 有较为系统的认知而不知从何下手。那今天就为2017第一期写一篇比较「个人向」的文章，分享一下当年还是新手的我是如何用 Mac 的吧。    文章目的是分享 Mac 的使用经验以及涉及到的软件、插件，不讨论系统优劣或软件兼容性话题。没有任何一个系统或电脑是完美的，Windows 和 macOS 都有各自的长处和特色。既然选择了 Mac，就应该去适应而不是总要留恋旧的。    ▍触控板    很早便在朋友手上把玩过早期的 iPhone 以及 Mac，但当时也只是觉得不也就是一台设备么，没那么夸张吧。直到后来有了属于自己的苹果设备，才明白它真正吸引人的，并不是外观或是硬件的比拼，而是长期使用之后其软硬件高度配合所带来的完美体验。事实上自从用了苹果产品，我再也没有关心过设备的硬件参数，除了硬盘和内存。    但，如果说 Mac 上有某个硬件不得不提，那一定是触控板。    第一次动了想买 Mac 的念头，正是出于对触控板的惊叹——从没想过竟然可以完全不用鼠标做完一整套 PPT。所以，刚上手的小伙伴先来个简单的，试试用「四指在触控板上左右滑动」来代替以往的窗口切换方式吧，这是一种与 Windows 的窗口堆叠完全不同的逻辑——如果你也需要在创作的同时参考笔记或查资料，那么把相应的窗口全屏，然后用「四指在触控板上左右滑动」，你会发现工作感受大有不同。        延伸阅读：   * [在您的   Mac 上使用 Multi-Touch 手势](http://lizhi.us12.list-manage.com/track/click?u=d7d162204694c4d5a53462f09&id=94227fef58&e=9065a2420a)   ▍快捷键    我在 Windows 时代其实很少用快捷键，只会用 Ctrl + Tab、复制粘贴这些，总觉得 Photoshop 用户才需要快捷键。但是用上 Mac 之后，发现快捷键用得好，效率真的高很多。就拿 Ctrl + Tab 切换程序/窗口这一功能来说，应用多的时候会看瞎，还会一不小心选错。现在我用 [Alfred](http://lizhi.us12.list-manage.com/track/click?u=d7d162204694c4d5a53462f09&id=414370de32&e=9065a2420a) + [Manico](http://lizhi.us12.list-manage.com/track/click?u=d7d162204694c4d5a53462f09&id=040155e260&e=9065a2420a) + [CmdTap](http://lizhi.us12.list-manage1.com/track/click?u=d7d162204694c4d5a53462f09&id=117bb39003&e=9065a2420a)，打开、切换程序几乎不用看屏幕，而且一次成功率高达99.9%。        Manico 和 CmdTap 都是可以通过快捷键快速打开或切换软件的工具：Manico 可以让用户「手动」为「已安装」的软件设置快捷键，以此来快速「启动&切换」；而 CmdTap 则可「自动」为「已打开」的软件设置快捷键，以此来快速「切换」。两者各有侧重，所以我两个都装了 (不知开发者们有没有进一步完善的计划？)    延伸阅读：   * [简洁、高效、易用，Mac   App 快速启动及切换工具：Manico 2.0](http://lizhi.us12.list-manage.com/track/click?u=d7d162204694c4d5a53462f09&id=d30e98f973&e=9065a2420a) * [从零开始学习   Alfred：基础功能及设置](http://lizhi.us12.list-manage2.com/track/click?u=d7d162204694c4d5a53462f09&id=9ee8ea017e&e=9065a2420a) * [中国独立开发者   Nozama 以及他的 CmdTap](http://lizhi.us12.list-manage1.com/track/click?u=d7d162204694c4d5a53462f09&id=5c15a71fba&e=9065a2420a)   ▍入门软件  ▲图片源自 accusoft.com  当你习惯了这两种操作方式，并且开始希望变得更厉害。这时就可以考虑第三方软件了。    **JItouch**  触控板手势增强可以考虑 [Jitouch](http://lizhi.us12.list-manage1.com/track/click?u=d7d162204694c4d5a53462f09&id=1e95490720&e=9065a2420a)，它提供了很多可高度自定义的手势操作，包括文件的复制粘贴、浏览器标签的切换；还有大杀器「字母手势」，比如画个 C 就可以「召唤」Chrome，话个 W 可以召唤微信，比「阴阳师」还过瘾。    [演示&评测视频](http://lizhi.us12.list-manage.com/track/click?u=d7d162204694c4d5a53462f09&id=e9b82c27db&e=9065a2420a)    **Alfred**  键盘类的增强呢，其实现阶段能用好 Alfred 的大部分基础功能就已经很足够了。我自己常用的功能有： **- 打开文件夹：**Alfred 可以智能识别中文拼音，因此你可以通过它打开几乎所有文件夹。相信我，习惯了它你就再也不会抱怨 Finder 不好用，因为已经无所谓了… **- 自定义搜索：**自定义常用的搜索引擎，通过关键字快速启动，一步便可看见结果。看下面的演示，是我的一个工作场景，一边写稿一边搜索查资料，非常潇洒。        **- 剪贴板和 Snippets：**在 Alfred 上使用这俩功能需要支付约170大元解锁 [Powerpack](http://lizhi.us12.list-manage.com/track/click?u=d7d162204694c4d5a53462f09&id=4365911748&e=9065a2420a)。如果刚开始觉得贵，剪贴板可以先考虑 [Paste](http://lizhi.us12.list-manage.com/track/click?u=d7d162204694c4d5a53462f09&id=88f5b879f9&e=9065a2420a) 或是 [Pin](http://lizhi.us12.list-manage1.com/track/click?u=d7d162204694c4d5a53462f09&id=6a9b34b59e&e=9065a2420a)；Snippets 则可以先试试系统自带或是第三方输入法的文本替换功能。慢慢的，或许你会觉得这样的方案已经很够用，又或许你已经有足够的决心去购买/使用 Alfred Powerpack 或是 [Typinator](http://lizhi.us12.list-manage.com/track/click?u=d7d162204694c4d5a53462f09&id=a7e6c4239d&e=9065a2420a)、[TextExpander](http://lizhi.us12.list-manage.com/track/click?u=d7d162204694c4d5a53462f09&id=586a415199&e=9065a2420a) 等进阶产品了。    当然，Alfred 真正的大杀器是 Workflow (不是 iOS 那个)，不过建议大家先熟悉基本功能，暂时不讲太多。除了 Alfred，我们有在卖一款同类产品 [LaunchBar](http://lizhi.us12.list-manage.com/track/click?u=d7d162204694c4d5a53462f09&id=3c6b6a4382&e=9065a2420a)，李同学自己就是资深用户，非常厉害，速度快起来的时候我根本看不清他在干嘛。    延伸阅读：   * [Paste：剪切板工具革新者「已更新   2.0」](http://lizhi.us12.list-manage.com/track/click?u=d7d162204694c4d5a53462f09&id=e4401535ca&e=9065a2420a) * [TextExpander：深度解读   – 到底值不值得买？](http://lizhi.us12.list-manage1.com/track/click?u=d7d162204694c4d5a53462f09&id=6de44cb59f&e=9065a2420a)   **Vimium**  经常用 Chrome 的话，可以试试 [Vimium](http://lizhi.us12.list-manage.com/track/click?u=d7d162204694c4d5a53462f09&id=ffa0520e68&e=9065a2420a) 这款插件。它可以为绝大多数浏览器动作自定义快捷键，比如 j 和 k 是上下翻页、u 和 i 是切换左右标签、f为当前页面的所有链接设置字母快捷键等等，让你双手根本无需离开键盘便可轻松操作浏览器。    延伸阅读：   * [让你用   Chrome 上网快到想哭：Vimium](http://lizhi.us12.list-manage.com/track/click?u=d7d162204694c4d5a53462f09&id=b6394eb923&e=9065a2420a)   **Moom/Magnet**  用上 Mac 之后我恰巧也多了很多写作的机会，经常需要一边查找/阅读资料，一边写作，甚至还涉及到外部文件的操作，因此需要在同一屏幕上平铺多个窗口。这时如果我们还只会用鼠标拖来拖去，那就有点浪费 Mac 了。如果你的需求也和我一样，可以试试 [Moom](http://lizhi.us12.list-manage.com/track/click?u=d7d162204694c4d5a53462f09&id=b059f72c32&e=9065a2420a) 或是 [Magnet](http://lizhi.us12.list-manage2.com/track/click?u=d7d162204694c4d5a53462f09&id=dccf5b9226&e=9065a2420a)；不过如果没需求，确实没必要因为某篇「Mac 必备的50款软件」而贸贸然购买。    [Moom 演示&评测视频](http://lizhi.us12.list-manage1.com/track/click?u=d7d162204694c4d5a53462f09&id=6c7435fdab&e=9065a2420a)        **iMazing/WALTR/CleanMyMac/MacBooster**  如果要说通常意义上的「必备」软件，其实先入手这几款就好。[iMazing](http://lizhi.us12.list-manage.com/track/click?u=d7d162204694c4d5a53462f09&id=38a3de4bbf&e=9065a2420a) 或 [WALTR](http://lizhi.us12.list-manage.com/track/click?u=d7d162204694c4d5a53462f09&id=206576edaa&e=9065a2420a)，  [CleanMyMac](http://lizhi.us12.list-manage.com/track/click?u=d7d162204694c4d5a53462f09&id=832dbaadbb&e=9065a2420a) 或 [MacBooster](http://lizhi.us12.list-manage.com/track/click?u=d7d162204694c4d5a53462f09&id=d0b434812f&e=9065a2420a)…对了，千万别错装了人称「全家桶 for Mac」的 MacKeeper。    我假定 Mac 的用户绝大部分都会用 iOS 设备吧，同时可能你也和我一样，多年来一直没勇气直面 iTunes。那么 iMazing 和 WALTR  应该可以让你松一口气，轻松管理 iOS 的各种文件。    延伸阅读：   * [在电脑上用你喜欢的方式管理   iOS 设备：数据管理软件 iMazing](http://lizhi.us12.list-manage.com/track/click?u=d7d162204694c4d5a53462f09&id=534e3beffd&e=9065a2420a) * [Waltr   2，用电脑向 iPhone 传输文件的终极解决方案](http://lizhi.us12.list-manage.com/track/click?u=d7d162204694c4d5a53462f09&id=fac0d2bc51&e=9065a2420a)   而 CleanMyMac 和 MacBooster 则是全能的 Mac 优化清理工具——硬盘容量捉急的、担心软件卸载残留的、一直对 Windows 内存清理念念不忘的…都能在它们身上找到慰藉。    延伸阅读：   * [不仅想做系统清理工具，更要做你的贴心管家：CleanMyMac   3](http://lizhi.us12.list-manage.com/track/click?u=d7d162204694c4d5a53462f09&id=edc320acd7&e=9065a2420a)   要把 Mac 用的物有所值，要了解的当然不止这些，不过毕竟我也要去浪了，所以开篇就先到这吧。如果大家觉得文章有用，欢迎到 [博客](http://lizhi.us12.list-manage2.com/track/click?u=d7d162204694c4d5a53462f09&id=30337c8916&e=9065a2420a) 留言，我会考虑继续与大家分享。    祝新年愉快！要幸福哦~ | | | | | |  | | --- | |  | | | |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | |  | | --- | | 微博: [http://lizhi.io/weibo](http://lizhi.us12.list-manage.com/track/click?u=d7d162204694c4d5a53462f09&id=dd5d9aef4b&e=9065a2420a) | [点此按钮](http://lizhi.us12.list-manage1.com/track/click?u=d7d162204694c4d5a53462f09&id=f081657973&e=9065a2420a)浏览所有往期文章 | 微信公众号: shumalizhi | |  |  |  | | --- | --- | | |  | | --- | |  | |  |  |  | | --- | --- | | |  | | --- | | 收到这封邮件，是因为您主动订阅了我们的「会员通讯」  您可以点击 [修改资料](http://lizhi.us12.list-manage.com/profile?u=d7d162204694c4d5a53462f09&id=a618a6229b&e=9065a2420a) 或 [取消订阅](http://lizhi.us12.list-manage.com/unsubscribe?u=d7d162204694c4d5a53462f09&id=a618a6229b&e=9065a2420a&c=a8a2e4e2f6)。 ♥ 专注于分享最新鲜优质的正版软件  数码荔枝 | DIGITALYCHEE  [https://lizhi.io](http://lizhi.us12.list-manage.com/track/click?u=d7d162204694c4d5a53462f09&id=d0088d96c3&e=9065a2420a) | | | | |
+
+![](.evernote-content/BDADC1A8-DD7C-49B1-8374-446A567D5219/CC806548-8CEE-4EE0-BFA9-F5C60F571856.gif)
+
+[📎 在印象笔记中打开](evernote:///view/207087/s1/6891e811-f1ef-40c2-af5b-55b7deac2c3c/6891e811-f1ef-40c2-af5b-55b7deac2c3c/)

@@ -1,0 +1,74 @@
+---
+title: "周末独家特惠：Mac 上最省心的 Youtube 视频下载工具 _ 福利派"
+type: source
+created: 2026-07-15
+updated: 2026-07-15
+source_path: 印象笔记管理工具/周末独家特惠：Mac 上最省心的 Youtube 视频下载工具 _ 福利派.md
+tags: [印象笔记]
+---
+
+# 周末独家特惠：Mac 上最省心的 Youtube 视频下载工具 _ 福利派
+
+# 周末独家特惠：Mac 上最省心的 Youtube 视频下载工具 | 福利派 --- ![](.evernote-content/9AC02411-1FFF-4FCE-B70A-5CE70ECD8A
+
+---
+
+# 周末独家特惠：Mac 上最省心的 Youtube 视频下载工具 | 福利派
+
+---
+
+![](.evernote-content/9AC02411-1FFF-4FCE-B70A-5CE70ECD8A83/1F25C068-F2A4-4585-9257-5169B9010044.gif)
+
+### *关于栏目*
+
+少数派一直倡导「为好东西买单」的理念，不论是一个 6 元的 App，还是数千元的硬件产品，我们希望引导更多人养成正确且良性的消费习惯，尽己所能去支持正版、拒绝盗版。然而任何的消费购买行为，都离不开「价格」的影响，很多人都会因价格在购买喜欢的产品前迟疑：「有点贵，如果有促销就好了……」
+
+「福利派」栏目为此而生，我们接下来将通过与优质的厂商或商家合作，为少数派的读者定期带来各类优秀软硬件产品的独家特惠活动。我们的目的很单纯：希望有更多人用上好产品，我们希望通过这样的形式，为读者们送上更多不一样的福利。
+
+上期特惠的[「Mac 笔记应用 Ghostnote」](http://sspai.com/33466)得到了不错的反响，本期则是另一款 Mac 实用小工具。
+
+作为世界上最大的视频网站，Youtube 丰富的视频资源实在让人逃不开，外媒科技评测、各类脱口秀节目、国外网红们的原创视频都可能会是我们上 Youtube 的理由。但身处国内，想要访问国外网站并不那么顺畅，更别说是需要在线看视频了。所以，很多人会倾向于把视频下载到本地后再看。
+
+基于这个需求，已有很多让我们方便下载 Youtube 视频的解决方案，最简单有效的要数提供服务的一些网站了，比如 [KeepVid](http://keepvid.com/ "KeepVid")、[Savefrom.net](http://en.savefrom.net/)、[ClipConverter.cc](http://www.clipconverter.cc/)，都只需要你把 Youtube 视频链接贴上去，网站就会给你生成一个可直接下载成视频文件的链接。这种方法虽然解决了需求，但体验并不好，糟糕的版式设计、一不小心就点到广告、网页偶尔的不稳定性……
+
+体验好的工具，能帮你节省大量时间
+----------------
+
+Mac 软件 Softorino Youtube Converter（下简称 SYC）在解决了基本需求的前提下，还把使用体验做到了最好。
+
+![](.evernote-content/9AC02411-1FFF-4FCE-B70A-5CE70ECD8A83/0FA5B8C5-F59C-4179-B77D-46C130F40D75.jpg)
+
+这款小工具在发布之初，少数派就有[作过介绍](http://sspai.com/32528)。软件本身相当简单，一个小窗口就是它的全部，你复制到系统剪贴板里的 Youtube 视频链接，会自动被它识别，随后你可以选择视频清晰度（默认最高画质，支持 4K）或存为 mp3 音频（可以利用此功能把脱口秀节目作为听力练习素材），然后下载它。
+
+由于通常我们会固定选择一种视频清晰度，你所需要做的只有：复制链接 → 打开软件 → 稍等两秒识别 → 点击下载。所以用它来开始下载一个 Youtube 视频所需的时间（包括打开软件）基本不会超过 20 秒，而下载所需时间则要看你的网速了。在这个过程中，你不会看到奇怪的界面、不会莫名点到广告。
+
+除了有更好的下载体验，SYC 还能帮你顺便解决 iPhone 传视频的麻烦。
+
+![](.evernote-content/9AC02411-1FFF-4FCE-B70A-5CE70ECD8A83/13A934AC-A3C7-48A3-A233-E5F65EF74190.jpg)
+
+通常你想把视频从电脑传到 iPhone 里，基本都需要经过 iTunes（也可以通过其他 App 传输，这里不作讨论）。这款软件的开发商之前的另一款作品 [Waltr](http://softorino.com/waltr)，就是专门解决电脑至手机的传输问题，它能自动完成视频转换和传输过程。SYC 中也集成了这一功能，它能帮你把 Youtube 视频直接下载进 iOS 设备里，不需要下到本地再经过 iTunes 传到手机上。当然，你需要先用数据线连接手机。
+
+值得一提的是，SYC 还支持 Facebook、Vimeo 和 Instagram 的视频下载，并且支持下载带有 Youtube 字幕的版本（设置里勾选）。
+
+能帮你节省时间的工具，值得买
+--------------
+
+Softorino Youtube Converter 目前在 [开发商官网](http://softorino.com/youtube-converter) 售价 19.95 美元（约 130 元人民币）。此次，少数派联合数码荔枝的周末独家特惠活动**仅需 49 元人民币，仅限这个周末**（5.6 ~ 5.8），手慢无。
+
+你需要先点击下面链接领取专属优惠券，访问数码荔枝店铺，即可以最优惠价格下单购买（无券购买价格为 69 元）：
+
+* [少数派 SYC 优惠券领取地址 >](https://taoquan.taobao.com/coupon/unify_apply.htm?sellerId=881336826&activityId=c42937d1b74342caadb5dde4a5db50b6)
+* [SYC 购买地址 >](https://item.taobao.com/item.htm?&id=531106238696)
+
+**关联阅读：**[《好用的 Youtube 视频一键下载工具：Softorino Youtube Converter》](http://sspai.com/32528 "好用的 Youtube 视频一键下载工具：Softorino Youtube Converter")
+
+文章来源 [少数派](http://sspai.com) ，原作者 [Yvesss](http://sspai.com/author/63) ，转载请注明原文链接
+
+喜欢少数派？欢迎关注我们的微博：@少数派sspai ，微信公众号： sspaime  
+少数派（ <http://sspai.com> ）
+
+---
+
+[🌐 原始链接](http://sspai.com/34102)
+
+[📎 在印象笔记中打开](evernote:///view/207087/s1/179b355e-2d89-4833-a64c-753d39a71975/179b355e-2d89-4833-a64c-753d39a71975/)

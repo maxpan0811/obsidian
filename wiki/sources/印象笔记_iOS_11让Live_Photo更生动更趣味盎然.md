@@ -1,0 +1,64 @@
+---
+title: "iOS 11让Live Photo更生动更趣味盎然"
+type: source
+created: 2026-07-15
+updated: 2026-07-15
+source_path: 印象笔记管理工具/iOS 11让Live Photo更生动更趣味盎然.md
+tags: [印象笔记]
+---
+
+# iOS 11让Live Photo更生动更趣味盎然
+
+# iOS 11让Live Photo更生动更趣味盎然 --- ![](.evernote-content/3EE85370-4375-4DAD-B32F-E593DEB914D7/84BBA09D-
+
+---
+
+# iOS 11让Live Photo更生动更趣味盎然
+
+---
+
+![](.evernote-content/3EE85370-4375-4DAD-B32F-E593DEB914D7/84BBA09D-1C40-4DD9-BDE7-96DF7CF5A0E4.jpg)
+
+威锋网讯 苹果为 iPhone 6s/6s Plus 及之后的机型增加了 Live Photo 特性，它的作用是在照片拍摄前后录制一段 1.5 秒的动态视频，当用户在照片上深按一下，照片就会自动播放动态效果。用户可以将 Live Photo 设置为锁屏壁纸，随时重现动态瞬间。
+
+不过，想必部分用户已经把这功能忘得差不多了，一方面因为 Live Photo 的图片格式太耗容量，另一方面则是新功能没有太多可把玩之处，试用一段时间就腻歪了。其实这也无可厚非，喜新厌旧是电子消费领域的常态，苹果也意识到了这一点，所以在 iOS 11 Live Photo 中苹果带来更多新功能，让它更加妙趣横生，更有可玩性。
+
+**修改默认相片**
+
+![](.evernote-content/3EE85370-4375-4DAD-B32F-E593DEB914D7/514A3317-4376-4244-A9C4-E60696933391.jpg)
+
+当你在使用 Live Photo 拍照时，相机系统会在快门按下的瞬间定格图像，这是你最想要的照片。然而，有时候我们还是不能精准把控快门按下的时机，好在 iOS 11 中用户可以对拍下的 Live Photo 进行后期修改，设置要显示的主要相片。
+
+在照片应用中选择要修改的 Live Photo 图像，点击“编辑”，在屏幕底部的照片预览框中选中要设置的图片，之后图片会跳出“设为主要相片”提示，点击即可完成对相片的修改。
+
+**裁剪**
+
+使用 Live Photo 时，iPhone 会在拍摄照片前后录制一段 1.5 秒的视频，并把视频和照片编辑在一起。有时候部分图像并不是我们想要的，而在 iOS 11 中，你也可以删除不想要的部分。
+
+在照片应用中查看 Live Photo，点击“编辑”选项，可以在屏幕底部的视频剪辑工具中修改。
+
+**循环播放**
+
+![](.evernote-content/3EE85370-4375-4DAD-B32F-E593DEB914D7/0F33189B-FD24-4437-8CEB-C78A50F2C9BD.gif)
+
+顾名思义，你可以将自己喜爱的 Live Photo 打造成趣味盎然的循环视频。同样在照片应用中查看 Live Photo，选择效果中的“循环播放”即可，之后我们要介绍的“来回播放”和“长曝光”也是同样的操作步骤。
+
+**来回播放**
+
+![](.evernote-content/3EE85370-4375-4DAD-B32F-E593DEB914D7/5959CA9B-62E6-4148-A83F-AE63D3C69423.gif)
+
+在设置“来回播放”后，Live Photo 会在正常播放结束后，再倒带播放一次。这个功能十分有趣，特别逗趣的场景会让人忍不住开怀大笑。
+
+**长曝光**
+
+![](.evernote-content/3EE85370-4375-4DAD-B32F-E593DEB914D7/CDC09A0C-6EBF-4D1E-BC12-E0C48BF17EF1.jpg)
+
+长曝光比较适用于拍摄车灯或者河流等运动元素，让闪烁的灯光在夜空中串成明亮的线条，让湍流的水花模糊成神奇的幻景。用长曝光拍 Live Photo 时，我们建议最好使用三脚架将手机固定，不然任何轻微的晃动都能把一张照片给拍毁了。
+
+[阅读全文](http://www.feng.com/iPhone/news/2017-06-30/IOS-11-let-Live-Photo-more-vivid-and-interesting_684045.shtml)
+
+---
+
+[🌐 原始链接](http://www.feng.com/iPhone/news/2017-06-30/IOS-11-let-Live-Photo-more-vivid-and-interesting_684045.shtml)
+
+[📎 在印象笔记中打开](evernote:///view/207087/s1/69a289d0-9a96-43fe-b9c0-ae4da07517f1/69a289d0-9a96-43fe-b9c0-ae4da07517f1/)
