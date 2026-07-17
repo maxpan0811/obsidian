@@ -135,3 +135,43 @@ tags: [ollama, mlx, multimodal, hardware, apple-silicon, evaluation]
 - [Run Qwen3-VL-30B-A3B-Thinking on macOS Guide](https://codersera.com/blog/run-qwen3-vl-30b-a3b-thinking-on-macos-installation-guide)
 - [Ollama Models Cheat Sheet 2026](https://computingforgeeks.com/ollama-models-cheat-sheet)
 - Ollama Issues: [#17065](https://github.com/ollama/ollama/issues/17065) [#16562](https://github.com/ollama/ollama/issues/16562) [#16264](https://github.com/ollama/ollama/issues/16264)
+ 
+ ## 三级路由策略
+ 
+ [决策（2026-07-17）] 三层路由替代原本的"有图→本地，无图→云端"二分法。
+ 
+ ### 架构
+ 
+ 输入 → 三层判断：
+ 
+ 1. 🌐 **含图片** → `Qwen3-VL-30B-A3B-Thinking`（本地 mlx-lm 直接调用）
+ 2. 💬 **纯文本，简单/隐私** → `qwen3.6:35b-mlx`（本地 Ollama MLX）
+ 3. 💬 **纯文本，复杂/专业** → DeepSeek API（云端）
+ 
+ ### 什么时候走云端
+ 
+ | 场景 | 原因 |
+ |------|------|
+ | 复杂推理（多步逻辑链、数学证明、代码生成） | 云端 671B MoE 无损推理，质量远超量化 35B |
+ | 超长上下文 | 本地 KV Cache 受内存限制 |
+ | 质量敏感输出（重要邮件、报告） | 值得花 token 费 |
+ | 本地模型切换间隙 | 两模型不能同时驻内存 |
+ | 公开信息查询、日常问答 | 无需隐私保护 |
+ 
+ ### 什么时候走本地
+ 
+ | 场景 | 原因 |
+ |------|------|
+ | 含图片输入 | 唯一必选本地场景，roter 搭建初衷 |
+ | 隐私内容（公司数据、个人资料） | 数据不出本机 |
+ | 离线环境（飞机、无网） | 本地可脱离网络运行 |
+ | 高频低价值查询 | 省 API 费 |
+ | 快速响应需求 | 本地 MLX 延迟更低 |
+ 
+ ### 手动覆盖
+ 
+ - `--local`：强制本地文本模型
+ - `--cloud`：强制云端 DeepSeek API
+ - `--image <path>`：指定图片
+ 
+
