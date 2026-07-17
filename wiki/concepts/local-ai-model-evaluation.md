@@ -175,3 +175,59 @@ tags: [ollama, mlx, multimodal, hardware, apple-silicon, evaluation]
  - `--image <path>`：指定图片
  
 
+
+---
+
+## 关键纠正：Ollama MLX ≠ mlx-lm
+
+[来源：Tavily 搜索 + 两篇技术分析文章]
+
+Ollama 的 MLX 后端和原生 mlx-lm 是两套东西：
+
+| 路径 | 权重格式 | 推理引擎 | Ollama 是否支持 |
+|------|---------|---------|--------------|
+| 原生 mlx-lm | safetensors + MLX 元数据 | mlx-lm (Python 包) | ❌ 不认 |
+| Ollama MLX 路径 | safetensors（特调）+ nvfp4/mxfp8 量化 | Ollama 内嵌 MLX 库 | ✅ 只认仓库里带 mlx tag 的官方镜像 |
+
+💡 Ollama 的 "MLX 支持" ≠ "支持 mlx-lm 格式的模型"。Ollama 0.19 引入 MLX 引擎后，只认自家仓库里打了 `mxfp8`/`mlx-bf16`/`nvfp4` 等 tag 的模型。目前这些 tag 只覆盖了 Qwen3.5/Qwen3.6 几个纯文本编码型号，Qwen3-VL 系列还没出 MLX 变体。
+
+## Qwen3-VL-30B 在 Ollama 的现状
+
+- 架构: `qwen3vlmoe`，30B-A3B MoE（实际激活 3B）
+- Ollama library 里有 `qwen3-vl:30b`，但走的是 **llama.cpp/GGUF 路径**，不是 MLX
+- 量化 Q4_K_M，~20 GB
+- 要求 Ollama ≥ 0.12.7，`ollama pull qwen3-vl:30b` 直接跑
+
+## 三条路线对比（M4 Max 64GB）
+
+| 路线 | 方式 | 内存 | 速度 | 说明 |
+|------|------|------|------|------|
+| A | Ollama GGUF (`qwen3-vl:30b`) | ~20 GB | ~42 tok/s | 省事，一行搞定 |
+| B | mlx-vlm 原生 (4bit) | ~18 GB | 更快（无 llama.cpp 中间层） | 推荐，M4 Max 宽裕 |
+| C | mlx-vlm 原生 (bf16) | ~62 GB | 最快 | 贴满 64GB 内存，不实用 |
+
+路线 B 是这台机器的 sweet spot：`mlx-community/Qwen3-VL-30B-A3B-Instruct-4bit`。
+
+## 实验性导入
+
+Ollama 的 `--experimental` 导入支持部分 safetensors 架构，但不支持 `Qwen3VLMoeForConditionalGeneration`（MoE + 视觉的复合架构）。
+
+## 最终选型（2026-07-17）
+
+当前方案不动，够用：
+
+| 模型 | 用途 | 引擎 |
+|------|------|------|
+| `qwen3.6:35b-mlx` | 纯文本 | Ollama MLX |
+| `qwen3-vl:2b` | 看图 | Ollama GGUF |
+| DeepSeek API | 复杂任务 | 云端 |
+
+如果未来需要提升看图质量，走路线 B：`mlx-vlm` 原生跑 4bit 版。
+
+## 下载纪律（经用户确认，记入 ~/AGENTS.md 约束红线）
+
+禁止私自下载模型文件。下载前必须：
+1. 说清楚这是什么模型（厂商、架构、用途）
+2. 说清楚为什么要下它（替代什么、解决什么问题）
+3. 说清楚大小和影响（多少 GB、占多少内存）
+4. 等用户说"好"才动手
