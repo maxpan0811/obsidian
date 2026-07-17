@@ -1,0 +1,332 @@
+---
+title: AI学习
+source: 幕布
+---
+
+# <span>如何与AI互动</span>
+- <span>什么是好的AI交互提示词</span>
+  - <span>设定背景：你的角色是什么，你的目标是什么？Claude 应该了解你工作的哪些背景？</span>
+  - <span>定义任务：你想让 Claude 采取什么行动？你想让Claude 写作、分析、构建还是其他什么？</span>
+  - <span>指定规则：你想让 Claude 使用什么风格或语气？你能附上示例来展示你要找的东西吗？</span>
+  - <span>举例：</span>
+    - <span>“我是一家独立流媒体初创公司的营销负责人，我们正在准备投资者演示文稿。你能研究一下独立电影流媒体市场的现状，并确定主要趋势、竞争对手定位和增长机会吗？请使用带有引用的当前网络研究，并将其结构化为专业报告。"</span>
+    - <span>在这个提示词中：</span>
+      - <span>设定背景：我们告诉 Claude 这是为一个新的独立流媒体应用程序的投资者演示文稿——这是上下文和目标。</span>
+      - <span>定义任务：我们提供了具体的行动（研究市场）和相关细节（趋势、竞争对手、机会）。</span>
+      - <span>指定规则：我们要求提供带有引用的当前网络研究，结构化为专业报告——告诉 Claude 我们需要什么样的风格和格式。</span>
+- <span>Deepseek的提示词技巧</span>
+  - <span>身份+背景+目标+限制条件</span>
+  - <span>举例</span>
+    - <span>你是李白，目前正被流放夜郎，请以李白的风格和口吻写一首有关春节的七律，严格遵循律诗的格律要求，包括平仄、押韵和对仗。其中，颔联（第三、四句）和颈联（第五、六句）必须对仗工整，词性相对、结构相似、平仄相对。</span>
+      - <span>《甲辰元日于夜郎》</span>
+      - <span>元日瘴江闻楚喧，孤灯照影对寒樽。</span>
+      - <span>云横五岭家书断，雪压三湘客梦昏。</span>
+      - <span>诗成独洒穷途泪，酒罢空销壮士魂。</span>
+      - <span>且唤春风洗桎梏，何须羌笛怨羁存。</span>
+      - <span>注：此诗模拟李白流放夜郎时的孤愤心境，以“云横五岭”对“雪压三湘”，工整展现地理隔绝之痛；“诗成独洒”对“酒罢空销”，通过行为与心境对仗深化悲慨。尾联“春风洗桎梏”奇崛突兀，既守七律平仄，又延续太白诗风中特有的超拔之气。</span>
+- <span>如果 Claude 的第一个回复不完全是你想要的，你有几个选择：</span>
+  - <span>提出后续问题：通过要求更多细节、不同角度或澄清来在 Claude 的回复基础上构建。例如：“你能展开第二点吗？"或"这很有帮助，但你能让它更简洁吗？"</span>
+  - <span>提供反馈：告诉 Claude 你喜欢和不喜欢它回复的哪些部分。“这很好，但语气太正式了。你能让它更对话化吗？"</span>
+  - <span>重定向或重新开始：如果 Claude 走向了与你意图不同的方向，只需把它引导回来。“实际上，我问的是X，不是Y。让我澄清一下……”。最坏的情况是，在新聊天中重新开始对话以完全刷新上下文。</span>
+- <span>AI 流利度：AI 流利度 4D 框架是由 Rick Dakan 教授（林林艺术与设计学院）和 Joseph Feller 教授（科克大学学院）合作研究开发的，确定了四个核心能力，结合起来可以帮助你充分利用AI交互：</span>
+  - <span>委派（Delegation）：决定什么工作应该由人类完成，什么工作应该由 AI完成，以及如何在它们之间分配任务。包括理解你的目标、Al能力，以及对协作做出战略性选择。</span>
+  - <span>描述（Description）：与AI系统有效沟通。包括清晰定义输出、指导 AI过程、指定期望的AI 行为和交互。</span>
+  - <span>辨别（Discernment）：周到且批判性地评估 AI输出、过程、行为和交互。包括评估质量、准确性、适当性，以及确定需要改进的领域。</span>
+  - <span>勤勉（Diligence）：负责任和道德地使用AI。包括对 AI系统和交互做出周到的选择，保持透明度，并对AI辅助的工作负责。</span>
+- <span>如何评估 AI（claude）的工作效果：</span>
+  - <span>1. 收集示例。收集 5-10个你经常做的任务示例——你写过的邮件、创建的报告、做过的分析。</span>
+  - <span>2. 创建测试提示。编写能生成类似输出的提示。包括你在做这项工作时自然会有的上下文。</span>
+  - <span>3. 比较输出。运行你的提示并将 Claude 的回复与你的示例进行比较。问自己：</span>
+    - <span>Claude是否捕获了关键信息？</span>
+    - <span>语气和风格是否合适？</span>
+    - <span>缺少什么或可以改进什么？</span>
+    - <span>改进你的方法。根据你学到的内容，调整你的提示，添加示例向 Claude 展示什么是好的，或确定人工审核必不可少的地方。</span>
+# <span>Claude Code</span>
+- <span>基础命令</span>
+  - <span>！+终端指令：在claude界面直接执行指令，如!ls</span>
+  - <span class="tag">@+文件名</span><span>：打开文件</span>
+  - <span>\+ Enter：换行，输入多行内容时使用（通用方法）</span>
+  - <span>Esc：中断生成，Claude Code 说太多了？按 Esc打断它</span>
+  - <span>/add-dir：添加关注目录，希望让claude关注哪些目录，扩大视野</span>
+  - <span>/clear：清空会话，避免容量不足宕机</span>
+  - <span>/compact：压缩上下文，省钱</span>
+  - <span>/config：配置设置，修改 Claude Code 的各项设置</span>
+  - <span>/context：可视化当前上下文占用情况</span>
+  - <span>/copy [N]：复制最近一次回复到剪贴板，想把它的回答粘贴到别处时</span>
+  - <span>/cost：显示当前的 token 用量</span>
+  - <span>/deep research 【你的研究问题】：启动Dynamic Workflows研究你的问题，它会自动并行搜索多个来源、交叉验证每个主张、过滤不可靠信息，最后输出带引用来源的结构化报告。适合每天做市场情报、竞品分析、AI 工具研究。</span>
+  - <span>/diff：打开可视化差异查看器，看它改了什么，它帮你改了文件，想看看具体改了哪些</span>
+  - <span>/doctor：诊断问题，Claude Code 出毛病了？让它自查</span>
+  - <span>/effort [级别]：设置思考深度（low/medium/high/max），简单问题用 low 省钱，复杂任务用 high</span>
+  - <span>/effort ultracode：开启后，Claude 会为每个有实质性的任务</span><span class="bold">自动规划并执行 workflow + 高推理努力</span><span>。注意：token 消耗会明显增加，适合重要任务。</span>
+  - <span>/exit：退出 Claude Code，用完了，退出程序</span>
+  - <span>/export：导出对话，保存对话记录到文件或剪贴板</span>
+  - <span>/fast：切换快速模式，想要更快的回复速度</span>
+  - <span>/goal：</span>
+  - <span>/help：查看帮助，不知道怎么用？先打这个</span>
+  - <span>/init：生成项目说明书，生成一个CLAUDE.md</span>
+  - <span>/loop</span>
+  - <span>/memory：管理记忆文件，想让它记住你的偏好和习惯</span>
+  - <span>/model：切换模型，在不同模型之间切换</span>
+  - <span>/plan：shift+tab，进入规划模式，复杂任务先规划思路再执行</span>
+  - <span>/pptx：运行相关的ppt skill</span>
+  - <span>/rename：/rename “session name”（这个session name就是你想改成的名字，引号不需要）</span>
+  - <span>/resume：恢复对话，找回上次没聊完的对话；claude --resume "session name"（引号需要）</span>
+  - <span>/review：代码审查，代码提交前必备指令，给出一堆建议</span>
+  - <span>/rewind：回退对话/代码，改错了？回退到之前的状态</span>
+  - <span>/skills：查看安装了哪些skill</span>
+  - <span>/stats：查看使用统计，看看自己的使用习惯和每日用量</span>
+  - <span>/status：查看状态，当前账户、模型、用量信息</span>
+  - <span>/statusline：配置状态行</span>
+  - <span>/theme：切换颜色主题</span>
+  - <span>/usage：显示套餐用量和限速状态</span>
+  - <span>/voice：开关语音输入</span>
+  - <span>/workflows：</span>
+  - <span>claude update：升级</span>
+- <span>完整的需求文档通常包括：</span>
+  - <span>明确项目背景和目标</span>
+  - <span>详细列出功能要求和技术栈</span>
+  - <span>指定代码风格和架构模式</span>
+  - <span>提供示例和参考资料</span>
+  - <span>明确限制条件和边界场景</span>
+- <span>Claude软件设计规范</span>
+  - <span>mac最新风格</span>
+    - <span>深色半透明毛玻璃效果</span>
+    - <span>macOS 风格圆角和阴影</span>
+    - <span>SF Pro 系统字体</span>
+    - <span>流畅的动画过渡</span>
+    - <span>输入框支持自动调整高度</span>
+    - <span>优化的按钮交互</span>
+- <span>claude“项目”</span>
+  - <span>为什么要建立项目</span>
+    - <span>项目是独立的工作空间，拥有自己的记忆、聊天历史、知识库和自定义指令。可以把它们看作是特定工作流程的专用环境。</span>
+    - <span>项目知识增强了 Claude 的理解</span><span>，允许你上传相关文档，Claude 会在该项目中的所有聊天中引用。不再需要每次重新上传相同的文件。</span>
+    - <span>项目指令指导 Claude 的行为</span><span>——你可以指定语气、专业水平、回复风格等。这些指令适用于项目中的每个对话。</span>
+    - <span>项目自动扩展</span><span>。当你的知识库接近上下文限制时，Claude 会无缝启用检索增强生成（RAG）模式，将容量扩展最多 10 倍，同时保持响应质量。</span>
+    - <span>对于 Claude for Work 用户，项目实现协作</span><span>。与团队成员共享项目，让每个人都能从相同的上下文、指令和积累的知识中受益。</span>
+# <span>Codex</span>
+- <span>基础命令</span>
+  - <span>codex resume：显示最近的session</span>
+  - <span>/new：它会清掉当前 session 的 context，给你一个干净的 prompt，同一个 TUI session 里继续</span>
+    - <span>/clear 和 /new 的区别在于：/clear 更多是视觉效果（清显示+重置可见 transcript），而 /new 会真正重置底层的对话上下文。</span>
+  - <span>/status——会显示 thread ID、context usage、rate limits</span>
+  - <span>/statusline——显示信息条</span>
+# <span>Harness：</span>
+# <span>iTerm2</span>
+- <span>MacOS Terminal</span>
+  - <span>字体：Monaco</span>
+- <span>基础命令</span>
+  - <span>curl：是一个在命令行中使用的网络数据传输工具。它的核心功能是与服务器进行通信，获取或发送数据。您可以将它理解为一个命令行版本的浏览器或万能的数据搬运工。它的名字意为 “Client URL”。</span>
+    - <span>快速下载文件：curl -O </span><a class="content-link" target="_blank" spellcheck="false" rel="noreferrer" href="https://example.com/file.zip"><span class="content-link-text">https://example.com/file.zip</span></a>
+  - <span>less：查看文本文件，</span><span class="bold">优点</span><span>：打开大文件极快，支持上下翻页、搜索、跳转，查看后自动退出不占终端。</span>
+    - <span>less 文件名</span>
+    - <span>上下箭头：逐行滚动</span>
+    - <span>空格键：向下翻一页</span>
+    - <span>q键：退出</span>
+    - <span>/关键词：向前搜索</span>
+    - <span>?关键词：向后搜索</span>
+  - <span>nano：编辑文本文件，简单直观，界面底部有所有快捷键提示（如 ^O保存，^X退出），无需记忆复杂命令。</span>
+    - <span>nano 文件名</span>
+  - <span>npm：主要用于安装和管理包（npm install）</span>
+  - <span>npx：主要用于临时执行包中的命令，而无需先全局安装该包</span>
+  - <span>自定义命令提示符</span>
+    - <span>nano ~/.zshrc （编制zsh配置文件）</span>
+    - <span>source ~/.zshrc （配置立即生效）</span>
+  - <div class="table-container"><table class="auto-table" border="1" cellspacing="0" style="border-collapse: collapse;"><thead><tr><th tabindex="0" contenteditable="false"><div class="column-select-btn" data-col="0" title="选择此列" contenteditable="false"></div><div class="row-select-btn" data-row="0" title="选择此行" contenteditable="false"></div><span class="edit-area" contenteditable="true">pwd</span></th><th tabindex="0" contenteditable="false"><div class="column-select-btn" data-col="1" title="选择此列" contenteditable="false"></div><span class="edit-area" contenteditable="true">显示你当前在哪个文件夹</span></th><th tabindex="0" contenteditable="false"><div class="column-select-btn" data-col="2" title="选择此列" contenteditable="false"></div><span class="edit-area" contenteditable="true">"我在哪"</span></th></tr></thead><tbody><tr><td tabindex="0" contenteditable="false"><div class="row-select-btn" data-row="1" title="选择此行" contenteditable="false"></div><span class="edit-area" contenteditable="true">cd 文件夹名</span></td><td tabindex="0" contenteditable="false"><span class="edit-area" contenteditable="true">进入某个文件夹</span></td><td tabindex="0" contenteditable="false"><span class="edit-area" contenteditable="true">"走进某个房间"</span></td></tr><tr><td tabindex="0" contenteditable="false"><div class="row-select-btn" data-row="2" title="选择此行" contenteditable="false"></div><span class="edit-area" contenteditable="true">cd ..</span></td><td tabindex="0" contenteditable="false"><span class="edit-area" contenteditable="true">返回上一级文件夹</span></td><td tabindex="0" contenteditable="false"><span class="edit-area" contenteditable="true">"退回走廊"</span></td></tr><tr><td tabindex="0" contenteditable="false"><div class="row-select-btn" data-row="3" title="选择此行" contenteditable="false"></div><span class="edit-area" contenteditable="true">cd ~</span></td><td tabindex="0" contenteditable="false"><span class="edit-area" contenteditable="true">回到你的主目录（桌面、下载等的上一层）</span></td><td tabindex="0" contenteditable="false"><span class="edit-area" contenteditable="true">"回家"</span></td></tr><tr><td tabindex="0" contenteditable="false"><div class="row-select-btn" data-row="4" title="选择此行" contenteditable="false"></div><span class="edit-area" contenteditable="true">ls</span></td><td tabindex="0" contenteditable="false"><span class="edit-area" contenteditable="true">列出当前文件夹里有什么</span></td><td tabindex="0" contenteditable="false"><span class="edit-area" contenteditable="true">"看看房间里有什么"</span></td></tr><tr><td tabindex="0" contenteditable="false"><div class="row-select-btn" data-row="5" title="选择此行" contenteditable="false"></div><span class="edit-area" contenteditable="true">ls -la</span></td><td tabindex="0" contenteditable="false"><span class="edit-area" contenteditable="true">列出所有文件（包括隐藏文件）</span></td><td tabindex="0" contenteditable="false"><span class="edit-area" contenteditable="true">"连角落里的东西都翻一遍"</span></td></tr><tr><td tabindex="0" contenteditable="false"><div class="row-select-btn" data-row="6" title="选择此行" contenteditable="false"></div><span class="edit-area" contenteditable="true">mkdir 文件夹名</span></td><td tabindex="0" contenteditable="false"><span class="edit-area" contenteditable="true">创建新文件夹</span></td><td tabindex="0" contenteditable="false"><span class="edit-area" contenteditable="true">"新建一个抽屉"</span></td></tr><tr><td tabindex="0" contenteditable="false"><div class="row-select-btn" data-row="7" title="选择此行" contenteditable="false"></div><span class="edit-area" contenteditable="true">touch 文件名</span></td><td tabindex="0" contenteditable="false"><span class="edit-area" contenteditable="true">创建一个空文件</span></td><td tabindex="0" contenteditable="false"><span class="edit-area" contenteditable="true">"拿出一张空白纸"</span></td></tr><tr><td tabindex="0" contenteditable="false"><div class="row-select-btn" data-row="8" title="选择此行" contenteditable="false"></div><span class="edit-area" contenteditable="true">cat 文件名</span></td><td tabindex="0" contenteditable="false"><span class="edit-area" contenteditable="true">查看文件内容</span></td><td tabindex="0" contenteditable="false"><span class="edit-area" contenteditable="true">"翻开看看写了什么"</span></td></tr><tr><td tabindex="0" contenteditable="false"><div class="row-select-btn" data-row="9" title="选择此行" contenteditable="false"></div><span class="edit-area" contenteditable="true">cp 原文件 新文件</span></td><td tabindex="0" contenteditable="false"><span class="edit-area" contenteditable="true">复制文件</span></td><td tabindex="0" contenteditable="false"><span class="edit-area" contenteditable="true">"复印一份"</span></td></tr><tr><td tabindex="0" contenteditable="false"><div class="row-select-btn" data-row="10" title="选择此行" contenteditable="false"></div><span class="edit-area" contenteditable="true">mv 原位置 新位置</span></td><td tabindex="0" contenteditable="false"><span class="edit-area" contenteditable="true">移动或重命名文件</span></td><td tabindex="0" contenteditable="false"><span class="edit-area" contenteditable="true">"把东西搬到另一个房间"</span></td></tr><tr><td tabindex="0" contenteditable="false"><div class="row-select-btn" data-row="11" title="选择此行" contenteditable="false"></div><span class="edit-area" contenteditable="true">rm 文件名</span></td><td tabindex="0" contenteditable="false"><span class="edit-area" contenteditable="true">删除文件（不可恢复，慎用）</span></td><td tabindex="0" contenteditable="false"><span class="edit-area" contenteditable="true">"扔掉这张纸"</span></td></tr><tr><td tabindex="0" contenteditable="false"><div class="row-select-btn" data-row="12" title="选择此行" contenteditable="false"></div><span class="edit-area" contenteditable="true">open .</span></td><td tabindex="0" contenteditable="false"><span class="edit-area" contenteditable="true">在 Finder 里打开当前文件夹（Mac）</span></td><td tabindex="0" contenteditable="false"><span class="edit-area" contenteditable="true">"打开窗户看看"</span></td></tr><tr><td tabindex="0" contenteditable="false"><div class="row-select-btn" data-row="13" title="选择此行" contenteditable="false"></div><span class="edit-area" contenteditable="true">clear</span></td><td tabindex="0" contenteditable="false"><span class="edit-area" contenteditable="true">清空终端屏幕</span></td><td tabindex="0" contenteditable="false"><span class="edit-area" contenteditable="true">"擦黑板"</span></td></tr><tr><td tabindex="0" contenteditable="false"><div class="row-select-btn" data-row="14" title="选择此行" contenteditable="false"></div><span class="edit-area" contenteditable="true">Ctrl + C</span></td><td tabindex="0" contenteditable="false"><span class="edit-area" contenteditable="true">强制停止当前操作</span></td><td tabindex="0" contenteditable="false"><span class="edit-area" contenteditable="true">"紧急刹车"</span></td></tr><tr><td tabindex="0" contenteditable="false"><div class="row-select-btn" data-row="15" title="选择此行" contenteditable="false"></div><span class="edit-area" contenteditable="true">↑（方向键上）</span></td><td tabindex="0" contenteditable="false"><span class="edit-area" contenteditable="true">调出上一条命令</span></td><td tabindex="0" contenteditable="false"><span class="edit-area" contenteditable="true">"翻聊天记录"</span></td></tr></tbody></table></div>
+# <span>MCP：</span>
+- <span>MCP和API的区别：</span>
+  - <span>MCP（Model Context Protocol）不是传统意义上的API，而是定义AI模型如何“发现”和“调用”各种API及其他功能的“元协议”或“通信标准”。可以把它们的关系理解为：MCP是“菜单”和“点餐规则”，而“以前的API”是“后厨”。</span>
+  - <span>MCP是让AI模型能够方便、安全地使用“以前的API”的一套中间协议和基础设施。它降低了让AI使用复杂工具的门槛，是构建AI智能体（Agent）生态的关键组件。</span>
+  - <span>MCP不是替代API，而是建立在API之上的一层抽象，旨在让AI模型能更安全、标准化、无需预编程地使用各种API和能力。</span>
+  - <span>目的不同：传统API的目的是“让程序调用功能”；MCP的目的是“让AI模型理解并能安全地调用功能”。</span>
+  - <span>关系：一个MCP服务器的底层，几乎总是封装了一个或多个传统API、数据库连接或命令行工具。</span>
+- <span>context7</span>
+- <span>飞书CLI</span>
+  - <span>Install CLI</span>
+    - <span>npm install -g @larksuite/cli</span>
+  - <span>Install CLI SKILL (required)</span>
+    - <span>npx skills add larksuite/cli -y -g</span>
+# <span>n8n</span>
+# <span>NotebookLM</span>
+- <span>使用RAG算法</span>
+# <span>obsidian</span>
+- <span>plugin</span>
+  - <span>copilot：AI对话工具</span>
+  - <span>HTML reader：浏览HTML文件</span>
+  - <span>Notebook Navigator：文件浏览工具</span>
+# <span>openclaw</span>
+- <span>基础命令</span>
+  - <span>！+命令：以 !开头可以直接执行本地 Shell 命</span>
+  - <span>/：可以调出命令菜单，如 /help查看帮助、/new重置会话等</span>
+  - <span>/compact ：保留核心决策和未解决问题</span>
+  - <span>/dreaming on：为当前会话或代理启用 Dreaming</span>
+    - <span>/dreaming off</span>
+    - <span>/dreaming status</span>
+    - <span>dreaming help</span>
+  - <span>/exit：退出tui界面</span>
+  - <span>/verbose: on,full,off：显示完整推理过程</span>
+  - <span>curl -fsSL </span><a class="content-link" target="_blank" spellcheck="false" rel="noreferrer" href="https://openclaw.ai/install.sh"><span class="content-link-text">https://openclaw.ai/install.sh</span></a><span> | bash</span>
+  - <span>openclaw --version：确认版本</span>
+  - <span>openclaw agents add peter：新增agent “peter”</span>
+  - <span>openclaw backup create：完整备份</span>
+  - <span>openclaw backup verify：验证备份</span>
+  - <span>openclaw dashboard：用浏览器访问控制界面，或直接访问：</span><a class="content-link" target="_blank" spellcheck="false" rel="noreferrer" href="http://127.0.0.1:1878/"><span class="content-link-text">http://127.0.0.1:1878</span></a><span>9</span>
+  - <span>openclaw doctor：健康检查</span>
+    - <span>openclaw doctor --fix：自动修复</span>
+  - <span>openclaw gateway：前台运行，终端关闭则服务停止</span>
+  - <span>openclaw gateway start：后台运行，终端关闭仍继续工作</span>
+    - <span>openclaw gateway status：查看状态</span>
+    - <span>openclaw gateway stop：停止运行</span>
+  - <span>openclaw gateway restart：重启网关</span>
+  - <span>openclaw logs：查看日志，排错时使用</span>
+  - <span>openclaw memory promote --apply：将短期记忆中高价值的知识</span><span class="bold">手动、立即</span><span>固化到长期记忆文件 MEMORY.md 中</span>
+  - <span>openclaw onboard --install-daemon：初始设置openclaw</span>
+  - <span>openclaw security audit --deep：进行深度检查</span>
+  - <span>openclaw security audit --fix：自动修复安全问题</span>
+  - <span>openclaw sessions：显示当前的session</span>
+  - <span>openclaw status：查看运行状态</span>
+  - <span>openclaw tui：终端聊天界面</span>
+    - <span>进入TUI界面通过Ctrl+G快捷键来切换agent</span>
+  - <span>openclaw update --channel stable：升级</span>
+  - <span>secureclaw：安全检查</span>
+    - <span>secureclaw audit ~/.openclaw/</span>
+- <span>快捷键</span>
+  - <span>Enter：发送消息/执行命令，最核心的快捷键</span>
+  - <span>Esc：中止当前运行，停止正在执行的 AI 响应或工具调用</span>
+  - <span>Ctrl+C：清空输入框，连按两次会退出 TUI</span>
+  - <span>Ctrl+D：退出 TUI，直接关闭界面</span>
+  - <span>Ctrl+L：打开模型选择器，切换不同的 AI 模型</span>
+  - <span>Ctrl+G：打开 Agent 选择器，切换不同的智能体</span>
+  - <span>Ctrl+P：打开 Session 选择器，切换不同的会话</span>
+  - <span>Ctrl+O：切换工具输出展开/折叠，控制工具调用结果的显示</span>
+  - <span>Ctrl+T：切换 Thinking 显示，显示/隐藏 AI 的思考过程</span>
+- <span>Skill</span>
+  - <span>搜索技能</span>
+    - <span>clawhub search file-manager --registry=</span><a class="content-link" target="_blank" spellcheck="false" rel="noreferrer" href="https://cn.clawhub-mirror.com"><span class="content-link-text">https://cn.clawhub-mirror.com</span></a>
+  - <span>安装技能</span>
+    - <span>clawhub install [skill名称] --registry=</span><a class="content-link" target="_blank" spellcheck="false" rel="noreferrer" href="https://cn.clawhub-mirror.com"><span class="content-link-text">https://cn.clawhub-mirror.com</span></a>
+  - <span>查看已安装技能</span>
+    - <span>openclaw skills list</span>
+  - <span>查看已安装技能详情</span>
+    - <span>openclaw skill info [skill名称]</span>
+  - <span>激活技能</span>
+    - <span>openclaw restart</span>
+  - <span>更新技能</span>
+    - <span>npx clawhub@latest update --all --registry=</span><a class="content-link" target="_blank" spellcheck="false" rel="noreferrer" href="https://cn.clawhub-mirror.com/"><span class="content-link-text">https://cn.clawhub-mirror.com</span></a>
+    - <span>openclaw skills update</span>
+  - <span>卸载技能</span>
+    - <span>npx clawhub@latest uninstall [skill名称]</span>
+  - <span>启用/禁用技能</span>
+    - <span>openclaw skill disable [skill名称]</span>
+    - <span>openclaw skill enable [skill名称]</span>
+- <span>提升openclaw的记忆能力、规划能力、工作能力和总结能力</span>
+  - <span>做事之前先规划</span>
+    - <span>planning-with-files：请先制定一个详细的执行计划并保存到文件，确认后再开始</span>
+  - <span>确保dreaming模式打开，定期手工“做梦”</span>
+  - <span>安装QMD后台检索引擎：</span>
+  - <span>每个项目做完总结经验：</span>
+    - <span>lossless-claw（plugin，not skill）</span>
+    - <span>skill-dreaming-extractor</span>
+    - <span>self-improving-agent-skill</span>
+      - <span>列出你目前在我的 .learnings里都记住了哪些经验和偏好？</span>
+      - <span>帮我整理一下 learnings.md，把重复的条目合并，过时的删掉</span>
+    - <span>skill-creator</span>
+      - <span>核实skill.md文件，确保主要经验和工具没有遗漏</span>
+  - <span>/compact：压缩上下文</span>
+  - <span>安排双模型，简单的事情用简单的模型，复杂的事情提醒我用高级的模型</span>
+    - <span>deepseek-v4-flash</span>
+    - <span>deepseek-v4-pro</span>
+- <span>备份</span>
+  - <span>~/.openclaw/</span>
+    - <span>├── openclaw.json          # 核心配置文件（API密钥、代理设置等）</span>
+    - <span>├── gateway.db            # Gateway数据库（所有对话历史、状态）</span>
+    - <span>├── memory/               # 长期记忆系统（不可恢复）</span>
+    - <span>├── embeddings.db         # 记忆向量数据库</span>
+    - <span>├── agents/               # 代理配置和状态</span>
+    - <span>│   ├── */agent/         # 各代理的配置</span>
+    - <span>│   └── */sessions/      # 会话历史记录</span>
+    - <span>├── sessions/             # 频道会话（Telegram/WhatsApp/Discord等）</span>
+    - <span>├── skills/               # 已安装的技能（含自定义配置）</span>
+    - <span>├── plugins/              # 已安装的插件</span>
+    - <span>└── credentials/          # 认证凭据（OAuth、API密钥等）</span>
+  - <span>workspace/</span>
+    - <span>├── AGENTS.md            # 代理定义文件</span>
+    - <span>├── SOUL.md              # 代理灵魂/人格定义</span>
+    - <span>├── USER.md              # 用户信息文件</span>
+    - <span>├── MEMORY.md            # 主要记忆文件</span>
+    - <span>├── memory/              # 按日期组织的记忆文件</span>
+    - <span>│   └── YYYY-MM-DD.md</span>
+    - <span>└── HEARTBEAT.md         # 心跳/状态文件（可选）</span>
+  - <div class="table-container"><table class="auto-table" border="1" cellspacing="0" style="border-collapse: collapse;"><thead><tr><th tabindex="0" contenteditable="false"><div class="column-select-btn" data-col="0" title="选择此列" contenteditable="false"></div><div class="row-select-btn" data-row="0" title="选择此行" contenteditable="false"></div><span class="edit-area" contenteditable="true">数据类别</span></th><th tabindex="0" contenteditable="false"><div class="column-select-btn" data-col="1" title="选择此列" contenteditable="false"></div><span class="edit-area" contenteditable="true">重要性</span></th><th tabindex="0" contenteditable="false"><div class="column-select-btn" data-col="2" title="选择此列" contenteditable="false"></div><span class="edit-area" contenteditable="true">丢失后果</span></th><th tabindex="0" contenteditable="false"><div class="column-select-btn" data-col="3" title="选择此列" contenteditable="false"></div><span class="edit-area" contenteditable="true">备份建议</span></th></tr></thead><tbody><tr><td tabindex="0" contenteditable="false"><div class="row-select-btn" data-row="1" title="选择此行" contenteditable="false"></div><span class="edit-area" contenteditable="true">openclaw.json</span></td><td tabindex="0" contenteditable="false"><span class="edit-area" contenteditable="true">关键​</span></td><td tabindex="0" contenteditable="false"><span class="edit-area" contenteditable="true">所有设置需重新配置</span></td><td tabindex="0" contenteditable="false"><span class="edit-area" contenteditable="true">必须备份​</span></td></tr><tr><td tabindex="0" contenteditable="false"><div class="row-select-btn" data-row="2" title="选择此行" contenteditable="false"></div><span class="edit-area" contenteditable="true">gateway.db</span></td><td tabindex="0" contenteditable="false"><span class="edit-area" contenteditable="true">关键​</span></td><td tabindex="0" contenteditable="false"><span class="edit-area" contenteditable="true">对话历史全部丢失</span></td><td tabindex="0" contenteditable="false"><span class="edit-area" contenteditable="true">必须备份​</span></td></tr><tr><td tabindex="0" contenteditable="false"><div class="row-select-btn" data-row="3" title="选择此行" contenteditable="false"></div><span class="edit-area" contenteditable="true">memory/目录</span></td><td tabindex="0" contenteditable="false"><span class="edit-area" contenteditable="true">关键​</span></td><td tabindex="0" contenteditable="false"><span class="edit-area" contenteditable="true">长期记忆不可恢复</span></td><td tabindex="0" contenteditable="false"><span class="edit-area" contenteditable="true">必须备份​</span></td></tr><tr><td tabindex="0" contenteditable="false"><div class="row-select-btn" data-row="4" title="选择此行" contenteditable="false"></div><span class="edit-area" contenteditable="true">agents/目录</span></td><td tabindex="0" contenteditable="false"><span class="edit-area" contenteditable="true">重要​</span></td><td tabindex="0" contenteditable="false"><span class="edit-area" contenteditable="true">代理配置丢失</span></td><td tabindex="0" contenteditable="false"><span class="edit-area" contenteditable="true">建议备份</span></td></tr><tr><td tabindex="0" contenteditable="false"><div class="row-select-btn" data-row="5" title="选择此行" contenteditable="false"></div><span class="edit-area" contenteditable="true">sessions/目录</span></td><td tabindex="0" contenteditable="false"><span class="edit-area" contenteditable="true">重要​</span></td><td tabindex="0" contenteditable="false"><span class="edit-area" contenteditable="true">需重新配对所有频道</span></td><td tabindex="0" contenteditable="false"><span class="edit-area" contenteditable="true">建议备份</span></td></tr><tr><td tabindex="0" contenteditable="false"><div class="row-select-btn" data-row="6" title="选择此行" contenteditable="false"></div><span class="edit-area" contenteditable="true">skills/目录</span></td><td tabindex="0" contenteditable="false"><span class="edit-area" contenteditable="true">重要​</span></td><td tabindex="0" contenteditable="false"><span class="edit-area" contenteditable="true">可重装但自定义设置丢失</span></td><td tabindex="0" contenteditable="false"><span class="edit-area" contenteditable="true">建议备份</span></td></tr><tr><td tabindex="0" contenteditable="false"><div class="row-select-btn" data-row="7" title="选择此行" contenteditable="false"></div><span class="edit-area" contenteditable="true">workspace/目录</span></td><td tabindex="0" contenteditable="false"><span class="edit-area" contenteditable="true">重要​</span></td><td tabindex="0" contenteditable="false"><span class="edit-area" contenteditable="true">代理的"思维"和记忆丢失</span></td><td tabindex="0" contenteditable="false"><span class="edit-area" contenteditable="true">建议备份</span></td></tr><tr><td tabindex="0" contenteditable="false"><div class="row-select-btn" data-row="8" title="选择此行" contenteditable="false"></div><span class="edit-area" contenteditable="true">logs/目录</span></td><td tabindex="0" contenteditable="false"><span class="edit-area" contenteditable="true">一般​</span></td><td tabindex="0" contenteditable="false"><span class="edit-area" contenteditable="true">无重大影响</span></td><td tabindex="0" contenteditable="false"><span class="edit-area" contenteditable="true">可选备份</span></td></tr></tbody></table></div>
+# <span>warp</span>
+- <span>Block（块）</span>
+  - <span>这是 Warp 和传统终端最不一样的地方：一条命令 + 它的输出 = 一个 Block（独立卡片/区块）</span>
+  - <span>你能对单个 Block 做的操作：</span>
+  - <span>点击选中 → Ctrl+Shift+C只复制这条命令的输出（不会把相邻输出也带进来）</span>
+  - <span>搜索：Ctrl+F可在当前 session 的 block 输出里搜</span>
+  - <span>用 Ctrl+↑ / Ctrl+↓ 在 blocks 之间跳转（不用滚轮翻到天荒地老）</span>
+  - <span>收藏/分享/查看执行时间、退出码等元信息</span>
+- <span>输入区是真正的文本编辑器（不是 readline）</span>
+  - <span>Warp 的输入框行为更接近 VS Code 而非传统 shell prompt：</span>
+  - <div class="table-container"><table class="auto-table" border="1" cellspacing="0" style="border-collapse: collapse;"><thead><tr><th tabindex="0" contenteditable="false"><div class="column-select-btn" data-col="0" title="选择此列" contenteditable="false"></div><div class="row-select-btn" data-row="0" title="选择此行" contenteditable="false"></div><span class="edit-area" contenteditable="true">操作</span></th><th tabindex="0" contenteditable="false"><div class="column-select-btn" data-col="1" title="选择此列" contenteditable="false"></div><span class="edit-area" contenteditable="true">方法</span></th></tr></thead><tbody><tr><td tabindex="0" contenteditable="false"><div class="row-select-btn" data-row="1" title="选择此行" contenteditable="false"></div><span class="edit-area" contenteditable="true">多行输入</span></td><td tabindex="0" contenteditable="false"><span class="edit-area" contenteditable="true">Shift+Enter​ 换行，写完一块按 Enter跑</span></td></tr><tr><td tabindex="0" contenteditable="false"><div class="row-select-btn" data-row="2" title="选择此行" contenteditable="false"></div><span class="edit-area" contenteditable="true">鼠标点哪光标去哪</span></td><td tabindex="0" contenteditable="false"><span class="edit-area" contenteditable="true">直接单击</span></td></tr><tr><td tabindex="0" contenteditable="false"><div class="row-select-btn" data-row="3" title="选择此行" contenteditable="false"></div><span class="edit-area" contenteditable="true">按词移动</span></td><td tabindex="0" contenteditable="false"><span class="edit-area" contenteditable="true">Alt+← / →（Linux/Win）或 Option+← / →（Mac）</span></td></tr><tr><td tabindex="0" contenteditable="false"><div class="row-select-btn" data-row="4" title="选择此行" contenteditable="false"></div><span class="edit-area" contenteditable="true">删除一个词</span></td><td tabindex="0" contenteditable="false"><span class="edit-area" contenteditable="true">Ctrl+W/ Alt+Backspace</span></td></tr><tr><td tabindex="0" contenteditable="false"><div class="row-select-btn" data-row="5" title="选择此行" contenteditable="false"></div><span class="edit-area" contenteditable="true">删到行首/行尾</span></td><td tabindex="0" contenteditable="false"><span class="edit-area" contenteditable="true">Ctrl+U/ Ctrl+K</span></td></tr><tr><td tabindex="0" contenteditable="false"><div class="row-select-btn" data-row="6" title="选择此行" contenteditable="false"></div><span class="edit-area" contenteditable="true">多选光标</span></td><td tabindex="0" contenteditable="false"><span class="edit-area" contenteditable="true">Alt+Click放多个光标</span></td></tr><tr><td tabindex="0" contenteditable="false"><div class="row-select-btn" data-row="7" title="选择此行" contenteditable="false"></div><span class="edit-area" contenteditable="true">Undo/Redo</span></td><td tabindex="0" contenteditable="false"><span class="edit-area" contenteditable="true">Ctrl+Z/ Ctrl+Shift+Z</span></td></tr><tr><td tabindex="0" contenteditable="false"><div class="row-select-btn" data-row="8" title="选择此行" contenteditable="false"></div><span class="edit-area" contenteditable="true">清屏（保留 blocks）</span></td><td tabindex="0" contenteditable="false"><span class="edit-area" contenteditable="true">Ctrl+L或 Ctrl+K（clear terminal）</span></td></tr></tbody></table></div>
+  - <span>而且 Warp 会做</span><span class="bold">智能补全</span><span>：</span>
+    - <span>输入时会出现灰色 inline 建议（从历史匹配）→ 按 →接受</span>
+    - <span>按 Tab给的是增强版补全（子命令、flag 说明、路径模糊匹配）</span>
+- <span>两种"模式"：Terminal vs Agent</span>
+  - <span>Warp 现在把自己定位成</span><span> </span><span class="bold">ADE（Agentic Dev Environment）</span><span>，所以有两个核心交互面：</span>
+    - <span>Terminal 模式（默认）——照常跑命令，你就把它当超好用的终端用：ls、git、docker、npm等等照跑不误。</span>
+    - <span>Agent 模式（AI 接管对话）——快捷键启动对话：Ctrl+Shift+Enter（或点左下/profile 切到 Agent 视图），然后直接用自然语言描述意图，例如："为什么这个项目跑不起来？看看 package.json 和报错日志""写一个脚本批量重命名这些文件"。Agent（叫 </span><span class="bold">Oz</span><span>）会读你的代码库上下文、跑命令、改文件、给你 diff，你可以在中途 review/steer/approve。</span>
+      - <span>另外还有一个快速入口：</span><span class="bold codespan">在输入框打 #然后写自然语言</span><span>，Warp 会把自然语言转成 shell 命令供你确认执行（类似 NL-to-shell）。</span>
+- <span>最实用的快捷键速查</span>
+  - <div class="table-container"><table class="auto-table" border="1" cellspacing="0" style="border-collapse: collapse;"><thead><tr><th tabindex="0" contenteditable="false"><div class="column-select-btn" data-col="0" title="选择此列" contenteditable="false"></div><div class="row-select-btn" data-row="0" title="选择此行" contenteditable="false"></div><span class="edit-area" contenteditable="true">功能</span></th><th tabindex="0" contenteditable="false"><div class="column-select-btn" data-col="1" title="选择此列" contenteditable="false"></div><span class="edit-area" contenteditable="true">macOS</span></th></tr></thead><tbody><tr><td tabindex="0" contenteditable="false"><div class="row-select-btn" data-row="1" title="选择此行" contenteditable="false"></div><span class="edit-area" contenteditable="true">命令面板</span></td><td tabindex="0" contenteditable="false"><span class="edit-area" contenteditable="true">Cmd+P</span></td></tr><tr><td tabindex="0" contenteditable="false"><div class="row-select-btn" data-row="2" title="选择此行" contenteditable="false"></div><span class="edit-area" contenteditable="true">新标签页</span></td><td tabindex="0" contenteditable="false"><span class="edit-area" contenteditable="true">Cmd+T</span></td></tr><tr><td tabindex="0" contenteditable="false"><div class="row-select-btn" data-row="3" title="选择此行" contenteditable="false"></div><span class="edit-area" contenteditable="true">垂直分屏</span></td><td tabindex="0" contenteditable="false"><span class="edit-area" contenteditable="true">Cmd+D</span></td></tr><tr><td tabindex="0" contenteditable="false"><div class="row-select-btn" data-row="4" title="选择此行" contenteditable="false"></div><span class="edit-area" contenteditable="true">水平分屏</span></td><td tabindex="0" contenteditable="false"><span class="edit-area" contenteditable="true">Cmd+Shift+D</span></td></tr><tr><td tabindex="0" contenteditable="false"><div class="row-select-btn" data-row="5" title="选择此行" contenteditable="false"></div><span class="edit-area" contenteditable="true">切 pane</span></td><td tabindex="0" contenteditable="false"><span class="edit-area" contenteditable="true">Cmd+Opt+方向键</span></td></tr><tr><td tabindex="0" contenteditable="false"><div class="row-select-btn" data-row="6" title="选择此行" contenteditable="false"></div><span class="edit-area" contenteditable="true">搜索历史</span></td><td tabindex="0" contenteditable="false"><span class="edit-area" contenteditable="true">Ctrl+R</span></td></tr><tr><td tabindex="0" contenteditable="false"><div class="row-select-btn" data-row="7" title="选择此行" contenteditable="false"></div><span class="edit-area" contenteditable="true">Block 间跳转</span></td><td tabindex="0" contenteditable="false"><span class="edit-area" contenteditable="true">Cmd+↑/↓</span></td></tr><tr><td tabindex="0" contenteditable="false"><div class="row-select-btn" data-row="8" title="选择此行" contenteditable="false"></div><span class="edit-area" contenteditable="true">复制 block 输出</span></td><td tabindex="0" contenteditable="false"><span class="edit-area" contenteditable="true">Cmd+Shift+C</span></td></tr><tr><td tabindex="0" contenteditable="false"><div class="row-select-btn" data-row="9" title="选择此行" contenteditable="false"></div><span class="edit-area" contenteditable="true">清屏</span></td><td tabindex="0" contenteditable="false"><span class="edit-area" contenteditable="true">Cmd+K</span></td></tr><tr><td tabindex="0" contenteditable="false"><div class="row-select-btn" data-row="10" title="选择此行" contenteditable="false"></div><span class="edit-area" contenteditable="true">AI / Agent 对话</span></td><td tabindex="0" contenteditable="false"><span class="edit-area" contenteditable="true">Cmd+Return</span></td></tr></tbody></table></div>
+# <span>大模型代理</span>
+- <span>ollama</span>
+  - <span>ollama launch openclaw --model deepseek-v4-pro:cloud</span>
+  - <span>ollama run deepseek-v4-pro:cloud</span>
+# <span>学习方向</span>
+- <span>苹果手机录音+飞书转换会议纪要</span>
+- <span>将公众号文章保存到印象笔记</span>
+  - <span>文件名：save-to-evernote</span>
+  - <span>笔记底部保存原始链接</span>
+  - <span>模拟人类的浏览模式</span>
+- <span>印象笔记精华内容导出到obsidian</span>
+- <span>微信读书笔记导出到obsidian</span>
+- <span>知乎收藏导出到obsidian</span>
+- <span>macos的日历功能，可以设置新事件</span>
+- <span>用imessage跟peter正常对话</span>
+- <span>差旅报销工具报销每月差旅费用</span>
+  - <span>文件名：expense-reimbursement</span>
+  - <span>三个pdf skills交叉验证发票（pdf）信息</span>
+- <span>分析artnova数据</span>
+  - <span>分析携程渠道各价格段双品牌市占率</span>
+    - <span>文件名：产品市占率分析工具</span>
+- <span>分析华西未询单数据</span>
+- <span>对比分析华程各出发地的欧洲产品</span>
+  - <span>文件名：hc-europe-product-compare</span>
+  - <span>景点前后加空格</span>
+- <span>知识管理</span>
+  - <span>来源</span>
+    - <span>印象笔记</span>
+      - <span>微信公众号文章</span>
+      - <span>网页</span>
+      - <span>邮件</span>
+    - <span>知乎收藏</span>
+    - <span>飞书文档</span>
+    - <span>幕布文档</span>
+    - <span>微信读书笔记</span>
+    - <span>得到大脑笔记</span>
+    - <span>RSS</span>
+  - <span>给文章打标签，根据不同的标签有不同的摘要规则</span>
+  - <span>摘要的写作原则我希望包含以下方面内容</span>
+    - <span>1、文章中有什么新的案例，用5W1H（what、who、where、when、why、how）的框架进行描述</span>
+    - <span>2、文章中有什么新的资料来源：书籍、网址、微信公众号、小红书、抖音等等</span>
+    - <span>3、文章中提到什么新的专家：专家名字、背景、专业领域等等</span>
+    - <span>4、AI的建议行动方案是什么，按照SMART原则的架构</span>
+    - <span>以上这些事实类的信息我比较感兴趣，而不是一些情感宣泄的观点</span>
+# <span>名词解释</span>
+- <span>LSP：Language Server Protocol，语言服务器协议。LSP 是让AI编程工具从“会写代码”升级到“理解工程”的关键桥梁。它是一种标准化的通信协议，允许编辑器/IDE与独立的语言服务器进行交互，从而为不同编程语言提供代码补全、跳转定义、错误诊断、重构等智能功能。</span>
+- <span>MoE：Mixture of Experts，混合专家模式</span>
+- <span>MVP：Minimum Viable Product ，最小可行产品。用最低成本构建一个能验证核心假设的产品版本。</span>
+- <span>NLP：Natural Language Processing ，自然语言处理。</span>
+- <span>RAG：Retrieval-Augmented Generation/检索增强生成</span>
+- <span>TUI：Text-based User Interface 文本用户界面</span>
