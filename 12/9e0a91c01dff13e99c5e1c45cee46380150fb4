@@ -1,0 +1,19 @@
+程序开发/iCloud旧路径清理_20260717.md
+  s_a9a81708d9ca61::t_1a1c226bc9e53b 1-80
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.34-trip",
+  "base_commit_sha": "129e0a91c01dff13e99c5e1c45cee46380150fb4",
+  "prompts": {},
+  "sessions": {
+    "s_a9a81708d9ca61": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "781959db-997b-451d-a02d-29d640d5c9cf",
+        "model": "DeepSeek-V4-Flash"
+      },
+      "human_author": "maxpan0811 <maxpan0811@gmail.com>"
+    }
+  }
+}
