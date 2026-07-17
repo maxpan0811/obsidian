@@ -1577,3 +1577,11 @@ Wiki health check after massive ingest:
 - **源页总数**: 54384
 - **ingested_files.json**: 50981 条目（RAW条目 3110）
 - **发现**: 此前 ingest 使用的 key 格式为 RAW/{subdir}/{filename}，但早期扫描检查了 RAW/{filename} 导致误判。共 947 个 RAW 文件已在之前手工 ingest。
+
+## 2026-07-18 全量扫描（无新增可 ingest 内容）
+
+- 扫描全部 5 个来源目录，对比 ingested_files.json
+- 发现 3,125 个"新文件"均为二进制图片（知乎附件 2,856 + RAW/PIC 259 + 随笔附件 10）
+- 无可提取文本的文本源，跳过 wiki 源页创建
+- 已将 3,125 个图片路径写入 ingested_files.json（标记为 `(binary-image)`），防止后续重复扫描
+- 索引: 50,981 → 54,106
