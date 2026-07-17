@@ -1585,3 +1585,23 @@ Wiki health check after massive ingest:
 - 无可提取文本的文本源，跳过 wiki 源页创建
 - 已将 3,125 个图片路径写入 ingested_files.json（标记为 `(binary-image)`），防止后续重复扫描
 - 索引: 50,981 → 54,106
+
+## 2026-07-18 RAW 二进制文档入 FAISS
+
+### 变更
+- **wiki/sources 退出 FAISS**：用户要求 wiki/sources 只用于 grep 关键词搜索，FAISS 仅索引 RAW 原始文件全文
+- **wiki_faiss_build.py 扩展**：新增 PDF/Excel/Word/PPT 文本提取
+  - PDF: PyMuPDF (fitz)
+  - Excel: openpyxl(.xlsx) + xlrd(.xls) + msoffcrypto(加密文件空密码解密) + xlrd fallback(旧格式改了后缀)
+  - Word: python-docx(.docx) + textutil(.doc)
+  - PPT: python-pptx(.pptx) + ZIP XML fallback(图片CRC损坏时直接解析slide XML) + textutil(.ppt/.pps)
+- **wiki_vector_query.py 兼容**：metadata 格式从元组改为兼容纯字符串
+
+### 提取能力增强
+- `_ollama_embed` 改进：文本清理(压缩空白) + 逐步截断重试(4000→2000→1000)，解决 Ollama 400 context length 错误
+- checkpoint 每 50 文件保存，防止崩溃丢失进度
+
+### 最终结果
+- FAISS 向量: **2,821 个 RAW 文件**（2,984 扫描，15 个损坏/不可提取）
+- 成功率: 99.3%（重试后 182 个 Ollama 400 全部恢复）
+- 19 个损坏文件：14 Excel(格式损坏) + 1 PDF + 3 PPT + 1 HTML伪装.xls
