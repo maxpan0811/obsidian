@@ -7,15 +7,6 @@ source_path: 印象笔记管理工具/Time Capsule 3rd.md
 tags: [印象笔记]
 ---
 
-# Time Capsule 3rd
-
-# Time Capsule 3rd --- | | | --- | | Time Capsule 3rd | ![](.evernote-content/54D0CAF6-5EEB-481B-A29
-
----
-
-# Time Capsule 3rd
-
----
 
 |  |
 | --- |
@@ -32,3 +23,5 @@ tags: [印象笔记]
 ![](.evernote-content/54D0CAF6-5EEB-481B-A293-15B4476DF4C5/2B6EADF1-B2E4-4144-B743-0338114043BC.jpg)
 
 [📎 在印象笔记中打开](evernote:///view/207087/s1/5bc8a33d-8052-46f0-ab23-32620d591939/5bc8a33d-8052-46f0-ab23-32620d591939/)
+
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

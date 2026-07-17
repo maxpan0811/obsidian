@@ -7,15 +7,6 @@ source_path: 印象笔记管理工具/不能错过的电纸书，掌阅Smart5绝
 tags: [印象笔记]
 ---
 
-# 不能错过的电纸书，掌阅Smart5绝对被低估了！
-
-# 不能错过的电纸书，掌阅Smart5绝对被低估了！ --- 今天，给你们介绍下非常好的10寸大屏机子—**掌阅Smart5**。 堪比300PPI的平替呦~ 它的全局手写功能，真的很赞；还能插U盘看
-
----
-
-# 不能错过的电纸书，掌阅Smart5绝对被低估了！
-
----
 
 今天，给你们介绍下非常好的10寸大屏机子—**掌阅Smart5**。
 
@@ -37,6 +28,6 @@ tags: [印象笔记]
 
 ---
 
-[🌐 原始链接](http://mp.weixin.qq.com/s?__biz=MzUxOTkyNzE1MQ==&mid=2247508304&idx=1&sn=912b5f472e005f2ab9c07efcc0547117&chksm=f9f0c550ce874c46cc675f0c5092a9be3c690057c928a6e20beea35b0754e213bb8336cc8800&mpshare=1&scene=1&srcid=0703f0D2QS9M7vqxo07jsJEA&sharer_shareinfo=ef50626133ee65461d78703fc55a5158&sharer_shareinfo_first=ef50626133ee65461d78703fc55a5158#rd)
+[🌐 原始链接](http://mp.weixin.qq.com/s?__biz=MzUxOTkyNzE1MQ==&mid=2247508304&idx=1&sn=912b5f472e005f2ab9c07efcc0547117&chksm=f9f0c550ce874c46cc675f
 
-[📎 在印象笔记中打开](evernote:///view/207087/s1/08e8bfbc-fc00-46d1-9b80-feeefa9620d8/08e8bfbc-fc00-46d1-9b80-feeefa9620d8/)
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

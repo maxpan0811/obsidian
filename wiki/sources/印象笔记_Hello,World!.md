@@ -7,15 +7,6 @@ source_path: 印象笔记管理工具/Hello,World!.md
 tags: [印象笔记]
 ---
 
-# Hello,World!
-
-# Hello,World! --- [起点中文网](#) *2024年10月24日 10:00* *广东* #include <stdio.h> int main() { printf("Hello
-
----
-
-# Hello,World!
-
----
 
 [起点中文网](#) 
 
@@ -40,6 +31,6 @@ int main() {
 
 ---
 
-[🌐 原始链接](https://mp.weixin.qq.com/s/zjmBkKUkyRVqZ-YmKiZPPA)
+[🌐 原始链接](https://mp.weixin.qq.com/s/zjmBkKUkyRVqZ-YmKiZPPA
 
-[📎 在印象笔记中打开](evernote:///view/207087/s1/706b2e6e-2752-4f2d-b9fb-54faaedc279c/706b2e6e-2752-4f2d-b9fb-54faaedc279c/)
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

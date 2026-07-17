@@ -7,6 +7,7 @@ source_path: 印象笔记管理工具/终于到中国了？iPhone以旧换新或
 tags: [印象笔记管理工具]
 ---
 
+
 **终于到中国了？iPhone以旧换新或下周到来**
 
 终于到中国了？iPhone以旧换新或下周到来
@@ -36,4 +37,6 @@ Twitter Share Email Save Print…
 ---
 
 [🌐 原始链接](http://www.feng.com/iPhone/news/2015-03-26/Finally-to-China_610776.shtml)
-[📎 在印象笔记中打开](evernote:///view/207087/s1/0d64b5a1-cb0a-407c-9714-a81a39b1b406/0d64b5a1-cb0a-407c-9714-a81a39b1b406/)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/0d64b5a1-cb0a-407c-9714-a81a39
+
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

@@ -7,15 +7,6 @@ source_path: 印象笔记管理工具/Microsoft 365.md
 tags: [印象笔记]
 ---
 
-# Microsoft 365
-
-# Microsoft 365 --- 发自网易邮箱大师 --------- 转发的邮件 --------- 发件人： [Agiso自动发货](mailto:alds@agiso.com) 发送日期：
-
----
-
-# Microsoft 365
-
----
 
 发自网易邮箱大师
 
@@ -39,3 +30,5 @@ tags: [印象笔记]
 Office激活方法请参照链接：http://www.office.com/myaccount
 
 [📎 在印象笔记中打开](evernote:///view/207087/s1/09477a5d-6241-4c4f-bc74-7388d33e22f2/09477a5d-6241-4c4f-bc74-7388d33e22f2/)
+
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

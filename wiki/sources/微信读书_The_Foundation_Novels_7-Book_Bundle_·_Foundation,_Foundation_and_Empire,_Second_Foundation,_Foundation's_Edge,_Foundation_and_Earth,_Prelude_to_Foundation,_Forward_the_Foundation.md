@@ -7,7 +7,6 @@ source_path: 20260520/微信读书管理工具/The Foundation Novels 7-Book Bund
 tags: [微信读书]
 ---
 
-# The Foundation Novels 7-Book Bundle · Foundation, Foundation and Empire, Second Foundation, Foundation's Edge, Foundation and Earth, Prelude to Foundation, Forward the Foundation
 
 **作者**：Asimov, Isaac
 
@@ -20,3 +19,5 @@ tags: [微信读书]
 ## 划线笔记
 
 - There were nearly twenty-five million inhabited planets in the Galaxy then, and not one but owed allegiance to the Empire whose seat was on Trantor.
+
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

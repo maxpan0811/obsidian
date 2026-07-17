@@ -7,9 +7,6 @@ source_path: 印象笔记管理工具/A 君的主屏有什么？_ 一屏流.md
 tags: [印象笔记]
 ---
 
-# A 君的主屏有什么？| 一屏流
-
----
 
 A 君的主屏有什么？| 一屏流
 ---------------
@@ -42,4 +39,6 @@ A 君的主屏有什么？| 一屏流
 
 [🌐 原始链接](http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&amp;mid=400574968&amp;idx=3&amp;sn=97d18a2db16eceb55eb8202ad42db3fa&amp;scene=1&amp;srcid=1121pA1KaZbSYuiX1kHezbRC#rd)
 
-[📎 在印象笔记中打开](evernote:///view/207087/s1/42dda07e-5634-4b7f-9a9f-364ef59b9899/42dda07e-5634-4b7f-9a9f-364ef59b9899/)
+[📎 在印象笔记中打开](evernote:///v
+
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

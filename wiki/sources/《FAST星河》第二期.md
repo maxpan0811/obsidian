@@ -7,7 +7,6 @@ source_path: RAW/PDF/《FAST星河》第二期.pdf
 tags: [raw, pdf]
 ---
 
-# 《FAST星河》第二期
 
 **文件信息**
 - 类型: .pdf
@@ -21,3 +20,4 @@ tags: [raw, pdf]
 (无文本内容 - 可能为扫描件或图片PDF)
 ```
 
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

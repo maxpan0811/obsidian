@@ -7,6 +7,7 @@ source_path: 印象笔记管理工具/今年是哪些App和游戏拿下了苹果
 tags: [印象笔记管理工具]
 ---
 
+
 **今年是哪些App和游戏拿下了苹果设计大奖？**
 
 今年是哪些App和游戏拿下了苹果设计大奖？
@@ -26,4 +27,6 @@ tags: [印象笔记管理工具]
 ---
 
 [🌐 原始链接](https://www.feng.com/iPhone/news/2018-06-05/_697593.shtml)
-[📎 在印象笔记中打开](evernote:///view/207087/s1/9d3eabd6-a6c6-43d4-9f4d-25d3fd2ef7e3/9d3eabd6-a6c6-43d4-9f4d-25d3fd2ef7e3/)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/9d3eabd6-a6c6-43d4-9f4d-25d3fd2ef7e3/9d3eabd6-
+
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

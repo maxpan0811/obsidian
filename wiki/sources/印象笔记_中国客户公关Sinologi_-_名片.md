@@ -7,15 +7,6 @@ source_path: 印象笔记管理工具/中国客户公关Sinologi - 名片.md
 tags: [印象笔记]
 ---
 
-# 中国客户公关Sinologi - 名片
-
-# 中国客户公关Sinologi - 名片 --- ![](.evernote-content/AE93A5C6-BAEA-4475-97DA-2F33BF4964C6/A82E832C-A0B9-4
-
----
-
-# 中国客户公关Sinologi - 名片
-
----
 
 ![](.evernote-content/AE93A5C6-BAEA-4475-97DA-2F33BF4964C6/A82E832C-A0B9-4DEB-8445-2949541874FE.png)
 
@@ -37,4 +28,6 @@ Hit
 
 ![](.evernote-content/AE93A5C6-BAEA-4475-97DA-2F33BF4964C6/EA9D6171-7296-47AC-B128-94CD36438463.jpg)
 
-[📎 在印象笔记中打开](evernote:///view/207087/s1/32e839cb-1ae2-4666-a724-82761e96bd86/32e839cb-1ae2-4666-a724-82761e96bd86/)
+[📎 在印象笔记中打开](evernote:///view/207
+
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

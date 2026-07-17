@@ -9,7 +9,7 @@ tags: [印象笔记]
 updated: 2026-06-27
 ---
 
----
+
 title: "UCA发布声明与非裔乃至所有美国人团结一致捍卫正义"
 source: evernote
 type: note
@@ -30,22 +30,6 @@ UCA 北美新视界
 ## A Public Statement On the Death of George Floyd and Ahmaud Arbery
 
 May 28, 2020, Washington, DC.  
-For immediate press release.
+For immediate press r
 
-United Chinese Americans (UCA), a leading Chinese American coalition and civic movement in the U.S., condemns in the strongest possible terms recent acts by Minneapolis policemen that resulted in the death of George Floyd, and by Georgia civilians that ended the life of Ahmaud Arbery. We deplore these grave injustices and stand with the victims’ families as they mourn their losses.
-
-The families and the public deserve thorough, fair and independent investigations of both cases, and the perpetrators must be brought to justice. If convicted, they should be punished to the fullest extent of the law.
-
-In recent years, our society has become increasingly numbed to the repeated killing and maltreatment of African Americans at the hands of police or vigilantes. This cannot stand anymore and it has to change! As Asian Americans, we are well aware that neither we nor anyone else can enjoy true security and peace in our lives as long as African Americans cannot enjoy them in theirs. Far too often, we feel this killing or maltreatment could not happen in our own life or in our own community. But today, we are already victims of a spike of hateful and racist acts directed at Asian Americans during the current coronavirus pandemic.
-
-As Dr. Martin Luther King famously asserted in his Letter from Birmingham Jail, “injustice anywhere is a threat to justice everywhere.” Despite significant progress made in recent decades, discrimination, glaring disparities and social injustice still haunt our society. United Chinese Americans (UCA) calls for all Americans, regardless of their race, ethnicity or political affiliations, to join us in condemning the brutality we have witnessed in these disturbing cases that has senselessly cut two lives short. We pledge to continue to work in solidarity with African Americans and, indeed, all Americans to bring positive and real social change and justice to all.
-
-![](attachments/693333f7bad77f69.jpg)
-
-在看
-
-
----
-
-[🌐 原始链接](http://mp.weixin.qq.com/s?__biz=MzIzNDQyODUzMw==&mid=2247487242&idx=2&sn=4be96038e0eb29bfd8bbcab2f66f838e&chksm=e8f7ce10df8047066788b689b528688979f8bc13a0f51670ca0f486d8e4552e9bf2149226e21&mpshare=1&scene=24&srcid=&sharer_sharetime=1590893767425&sharer_shareid=196a7290cec677abfe41ca4bbe251b79#rd)
-[📎 在印象笔记中打开](evernote:///view/207087/s1/f020117e-f38a-4444-b1cd-266ad23fd453/f020117e-f38a-4444-b1cd-266ad23fd453/)
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

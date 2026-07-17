@@ -7,15 +7,6 @@ source_path: 印象笔记管理工具/水单认领、支付操作指南（HCG-XS
 tags: [印象笔记]
 ---
 
-# 水单认领、支付操作指南（HCG-XS-G006）-wcp 知识库
-
-# 水单认领、支付操作指南（HCG-XS-G006）-wcp 知识库 --- ![](.evernote-content/F1B4CA60-45A4-44E0-8676-DD80B5749307/74
-
----
-
-# 水单认领、支付操作指南（HCG-XS-G006）-wcp 知识库
-
----
 
 ![](.evernote-content/F1B4CA60-45A4-44E0-8676-DD80B5749307/74F24240-5295-4DA7-8E6F-F129ACDC4F0E.do)
 
@@ -25,10 +16,6 @@ tags: [印象笔记]
 
 ![](.evernote-content/F1B4CA60-45A4-44E0-8676-DD80B5749307/4AF9F722-8539-4065-BBFD-A035101D5E9E.png)
 
-![](.evernote-content/F1B4CA60-45A4-44E0-8676-DD80B5749307/FF6B80DB-0249-4D41-8A37-BEAA84C33294.png)
+![](.evernote-content/F1B4CA60-45A4-44E0-8676-DD80B5749307/FF6B80DB-0249-4D41-8A37-BEAA84C332
 
----
-
-[🌐 原始链接](http://219.141.169.17:8989/wcp/webdoc/view/Pub4028838168271663016f1816b64b13b1.html)
-
-[📎 在印象笔记中打开](evernote:///view/207087/s1/62752127-8a4d-4258-b243-004b3176f806/62752127-8a4d-4258-b243-004b3176f806/)
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

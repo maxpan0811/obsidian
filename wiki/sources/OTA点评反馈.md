@@ -7,7 +7,6 @@ source_path: RAW/Word/OTA点评反馈.doc
 tags: [raw, doc]
 ---
 
-# OTA点评反馈
 
 **文件信息**
 - 类型: .doc
@@ -29,11 +28,6 @@ tags: [raw, doc]
 点评以网评方式进行，无电话回访；
 点评奖励，根据客人下单形式不同略有不同，电话订单客人，返抵用券；
 在线预定付款客人，返现金加抵用券。
- INCLUDEPICTURE "../../../Users/Administrator/Documents/QQEIM%20Files/3001860105/Image/C2C/Image3/1M2S4%25Q%7b%7dGK%5d1468Y%5d%5dHLP0.png" \* MERGEFORMAT \d 
-抵用券是途牛旅游网通用的一种抵扣券。有效期内且仅限于在途牛旅游网预定旅游产品使用。每个产品可以使用的抵用券金额不同，具体金额以途牛旅游网站显示为准。
-返还的现金则为可以兑换抵用券，或达到200元后提现至银行卡。
+ INCLUDEPICTURE "../../../Users/Administrator/Documents/QQEIM%20Files/30
 
-
-
-```
-
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

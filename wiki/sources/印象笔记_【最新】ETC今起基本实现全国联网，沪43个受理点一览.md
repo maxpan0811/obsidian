@@ -7,15 +7,6 @@ source_path: 印象笔记管理工具/【最新】ETC今起基本实现全国联
 tags: [印象笔记]
 ---
 
-# 【最新】ETC今起基本实现全国联网，沪43个受理点一览
-
-# 【最新】ETC今起基本实现全国联网，沪43个受理点一览 --- 【最新】ETC今起基本实现全国联网，沪43个受理点一览 --------------------------- *2015-09-2
-
----
-
-# 【最新】ETC今起基本实现全国联网，沪43个受理点一览
-
----
 
 【最新】ETC今起基本实现全国联网，沪43个受理点一览
 ---------------------------
@@ -40,16 +31,6 @@ ETC跨省使用范围更广泛啦！
 
 **上海43个ETC销售安装服务网点**
 
-![](.evernote-content/3E6E6535-7424-4E3A-A866-2630A54D7997/CD62E697-3FDF-43BA-B8A0-58B705F8D312.jpg)![](.evernote-content/3E6E6535-7424-4E3A-A866-2630A54D7997/9184FC2E-9DFE-44BD-8C1A-0A801D9C6A0D.jpg)
+![](.evernote-content/3E6E6535-7424-4E3A-A866-2630A54D7997/CD62E697-3FDF-43B
 
-阅读
-
-举报
-
-[阅读原文](http://mp.weixin.qq.com/s?__biz=MjM5NTA5NzYyMA==&mid=225374561&idx=2&sn=632f3e7e5f3731036f6ab54a2eb4960c&scene=1&srcid=0929UuJUmPow56h6GPrK3aON#rd)
-
----
-
-[🌐 原始链接](http://mp.weixin.qq.com/s?__biz=MjM5NTA5NzYyMA==&amp;mid=225374561&amp;idx=2&amp;sn=632f3e7e5f3731036f6ab54a2eb4960c&amp;scene=1&amp;srcid=0929UuJUmPow56h6GPrK3aON#rd)
-
-[📎 在印象笔记中打开](evernote:///view/207087/s1/5c2a6a0f-d8fc-4172-a07e-40557e98b96c/5c2a6a0f-d8fc-4172-a07e-40557e98b96c/)
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

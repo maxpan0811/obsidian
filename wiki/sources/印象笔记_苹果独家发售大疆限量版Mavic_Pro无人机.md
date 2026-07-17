@@ -7,15 +7,6 @@ source_path: 印象笔记管理工具/苹果独家发售大疆限量版Mavic Pro
 tags: [印象笔记]
 ---
 
-# 苹果独家发售大疆限量版Mavic Pro无人机
-
-# 苹果独家发售大疆限量版Mavic Pro无人机 --- 在假日季到来之前，大疆推出了一款 Mavic Pro 飞行器（初雪白），这款产品目前已经在大多数国家的 Apple Store 零售店和苹果
-
----
-
-# 苹果独家发售大疆限量版Mavic Pro无人机
-
----
 
 在假日季到来之前，大疆推出了一款 Mavic Pro 飞行器（初雪白），这款产品目前已经在大多数国家的 Apple Store 零售店和苹果在线商城独家销售。
 
@@ -37,20 +28,6 @@ tags: [印象笔记]
 
 摄像头稳定系统可拍摄超流畅的视频
 
-配备四种追踪模式：Trace、Profile、Spotlight、Circle，可自动追踪目标
+配备四种追踪模式：Trace、Pr
 
-自动避让障碍物
-
-在运动模式下最高时速可达 64.8 公里（40 英里）
-
-这款 Mavic Pro 飞行器（初雪白）能拍摄真正的 4K 视频和全 HD 慢动作视频，是一款功能强大的个人飞行器。用户可以把飞行器收起来放进背包或手提包。它的飞行也很简单，只需使用随附的遥控器或者是 iPhone 或 iPad 上的 app 即可。
-
-此外，它还配有一块额外电池，为你提供更长的飞行时间。值得一提的是，这款设备的体型虽比其他大疆飞行器小，但功能却丝毫不逊色，它的飞行时间最长可达 27 分钟。
-
-[阅读全文](http://www.feng.com/iPhone/news/2017-11-16/Big-apple-sold-exclusively-xinjiang-limited-edition-Mavic-Pro-unmanned-aerial-vehicle-uav-_694180.shtml)
-
----
-
-[🌐 原始链接](http://www.feng.com/iPhone/news/2017-11-16/Big-apple-sold-exclusively-xinjiang-limited-edition-Mavic-Pro-unmanned-aerial-vehicle-uav-_694180.shtml)
-
-[📎 在印象笔记中打开](evernote:///view/207087/s1/05d29820-6e19-417e-8a79-cf68cbdbc16e/05d29820-6e19-417e-8a79-cf68cbdbc16e/)
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

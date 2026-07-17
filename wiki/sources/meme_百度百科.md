@@ -7,6 +7,7 @@ source_path: 印象笔记管理工具/meme_百度百科.md
 tags: [印象笔记管理工具]
 ---
 
+
 **meme_百度百科**
 
 meme_百度百科
@@ -49,3 +50,5 @@ meme (/ˈmiːm/ )是指在同一个文化氛围中，人与人之间传播的思
 
 [🌐 原始链接](https://baike.baidu.com/item/meme)
 [📎 在印象笔记中打开](evernote:///view/207087/s1/6955aeaa-307e-4c61-a150-6d364a39c261/6955aeaa-307e-4c61-a150-6d364a39c261/)
+
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

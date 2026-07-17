@@ -7,7 +7,6 @@ source_path: RAW/Excel/2026年5月noshow统计.xlsx
 tags: [raw, xlsx, business]
 ---
 
-# 2026年5月noshow统计
 
 **文件信息**
 - 类型: .xlsx
@@ -23,7 +22,6 @@ tags: [raw, xlsx, business]
 **前3行预览**:
 ```
                     Unnamed: 0            Unnamed: 1              Unnamed: 2 Unnamed: 3                       Unnamed: 4 Unnamed: 5 Unnamed: 6                Unnamed: 7                                                    Unnamed: 8
-0                        46143                   分公司                      团号         导游                               线路         奥莱       进村日期                  Noshow原因                                                         收益组判定
-1  MG奥莱集团(72,3noshow)   进店率96%  北京（35,
-```
+0             
 
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

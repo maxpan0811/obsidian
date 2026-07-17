@@ -7,7 +7,6 @@ source_path: RAW/Word/MBA学生请假申请表_Leave Application Form.doc
 tags: [raw, word]
 ---
 
-# MBA学生请假申请表_Leave Application Form
 
 > RAW/Word/MBA学生请假申请表_Leave Application Form.doc
 
@@ -18,3 +17,5 @@ tags: [raw, word]
 ## 相关页面
 
 - [[wiki/index]]
+
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

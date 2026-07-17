@@ -7,6 +7,7 @@ source_path: 印象笔记管理工具/给高管股权激励时，如何设定KPI
 tags: [印象笔记管理工具]
 ---
 
+
 **给高管股权激励时，如何设定KPI？**
 
 给高管股权激励时，如何设定KPI？
@@ -34,4 +35,6 @@ tags: [印象笔记管理工具]
 ---
 
 [🌐 原始链接](https://www.huxiu.com/article/293206.html?f=wangzhan)
-[📎 在印象笔记中打开](evernote:///view/207087/s1/59888b1d-4eeb-44d7-ab9a-3c26e969c941/59888b1d-4eeb-44d7-ab9a-3c26e969c941/)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/59888b1d-4eeb-44d7-ab9a-3c26e969c941/59888b1d-4eeb-44d7-a
+
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

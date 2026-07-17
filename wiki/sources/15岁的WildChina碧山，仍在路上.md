@@ -7,6 +7,7 @@ source_path: 印象笔记管理工具/15岁的WildChina碧山，仍在路上.md
 tags: [印象笔记管理工具]
 ---
 
+
 **15岁的WildChina碧山，仍在路上**
 
 15岁的WildChina碧山，仍在路上
@@ -34,4 +35,6 @@ BeshanWildChina
 ---
 
 [🌐 原始链接](http://mp.weixin.qq.com/s?__biz=MjM5NjMwNjM0MA==&amp;mid=246077681&amp;idx=1&amp;sn=927e6d52d4e8b05c7e1ff11488d00cfd&amp;scene=0#rd)
-[📎 在印象笔记中打开](evernote:///view/207087/s1/bc0a2ad9-321b-4b26-94a6-019f2616527e/bc0a2ad9-321b-4b26-94a6-019f2616527e/)
+[📎 在印象笔记中打开](
+
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

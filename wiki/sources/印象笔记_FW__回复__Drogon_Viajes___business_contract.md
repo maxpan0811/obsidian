@@ -7,15 +7,6 @@ source_path: 印象笔记管理工具/FW_ 回复_ Drogon Viajes _ business contr
 tags: [印象笔记]
 ---
 
-# FW_ 回复_ Drogon Viajes _ business contract
-
-# FW: 回复: Drogon Viajes : business contract --- 华远国旅 翔龙万里行-出境旅行专家 姓名：潘渤 Max Pan 职务：上海分公司副总经理 Deputy 
-
----
-
-# FW: 回复: Drogon Viajes : business contract
-
----
 
 华远国旅 翔龙万里行-出境旅行专家
 
@@ -43,51 +34,6 @@ Beijing Huayuan International Travel co., LTD Shanghai Branch
 
  
 
-**发件人****:** "tony@hytours.com" <tony@hytours.com>  
-**日期****:** 2016年12月4日 星期日 18:42  
-**至****:** zhuying <zhuying@hytours.com>, liyongjun <liyongjun@hytours.com>, 吴婷 <wuting@hytours.com>, "zhanghongmei@hytours.com" <zhanghongmei@hytours.com>, zhangjingli <zhangjingli@hytours.com>  
-**抄送****:** panbo <panbo@hytours.com>, heguihong <heguihong@hytours.com>, gms <gms@hytours.com>  
-**主****题****:** 回复: Drogon Viajes : business contract
+**发件人***
 
-* 产品附件元素供各地产品参考了解
-* http://www.unotour.com.tw/
-
-> **From:** [tony@hytours.com](mailto:tony@hytours.com)
->
-> **Date:** 2016-12-04 16:08
->
-> **To:** [greatlongsl](mailto:greatlongsl@gmail.com)
->
-> **CC:** [panbo](mailto:panbo@hytours.com); [heguihong](mailto:heguihong@hytours.com); [gms](mailto:gms@hytours.com)
->
-> **Subject:** Drogon Viajes : business contract
->
-> Dear Su Yun
->
-> Thank you for providing G2 cooperation agreement for reference
->
-> ---
->
-> Tony ONG
->
-> Overseas Business Division
->
-> ETI - BEIJING HUA YUAN International Travel Co., Ltd
->
-> wechat: 312632145
->
-> mobile phone: 135 110 82823
-
-  
-![](.evernote-content/B8A28908-01CE-446F-9BA3-E74FD4F93245/497BB0A5-65EF-40B3-BCD7-E0C75BE56763.jpg)  
-![](.evernote-content/B8A28908-01CE-446F-9BA3-E74FD4F93245/8A6999BF-3920-435B-9DA3-A42867318B5A.jpg)  
-![](.evernote-content/B8A28908-01CE-446F-9BA3-E74FD4F93245/81242A21-9B00-4BEE-8A48-C73D8E67AA31.jpg)  
-![](.evernote-content/B8A28908-01CE-446F-9BA3-E74FD4F93245/2A95CCA4-6553-40EC-A54C-F079BEAED5FC.jpg)  
-![](.evernote-content/B8A28908-01CE-446F-9BA3-E74FD4F93245/CF9CE8EB-2719-4472-A28B-776AE8F3F8E6.jpg)  
-![](.evernote-content/B8A28908-01CE-446F-9BA3-E74FD4F93245/CC303172-E708-4FC9-A2CF-F854FDDC8BC4.jpg)  
-![](.evernote-content/B8A28908-01CE-446F-9BA3-E74FD4F93245/40942244-876E-4224-9EE1-F84D7518DDB1.jpg)  
-![](.evernote-content/B8A28908-01CE-446F-9BA3-E74FD4F93245/A8EE89A8-216E-4C05-A65A-ABB08DCAE4DB.jpg)  
-![](.evernote-content/B8A28908-01CE-446F-9BA3-E74FD4F93245/0D59AF10-A0BF-4006-8D8C-F33DF78DF73C.png)  
-![](.evernote-content/B8A28908-01CE-446F-9BA3-E74FD4F93245/9828AFCF-1B60-42BD-9CE6-1CD505A179ED.jpg)
-
-[📎 在印象笔记中打开](evernote:///view/207087/s1/6215a492-6ab2-4c76-81ad-52bd23eec2fb/6215a492-6ab2-4c76-81ad-52bd23eec2fb/)
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

@@ -7,7 +7,6 @@ source_path: RAW/PDF/2015-european-private-equity-activity.pdf
 tags: [raw, pdf]
 ---
 
-# 2015-european-private-equity-activity
 
 > RAW/PDF/2015-european-private-equity-activity.pdf
 
@@ -26,3 +25,5 @@ to ensure th
 ## 相关页面
 
 - [[wiki/index]]
+
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

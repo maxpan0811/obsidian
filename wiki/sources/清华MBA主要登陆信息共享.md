@@ -7,7 +7,6 @@ source_path: RAW/Word/清华MBA主要登陆信息共享.docx
 tags: [raw, word]
 ---
 
-# 清华MBA主要登陆信息共享
 
 > RAW/Word/清华MBA主要登陆信息共享.docx
 
@@ -25,3 +24,5 @@ tags: [raw, word]
 ## 相关页面
 
 - [[wiki/index]]
+
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

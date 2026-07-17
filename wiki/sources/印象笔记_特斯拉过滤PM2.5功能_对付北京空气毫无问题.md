@@ -7,15 +7,6 @@ source_path: 印象笔记管理工具/特斯拉过滤PM2.5功能_对付北京空
 tags: [印象笔记]
 ---
 
-# 特斯拉过滤PM2.5功能_对付北京空气毫无问题
-
-# 特斯拉过滤PM2.5功能:对付北京空气毫无问题 --- ![](.evernote-content/06C6B3F0-C291-4AB8-ADD1-D6A4E2DBFA28/A403A08E-C2
-
----
-
-# 特斯拉过滤PM2.5功能:对付北京空气毫无问题
-
----
 
 ![](.evernote-content/06C6B3F0-C291-4AB8-ADD1-D6A4E2DBFA28/A403A08E-C2D0-406A-BFC9-BF74283AF360.jpg)
 
@@ -27,17 +18,6 @@ tags: [印象笔记]
 
 特斯拉宣称，最终空气质量的改善效果相对于大部分汽车的空气过滤系统要“好数百倍”。
 
-![](.evernote-content/06C6B3F0-C291-4AB8-ADD1-D6A4E2DBFA28/6CDBDA71-504C-48EB-B2AC-F660FE270E41.jpg)  
-特斯拉展示空气过滤系统效果(灰色和蓝色分别代表车外和车内PM2.5浓度)
+![](.ever
 
-为了测试其“生物武器防御模式”，特斯拉最初让一辆Model X行驶在加州空气质量较差的城市环境里，随后又决定在受控环境中进行更为极端的试验。特斯拉将这款SUV放在一个巨大的塑料球中，向塑料球注入毒气，并启动“生物武器防御模式”。在不到2分钟时间里，HEPA过滤系统就使得车内空气改善至医院级水平。与此同时，Model X还能净化周围环境的空气质量。
-
-特斯拉表示：“生物武器防御模式并不是营销噱头，这是真实的功能。只要坐在车里，你就能在军事级别的生化攻击中生存下来。”
-
-[阅读全文](http://tech.feng.com/2016-05-03/Tesla-show-filter-PM2.5-functions-to-deal-with-Beijing-s-air-is-no-problem_645790.shtml)
-
----
-
-[🌐 原始链接](http://tech.feng.com/2016-05-03/Tesla-show-filter-PM2.5-functions-to-deal-with-Beijing-s-air-is-no-problem_645790.shtml)
-
-[📎 在印象笔记中打开](evernote:///view/207087/s1/c30ed15c-f977-4c47-bb9a-8829bc85dd67/c30ed15c-f977-4c47-bb9a-8829bc85dd67/)
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

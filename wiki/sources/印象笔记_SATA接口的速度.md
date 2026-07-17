@@ -7,15 +7,6 @@ source_path: 印象笔记管理工具/SATA接口的速度.md
 tags: [印象笔记]
 ---
 
-# SATA接口的速度
-
-# SATA接口的速度 --- ``` SATA 1.0/1.0a (1.5Gb/s) 150MB/s SATA 2.0 (3.0Gb/s) 375MB/s SATA 3.0 (6.0Gb/s) 75
-
----
-
-# SATA接口的速度
-
----
 
 ```
 SATA 1.0/1.0a (1.5Gb/s)      150MB/s  
@@ -30,3 +21,5 @@ SATA 3.0         (6.0Gb/s)      750MB/s
 [🌐 原始链接](http://zhidao.baidu.com/link?url=a-4JEj4rzaU9jEIQwtYCA2iACwCWkMbT9SFWPdZNFrmkgUU-qOriqQ5NONo7nhjQ95fkVi8wxJXO1X3zspIV3_)
 
 [📎 在印象笔记中打开](evernote:///view/207087/s1/9526700d-aa1f-44bb-8fa3-d9bba13cbf72/9526700d-aa1f-44bb-8fa3-d9bba13cbf72/)
+
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

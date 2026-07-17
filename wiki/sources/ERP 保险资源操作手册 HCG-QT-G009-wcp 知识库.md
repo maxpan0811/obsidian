@@ -7,9 +7,6 @@ source_path: 印象笔记管理工具/ERP 保险资源操作手册 HCG-QT-G009-w
 tags: [印象笔记]
 ---
 
-# ERP 保险资源操作手册 HCG-QT-G009-wcp 知识库
-
----
 
 ![](.evernote-content/2DB0BF9F-439F-4A3B-BF66-A969A5B01F95/26EA314E-CD4A-437D-B70B-8DAF22DB404C.do)
 
@@ -19,16 +16,6 @@ tags: [印象笔记]
 
 ![](.evernote-content/2DB0BF9F-439F-4A3B-BF66-A969A5B01F95/15E37CC1-717C-4C0D-B102-0A0868451024.png)
 
-![](.evernote-content/2DB0BF9F-439F-4A3B-BF66-A969A5B01F95/B0FCB329-179B-416A-9E3E-47E966260046.png)
+![](.evernote-content/2DB0BF9F-439F-4A3B-BF66-A969A5B01F95/B0FCB329-179B-416A-9E3E-47E9662600
 
-![](.evernote-content/2DB0BF9F-439F-4A3B-BF66-A969A5B01F95/DCDE1B69-4595-4739-8B9A-5C1E5DB93E5F.png)
-
-![](.evernote-content/2DB0BF9F-439F-4A3B-BF66-A969A5B01F95/7BFB7AF9-1DCC-46EC-845A-8380631F04E9.png)
-
-![](.evernote-content/2DB0BF9F-439F-4A3B-BF66-A969A5B01F95/8EECC0B7-AC31-401A-8F3E-294FD0759957.png)
-
----
-
-[🌐 原始链接](http://219.141.169.17:8989/wcp/webdoc/view/Pub402883816f6d0dc901703c47c13f02ba.html)
-
-[📎 在印象笔记中打开](evernote:///view/207087/s1/1ad870f9-c393-4646-a6b8-32dcc22e87a0/1ad870f9-c393-4646-a6b8-32dcc22e87a0/)
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

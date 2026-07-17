@@ -7,7 +7,6 @@ source_path: 20260520/微信读书管理工具/Dinosaurs Before Dark.md
 tags: [微信读书]
 ---
 
-# Dinosaurs Before Dark
 
 **作者**：Mary Pope Osborne
 
@@ -23,3 +22,5 @@ tags: [微信读书]
 - “This better be good
 - The trees were lit with a golden late-afternoon light.
 - Annie loved pretend stuff.
+
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

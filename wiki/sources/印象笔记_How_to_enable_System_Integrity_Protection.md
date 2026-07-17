@@ -7,15 +7,6 @@ source_path: 印象笔记管理工具/How to enable System Integrity Protection.
 tags: [印象笔记]
 ---
 
-# How to enable System Integrity Protection
-
-# How to enable System Integrity Protection --- How to enable System Integrity Protection ==========
-
----
-
-# How to enable System Integrity Protection
-
----
 
 How to enable System Integrity Protection
 =========================================
@@ -28,16 +19,6 @@ Then select Terminal from the Utilities menu. It looks like this:
 
 In the window that opens, type `csrutil clear` and press return.
 
-This clears existing configuration of System Integrity Protection to default state which is "enabled".
+Thi
 
-Now type `reboot` and press return to restart your machine.
-
----
-
-More information about [TotalFinder and System Integrity Protection](http://totalfinder.binaryage.com/system-integrity-protection).
-
----
-
-[🌐 原始链接](http://totalfinder.binaryage.com/enable-sip)
-
-[📎 在印象笔记中打开](evernote:///view/207087/s1/d9ba8944-f313-44b1-be10-8a34f6cb4e5e/d9ba8944-f313-44b1-be10-8a34f6cb4e5e/)
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

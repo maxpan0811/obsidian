@@ -7,15 +7,6 @@ source_path: 印象笔记管理工具/扬帆暖冬_万舟乐航·海帆会圣诞
 tags: [印象笔记]
 ---
 
-# 扬帆暖冬_万舟乐航·海帆会圣诞营&冬令营（含DC营）
-
-# 扬帆暖冬|万舟乐航·海帆会圣诞营&冬令营（含DC营） --- 扬帆暖冬|万舟乐航·海帆会圣诞营&冬令营（含DC营） ========================== 海南万舟乐航 ![](.e
-
----
-
-# 扬帆暖冬|万舟乐航·海帆会圣诞营&冬令营（含DC营）
-
----
 
 扬帆暖冬|万舟乐航·海帆会圣诞营&冬令营（含DC营）
 ==========================
@@ -30,34 +21,6 @@ tags: [印象笔记]
 
 ![](.evernote-content/50BB4DDD-B7E5-44B2-960F-627E0D045331/D3151FDD-4267-48C5-BE0C-8EA8B6F62CB1.jpg)
 
-![](.evernote-content/50BB4DDD-B7E5-44B2-960F-627E0D045331/333293FB-E324-4320-B5D4-AC0DA79C5080.jpg)
+![](.evernote-content/50BB4DD
 
-![](.evernote-content/50BB4DDD-B7E5-44B2-960F-627E0D045331/98303331-EAED-4C50-AF07-8EA6E1E53EA5.jpg)
-
-![](.evernote-content/50BB4DDD-B7E5-44B2-960F-627E0D045331/A46B7670-E061-4044-94E7-ED0F24181EBE.jpg)
-
-![](.evernote-content/50BB4DDD-B7E5-44B2-960F-627E0D045331/C2143958-86FD-440D-A7AD-F1AFD8A20F83.jpg)
-
-![](.evernote-content/50BB4DDD-B7E5-44B2-960F-627E0D045331/4625A722-B42E-46C7-A356-6EA01E927A4D.jpg)
-
-![](.evernote-content/50BB4DDD-B7E5-44B2-960F-627E0D045331/FD0E279E-07E2-48A9-9E83-612CAEE8A713.jpg)
-
-![](.evernote-content/50BB4DDD-B7E5-44B2-960F-627E0D045331/A26945E9-EF76-4AEC-B286-BF0B76A075A1.jpg)
-
-![](.evernote-content/50BB4DDD-B7E5-44B2-960F-627E0D045331/029896BC-EC5D-48CD-A455-36BF32784E7F.jpg)
-
-![](.evernote-content/50BB4DDD-B7E5-44B2-960F-627E0D045331/AF18521F-697E-46C4-AED0-10DBCFB5BA99.jpg)
-
-![](.evernote-content/50BB4DDD-B7E5-44B2-960F-627E0D045331/C160365E-B71E-4CEC-B00A-4D4A93ED4E0B.jpg)
-
-![](.evernote-content/50BB4DDD-B7E5-44B2-960F-627E0D045331/F71708E3-4BBB-469E-9393-3A5DDDC4C432.jpg)
-
-![](.evernote-content/50BB4DDD-B7E5-44B2-960F-627E0D045331/37EB7977-0EE9-4E13-AB06-1F0DC107D88D.jpg)
-
-![](.evernote-content/50BB4DDD-B7E5-44B2-960F-627E0D045331/63AFDB04-0B84-4576-A6A4-58940804BF5D.gif)![](.evernote-content/50BB4DDD-B7E5-44B2-960F-627E0D045331/DE6A984D-023C-493E-991A-9CD4169B40AC.jpg)
-
----
-
-[🌐 原始链接](http://mp.weixin.qq.com/s?__biz=MzU1MTkxOTMwOQ==&mid=2247489699&idx=1&sn=b0a1523e40041adbaecff6f8c11b9d91&chksm=fb8b5301ccfcda17f21bd6b085db49b2df3a131771897c9af51b018a957152600e867c7a4f1c&mpshare=1&scene=1&srcid=1014554F40wZmXzbGerBsEsx&sharer_sharetime=1637801641408&sharer_shareid=196a7290cec677abfe41ca4bbe251b79#rd)
-
-[📎 在印象笔记中打开](evernote:///view/207087/s1/6bc83350-5091-4ba3-be10-9ec731657813/6bc83350-5091-4ba3-be10-9ec731657813/)
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

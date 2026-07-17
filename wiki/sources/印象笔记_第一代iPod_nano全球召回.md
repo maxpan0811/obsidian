@@ -7,15 +7,6 @@ source_path: 印象笔记管理工具/第一代iPod nano全球召回.md
 tags: [印象笔记]
 ---
 
-# 第一代iPod nano全球召回
-
-# 第一代iPod nano全球召回 --- 苹果周五开始向第一代iPod nano用户发出通知，针对该机存在的电池过热风险问题，启动全球性的召回更换计划。 ![](.evernote-content
-
----
-
-# 第一代iPod nano全球召回
-
----
 
 苹果周五开始向第一代iPod nano用户发出通知，针对该机存在的电池过热风险问题，启动全球性的召回更换计划。
 
@@ -30,3 +21,5 @@ Tags - [ipod](http://www.aimac.cn/tags/ipod/) , [nano](http://www.aimac.cn/tags/
 [🌐 原始链接](http://www.aimac.cn/1st-gen-ipod-nano-worldwide-replacement/)
 
 [📎 在印象笔记中打开](evernote:///view/207087/s1/5639ea3c-0de7-4e0c-9f48-8ebdb97df671/5639ea3c-0de7-4e0c-9f48-8ebdb97df671/)
+
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

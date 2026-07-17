@@ -7,7 +7,6 @@ source_path: RAW/PDF/BAIIPLUSGuidebook_EN.pdf
 tags: [raw, pdf]
 ---
 
-# BAIIPLUSGuidebook_EN
 
 > RAW/PDF/BAIIPLUSGuidebook_EN.pdf
 
@@ -26,3 +25,5 @@ materials and makes such materials available
 ## 相关页面
 
 - [[wiki/index]]
+
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

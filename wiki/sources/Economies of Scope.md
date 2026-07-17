@@ -7,9 +7,6 @@ source_path: 印象笔记管理工具/Economies of Scope.md
 tags: [印象笔记]
 ---
 
-# Economies of Scope
-
----
 
 (Economies of Scope)透过营运范畴的扩大，两个以上的事业单位共同分担研发、营销、生产等成本，而享有的经济效益，使总成本下降。
 
@@ -22,3 +19,5 @@ tags: [印象笔记]
 [🌐 原始链接](http://baike.baidu.com/view/635747.htm)
 
 [📎 在印象笔记中打开](evernote:///view/207087/s1/7b971185-b4b5-4634-911b-8549c40ccd8e/7b971185-b4b5-4634-911b-8549c40ccd8e/)
+
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

@@ -7,15 +7,6 @@ source_path: 印象笔记管理工具/转发：ERP客户管理功能上线.md
 tags: [印象笔记]
 ---
 
-# 转发：ERP客户管理功能上线
-
-# 转发：ERP客户管理功能上线 --- 发件人： [集团流程运营 <jtlcyy@hcgtravels.com>](mailto:jtlcyy@hcgtravels.com) 发送日期： 2020年
-
----
-
-# 转发：ERP客户管理功能上线
-
----
 
 发件人： 
 [集团流程运营 <jtlcyy@hcgtravels.com>](mailto:jtlcyy@hcgtravels.com)
@@ -47,20 +38,6 @@ ERP客户管理功能上线
 
 集团流程运营
 
-[电子邮件（](https://maas.mail.163.com/dashi-web-extend/html/proSignature.html?ftlId=1&name=%E9%9B%86%E5%9B%A2%E6%B5%81%E7%A8%8B%E8%BF%90%E8%90%A5&uid=jtlcyy%40hcgtravels.com&iconUrl=https%3A%2F%2Fmail-online.nosdn.127.net%2Fqiyelogo%2FdefaultAvatar.png&items=%5B%22jtlcyy%40hcgtravels.com%22%5D)[E-mail](https://maas.mail.163.com/dashi-web-extend/html/proSignature.html?ftlId=1&name=%E9%9B%86%E5%9B%A2%E6%B5%81%E7%A8%8B%E8%BF%90%E8%90%A5&uid=jtlcyy%40hcgtravels.com&iconUrl=https%3A%2F%2Fmail-online.nosdn.127.net%2Fqiyelogo%2FdefaultAvatar.png&items=%5B%22jtlcyy%40hcgtravels.com%22%5D)[）：](https://maas.mail.163.com/dashi-web-extend/html/proSignature.html?ftlId=1&name=%E9%9B%86%E5%9B%A2%E6%B5%81%E7%A8%8B%E8%BF%90%E8%90%A5&uid=jtlcyy%40hcgtravels.com&iconUrl=https%3A%2F%2Fmail-online.nosdn.127.net%2Fqiyelogo%2FdefaultAvatar.png&items=%5B%22jtlcyy%40hcgtravels.com%22%5D)
+[电子邮件（](https://maa
 
-[jtlcyy](mailto:jtlcyy@hcgtravels.com)[@hcgtravels.com](mailto:jtlcyy@hcgtravels.com)
-
-华程国际旅行社集团有限公司
-
-HCG International Travel Group Co.,Ltd
-
-邮编（NY）：200233
-
-地址：上海市桂林路406号华鑫中心1号楼12楼
-
-签名由
-[网易邮箱大师](https://mail.163.com/dashi/dlpro.html?from=mail81)
-定制
-
-[📎 在印象笔记中打开](evernote:///view/207087/s1/f705af60-3d4e-4faf-8af5-ad9396e5456f/f705af60-3d4e-4faf-8af5-ad9396e5456f/)
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

@@ -7,6 +7,7 @@ source_path: 印象笔记管理工具/库克致毕业生：吃饱肚子，做对
 tags: [印象笔记管理工具]
 ---
 
+
 **库克致毕业生：吃饱肚子，做对的事 - 爱范儿 · Beats of Bits**
 
 库克致毕业生：吃饱肚子，做对的事 - 爱范儿 · Beats of Bits
@@ -28,4 +29,6 @@ tags: [印象笔记管理工具]
 ---
 
 [🌐 原始链接](http://www.ifanr.com/521790?utm_source=rss&utm_medium=rss&utm_campaign=)
-[📎 在印象笔记中打开](evernote:///view/207087/s1/5389539e-4c36-4938-ab5f-3c570dc8a2e4/5389539e-4c36-4938-ab5f-3c570dc8a2e4/)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/5389539e-4c36-4
+
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

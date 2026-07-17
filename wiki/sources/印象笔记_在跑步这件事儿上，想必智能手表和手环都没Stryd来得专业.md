@@ -7,15 +7,6 @@ source_path: 印象笔记管理工具/在跑步这件事儿上，想必智能手
 tags: [印象笔记]
 ---
 
-# 在跑步这件事儿上，想必智能手表和手环都没Stryd来得专业
-
-# 在跑步这件事儿上，想必智能手表和手环都没Stryd来得专业 --- ![](.evernote-content/EDDC48AE-552A-485D-8633-95BA81A24AF0/A24B1
-
----
-
-# 在跑步这件事儿上，想必智能手表和手环都没Stryd来得专业
-
----
 
 ![](.evernote-content/EDDC48AE-552A-485D-8633-95BA81A24AF0/A24B1C88-DF7D-4FF3-B02B-5D4F9C95F260.jpg)
 
@@ -29,16 +20,6 @@ tags: [印象笔记]
 
 Stryd的外型小巧美观，佩戴在身应该不会有过多的不适。它可以无线连接支持蓝牙的智能手表、适配iOS和Android。
 
-截至目前，[Stryd已在Kickstarter上筹得了14万美金](https://www.kickstarter.com/projects/stryd/stryd-the-worlds-first-wearable-power-meter-for-ru?ref=category)，产品预计9月发货。如果你是跑步爱好者，售价149美元的Stryd能让你变的更专业。
+截至目前，[Stryd已在Kicksta
 
-除非注明，本站文章均为原创或编译，转载请注明： 文章来自 [36氪](http://www.36kr.com/)
-
----
-
-[36氪官方iOS应用正式上线，支持『一键下载36氪报道的移动App』和『离线阅读』](http://www.36kr.com/p/201073.html?ref=kr_post_feed) [立即下载！](https://itunes.apple.com/cn/app/36ke/id593394038?l=en&mt=8)
-
----
-
-[🌐 原始链接](http://www.36kr.com/p/220253.html)
-
-[📎 在印象笔记中打开](evernote:///view/207087/s1/ff6371d0-6944-4c6d-9864-76c8b7bc530d/ff6371d0-6944-4c6d-9864-76c8b7bc530d/)
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

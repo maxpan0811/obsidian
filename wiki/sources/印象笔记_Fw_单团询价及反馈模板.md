@@ -7,15 +7,6 @@ source_path: 印象笔记管理工具/Fw_单团询价及反馈模板.md
 tags: [印象笔记]
 ---
 
-# Fw_单团询价及反馈模板
-
-# Fw:单团询价及反馈模板 --- From： [<xujuhua@hcgtravels.com>](mailto:xujuhua@hcgtravels.com) Date： 09/4/2020 1
-
----
-
-# Fw:单团询价及反馈模板
-
----
 
 From： 
 [<xujuhua@hcgtravels.com>](mailto:xujuhua@hcgtravels.com)
@@ -55,17 +46,6 @@ QQ：2853372544
 手机（Mobile）：+86
 13817547005
 
-上海华程国际旅行社有限公司
+上海华程国际旅
 
-Shanghai huacheng
-international travel co., LTD
-
-邮编（NY）：200235
-
-地址：上海市徐汇区桂林路406号1号楼301室
-
-(Add)：Rm.
-301, Building 1，No. 406,Guilin Rd, Shanghai
-,China.(200235)
-
-[📎 在印象笔记中打开](evernote:///view/207087/s1/f4ba2059-1b1c-4c87-9c2c-35f58be3321f/f4ba2059-1b1c-4c87-9c2c-35f58be3321f/)
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

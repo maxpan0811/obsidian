@@ -10,7 +10,7 @@ updated: 2026-06-27
 updated: 2026-06-27
 ---
 
----
+
 title: "加更 08：CleanMyMac X 核心功能详解 - 少数派"
 source: evernote
 type: note
@@ -32,3 +32,5 @@ guid: 56d84e13-cd07-443f-810c-be1746bb9555
 ---
 
 [📎 在印象笔记中打开](evernote:///view/207087/s1/56d84e13-cd07-443f-810c-be1746bb9555/56d84e13-cd07-443f-810c-be1746bb9555/)
+
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

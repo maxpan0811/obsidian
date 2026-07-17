@@ -7,6 +7,7 @@ source_path: 印象笔记管理工具/LaTeX_百度百科.md
 tags: [印象笔记管理工具]
 ---
 
+
 **LaTeX_百度百科**
 
 LaTeX_百度百科
@@ -87,4 +88,6 @@ LaTeX_百度百科
 ---
 
 [🌐 原始链接](http://baike.baidu.com/link?url=_fgaATTTUFAYbZKEMXn5mZ90zWXocdMx8FNHubql9rLa53Ze3dD7c71scnBYhm21wTQuqWibT59U8cvwhUv5Ga)
-[📎 在印象笔记中打开](evernote:///view/207087/s1/1f69d394-e37b-46ba-ab76-0802163f8771/1f69d394-e37b-46ba-ab76-0802163f8771/)
+[📎 在印象笔记中打开](evernote:///view/207087
+
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

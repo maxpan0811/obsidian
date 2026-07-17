@@ -7,7 +7,6 @@ source_path: RAW/PDF/ETC Members Brief_China Outbound Tourism_Jan 2023_Fin.pdf
 tags: [raw, pdf]
 ---
 
-# ETC Members Brief_China Outbound Tourism_Jan 2023_Fin
 
 > RAW/PDF/ETC Members Brief_China Outbound Tourism_Jan 2023_Fin.pdf
 
@@ -34,3 +33,5 @@ Introduction ...................................................................
 ## 相关页面
 
 - [[wiki/index]]
+
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

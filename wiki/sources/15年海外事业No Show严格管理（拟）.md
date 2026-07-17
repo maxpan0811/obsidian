@@ -7,9 +7,6 @@ source_path: 印象笔记管理工具/15年海外事业No Show严格管理（拟
 tags: [印象笔记]
 ---
 
-# 15年海外事业No Show严格管理（拟）
-
----
 
 **Subject:** 15年海外事业No Show严格管理（拟）  
 **From:** tony@hytours.com  
@@ -24,3 +21,5 @@ tags: [印象笔记]
 ---
 
 [📎 在印象笔记中打开](evernote:///view/207087/s1/28a02519-3221-44b3-b61a-fdaa5352f5c3/28a02519-3221-44b3-b61a-fdaa5352f5c3/)
+
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

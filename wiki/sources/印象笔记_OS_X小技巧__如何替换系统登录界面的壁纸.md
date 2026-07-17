@@ -7,15 +7,6 @@ source_path: 印象笔记管理工具/OS X小技巧_ 如何替换系统登录界
 tags: [印象笔记]
 ---
 
-# OS X小技巧_ 如何替换系统登录界面的壁纸
-
-# OS X小技巧: 如何替换系统登录界面的壁纸 --- 威锋网讯，在 OS X El Capitan 中，你可以轻松地对系统登录界面的壁纸（输入登录密码的界面）进行替换。目前默认的系统登录界面壁纸是
-
----
-
-# OS X小技巧: 如何替换系统登录界面的壁纸
-
----
 
 威锋网讯，在 OS X El Capitan 中，你可以轻松地对系统登录界面的壁纸（输入登录密码的界面）进行替换。目前默认的系统登录界面壁纸是桌面壁纸的“模糊版”，通过自定义可以让系统登录界面的壁纸变得更加清晰。
 
@@ -31,26 +22,6 @@ tags: [印象笔记]
 
 3.接下来便是替换原壁纸的工作：
 
-A.按下 Command+Shift+G 呼出“前往文件夹”，并输入以下路径：/Library/Caches/，点击前往。
+A.按下 Command+Shift+G 呼出“前往文件夹”，并输入以下路径：/Library/Ca
 
-![](.evernote-content/DD3DC875-BE67-48BA-8062-5187EB5DA47A/21C7506E-4F93-4982-AB25-5E42DEBE7598.jpg)
-
-B.保险起见，对原壁纸进行备份（改个名字）。
-
-![](.evernote-content/DD3DC875-BE67-48BA-8062-5187EB5DA47A/B0E3DA35-881B-4E26-BB81-E4D1CADDE36D.jpg)
-
-C.将之前修改好的新壁纸文件放进这个文件夹。
-
-![](.evernote-content/DD3DC875-BE67-48BA-8062-5187EB5DA47A/9A505CF1-4CE4-4FB0-9820-EEC43A812DC8.jpg)
-
-就是这么简单，你就已经成功替换掉原来的登录界面壁纸了。要想看到新壁纸，重新启动你的 Mac 之后就可以了。
-
-**注：本教程针对新手用户，资深用户大可忽略。**
-
-[阅读全文](http://www.feng.com/iPhone/news/2015-11-16/OS-X-tip-how-to-replace-the-system-login-screen-wallpaper_630302.shtml)
-
----
-
-[🌐 原始链接](http://www.feng.com/iPhone/news/2015-11-16/OS-X-tip-how-to-replace-the-system-login-screen-wallpaper_630302.shtml)
-
-[📎 在印象笔记中打开](evernote:///view/207087/s1/cbdeb143-20d2-42fd-8ebd-83bdc07ea242/cbdeb143-20d2-42fd-8ebd-83bdc07ea242/)
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

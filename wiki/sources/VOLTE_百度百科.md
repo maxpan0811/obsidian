@@ -7,6 +7,7 @@ source_path: 印象笔记管理工具/VOLTE_百度百科.md
 tags: [印象笔记管理工具]
 ---
 
+
 **VOLTE_百度百科**
 
 VOLTE_百度百科
@@ -44,4 +45,6 @@ maxpan0811
 ---
 
 [🌐 原始链接](https://m.baidu.com/sf_bk/item/VOLTE/7270306?fr=aladdin&ms=1&rid=11226530873892471868)
-[📎 在印象笔记中打开](evernote:///view/207087/s1/44263644-cf9e-46da-907e-0d298cf3a021/44263644-cf9e-46da-907e-0d298cf3a021/)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/44263644-cf9e-46da-907e-0d298
+
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

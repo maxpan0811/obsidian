@@ -7,15 +7,6 @@ source_path: 印象笔记管理工具/华程国旅集团市场营销管理规范
 tags: [印象笔记]
 ---
 
-# 华程国旅集团市场营销管理规范 - wcp 知识库
-
-# 华程国旅集团市场营销管理规范 - wcp 知识库 --- ![](.evernote-content/2A1B1363-9B6F-4CF1-9659-38C79EEE307D/BCF660BA-7
-
----
-
-# 华程国旅集团市场营销管理规范 - wcp 知识库
-
----
 
 ![](.evernote-content/2A1B1363-9B6F-4CF1-9659-38C79EEE307D/BCF660BA-7241-4E76-9E5E-F8324E4B6B8C.do)
 
@@ -25,22 +16,6 @@ tags: [印象笔记]
 
 ![](.evernote-content/2A1B1363-9B6F-4CF1-9659-38C79EEE307D/8F2B43DE-488D-4A55-8DFB-C00E45D28731.png)
 
-![](.evernote-content/2A1B1363-9B6F-4CF1-9659-38C79EEE307D/6146C760-7E0A-4C5D-95B7-F9E3C94D52CD.png)
+![](.evernote-content/2A1B1363-9B6F-4CF1-9659-38C79EEE307D/6146C760-7E0A-4C5D-95B7-F9E3C94D52
 
-![](.evernote-content/2A1B1363-9B6F-4CF1-9659-38C79EEE307D/498739C6-E5E6-4020-8DF8-AC2D60F548D4.png)
-
-![](.evernote-content/2A1B1363-9B6F-4CF1-9659-38C79EEE307D/662CA5A5-28CB-4522-8C53-DBB38F8E9225.png)
-
-![](.evernote-content/2A1B1363-9B6F-4CF1-9659-38C79EEE307D/70849A81-D525-45AE-9CB8-2D7574319870.png)
-
-![](.evernote-content/2A1B1363-9B6F-4CF1-9659-38C79EEE307D/6C8FFAEE-A6D7-4756-B682-4AAB73F0ED7B.png)
-
-![](.evernote-content/2A1B1363-9B6F-4CF1-9659-38C79EEE307D/EDFE731C-C890-454D-AD4C-D245AAAE09E7.png)
-
-![](.evernote-content/2A1B1363-9B6F-4CF1-9659-38C79EEE307D/A947A449-C660-4059-A861-D02CBB40A06D.png)
-
----
-
-[🌐 原始链接](http://219.141.169.17:8989/wcp/webdoc/view/Pub4028838171fd3a3c0172a7ba671b0045.html)
-
-[📎 在印象笔记中打开](evernote:///view/207087/s1/c824b4f6-c0e6-4f7d-976e-30cf3b538989/c824b4f6-c0e6-4f7d-976e-30cf3b538989/)
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

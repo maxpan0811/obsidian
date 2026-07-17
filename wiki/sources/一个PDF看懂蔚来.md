@@ -7,7 +7,6 @@ source_path: RAW/PDF/一个PDF看懂蔚来.pdf
 tags: [raw, pdf]
 ---
 
-# 一个PDF看懂蔚来
 
 > RAW/PDF/一个PDF看懂蔚来.pdf
 
@@ -49,3 +48,5 @@ tags: [raw, pdf]
 ## 相关页面
 
 - [[wiki/index]]
+
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

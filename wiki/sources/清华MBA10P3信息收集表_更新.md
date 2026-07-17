@@ -7,7 +7,6 @@ source_path: RAW/Excel/清华MBA10P3信息收集表_更新.xls
 tags: [raw, excel]
 ---
 
-# 清华MBA10P3信息收集表_更新
 
 > RAW/Excel/清华MBA10P3信息收集表_更新.xls
 
@@ -18,9 +17,6 @@ tags: [raw, excel]
        若已填信息核对有误，需要修改，请用红色标出
   NO | Student No. | Chinese Name  | English Name
   序号 | 学号 | 中文姓名 | 中国学生的英文名（留学生、港澳台学生、无英文名者不用填） | Given Name     (中国学生填“名”的拼音)
-  第一个字母大写 | 第一个字母大写
-  1 | 2009212781 | 金冬冬 | JIN
+ 
 
-## 相关页面
-
-- [[wiki/index]]
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

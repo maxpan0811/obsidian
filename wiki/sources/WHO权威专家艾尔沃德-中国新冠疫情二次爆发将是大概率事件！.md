@@ -7,9 +7,6 @@ source_path: 印象笔记管理工具/WHO权威专家艾尔沃德：中国新冠
 tags: [evernote, impression, yinxiang]
 ---
 
-# WHO权威专家艾尔沃德：中国新冠疫情二次爆发将是大概率事件！
-
----
 
 WHO权威专家艾尔沃德：中国新冠疫情二次爆发将是大概率事件！
 ==============================
@@ -36,4 +33,6 @@ Measure
 
 [🌐 原始链接](https://mp.weixin.qq.com/s/Oxih6s3-L7eyrgwEKMKg2A)
 
-[📎 在印象笔记中打开](evernote:///view/207087/s1/2bb14ee2-24b7-460d-9f31-0f157b3a1808/2bb14ee2-24b7-460d-9f31-0f157b3a1808/)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/2bb1
+
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

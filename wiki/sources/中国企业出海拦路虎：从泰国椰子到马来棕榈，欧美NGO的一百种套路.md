@@ -7,6 +7,7 @@ source_path: 印象笔记管理工具/中国企业出海拦路虎：从泰国椰
 tags: [印象笔记管理工具]
 ---
 
+
 **中国企业出海拦路虎：从泰国椰子到马来棕榈，欧美NGO的一百种套路**
 
 中国企业出海拦路虎：从泰国椰子到马来棕榈，欧美NGO的一百种套路
@@ -33,5 +34,6 @@ tags: [印象笔记管理工具]
 
 ---
 
-[🌐 原始链接](http://mp.weixin.qq.com/s?__biz=MzUyNDQyNTI1OQ==&mid=2247485715&idx=1&sn=d0941cc33cb2cde3578dc4cb92b3399f&chksm=fa2cc857cd5b41411fffaa95875247613ea9c63333d982fa553dd9cfea330065d11cf475aede&mpshare=1&scene=24&srcid=0331Y4CZpUmUJx1o61w20enZ&sharer_sharetime=1617341609791&sharer_shareid=196a7290cec677abfe41ca4bbe251b79#rd)
-[📎 在印象笔记中打开](evernote:///view/207087/s1/81a4650b-fe97-4bf9-8f2a-720f39509cfa/81a4650b-fe97-4bf9-8f2a-720f39509cfa/)
+[🌐 原始链接](http://mp.weixin.qq.com/s?__biz=MzUyNDQyNTI1OQ==&mid=2247485715&idx=1&sn=d0941cc33cb2cde3578dc4cb92b3399f&chksm=fa2cc857cd5b41411fffaa
+
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

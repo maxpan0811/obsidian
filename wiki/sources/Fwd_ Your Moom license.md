@@ -7,9 +7,6 @@ source_path: 印象笔记管理工具/Fwd_ Your Moom license.md
 tags: [evernote, impression, yinxiang]
 ---
 
-# Fwd: Your Moom license
-
----
 
 > 下面是被转发的邮件：
 >
@@ -33,22 +30,6 @@ tags: [evernote, impression, yinxiang]
 >
 > Name: maxpan0811
 >
-> E-Mail: [maxpan0811@hotmail.com](mailto:maxpan0811@hotmail.com)
->
-> To complete the registration process, simply open the attached license file via a double-click, or by dragging it to the Moom icon in your Dock.
->
-> If you have not already downloaded Moom yet, get it now at:
->
-> <http://manytricks.com/download/moom>
->
-> For Moom support, please visit the Moom support page, where you can read how-to's, browse the knowledge base, submit a bug report, and ask for help with the program:
->
-> <http://manytricks.com/moom/support>
->
-> Enjoy Moom!
->
-> --
->
-> Many Tricks, Makers of Helpful Apps
+> E-Mail: 
 
-[📎 在印象笔记中打开](evernote:///view/207087/s1/0dab4034-0421-48db-828c-7d8475bfe089/0dab4034-0421-48db-828c-7d8475bfe089/)
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

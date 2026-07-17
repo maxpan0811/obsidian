@@ -7,9 +7,6 @@ source_path: 印象笔记管理工具/Card Templates - Anki Manual.md
 tags: [印象笔记]
 ---
 
-# Card Templates - Anki Manual
-
----
 
 Card Templates
 ==============
@@ -22,47 +19,6 @@ cards at once.
 Card templates are covered in some of the intro videos:
 
 [The Templates Screen](https://docs.ankiweb.net/#/templates/intro?id=the-templates-screen)
-------------------------------------------------------------------------------------------
+-------------------------------------------------
 
-You can modify card templates by clicking the “Cards…” button inside the
-editing screen.
-
-On the top left is the front template, on the bottom left is the back
-template, and in between them is the card styling section.
-
-In Anki, templates are written in HTML, which is the language that web
-pages are written in. The styling section is CSS, which is the language
-used for styling web pages.
-
-On the right is a preview of the front and back of the currently
-selected card. If you opened the window while adding notes, the preview
-will be based on the text you had typed into the Add Notes window. If
-you opened the window while editing a note, the preview will be based on
-the content of that note. If you opened the window from Tools → Manage
-Note Types, Anki will display each field’s name in parentheses in place
-of content.
-
-At the top right of the window is an Options button that gives you
-options to rename or reorder the cards, as well as the following two
-options:
-
-* The ‘Deck Override’ option allows you to change the deck that cards
-  generated from the current card type will be placed into. By
-  default, cards are placed into the deck you provide in the Add Notes
-  window. If you set a deck here, that card type will be placed into
-  the deck you specified, instead of the deck listed in the Add Notes
-  window. This can be useful if you want to separate cards into
-  different decks (for instance, when studying a language, to put
-  production cards in one deck and recognition cards in another). You
-  can check which deck the cards are currently going to by choosing
-  Deck Override again.
-* The ‘Browser Appearance’ option allows you to set different (perhaps
-  simplified) templates for display in the Question and Answer columns
-  of the browser; see [browser appearance](https://docs.ankiweb.net/#/templates/styling?id=browser-appearance) for more
-  information.
-
----
-
-[🌐 原始链接](https://docs.ankiweb.net/#/templates/intro)
-
-[📎 在印象笔记中打开](evernote:///view/207087/s1/284b7e8a-2706-4936-b19b-15fce3e6dd30/284b7e8a-2706-4936-b19b-15fce3e6dd30/)
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

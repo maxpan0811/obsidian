@@ -7,9 +7,6 @@ source_path: 印象笔记管理工具/Dinosaurs Before Dark.md
 tags: [印象笔记]
 ---
 
-# Dinosaurs Before Dark
-
----
 
 Magic Tree House Book 1
 
@@ -30,3 +27,5 @@ Oh, man! Jack thought. He loved books.
 Jack pushed his glasses into place.
 
 [📎 在印象笔记中打开](evernote:///view/207087/s1/c4298fca-e269-451e-8e48-2bac4706db9a/c4298fca-e269-451e-8e48-2bac4706db9a/)
+
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

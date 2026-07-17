@@ -7,7 +7,6 @@ source_path: RAW/PPT/Good to Great (external).ppt
 tags: [raw, ppt]
 ---
 
-# Good to Great (external)
 
 **文件信息**
 - 类型: .ppt
@@ -20,3 +19,4 @@ tags: [raw, ppt]
 [提取错误: Package not found at '/Users/panbo/Documents/RAW/PPT/Good to Great (external).ppt']
 ```
 
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

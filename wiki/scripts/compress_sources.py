@@ -1,14 +1,11 @@
 #!/usr/bin/env python3
 """
 wiki/sources/ 全文→摘要压缩脚本（规则提取，不经过LLM）。
-- 已有 速读摘要/智能摘要 → 保留该段
-- 无摘要 → 取首 500 字（去除YAML/标题/原文链接后）
-- 保存 YAML frontmatter + 摘要 + 原文链接
+已完成全量压缩。如需重新跑，先删除 .compress_state.json
 
 用法:
   python3 compress_sources.py               # 全量压缩（可中断重入）
   python3 compress_sources.py --dry-run      # 只统计，不改写
-  python3 compress_sources.py --revert       # 从 .bak 恢复（未实现）
 """
 import os, re, sys, json, time
 

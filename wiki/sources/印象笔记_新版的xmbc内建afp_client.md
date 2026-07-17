@@ -7,15 +7,6 @@ source_path: 印象笔记管理工具/新版的xmbc内建afp client.md
 tags: [印象笔记]
 ---
 
-# 新版的xmbc内建afp client
-
-# 新版的xmbc内建afp client --- | | | --- | | 新版的xmbc内建afp client,只需要在添加目录的时候,输入: afp://user\_name:passwor
-
----
-
-# 新版的xmbc内建afp client
-
----
 
 |  |
 | --- |
@@ -26,3 +17,5 @@ tags: [印象笔记]
 [🌐 原始链接](http://bbs.weiphone.com/read-htm-tid-3029469.html)
 
 [📎 在印象笔记中打开](evernote:///view/207087/s1/4e9143b0-6d49-4d2c-945a-2a8eb9f4cdfb/4e9143b0-6d49-4d2c-945a-2a8eb9f4cdfb/)
+
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

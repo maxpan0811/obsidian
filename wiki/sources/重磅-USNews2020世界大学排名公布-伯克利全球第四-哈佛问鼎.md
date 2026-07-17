@@ -12,7 +12,7 @@ updated: 2026-06-27
 updated: 2026-06-27
 ---
 
----
+
 title: "重磅！USNews2020世界大学排名公布！伯克利全球第四，哈佛问鼎"
 source: evernote
 type: note
@@ -38,92 +38,6 @@ guid: 9fa64446-609a-42a0-b42c-e2cbd45a7e98
 
 **“总体而言，全球最佳大学排行榜涵盖了81个国家的1500所顶尖大学，高于去年的75个国家。”**
 
-![](attachments/064afeb0df33443a.png)
+![](attachments/0
 
-制作这些排名的第一步是创建一个由1599所大学组成的数据库，用于排名前1500所大学。
-
-除此之外，和去年一样U.S.News网站上在每一所大学的排名上，都列出了全球的整体得分，以及13项指标，让学生们可以比较每一项指标的排名。
-
-具体指标如此?
-
-![](attachments/fff436c7cbee619f.png)
-
-那么今年的榜单会有些什么样的变化呢：
-
-## **2020 US News 世界大学排行榜Top100**
-
-**第1-10名**
-
-![](attachments/0535f275aa1765db.jpg)
-
-11-20
-
-![](attachments/a306e212dc0d916e.jpg)
-
-21-30
-
-![](attachments/cf59fb8ab769c88b.jpg)
-
-31-40
-
-![](attachments/d69ecd41903ec61a.jpg)
-
-41-50
-
-![](attachments/2202bbeb8bd71f18.jpg)
-
-51-60
-
-![](attachments/072d9fe512df647d.jpg)
-
-60-70
-
-![](attachments/e9d453b4ffdc2aff.jpg)
-
-70-80
-
-![](attachments/1887d5405b6c2a84.jpg)
-
-80-90
-
-![](attachments/4fbdd7decbbf2ba3.jpg)
-
-90-100
-
-![](attachments/70e89b1da4e1f1b6.jpg)
-
-纵观这两年排名，我们可以看到的是，世界排名前列的大学还是在美国，
-
-被笼罩着抄袭、歧视种种丑闻，**哈佛依然是全世界最牛的大学**。
-
-当然，排名只是参考，毕竟名牌大学也有渣专业，普通大学里也有王牌专业，这一切都取决于个人选择，**适合自己的才是最好的**。
-
-**今日互动话题：**
-
-**你的“Dream School”上榜了吗？**
-
-**排名“公正”吗？**
-
-回复关键词
-
-**“全球”**
-
-调取完整全球大学排名
-
-看过了这么多西方国家对美国大学的排名，很多家长和同学可能会想知道，有没有由中国留学生自己去评价的美国大学排名呢？
-
-有没有一个更参考留学生对自己母校的评价，来给出的更适合中国留学生参考的美国大学排名呢？
-
-其实，是有的。我们正在发起“首个基于中国留学生消费者满意度的美国大学排名”
-
-**回复****“****中国排名****”给你看看如何能参与这个排名**
-
-![](attachments/5e03b095ec59c089.png)
-
-在看
-
-
----
-
-[🌐 原始链接](http://mp.weixin.qq.com/s?__biz=MzA5NzIwMjQzMA==&mid=2650013242&idx=1&sn=e0a0324b606f0ca0b4ada8774514565c&chksm=88a327abbfd4aebdf9d83c20535985568ded4b13fa96953196fad38678ab8831eeaa5d3b1a8f&mpshare=1&scene=1&srcid=1024zgDFCbupZtrxYgvmlic6&sharer_sharetime=1571977200015&sharer_shareid=196a7290cec677abfe41ca4bbe251b79#rd)
-[📎 在印象笔记中打开](evernote:///view/207087/s1/9fa64446-609a-42a0-b42c-e2cbd45a7e98/9fa64446-609a-42a0-b42c-e2cbd45a7e98/)
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

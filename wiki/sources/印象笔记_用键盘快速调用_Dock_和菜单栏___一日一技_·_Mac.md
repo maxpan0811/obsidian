@@ -7,15 +7,6 @@ source_path: 印象笔记管理工具/用键盘快速调用 Dock 和菜单栏 _ 
 tags: [印象笔记]
 ---
 
-# 用键盘快速调用 Dock 和菜单栏 _ 一日一技 · Mac
-
-# 用键盘快速调用 Dock 和菜单栏 | 一日一技 · Mac --- ![](.evernote-content/4B7634EC-F0E1-47A6-9F24-43F427AB8614/2133
-
----
-
-# 用键盘快速调用 Dock 和菜单栏 | 一日一技 · Mac
-
----
 
 ![](.evernote-content/4B7634EC-F0E1-47A6-9F24-43F427AB8614/21338D47-BDB5-4E50-BC39-9BF2538674B0.jpg)
 
@@ -27,38 +18,6 @@ tags: [印象笔记]
 
 虽然可以通过 Alfred 键入关键词的方式打开 Dock 栏中的应用程序，或者是使用 [Shortcat](http://sspai.com/32524) 去完成鼠标点击动作。但这对普通用户来说，实在是显得麻烦且昂贵了一些。
 
-事实上，在 OS X 中通过两个简单的快捷键就可以实现上述需求。
+事实上，在 OS X 中通过两个简
 
-方法
---
-
-使用 `Control + Fn + F2` 可选中桌面左侧 Menu Bar 中的 ，通过上下方向键（或 Tab 键）进行左右菜单项的选择，使用上下方向键进行上下菜单项的选择，回车执行。
-
-![](.evernote-content/4B7634EC-F0E1-47A6-9F24-43F427AB8614/37123A50-F9E1-475D-A91B-DB560B5A572F.jpg)
-
-使用 `Control + Fn + F3` 可选中 Dock 项目，通过左右键选择功能，回车执行。通过上下方向键（或 Tab 键）进行左右菜单项的选择，使用上下方向键进行上下菜单项的选择，回车执行。
-
-需要**注意**的是，选中后，输入对应应用程序名的部分字母，可快速定位到该应用程序。例如，通过快捷键选中 Dock 后，再利用键盘输入「s」或「sa」，即可快速定位到 Safari 浏览器，其他同理。
-
-![](.evernote-content/4B7634EC-F0E1-47A6-9F24-43F427AB8614/CA9E070B-21D5-43B5-A3D2-8FB685C892F6.jpg)
-
-如果你在「系统偏好设置」-「键盘 」中勾选了「将 F1、F2 等键用作标准功能键」的话，则不用按住 Fn 键。
-
-![](.evernote-content/4B7634EC-F0E1-47A6-9F24-43F427AB8614/23A403DE-CE80-4348-83D9-7E9A908023D2.jpg)
-
-**参考链接：** [Mac OS X 10.6: 用于浏览电脑的快捷键](https://support.apple.com/kb/PH7314?viewlocale=zh_CN&locale=zh_CN)
-
-想要获得更多简单实用的小技巧？*[查看往期「一日一技」>](http://sspai.com/tag/%E4%B8%80%E6%97%A5%E4%B8%80%E6%8A%80)*
-
-[![](.evernote-content/4B7634EC-F0E1-47A6-9F24-43F427AB8614/10BF4A1E-A998-4FA6-8144-3C4D3389EFE1.jpg)](http://sspai.com/su/9gg)如果你希望通过赞助方式支持更多优质内容，请[联系我们](mailto:will@zookr.net)。
-
-文章来源 [少数派](http://sspai.com) ，原作者 [修电脑的哲学家](http://sspai.com/author/717277) ，转载请注明原文链接
-
-喜欢少数派？欢迎关注我们的微博：@少数派sspai ，微信公众号： sspaime  
-少数派（ <http://sspai.com> ）
-
----
-
-[🌐 原始链接](http://sspai.com/33274)
-
-[📎 在印象笔记中打开](evernote:///view/207087/s1/7c02367e-5ba7-4293-b6f7-a042cf351d4e/7c02367e-5ba7-4293-b6f7-a042cf351d4e/)
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

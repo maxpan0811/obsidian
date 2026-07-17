@@ -7,6 +7,7 @@ source_path: 印象笔记管理工具/Airbnb的欧洲危机和多重焦虑.md
 tags: [印象笔记管理工具]
 ---
 
+
 **Airbnb的欧洲危机和多重焦虑**
 
 Airbnb的欧洲危机和多重焦虑
@@ -36,4 +37,6 @@ Airbnb 的欧洲危机和多重焦虑
 ---
 
 [🌐 原始链接](https://www.huxiu.com/article/293310.html?f=wangzhan)
-[📎 在印象笔记中打开](evernote:///view/207087/s1/0c719f17-6d5a-4790-ab19-1cd1d2af8597/0c719f17-6d5a-4790-ab19-1cd1d2af8597/)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/0c719f17-6d5a-4790-ab19-1cd1d2af8597/0c719f17-6d5a-4790-ab
+
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

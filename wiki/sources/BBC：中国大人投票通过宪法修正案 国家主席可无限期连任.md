@@ -7,9 +7,6 @@ source_path: 印象笔记管理工具/BBC：中国大人投票通过宪法修正
 tags: [印象笔记]
 ---
 
-# BBC：中国大人投票通过宪法修正案 国家主席可无限期连任
-
----
 
 3月11日下午，中国全国人大投票通过中华人民共和国宪法修正案草案，其中2958票赞成，2票反对，3票弃权和1张无效票。
 
@@ -27,50 +24,6 @@ tags: [印象笔记]
 
 关于其他各项议案，采用无记名按电子表决器的方式。“未按表决器的不计入表决票数，如果表决系统发生故障，改用举手方式表决。”
 
-在中国，只有县、乡两级的代表可以直接选举人大代表，再往上的人大代表，都不是直接选举产生。中国人大对此解释称，“我国之所以现在还不能实行各级人大代表全部的直接选举，是由我国目前的国情决定的”。
+在中国，只有县、乡两级的代表可以直接选举
 
-中国其中一名最著名的人大代表是今年89岁、来自山西的申纪兰，从1954年第1届中国全国人大会议至今，申纪兰已经连续13届当选中国人大代表。
-
-2010年，申纪兰曾经称，“当代表就是要听党的话，我从来没有投过反对票”；对于互联网，她曾经也发表过建议，她说：”这个网，你谁想上就能上？（是不是上网）还是要（得到）组织批准呢？”
-
-继前著名记者李大同、商人王瑛发公开信反对修改宪法后，中国当代作家马波（笔名老鬼）也在3月9日公开发表了反对意见。
-
-马波称，宪法是国家根本大法，神圣不可侵犯，不能换个领导人就修一次宪。“江泽民、胡锦涛都遵守了宪法。红二代不应该特殊，更应该模范执行邓小平规定下来的不搞终身制的决定”，马波在声明里写到。
-
-“我知道宪法修正案一定会通过，我也知道我的声明对通过没有任何影响，我就是想告诉大家，有反对的声音，很多老百姓都不同意。那些人大代表都是官方挑选出来的商人和官员，他们肯定同意，因为他们不是人民选出来的，也代表不了人民。”马波告诉BBC中文。
-
-“我讲的都在理，他们这么干没有道理，我很惊讶，很气愤，也是忍无可忍了。我70岁了，不在乎了。”马波对BBC中文说。
-
-2013年，全国人大选举中国新领导人时，习近平曾获1张反对票，3张弃权票，赞成票则为2952张。
-
-2008年，前任国家主席胡锦涛连任时，出现过3票反对，5票弃权。2003年，胡锦涛首次当选国家主席，曾有4票反对、3票弃权。
-
-2003年，江泽民留任军委主席时，曾得到高达98张反对票，122张弃权票。
-
-镜像链接：[谷歌镜像](https://commondatastorage.googleapis.com/letscorp_archive/archives/129310) | [亚马逊镜像](https://s3.amazonaws.com/letscorp_archive/archives/129310)
-
-[![](.evernote-content/4C5D8D7B-3242-4A59-8B65-7D5B13F802C0/6E39A571-A67A-412B-9B77-4319122AA886.jpg)](http://www.amazon.com/gp/product/B0051VVOB2/ref=as_acpost?ie=UTF8&camp=1789&creative=9325&linkCode=ur2&tag=letscorp-20) [Shop Amazon's New Kindle Fire](http://www.amazon.com/gp/product/B0051VVOB2/ref=as_acpost?ie=UTF8&camp=1789&creative=9325&linkCode=ur2&tag=letscorp-20)
-
-相关日志
-----
-
-* 2018/03/07 -- [与时俱进，人民呼声](https://www.letscorp.net/archives/129247 "与时俱进，人民呼声") ( 镜像链接： [亚马逊镜像](https://s3.amazonaws.com/letscorp_archive/archives/129247) | [谷歌镜像](https://commondatastorage.googleapis.com/letscorp_archive/archives/129247) )
-* 2018/03/06 -- [仿佛到了朝鲜：人大副委员长强调群众一致呼吁修宪，会场两次掌声雷动](https://www.letscorp.net/archives/129215 "仿佛到了朝鲜：人大副委员长强调群众一致呼吁修宪，会场两次掌声雷动") ( 镜像链接： [亚马逊镜像](https://s3.amazonaws.com/letscorp_archive/archives/129215) | [谷歌镜像](https://commondatastorage.googleapis.com/letscorp_archive/archives/129215) )
-* 2018/03/05 -- [盛洪：只有用宪法，宪法才有用](https://www.letscorp.net/archives/129195 "盛洪：只有用宪法，宪法才有用") ( 镜像链接： [亚马逊镜像](https://s3.amazonaws.com/letscorp_archive/archives/129195) | [谷歌镜像](https://commondatastorage.googleapis.com/letscorp_archive/archives/129195) )
-* 2018/03/05 -- [大东亚地区诸国民心所向](https://www.letscorp.net/archives/129168 "大东亚地区诸国民心所向") ( 镜像链接： [亚马逊镜像](https://s3.amazonaws.com/letscorp_archive/archives/129168) | [谷歌镜像](https://commondatastorage.googleapis.com/letscorp_archive/archives/129168) )
-* 2018/03/05 -- [好皇帝，坏皇帝：弗朗西斯·福山看中国修宪](https://www.letscorp.net/archives/129167 "好皇帝，坏皇帝：弗朗西斯·福山看中国修宪") ( 镜像链接： [亚马逊镜像](https://s3.amazonaws.com/letscorp_archive/archives/129167) | [谷歌镜像](https://commondatastorage.googleapis.com/letscorp_archive/archives/129167) )
-* 2018/03/04 -- [品葱：内地社会主流人群对修宪的真实态度如何？](https://www.letscorp.net/archives/129185 "品葱：内地社会主流人群对修宪的真实态度如何？") ( 镜像链接： [亚马逊镜像](https://s3.amazonaws.com/letscorp_archive/archives/129185) | [谷歌镜像](https://commondatastorage.googleapis.com/letscorp_archive/archives/129185) )
-* 2018/03/03 -- [德国之声：两颗“改革炸弹”割裂邓遗产 —— 解读修宪和政改](https://www.letscorp.net/archives/129115 "德国之声：两颗“改革炸弹”割裂邓遗产 —— 解读修宪和政改") ( 镜像链接： [亚马逊镜像](https://s3.amazonaws.com/letscorp_archive/archives/129115) | [谷歌镜像](https://commondatastorage.googleapis.com/letscorp_archive/archives/129115) )
-* 2018/03/02 -- [《纽约时报》修宪点燃中国文革记忆，民众立场出现分裂](https://www.letscorp.net/archives/129100 "《纽约时报》修宪点燃中国文革记忆，民众立场出现分裂") ( 镜像链接： [亚马逊镜像](https://s3.amazonaws.com/letscorp_archive/archives/129100) | [谷歌镜像](https://commondatastorage.googleapis.com/letscorp_archive/archives/129100) )
-* 2018/03/02 -- [悖论](https://www.letscorp.net/archives/129098 "悖论") ( 镜像链接： [亚马逊镜像](https://s3.amazonaws.com/letscorp_archive/archives/129098) | [谷歌镜像](https://commondatastorage.googleapis.com/letscorp_archive/archives/129098) )
-* 2018/03/02 -- [润涛阎：“打江山者坐江山”](https://www.letscorp.net/archives/129119 "润涛阎：“打江山者坐江山”") ( 镜像链接： [亚马逊镜像](https://s3.amazonaws.com/letscorp_archive/archives/129119) | [谷歌镜像](https://commondatastorage.googleapis.com/letscorp_archive/archives/129119) )
-
-[![](.evernote-content/4C5D8D7B-3242-4A59-8B65-7D5B13F802C0/CF07FEFE-9C8E-4B3E-B6C0-3804EBBA3F2E.gif)](http://feeds.feedburner.com/~ff/letscorp/aDmw?a=lZe5g9X4xvo:gyEd82BVQ4Y:yIl2AUoC8zA) [![](.evernote-content/4C5D8D7B-3242-4A59-8B65-7D5B13F802C0/1EECF9FA-756D-49C2-B3EC-EE2FDEF2B463.gif)](http://feeds.feedburner.com/~ff/letscorp/aDmw?a=lZe5g9X4xvo:gyEd82BVQ4Y:qj6IDK7rITs) [![](.evernote-content/4C5D8D7B-3242-4A59-8B65-7D5B13F802C0/27E9A663-9390-4522-9D62-C8D7FD053219.gif)](http://feeds.feedburner.com/~ff/letscorp/aDmw?a=lZe5g9X4xvo:gyEd82BVQ4Y:F7zBnMyn0Lo)
-
-![](.evernote-content/4C5D8D7B-3242-4A59-8B65-7D5B13F802C0/769800A8-785A-41DF-9128-60F5E6931EB2.gif)
-
----
-
-[🌐 原始链接](http://feedproxy.google.com/~r/letscorp/aDmw/~3/lZe5g9X4xvo/129310)
-
-[📎 在印象笔记中打开](evernote:///view/207087/s1/693c635a-262c-4830-b0e9-9f8d9767a224/693c635a-262c-4830-b0e9-9f8d9767a224/)
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

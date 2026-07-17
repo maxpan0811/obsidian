@@ -7,7 +7,6 @@ source_path: RAW/PDF/《Momentum+2026 小红书商业年度特刊》.pdf
 tags: [raw, pdf]
 ---
 
-# 《Momentum+2026 小红书商业年度特刊》
 
 **文件信息**
 - 类型: .pdf
@@ -21,3 +20,4 @@ tags: [raw, pdf]
 (无文本内容 - 可能为扫描件或图片PDF)
 ```
 
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

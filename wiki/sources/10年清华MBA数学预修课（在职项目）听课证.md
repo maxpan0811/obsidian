@@ -7,7 +7,6 @@ source_path: RAW/Word/10年清华MBA数学预修课（在职项目）听课证.d
 tags: [raw, word]
 ---
 
-# 10年清华MBA数学预修课（在职项目）听课证
 
 > RAW/Word/10年清华MBA数学预修课（在职项目）听课证.doc
 
@@ -18,3 +17,5 @@ tags: [raw, word]
 ## 相关页面
 
 - [[wiki/index]]
+
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

@@ -7,15 +7,6 @@ source_path: 印象笔记管理工具/Fw_ERP升级说明.md
 tags: [印象笔记]
 ---
 
-# Fw_ERP升级说明
-
-# Fw:ERP升级说明 --- 华程国旅 翔龙万里行-出境旅行专家 姓名：潘渤 Max Pan 职务：北京公司总经理 General Manager of Beijing Branch Office
-
----
-
-# Fw:ERP升级说明
-
----
 
 华程国旅 翔龙万里行-出境旅行专家   
   
@@ -36,41 +27,6 @@ International Travel Group Co., Ltd
 
 (Add)：#2 Floor Building A FUHUA Plaza, #8 ChaoYangMen North Street, DongCheng
 District, Beijing, China  
-运用科学的管理方法、现代企业的管理制度，充分应用IT技术，以专业、精细的旅游业务研发和运营，大规模、高效率地生产丰富的、高品质的出境旅游产品；为广大游客提供优质的旅游度假体验，为合作伙伴创造最大的价值。引领全国出境旅游行业的发展，成为中国最优秀的旅游运营服务商!
+运用科学的管理方法、现代企业的管理制度，充分应用IT技术，以专业、精细的旅游业务研发和运营，大规模、高效率地生产丰富的、高品质的出境旅游产品；为广大游客提供优质的旅游度假体验，为合作伙伴创造最大的价值。引领全国出
 
---------- Forwarded Message ---------
-
-From： 
-
-[集团流程运营 <jtlcyy@hcgtravels.com>](mailto:jtlcyy@hcgtravels.com)
-
-Date： 
-09/11/2020 16:37
-
-To： 
-
-[华程国旅集团全员 <hc\_all@hcgtravels.com>](mailto:hc_all@hcgtravels.com)
-
-Subject： 
-ERP升级说明
-
-![](.evernote-content/13DAE1EB-31BA-4500-9E4B-0D8AEE8B1E06/C7D1F0AA-341E-4792-A238-9FB6DE93413E.png)
-
-**华程国旅****翔龙万里行****-****出境旅行专家**
-
-**集团流程运营**
-
-电子邮件（E-mail）：[jtlcyy@hcgtravels.com](mailto:jtlcyy@hcgtravels.com)
-
-华程国际旅行社集团有限公司
-
-HCG International Travel Group
-Co.,Ltd
-
-邮编（NY）：200233
-
-地址：上海市桂林路406号华鑫中心1号楼3楼
-
-![](http://3xsnica.a5.sibmryl.cn/6171/m181b1ed62f09c0e284/1.png)
-
-[📎 在印象笔记中打开](evernote:///view/207087/s1/c4370cb5-ac75-4adb-9de2-28d9f6147400/c4370cb5-ac75-4adb-9de2-28d9f6147400/)
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

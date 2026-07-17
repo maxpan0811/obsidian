@@ -7,15 +7,6 @@ source_path: 印象笔记管理工具/在 Finder 中隐藏文件的两种方式 
 tags: [印象笔记]
 ---
 
-# 在 Finder 中隐藏文件的两种方式 _ 一日一技 · Mac
-
-# 在 Finder 中隐藏文件的两种方式 | 一日一技 · Mac --- ![](.evernote-content/D7810F3B-F4E0-4091-B8A3-D6D4EFE47031/CD
-
----
-
-# 在 Finder 中隐藏文件的两种方式 | 一日一技 · Mac
-
----
 
 ![](.evernote-content/D7810F3B-F4E0-4091-B8A3-D6D4EFE47031/CD864366-26FF-4904-9F48-2A97F3C0BF2B.jpg)
 
@@ -27,79 +18,6 @@ tags: [印象笔记]
 
 如果想要查看/隐藏 OS X 系统隐藏文件，可以通过[在终端中运行命令](http://www.sspai.com/26273)或使用 [XtraFinder](http://www.trankynam.com/xtrafinder/) 的「显示隐藏项目」来达到目的。
 
-![](.evernote-content/D7810F3B-F4E0-4091-B8A3-D6D4EFE47031/6B591F3D-BC4A-4FDE-A087-8763665B7F2E.jpg)
 
-但是如果想要隐藏用户的个人文件，在 OS X 上就没那么容易了，因为在 Finder 中根本没有的办法可以直接做到这一点。
 
-虽然通过第三方应用 [Hider 2](http://sspai.com/27177) 可以方便地对文件进行隐藏和恢复操作，但如果需求尚低的话，则完全可以通过 OS X 的自带功能去实现。
-
-伪装成 .pkg 文件
------------
-
-步骤一：在 Finder 中新建文件夹，并将其重命名为「XXX.pkg」。随后，文件夹将变成「黄色箱子」状的图标。
-
-步骤二：选中该文件，右键选择「显示包内容」。在新窗口中，放入自己需要存放的隐私文件即可。有趣的是，即便是往其中放入了文件，其项目简介仍会保持显示「没有项目」。
-
-![](.evernote-content/D7810F3B-F4E0-4091-B8A3-D6D4EFE47031/E7C08AB0-2E68-4762-8789-06C8357CAC33.jpg)
-
-当别人在不知情的情况下直接双击图标时，会弹出错误信息提示对话框，提示其无法继续操作。
-
-![](.evernote-content/D7810F3B-F4E0-4091-B8A3-D6D4EFE47031/37135DE6-5A3D-4E8C-A5DE-75B8064C4E86.jpg)
-
-通过这项「另辟蹊径」的办法，你可以将自己想要隐藏的文件夹安全地隐藏，需要查看时再次右键「显示包内容」即可，无需借助于第三方软件。
-
-但需要指出的是，这一方法虽然简便易行，但只适合对安全性要求不高的文件进行隐藏，毕竟它并不能对文件进行加密。而且**不建议**将 .pkg 隐藏文件夹和加密映像存放在桌面或「下载」文件夹等常用位置，因为删除它们是不需要密码的（辛苦工作好几年，一删回到解放前 == ）。
-
-利用「磁盘工具」创建加密映像
---------------
-
-如果需要将文件隐藏的同时，对其进行加密，不妨利用「磁盘工具」为文件创建 [AES](https://zh.wikipedia.org/wiki/%E9%AB%98%E7%BA%A7%E5%8A%A0%E5%AF%86%E6%A0%87%E5%87%86)（ Advanced Encryption Standard，高级加密标准）加密映像。
-
-步骤一：通过 Spotlight 搜索并打开「磁盘工具」（也可定位到「应用程序」-「实用工具」-「磁盘工具」）。
-
-步骤二：选择菜单栏中的「文件」-「新建映像」-「空白映像」。
-
-步骤三：对映像进行重命名，选择存放位置，设置名称、映像大小、格式、加密方式（建议选择 128 位 AES 加密 [1](http://sspai.com/33259#fn1)）、分区和映像格式。
-
-对于格式的选择：
-
-* 如果磁盘将用于 Mac 电脑，请选取「OS X 扩展（日志式）」或「OS X 扩展（区分大小写，日志式）」。
-* 如果磁盘将用于 Windows 或 Mac 电脑，且大小为 32 GB 或不足 32 GB，请选取「MS-DOS （FAT）」。
-* 如果磁盘将用于 Windows 或 Mac 电脑，且大小超过 32 GB，请选取「ExFAT」。
-
-对于映像格式的选择：
-
-* 稀疏捆绑：与稀疏映像相同，但映像目录数据的储存方式不同。使用 .sparsebundle 文件扩展名。
-* 稀疏：创建可按需收缩和扩大的可扩展文件。不会占用额外的空间。使用 .sparseimage 文件扩展名。
-* 读/写：允许您在创建磁盘映像后向磁盘映像添加文件。使用 .dmg 文件扩展名。
-* DVD/CD 主映像：将映像大小更改为「177 MB（CD 8 厘米）」。使用 .cdr 文件扩展名。
-
-![](.evernote-content/D7810F3B-F4E0-4091-B8A3-D6D4EFE47031/F9091E6D-D34C-4EF8-B2E3-36B6CE9F14A0.jpg)
-
-步骤四：输入密码，打开空白映像，将你需要隐藏和加密的隐私文件放入其中。如果你选择是「读/写磁盘映像」的话，日后你还可以自行增删其中的文件。
-
-在输入密码的对话框中，不建议勾选「在我的钥匙串中记住密码」。因为勾选后，钥匙串会记住该密码，从而使得他人无需密码即可打开和查看该加密映像。建议使用 [1Password](http://sspai.com/25168) 或 [LastPass](http://sspai.com/26418) 等密码管理工具存储加密映像密码，以免遗忘。
-
-![](.evernote-content/D7810F3B-F4E0-4091-B8A3-D6D4EFE47031/ECD34AE9-7474-4D63-8FCC-E2D94E635995.jpg)
-
-**参考链接：**
-
-* [Disk Utility（El Capitan）：创建磁盘映像](https://support.apple.com/kb/PH22247?viewlocale=zh_CN&locale=zh_CN)
-* [如何创建受密码保护（加密）的磁盘映像](https://support.apple.com/zh-cn/HT201599)
-
-1. 128 位 AES 加密与 256 位 AES 加密相比，前者的加密计算量减少了一半，但其仍可以为我们提供不易破解的安全密码；后者的安全性更高，但也需要耗费更多的处理时间，对计算机的运行速度会造成一定影响。 [↩](http://sspai.com/33259#fnref1)
-
-想要获得更多简单实用的小技巧？*[查看往期「一日一技」>](http://sspai.com/tag/%E4%B8%80%E6%97%A5%E4%B8%80%E6%8A%80)*
-
-文章来源 [少数派](http://sspai.com) ，原作者 [修电脑的哲学家](http://sspai.com/author/717277) ，转载请注明原文链接
-
-喜欢少数派？欢迎关注我们的微博：@少数派sspai ，微信公众号： sspaime  
-少数派（ <http://sspai.com> ）
-
-[![](.evernote-content/D7810F3B-F4E0-4091-B8A3-D6D4EFE47031/D53C35D8-709A-40C7-B8BF-5C241365E5A9.jpg)](http://aos.prf.hn/click/camref:111l75A/pubref:Bloom/destination:http%3A%2F%2Fwww.apple.com%2Fcn%2Fshop%2Fproduct%2FHD230CH%2FA%2Fphilips-friends-of-hue-livingcolors-bloom-%E5%8F%98%E8%89%B2%E7%81%AF%3Ffnode%3D95)
-
----
-
-[🌐 原始链接](http://sspai.com/33259)
-
-[📎 在印象笔记中打开](evernote:///view/207087/s1/4cd392a6-5e84-4724-9546-4026df9c804d/4cd392a6-5e84-4724-9546-4026df9c804d/)
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

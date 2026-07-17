@@ -8,7 +8,6 @@ source_path: 用户提供的对话内容
 tags: [Codex, 插件, 工具推荐]
 ---
 
-# 元小二：Codex插件清单分享
 
 用户"元小二"分享的 Codex 插件/工具清单及使用心得。
 
@@ -28,8 +27,6 @@ tags: [Codex, 插件, 工具推荐]
 - **Vercel** — 一键部署，比 Cloudflare 方便
 
 ### 踩坑提醒
-- Codex 内置四件套插件不太好用，建议用社区 Skills 替代（如 PPT 用藏师傅/zara老师的 PPT Skills）
-- Chrome 插件几乎没用，优先 Computer Use，再 Playwright
-- Build iOS app / Figma / Notion / product design / Supabase 在各自垂直领域能打，按需安装
+- Codex 内置四件套插件不太好用，建议用社区 Skills 替代（如 PPT 用藏师傅/zara老师的 PPT
 
-> 来源：用户"元小二"在对话中分享（2026-06-17）
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

@@ -7,9 +7,6 @@ source_path: 印象笔记管理工具/Do you hear the people sing_.md
 tags: [印象笔记]
 ---
 
-# Do you hear the people sing?
-
----
 
 制作者：migo
 
@@ -43,46 +40,6 @@ That will give you the right to be free!
 
 Do you hear the people sing?
 
-Singing a song of angry men?
+Singing a song 
 
-It is the music of a people
-
-Who will not be slaves again!
-
-When the beating of your heart
-
-Echoes the beating of the drums
-
-There is a life about to start
-
-When tomorrow comes!
-
-Will you give all you can give
-
-So that our banner may advance
-
-Some will fall and some will live
-
-Will you stand up and take your chance?
-
-The blood of the martyrs
-
-Will water the meadows of France!
-
-Do you hear the people sing?
-
-Singing a song of angry men?
-
-It is the music of a people
-
-Who will not be slaves again!
-
-When the beating of your heart
-
-Echoes the beating of the drums
-
-There is a life about to start
-
-When tomorrow comes!
-
-[📎 在印象笔记中打开](evernote:///view/207087/s1/946f5495-fdc6-4cb5-aa10-cb0e18cb17fa/946f5495-fdc6-4cb5-aa10-cb0e18cb17fa/)
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

@@ -7,7 +7,6 @@ source_path: RAW/PDF/trade-brochure-2019.pdf
 tags: [raw, pdf]
 ---
 
-# trade-brochure-2019
 
 > RAW/PDF/trade-brochure-2019.pdf
 
@@ -31,3 +30,5 @@ transmission at a later date.
 ## 相关页面
 
 - [[wiki/index]]
+
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

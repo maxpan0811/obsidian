@@ -7,15 +7,6 @@ source_path: 印象笔记管理工具/转发：MarkEditor 1.x License Pro.md
 tags: [印象笔记]
 ---
 
-# 转发：MarkEditor 1.x License Pro
-
-# 转发：MarkEditor 1.x License Pro --- 发自网易邮箱大师 | | | | | --- | --- | --- | | | 转发的邮件 | | 发件人：[zrey@bit
-
----
-
-# 转发：MarkEditor 1.x License Pro
-
----
 
 发自网易邮箱大师
 
@@ -44,6 +35,4 @@ lizhi\_8047
 
 ---
 
-simple is everything, we try our best to make the Tech meet the needs of our lives.
-
-[📎 在印象笔记中打开](evernote:///view/207087/s1/c91075e4-7cbb-4076-a869-272dfac8c354/c91075e4-7cbb-4076-a869-272dfac8c354/)
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

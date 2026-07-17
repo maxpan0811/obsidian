@@ -7,15 +7,6 @@ source_path: 印象笔记管理工具/iOS 10快速入门——电话应用（防
 tags: [印象笔记]
 ---
 
-# iOS 10快速入门——电话应用（防骚扰电话）
-
-# iOS 10快速入门——电话应用（防骚扰电话） --- 原生电话应用的升级并不算大，但依然有针对中国用户的更新，例如支持显示垃圾电话。此外还支持 VoIP，支持语音信箱转文本显示等。另外，联系人界
-
----
-
-# iOS 10快速入门——电话应用（防骚扰电话）
-
----
 
 原生电话应用的升级并不算大，但依然有针对中国用户的更新，例如支持显示垃圾电话。此外还支持 VoIP，支持语音信箱转文本显示等。另外，联系人界面也进行了全新的设计。
 
@@ -27,10 +18,6 @@ tags: [印象笔记]
 
 App Store 里的确有很多第三方的 VoIP 通话，现在 iOS 10 开放了电话功能，所以开发者也可以将自己第三方 VoIP 通话集成到电话应用中。比如你之前打开 Skype 才能对某个联系人通话，但 iOS 10 上直接通过电话应用，就可能呼叫 Skype 联系人了。
 
-[阅读全文](http://www.feng.com/newbie/iPhone/quickstart/2016-09-21/IOS-10-quick-start---phone-application-anti-harassing-phone-calls-_657538.shtml)
+[阅读全文](http://www.fe
 
----
-
-[🌐 原始链接](http://www.feng.com/newbie/iPhone/quickstart/2016-09-21/IOS-10-quick-start---phone-application-anti-harassing-phone-calls-_657538.shtml)
-
-[📎 在印象笔记中打开](evernote:///view/207087/s1/ecaf691e-1891-40a8-a2aa-b0f99ab5dbad/ecaf691e-1891-40a8-a2aa-b0f99ab5dbad/)
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

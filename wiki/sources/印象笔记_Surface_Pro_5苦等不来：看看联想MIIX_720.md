@@ -7,15 +7,6 @@ source_path: 印象笔记管理工具/Surface Pro 5苦等不来：看看联想MI
 tags: [印象笔记]
 ---
 
-# Surface Pro 5苦等不来：看看联想MIIX 720
-
-# Surface Pro 5苦等不来：看看联想MIIX 720 --- ![](.evernote-content/88657973-6E9E-42D1-B299-553567FD7DB6/4F63
-
----
-
-# Surface Pro 5苦等不来：看看联想MIIX 720
-
----
 
 ![](.evernote-content/88657973-6E9E-42D1-B299-553567FD7DB6/4F636730-A9C2-4555-9887-731EDFDBE7A7.png)
 
@@ -29,24 +20,4 @@ tags: [印象笔记]
 
 USB接口有三个，分别是USB 3.1 Type-C、USB 3.0 Type-A、USB 2.0 Type-A。前置摄像头支持Windows Hello。
 
-它依然有可拆卸的全尺寸背光键盘和多级支架，同时加入了新的Active Pen 2手写笔，支持4096级别压感，可快速操作Windows Ink。
-
-MIIX 720将从4月份开始上市(金色/灰色)，起价999.99美元，Active Pen 2手写笔单卖59.99美元。
-
-![](.evernote-content/88657973-6E9E-42D1-B299-553567FD7DB6/DA776248-A735-427D-A9BB-0BCC3CBF72A9.png)  
-  
-![](.evernote-content/88657973-6E9E-42D1-B299-553567FD7DB6/20967F60-658F-450B-8DD6-2C9859E2F024.png)  
-  
-![](.evernote-content/88657973-6E9E-42D1-B299-553567FD7DB6/390F6CC8-13A6-49E8-B504-15D9B96F8A81.png)  
-  
-![](.evernote-content/88657973-6E9E-42D1-B299-553567FD7DB6/50B599DC-A2AA-4163-BC3E-1D450381C9B3.png)  
-  
-![](.evernote-content/88657973-6E9E-42D1-B299-553567FD7DB6/55856502-C32A-43AE-9FFE-A56428175F02.png)
-
-[阅读全文](http://tech.feng.com/2017-01-04/Surface-Pro-5-waiting-for-not-look-at-lenovo-MIIX-720_666477.shtml)
-
----
-
-[🌐 原始链接](http://tech.feng.com/2017-01-04/Surface-Pro-5-waiting-for-not-look-at-lenovo-MIIX-720_666477.shtml)
-
-[📎 在印象笔记中打开](evernote:///view/207087/s1/14111f19-7c10-4f8b-aa84-aad14caafebc/14111f19-7c10-4f8b-aa84-aad14caafebc/)
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

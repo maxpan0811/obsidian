@@ -7,15 +7,6 @@ source_path: 印象笔记管理工具/Fw_【通知】《拼团优化操作说明
 tags: [印象笔记]
 ---
 
-# Fw_【通知】《拼团优化操作说明-内销返利》已上传WCP
-
-# Fw:【通知】《拼团优化操作说明-内销返利》已上传WCP --- From： [集团流程运营 <jtlcyy@hcgtravels.com>](mailto:jtlcyy@hcgtravels.c
-
----
-
-# Fw:【通知】《拼团优化操作说明-内销返利》已上传WCP
-
----
 
 From： 
 [集团流程运营 <jtlcyy@hcgtravels.com>](mailto:jtlcyy@hcgtravels.com)
@@ -36,24 +27,6 @@ Dear  All：
 
 【地址：[http://192.168.3.1:8989/wcp/webdoc/view/Pub4028838171fd3a3c01781b7199f40778.html】](http://192.168.3.1:8989/wcp/webdoc/view/Pub4028838171fd3a3c01781b7199f40778.html%E3%80%91)
 
-![](.evernote-content/A136D2D2-6041-4AC8-9612-DC0DEF1FF7B2/710BE16F-F32E-46E3-858C-843A0AF356C9.png)
+![](.evernote-content/A136D2D2-6041-4AC8-9612-DC0
 
-祝好！
-
---
-
-华程国旅 翔龙万里行-出境旅行专家
-
-集团流程运营
-
-电子邮件（E-mail）：jtlcyy@hcgtravels.com
-
-华程国际旅行社集团有限公司
-
-HCG International Travel Group Co.,Ltd
-
-邮编（NY）：200233
-
-地址：上海市桂林路406号华鑫中心1号楼3楼
-
-[📎 在印象笔记中打开](evernote:///view/207087/s1/20b8f0ef-3b87-4004-8fbb-fa483dc442a5/20b8f0ef-3b87-4004-8fbb-fa483dc442a5/)
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

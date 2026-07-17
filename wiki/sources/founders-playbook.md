@@ -6,7 +6,8 @@ updated: 2026-06-14
 source_path: RAW/PDF/founders-playbook.pdf
 tags: [Anthropic, Claude, 创业, AI-Native, 花叔译]
 ---
-# The Founder's Playbook·创始人行动手册
+
+
 > Anthropic·2026年5月。花叔译。横版36页中文译本。Building an AI-Native Startup。
 
 ## 目录结构
@@ -19,3 +20,5 @@ tags: [Anthropic, Claude, 创业, AI-Native, 花叔译]
 - 后续阶段
 
 相关概念：[[concepts/LLM Wiki模式]]
+
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

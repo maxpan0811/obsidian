@@ -10,7 +10,7 @@ updated: 2026-06-27
 updated: 2026-06-27
 ---
 
----
+
 title: "美爆了！Code Agent的图表绘制的终极解决方案"
 source: evernote
 type: note
@@ -34,87 +34,6 @@ Mermaid 是这个矛盾的解法。
 
 sequenceDiagram
 
-前端->>后端: POST /login
+前端->>后
 
-后端->>数据库: 查询用户
-
-数据库-->>后端: 返回结果
-
-后端-->>前端: 200 OK + token
-
-最后渲染的结果：
-
-![](attachments/4686406d42dcea4f.png)
-
-但是原生的Mermaid图表有几个问题。首先是千篇一律的丑，你看到的很多原生Mermaid图表大概率都长这样的红配绿：
-
-![](attachments/bb9223c1b7a17c32.png)
-
-再就是要渲染和展示它，还需要专门的插件和工具。针对这些问题，Craft.do团队终于下手了，专门打造了一个更快更好用的Mermaid美化引擎，更加贴合在Code Agent中使用。
-
-它解决了 Mermaid 默认渲染器的 4 个痛点：
-
-1. 超颜值 — 默认风格丑，不够专业
-
-2. 多主题 — 改颜色要折腾 CSS class
-
-3. 终端输出 — 支持 ASCII 纯文本渲染
-
-4. 依赖重 — 原来简单图表拖一堆代码
-
-5. 零工具 — 在Code Agent 中直接展示使用
-
-Mermaid 是文本，AI 最擅长生成的就是文本，用 Claude Code 或者Codex三秒就能给你一段语法正确、结构清晰的 Mermaid。
-
-零 DOM 依赖。
-
-纯 TypeScript，不依赖浏览器环境,，Node 里直接跑。Claude Code 的 bash 工具可以直接执行，不需要起任何浏览器进程。
-
-ASCII 终端输出。
-
-不用开浏览器，renderMermaidASCII() 直接输出 Unicode 字符画,在终端里就能看架构图。
-
-Skill的支持。
-
-文章的结尾提供了Skill的下载。放进 Claude Code 的 Skill 路径，它就直接具备生成并渲染 Mermaid 图的能力，不需要你写任何胶水代码。
-
-直接用自然语言就可以完成图表的生成和修改。
-
-安装完成之后，我们就可以使用下面的提示词来生成任意的图表：
-
-“画一个 sequenceDiagram，描述用户登录流程，渲染成 SVG 保存到本地”
-
-Claude Code 自动识别 Skill，调用 beautiful-mermaid 渲染，SVG显示，全程不需要你解释用哪个库、怎么写脚本。
-
-beautiful-mermaid提供了六大类，覆盖日常开发文档里最常见的需求:
-
-Flowchart 流程图
-
-![](attachments/943c53c06c5f8fe1.png)
-
-Sequence Diagram 时序图
-
-![](attachments/2d034d80aafe6411.png)
-
-State Diagram 状态机图
-
-![](attachments/df917fd228582baa.png)
-
-Class Diagram 类图
-
-![](attachments/4ef7be95ff473f41.png)
-
-ER Diagram 实体关系图
-
-![](attachments/823ec241b03b848a.png)
-
-XY Chart 柱状图、折线图、组合图
-
-![](attachments/2aa6aa7cffc11644.png)
-
-更多图表的展示：ttps://agents.craft.do/mermaidSkills下载：https://link.bytenote.net/note
-
-
----
-
-[📎 在印象笔记中打开](evernote:///view/207087/s1/9e35dfba-ecba-4f96-9710-7a232a691006/9e35dfba-ecba-4f96-9710-7a232a691006/)
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

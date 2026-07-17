@@ -7,15 +7,6 @@ source_path: 印象笔记管理工具/Fw_Your Alfred 5 Powerpack License - A4MFO
 tags: [印象笔记]
 ---
 
-# Fw_Your Alfred 5 Powerpack License - A4MFOTI5NmY5ZjMxZTBm
-
-# Fw:Your Alfred 5 Powerpack License - A4MFOTI5NmY5ZjMxZTBm --- | | | | --- | --- | | From | [Alfred
-
----
-
-# Fw:Your Alfred 5 Powerpack License - A4MFOTI5NmY5ZjMxZTBm
-
----
 
 |  |  |
 | --- | --- |
@@ -26,6 +17,6 @@ tags: [印象笔记]
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  | | --- | | Here's everything you need to get started with Alfred. :) |  |  | | --- | |  |  |  | | --- | | Alfred Powerpack License |  |  | | --- | | This is the license code you need to unlock the Alfred Powerpack functionality: |  |  | | --- | | License Code: |  |  | | --- | | `--------- BEGIN ALFRED LICENSE ---------`  `A5MFFgBtYXhwYW4wODExQGhvdG1haWwuY29tFABB`  `NE1GT1RJNU5tWTVaak14WlRCbQEFAAAEtE2UyjHu`  `I+oXDLfL7bnwWMTGLPNdkbK1vJ5MSb7Ml3xpe3SP`  `KlB18A3F4PpNdf+29XWR+KNATHIsGSwvi0xNbkJk`  `xoEpDegLbHoiRS7BC86T3QNHVkyRJbat6/BS3Duu`  `YBvX7BvDv3qBgt0T9YPwUUNmRqjsr6JTMHkjucVK`  `vsxs+JOaLK0=`  `---------- END ALFRED LICENSE ----------` |  |  | | --- | | Copy and paste your license details above to the Alfred Powerpack preferences. If you are missing the Powerpack tab in the preferences, you are using the Mac App Store version. You'll need to download the latest version of Alfred from our website first.    Need help to get started with Alfred? Visit [our help site](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.alfredapp.com%2Fhelp%2F&data=05%7C01%7C%7C2d6eced1f4d241cc7e2d08da6b7c4b51%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637940478851494637%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=cf7TdGEsGDxKyCK65LA4RFMM0UJ2pfAFYtwDn2yvPss%3D&reserved=0) for tutorials on using Alfred, as well as useful workflows, tips and tricks.    You can also find us on Twitter at [@alfredapp](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2Falfredapp&data=05%7C01%7C%7C2d6eced1f4d241cc7e2d08da6b7c4b51%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637940478851494637%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=6zlxsjGeemSj0y2aVzRe8%2FitokSBvGKrplIXJPdXyo4%3D&reserved=0) to say hello.    Cheers,  Andrew and Vero |  |  |  | | --- | --- | | |  | | --- | |  | |  |  | | --- | | You received your Alfred Powerpack license from Running with Crayons Ltd  For more information, visit https://www.alfredapp.com/ |  |  | | --- | |  | | | | |
+| |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 
-[📎 在印象笔记中打开](evernote:///view/207087/s1/5f5ac997-f188-4253-add4-3f5d9536a79e/5f5ac997-f188-4253-add4-3f5d9536a79e/)
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

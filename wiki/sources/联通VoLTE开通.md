@@ -7,7 +7,7 @@ source_path: 印象笔记管理工具/联通VoLTE开通.md
 tags: [evernote, impression]
 ---
 
----
+
 title: "联通VoLTE开通"
 source: evernote
 type: note
@@ -37,18 +37,6 @@ guid: 2b28ef41-b2d0-4e8c-8f6e-c380ee637794
 
 ![](attachments/7466a151e4c795a7.jpg)
 
-![](attachments/cf16bc248ebcbdd7.jpg)
+![](attachm
 
-![](attachments/40f74e930fd1d0e7.jpg)
-
-×
-
-拖拽到此处
-
-图片将完成下载
-
-
----
-
-[🌐 原始链接](https://img.client.10010.com/stprototype/volte/pingguo.html)
-[📎 在印象笔记中打开](evernote:///view/207087/s1/2b28ef41-b2d0-4e8c-8f6e-c380ee637794/2b28ef41-b2d0-4e8c-8f6e-c380ee637794/)
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

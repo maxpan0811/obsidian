@@ -7,15 +7,6 @@ source_path: 印象笔记管理工具/教程：将文本转换成语音并且保
 tags: [印象笔记]
 ---
 
-# 教程：将文本转换成语音并且保存到 iTunes
-
-# 教程：将文本转换成语音并且保存到 iTunes --- 对于部分 OS X 用户来说，在苹果 Mac 设备上使用“文本转换成语音”这项功能是非常有必要的，这样做能够让他们在阅读电子邮件或者网站文章
-
----
-
-# 教程：将文本转换成语音并且保存到 iTunes
-
----
 
 对于部分 OS X 用户来说，在苹果 Mac 设备上使用“文本转换成语音”这项功能是非常有必要的，这样做能够让他们在阅读电子邮件或者网站文章的时候可以同时处理其他事情，比如视频编辑等等，完全不用担心错过重要的信息。  
   
@@ -27,10 +18,6 @@ tags: [印象笔记]
 
 值得一提的是，这项操作能够将网站、电子邮件和文档中所有我们可以选中的文本都转换成语音文件。最后，我们来看看具体的操作视频。
 
-[阅读全文](http://www.feng.com/iPhone/news/2016-05-05/Tutorial-transform-text-into-speech-and-save-to-iTunes_646037.shtml)
+[阅读全文](http://www.feng.com/iPhone/news/2016-05-05/Tutoria
 
----
-
-[🌐 原始链接](http://www.feng.com/iPhone/news/2016-05-05/Tutorial-transform-text-into-speech-and-save-to-iTunes_646037.shtml)
-
-[📎 在印象笔记中打开](evernote:///view/207087/s1/26d62615-ab91-4d9b-9d0a-eb10d89f8cc5/26d62615-ab91-4d9b-9d0a-eb10d89f8cc5/)
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

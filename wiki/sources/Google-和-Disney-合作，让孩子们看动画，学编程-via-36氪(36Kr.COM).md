@@ -7,6 +7,7 @@ source_path: 印象笔记管理工具/Google 和 Disney 合作，让孩子们看
 tags: [印象笔记管理工具]
 ---
 
+
 **Google 和 Disney 合作，让孩子们看动画，学编程 via 36氪(36Kr.COM)**
 
 Google 和 Disney 合作，让孩子们看动画，学编程 via 36氪(36Kr.COM)
@@ -22,4 +23,6 @@ Google 和 Disney 合作，让孩子们看动画，学编程
 ---
 
 [🌐 原始链接](http://www.36kr.com/p/219771.html)
-[📎 在印象笔记中打开](evernote:///view/207087/s1/87664f39-b8f7-4968-92f3-aa6e33169f29/87664f39-b8f7-4968-92f3-aa6e33169f29/)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/87664f39-b8f7-4968-92f3-aa6e33169f29/87664f
+
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

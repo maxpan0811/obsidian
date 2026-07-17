@@ -7,15 +7,6 @@ source_path: 印象笔记管理工具/vibram_百度百科.md
 tags: [印象笔记]
 ---
 
-# vibram_百度百科
-
-# vibram_百度百科 --- 百度百科 [**百度百科**](https://baike.baidu.com/) * [*![](.evernote-content/1817E4FF-15FE-
-
----
-
-# vibram_百度百科
-
----
 
 百度百科
 
@@ -42,14 +33,6 @@ tags: [印象笔记]
 复制链接
 
 链接未获取到  
-请重新尝试或通过百度百科吧联系我们
+请重新尝试或通过百度
 
-取消
-
-![](.evernote-content/1817E4FF-15FE-4802-8310-05C460883E7B/92152C03-D2B4-413C-980F-982FF643AE29.png)
-
----
-
-[🌐 原始链接](https://baike.baidu.com/item/vibram/10442031)
-
-[📎 在印象笔记中打开](evernote:///view/207087/s1/6aeaecd4-ce54-49f8-a9c6-f4039cd6cdb3/6aeaecd4-ce54-49f8-a9c6-f4039cd6cdb3/)
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

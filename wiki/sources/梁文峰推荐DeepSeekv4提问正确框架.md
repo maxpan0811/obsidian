@@ -10,7 +10,7 @@ updated: 2026-06-27
 updated: 2026-06-27
 ---
 
----
+
 title: "梁文峰推荐DeepSeek-v4提问正确框架"
 source: evernote
 type: note
@@ -36,13 +36,6 @@ guid: ff70f75f-ff76-4f22-adc5-ba6f54a2d622
 
 ![](attachments/1540d57731c532ac.jpg)
 
-![](attachments/e1dffd0103e513ea.jpg)
+![](atta
 
-![](attachments/0dfb7bb482b92b21.jpg)
-
-![](attachments/3628ba7796b3401a.jpg)
-
-
----
-
-[📎 在印象笔记中打开](evernote:///view/207087/s1/ff70f75f-ff76-4f22-adc5-ba6f54a2d622/ff70f75f-ff76-4f22-adc5-ba6f54a2d622/)
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

@@ -7,7 +7,6 @@ source_path: RAW/PDF/教育部：中国steam教育发展报告-171页.pdf
 tags: [raw, pdf, report]
 ---
 
-# 教育部：中国steam教育发展报告-171页
 
 **文件信息**
 - 类型: .pdf
@@ -21,3 +20,4 @@ tags: [raw, pdf, report]
 (无文本内容 - 可能为扫描件或图片PDF)
 ```
 
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

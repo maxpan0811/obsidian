@@ -7,15 +7,6 @@ source_path: 印象笔记管理工具/接上一条（http___t.cn_A6y4ifCr）。.
 tags: [印象笔记]
 ---
 
-# 接上一条（http___t.cn_A6y4ifCr）。
-
-# 接上一条（http://t.cn/A6y4ifCr）。 --- [-欧洲金靴-](http://weibo.com/7255302319) 07/05/2020 --- 接上一条（<http://
-
----
-
-# 接上一条（http://t.cn/A6y4ifCr）。
-
----
 
 [-欧洲金靴-](http://weibo.com/7255302319)
 
@@ -34,3 +25,5 @@ tags: [印象笔记]
 [🌐 原始链接](http://weibo.com/7255302319/J9PoKfgZA)
 
 [📎 在印象笔记中打开](evernote:///view/207087/s1/21ce91ef-2c91-4e90-8c43-d390add8aa27/21ce91ef-2c91-4e90-8c43-d390add8aa27/)
+
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

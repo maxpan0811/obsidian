@@ -7,7 +7,6 @@ source_path: RAW/PDF/An Introduction to Genetic Algorithms- Melanie Mitchell.pdf
 tags: [raw, pdf]
 ---
 
-# An Introduction to Genetic Algorithms- Melanie Mitchell
 
 > RAW/PDF/An Introduction to Genetic Algorithms- Melanie Mitchell.pdf
 
@@ -25,3 +24,5 @@ All rights reserved. No part of this publication may be
 ## 相关页面
 
 - [[wiki/index]]
+
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

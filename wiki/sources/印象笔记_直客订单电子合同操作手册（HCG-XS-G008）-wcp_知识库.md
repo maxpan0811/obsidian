@@ -7,15 +7,6 @@ source_path: 印象笔记管理工具/直客订单电子合同操作手册（HCG
 tags: [印象笔记]
 ---
 
-# 直客订单电子合同操作手册（HCG-XS-G008）-wcp 知识库
-
-# 直客订单电子合同操作手册（HCG-XS-G008）-wcp 知识库 --- ![](.evernote-content/754BAE5A-A8C2-4A13-8A5A-8C7E9B872DAA/5
-
----
-
-# 直客订单电子合同操作手册（HCG-XS-G008）-wcp 知识库
-
----
 
 ![](.evernote-content/754BAE5A-A8C2-4A13-8A5A-8C7E9B872DAA/5A8CB55E-A540-4882-9E83-BD7CBA1A2907.do)
 
@@ -25,14 +16,6 @@ tags: [印象笔记]
 
 ![](.evernote-content/754BAE5A-A8C2-4A13-8A5A-8C7E9B872DAA/91AFD17E-740D-4678-A095-C053D94A57BE.png)
 
-![](.evernote-content/754BAE5A-A8C2-4A13-8A5A-8C7E9B872DAA/438ED146-327A-47BE-B652-0ACF091E0E63.png)
+![](.evernote-content/754BAE5A-A8C2-4A13-8A5A-8C7E9B872DAA/438ED146-327A-47BE-B652-0ACF091E0E
 
-![](.evernote-content/754BAE5A-A8C2-4A13-8A5A-8C7E9B872DAA/857165B0-BA23-49E7-B3C3-802FFCE51B20.png)
-
-![](.evernote-content/754BAE5A-A8C2-4A13-8A5A-8C7E9B872DAA/F28E8AE1-AA8E-43D3-97F0-0169834566A6.png)
-
----
-
-[🌐 原始链接](http://219.141.169.17:8989/wcp/webdoc/view/Pub4028838168271663016f18098a1213a4.html)
-
-[📎 在印象笔记中打开](evernote:///view/207087/s1/dc68aba8-0f29-4c44-846e-9de7af6f44d5/dc68aba8-0f29-4c44-846e-9de7af6f44d5/)
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

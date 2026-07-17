@@ -7,7 +7,6 @@ source_path: RAW/PIC/中国在线旅游预订APP活跃用户情况.jpg
 tags: [raw, pic]
 ---
 
-# 中国在线旅游预订APP活跃用户情况.jpg
 
 > RAW/PIC/中国在线旅游预订APP活跃用户情况.jpg
 
@@ -18,3 +17,5 @@ tags: [raw, pic]
 ## 相关页面
 
 - [[wiki/index]]
+
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

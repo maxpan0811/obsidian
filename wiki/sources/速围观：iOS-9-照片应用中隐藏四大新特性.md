@@ -7,6 +7,7 @@ source_path: 印象笔记管理工具/速围观：iOS 9 照片应用中隐藏四
 tags: [印象笔记管理工具]
 ---
 
+
 **速围观：iOS 9 照片应用中隐藏四大新特性**
 
 速围观：iOS 9 照片应用中隐藏四大新特性
@@ -36,4 +37,6 @@ Twitter Share Email Save…
 ---
 
 [🌐 原始链接](http://www.feng.com/apple/news/2015-06-13/Speed-onlookers-iOS-application-of-9-photos-hidden-four-new-features_616500.shtml)
-[📎 在印象笔记中打开](evernote:///view/207087/s1/ee9aa872-9792-497d-82ea-dd7893596f58/ee9aa872-9792-497d-82ea-dd7893596f58/)
+[📎 在印象笔记中打开](everno
+
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

@@ -7,13 +7,8 @@ source_path: 印象笔记管理工具/Apple Watch心电图配件_比心率监测
 tags: [印象笔记]
 ---
 
-# Apple Watch心电图配件:比心率监测更强大
 
----
-
-[![](.evernote-content/D5E38A8E-2584-4E33-84A0-9E30F1D4ABB3/509BE149-10E5-4122-A37E-3A60044229C5.jpg)](http://www.feng.com/iPhone/news/2015-10-18/Apple-Watch-electrocardiogram-ecg-accessories-are-more-powerful-than-the-heart-rate-monitor_627444.shtml)
-
-　尽管在苹果 Apple Watch 上有着能媲美专业设备的心率监测功能，但毕竟这款手表并未获得美国食品及药物管理局（FDA）的认可，不能为用户提供心电图数据和更准确的医疗建议，所幸即将推出的一款新配件会弥补这一点。
+尽管在苹果 Apple Watch 上有着能媲美专业设备的心率监测功能，但毕竟这款手表并未获得美国食品及药物管理局（FDA）的认可，不能为用户提供心电图数据和更准确的医疗建议，所幸即将推出的一款新配件会弥补这一点。
 
 ![](.evernote-content/D5E38A8E-2584-4E33-84A0-9E30F1D4ABB3/509BE149-10E5-4122-A37E-3A60044229C5.jpg)
 
@@ -21,15 +16,6 @@ tags: [印象笔记]
   
 　在运行 watchOS 2 系统的 Apple Watch 上，用户可以利用配套的 Apple Watch ECG 本地应用来随时查看自己的心电图状态，同时还能记录心脏活动情况和语音注释，在 iPhone 版上并不具备这样的功能。
 
-Apple Watch ECG 所记录下来的用户心电图数据将会被直接上传至医疗机构和专业人员那儿，所以不仅能提供更准确的医疗建议，从中还能得了解到自己是否会有潜在的疾病。  
-  
-　正如 iPhone 版那样，Apple Watch 心电图配件与手表也通过超声波的途径相无线连接，相比蓝牙可减少 92% 的耗电，同时数据传输速度更快。  
-  
-　Apple Watch 心电图配件目前正在申请 FDA 认证，预计将在 2016 年正式发售，价格为 199 美元（约合人民币 1260 元）。
+Apple Watc
 
-![](.evernote-content/D5E38A8E-2584-4E33-84A0-9E30F1D4ABB3/A4D84878-7B31-4C67-A8E8-7B30E9716229.jpg)  
-▲ iPhone 版的 AliveCor 心电图监测配件
-
-[阅读全文](http://www.feng.com/iPhone/news/2015-10-18/Apple-Watch-electrocardiogram-ecg-accessories-are-more-powerful-than-the-heart-rate-monitor_627444.shtml)
-
-[📎 在印象笔记中打开](evernote:///view/207087/s1/7b9b52d9-ae73-4b0a-8231-c219d37526ba/7b9b52d9-ae73-4b0a-8231-c219d37526ba/)
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

@@ -7,7 +7,6 @@ source_path: RAW/md/LLM Wiki Schema for Technical Writer.md
 
 ---
 
-# Karpathy llm-wiki.md 原文（双语对照）
 
 来源：[GitHub Gist](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f) · 作者：Andrej Karpathy
 
@@ -25,20 +24,6 @@ LLM 不应像 RAG 那样每次从零检索知识，而应**增量式构建和维
 
 ## 三层架构
 
-| 层 | 角色 | 维护者 |
-|---|------|--------|
-| **Raw sources** | 原始资料（只读） | 用户 |
-| **Wiki** | 结构化知识页面 | LLM |
-| **Schema (CLAUDE.md)** | 规则/工作流定义 | 用户 + LLM 共同演进 |
+| 层 | 角色 |
 
-## 三种操作
-
-- **Ingest** — 读资料 → 讨论 → 写摘要 → 更新索引 → 更新相关页面 → 记录日志
-- **Query** — 查索引 → 读页面 → 综合回答（答案可存回 wiki）
-- **Lint** — 健康检查：矛盾、过期、孤立页、缺失交叉引用
-
-## 适用场景
-
-个人目标追踪、深度研究、读书笔记、团队内部 wiki、竞争分析、旅行规划等。
-
-影响页面：[[concepts/LLM Wiki模式]]
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

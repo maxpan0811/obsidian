@@ -7,6 +7,7 @@ source_path: 印象笔记管理工具/Star Trek 观影顺序.md
 tags: [印象笔记管理工具]
 ---
 
+
 **Star Trek 观影顺序**
 
 Star Trek 观影顺序
@@ -63,4 +64,6 @@ Star Trek 观影顺序
 ---
 
 [🌐 原始链接](https://www.douban.com/doulist/121576288/?start=0&sort=time&playable=0&sub_type=1)
-[📎 在印象笔记中打开](evernote:///view/207087/s1/26b8de25-00ee-47ec-a2b9-fe2b212b08cc/26b8de25-00ee-47ec-a2b9-fe2b212b08cc/)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/26b8de25-00ee-47ec-a2b9-fe2b2
+
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

@@ -7,15 +7,6 @@ source_path: 印象笔记管理工具/苹果发布支持iCloud和照片流的iPh
 tags: [印象笔记]
 ---
 
-# 苹果发布支持iCloud和照片流的iPhoto 9.2
-
-# 苹果发布支持iCloud和照片流的iPhoto 9.2 --- 苹果发布支持iCloud和照片流的iPhoto 9.2 =========================== weiphone.c
-
----
-
-# 苹果发布支持iCloud和照片流的iPhoto 9.2
-
----
 
 苹果发布支持iCloud和照片流的iPhoto 9.2
 ===========================
@@ -37,8 +28,6 @@ weiphone.com | Nov 30th -0001
 
   
 
-Original Page: <http://www.weiphone.com/apple/news/2011-10-13/Support_iCloud_Apple_released_iPhoto_9.2_and_photo_streaming_242596.shtml>
+Original Page: <http://www.weiphone.c
 
-Shared from [Read It Later](http://readitlaterlist.com/)
-
-[📎 在印象笔记中打开](evernote:///view/207087/s1/f60c344d-b7f6-4095-ac65-2922d951ca17/f60c344d-b7f6-4095-ac65-2922d951ca17/)
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

@@ -7,15 +7,6 @@ source_path: 印象笔记管理工具/Fw_员工手册考试试卷及答案.md
 tags: [印象笔记]
 ---
 
-# Fw_员工手册考试试卷及答案
-
-# Fw:员工手册考试试卷及答案 --- From： [集团人力邮箱 <ghr@hcgtravels.com>](mailto:ghr@hcgtravels.com) Date： 07/1/2020 
-
----
-
-# Fw:员工手册考试试卷及答案
-
----
 
 From： 
 [集团人力邮箱 <ghr@hcgtravels.com>](mailto:ghr@hcgtravels.com)
@@ -43,3 +34,5 @@ Subject：
 2020年7月1日
 
 [📎 在印象笔记中打开](evernote:///view/207087/s1/759db40b-d2ec-4a98-95e1-1e3a47332524/759db40b-d2ec-4a98-95e1-1e3a47332524/)
+
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

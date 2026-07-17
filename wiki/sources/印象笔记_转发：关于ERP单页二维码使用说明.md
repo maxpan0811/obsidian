@@ -7,15 +7,6 @@ source_path: 印象笔记管理工具/转发：关于ERP单页二维码使用说
 tags: [印象笔记]
 ---
 
-# 转发：关于ERP单页二维码使用说明
-
-# 转发：关于ERP单页二维码使用说明 --- 发件人： [集团流程运营](mailto:jtlcyy@hcgtravels.com) 发送日期： 2019年12月09日 15:04 收件人： [华程
-
----
-
-# 转发：关于ERP单页二维码使用说明
-
----
 
 发件人： [集团流程运营](mailto:jtlcyy@hcgtravels.com)
 
@@ -39,22 +30,6 @@ tags: [印象笔记]
 
 ![](.evernote-content/ABD5AB63-B5B5-415F-897E-53CB59726C24/800810A4-B463-45C9-9F8A-E49143008389.jpg)
 
-华程国旅
-翔龙万里行-出境旅行专家
+华
 
-集团流程运营
-
-电子邮件（E-mail）：[jtlcyy](mailto:jtlcyy@hcgtravels.com)[@hcgtravels.com](mailto:jtlcyy@hcgtravels.com)
-
-华程国际旅行社集团有限公司
-
-HCG International Travel Group
-Co.,Ltd
-
-邮编（NY）：200233
-
-地址：上海市桂林路406号华鑫中心1号楼3楼
-
-![](http://4WQmgNC.z.17mod.com/6171/181b1ed37108f5f6ef/1.png)
-
-[📎 在印象笔记中打开](evernote:///view/207087/s1/bc1f0029-954a-44cd-b400-f8de305b59d1/bc1f0029-954a-44cd-b400-f8de305b59d1/)
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

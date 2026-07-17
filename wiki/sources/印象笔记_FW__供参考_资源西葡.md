@@ -7,15 +7,6 @@ source_path: 印象笔记管理工具/FW_ 供参考 资源西葡.md
 tags: [印象笔记]
 ---
 
-# FW_ 供参考 资源西葡
-
-# FW: 供参考 资源西葡 --- 华远国旅 翔龙万里行-出境旅行专家 姓名：潘渤 Max Pan 职务：上海分公司副总经理 Deputy General Manager of Shanghai B
-
----
-
-# FW: 供参考 资源西葡
-
----
 
 华远国旅 翔龙万里行-出境旅行专家
 
@@ -43,18 +34,6 @@ Beijing Huayuan International Travel co., LTD Shanghai Branch
 
  
 
-**发件人****:** Tony <tony@hytours.com>  
-**日期****:** 2016年12月5日 星期一 16:21  
-**至****:** "何桂红 (海外事业部)" <heguihong@hytours.com>, "程钟慧 (海外事业部)" <chengzhonghui@hytours.com>  
-**抄送****:** "张铭轩 (上海操作)" <zhangmingxuan@hytours.com>, '潘渤' <panbo@hytours.com>, 李勇军 <liyongjun@hytours.com>, 'greatlongsl' <greatlongsl@gmail.com>  
-**主****题****:** 供参考 资源西葡
+**发件人***
 
-足球已经是西班牙的旅游招牌了，我们和巴塞罗那俱乐部的关系很好，博物馆参观门票和比赛球票预订都没有问题。还可以安排VIP特色活动。
-
-还有就是夏季的巴塞罗那俱乐部足球夏令营，我们7，8月份接待了很多批，每个团15-25小孩，加上家长，团的质量非常好！！
-
-  
-![](.evernote-content/6294D031-76E2-4F92-8F3A-BF235D45AC03/A6F098FE-9CE5-47E3-8935-862E358E30A3.jpg)  
-![](.evernote-content/6294D031-76E2-4F92-8F3A-BF235D45AC03/5CC3A0D2-6D93-4458-9FEB-3E680314EBFE.jpg)
-
-[📎 在印象笔记中打开](evernote:///view/207087/s1/37383a45-24b4-4fa0-86e0-5ee453f75a63/37383a45-24b4-4fa0-86e0-5ee453f75a63/)
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

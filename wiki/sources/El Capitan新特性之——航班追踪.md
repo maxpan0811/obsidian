@@ -7,9 +7,6 @@ source_path: 印象笔记管理工具/El Capitan新特性之——航班追踪.m
 tags: [印象笔记]
 ---
 
-# El Capitan新特性之——航班追踪
-
----
 
 每一代 OS X 系统可能都隐藏着一些彩蛋，这些隐藏特性往往需要一定的时间才能为用户们所发现。有用户就在 OS X El Capitan 中发现了一个很实用的功能——航班追踪，有了这个功能用户就可以在 Mac 设备上查看航班状态。  
   
@@ -21,6 +18,6 @@ tags: [印象笔记]
   
 　航班追踪的功能适用于备忘录、邮件和信息应用中出现的航班号。
 
-[阅读全文](http://www.feng.com/apple/tutorial/2015-10-16/El-Capitan---flight-track-of-new-features_627347.shtml)
+[阅读全文](http://www.feng.com/apple/tutorial/2015-10-16/El-Capitan---
 
-[📎 在印象笔记中打开](evernote:///view/207087/s1/e86b510f-228e-4ae7-9d72-db37097c127a/e86b510f-228e-4ae7-9d72-db37097c127a/)
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

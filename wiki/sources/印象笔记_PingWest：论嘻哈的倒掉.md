@@ -7,15 +7,6 @@ source_path: 印象笔记管理工具/PingWest：论嘻哈的倒掉.md
 tags: [印象笔记]
 ---
 
-# PingWest：论嘻哈的倒掉
-
-# PingWest：论嘻哈的倒掉 --- 作者: 明宇小姐 嘻哈凉了。 在1月19日《歌手》第二期节目中，GAI消失了。镜头中已经没有他任何痕迹，有网友爆料称GAI在与与其他歌手前辈们同框时，都会靠
-
----
-
-# PingWest：论嘻哈的倒掉
-
----
 
 作者: 明宇小姐
 
@@ -35,106 +26,6 @@ tags: [印象笔记]
 
 这些形式逐渐演变为今天嘻哈文化的三大组成部分：嘻哈音乐、街舞和涂鸦。
 
-嘻哈是美国黑人对种族隔离制度的反抗，在不公正的待遇下，他们使用反社会、反精英的的方式表达追求自由、快乐的渴望。
+嘻哈是美国黑人对种族隔离制度的反抗，在不公正的待遇
 
-精英们西装革履，一副端庄、彬彬有礼的姿态，他们就要宽松、随性，要鲜艳的配色，闪烁的金链子。他们滥交、拜金、满口脏话，但这些都是时代的产物，表达的是美国黑人的共鸣。
-
-比如Kendrick Lamar 所唱的《DNA.》表达着对种族歧视的反抗和对美好生活的向往。
-
-[![](.evernote-content/18475770-8A14-4488-9536-21FA7F0D91BD/54E873BF-D7B4-473D-A809-EB85DB7E9622.jpg)](https://www.letscorp.net/lynn/wp-content/uploads/2018/01/5376fabb.jpg)
-
-中国根本没有这种社会环境，国内嘻哈歌手也难以理解黑人内心的可能，他们能学的只是外在——滥交、拜金、满口脏话以及服饰，学的是斗狠（gangster rap）以及炫富。
-
-比如，PGone的《圣诞夜》，除了毒品、撩妹和钞票，什么都不是，而且歌词非常脏；GAI的歌词干净了很多，但也经不起细琢磨。他有一段流传甚广的歌词：‌‌“一往无前虎山行，拨开云雾见光明。梦里花开牡丹亭，幻想成真歌舞升平。‌‌”乍一听是神来之笔，但仔细想想意象是断裂的，虎山行和牡丹亭并没有什么关系，只是为了押韵。
-
-《中国有嘻哈》的走红也不完全是靠作品。节目总制片人陈伟在初期定的KPI是一词一歌一人。
-
-节目第一期靠着吴亦凡不断重复的freestyle走红网络，完成‌‌“一词‌‌”的目标；第二期GAI的《天干物燥》被广泛传播，一歌的目标完成；节目双料冠军GAI和PGone成为2017年的新星，一人的任务超额完成。
-
-作为制作人的陈伟，擅长的是怎么让节目好看，关心的是怎么让节目火一些，再火一些。好声音、记歌词热潮褪去就换嘻哈，嘻哈过后还有街舞。
-
-2
-
-历来，国内选秀节目的主流观众都是低龄青少年。只有他们才有追星的热情，甚至是狂热。
-
-GAI的粉丝们不可能理解嘻哈是个什么东西，连GAI的歌在唱什么都不是他们关心的，他们关心的只是GAI和GAI的作品、行踪甚至是女友。PGone的粉丝也一样，所以才有了‌‌“紫光阁地沟油‌‌”的闹剧。
-
-节目制造GAI和PGone的冲突，分不清是非的粉丝们关心的只是谁比谁更能撕，最后GAI和PGone在屏幕中的撕X演变为众多粉丝在微博上的站队，话题度就这么起来了。
-
-作为平台方的爱奇艺为制造了一档现象级综艺而自豪，节目赞助商赚到了关注度，在地下沉寂多年的选手红了，终于赚到钱了。
-
-这是个多方共赢的游戏，大家各取所需，反倒是《中国有嘻哈》是不是真正的嘻哈没人关心。
-
-[![](.evernote-content/18475770-8A14-4488-9536-21FA7F0D91BD/0AFE5661-8D38-4405-8127-F70066CEC2F4.jpg)](https://www.letscorp.net/lynn/wp-content/uploads/2018/01/7659265e.jpeg)
-
-这不是《中国有嘻哈》的错，国内的综艺节目都一样——没有话题才是综艺节目最怕的事。
-
-2017年夏天，两档对标的选秀综艺《中国有嘻哈》和《明日之子》在更新当日就会霸占微博热搜榜。这边嘻哈两个选手撕逼上热搜，隔壁家的薛之谦敢在直播中曝黑幕、甩手走人，粉丝们忙着为偶像打Call，不亦乐乎。
-
-偶像成就了嘻哈，也毁了嘻哈。
-
-节目几乎在一夜之间让完全封闭在地下的小众歌手们突然走红，这些歌手还没做好红的准备就走向大众舞台，以前吸毒、睡姑娘的旧账都被打出来接受主流价值观的审视，麻烦也就来了。
-
-同样一夜爆红李诞在接受《十三邀》采访时说了一句话：不要挑战大多数人感想不敢说的事。
-
-言外之意，站上了大众化的舞台，就要服从主流文化和大众审美。国以毒品、滥交、拜金、满口脏话为标签的国内嘻哈歌手与偶像本来就是冲突的，但能嘻哈歌手快速赚钱的捷径就是成为偶像。
-
-GAI成名之后改变了很多，他想要得到主流音乐圈的认可，想要继续赚钱。
-
-当PGone因出轨门形象崩塌时，GAI高调宣传向女友表白，他要塑造一个专情好男人的形象，甚至是一个浪子回头的形象。
-
-GAI还登上了代表主流价值观的央视《我要上春晚》的舞台，在主持人的引导下，以嘻哈的节奏高喊‌‌“祖国万岁‌‌”，社会GAI变身社会主义GAI，被网友调侃‌‌“求生欲极强‌‌”。
-
-GAI又登上《歌手》的舞台，一曲《沧海一声笑》证明了他不做嘻哈也可以。
-
-可是，他还是消失了。在网传的截图中，他在粉丝群里这样安抚粉丝：‌‌“上面也是为我好。‌‌”
-
-恐怕，GAI以后再回归舞台也要和嘻哈划清界限了。
-
-嘻哈，在中国就是原罪。
-
-3
-
-有什么样的生活才有什么样的艺术。
-
-美国底层黑人创造了嘻哈，中国民间也有自己的艺术：相声、二人转、山歌……这些民间艺术和嘻哈一样‌‌“脏‌‌”，只不过脏的方式不同。
-
-相声里的伦理哏，‌‌“我是你爸‌‌”‌‌“比辈分占便宜‌‌”之类的笑话迎合了潜意识里人们在‌‌“父权体系‌‌”下感到的各种压抑与荒诞，还有《托妻献子》《姐夫戏小姨》等三俗内容；民歌里充斥着这样的曲目：《小寡妇上坟》、《孬种儿媳犟公公》、《两个儿媳偷公公》、《烂眼子抱小姨》。
-
-这些都源自于中国传统农业社会家族式的生活状态。过去，相声就是北京、天津一带的底层文化。
-
-建国之后经过马三立、侯宝林、刘宝瑞等相声大师的改造，去掉了大量色情、挖苦别人生理缺陷之类的段子，走向了大众舞台，成为全国性、全民性的曲艺形式。
-
-如今的年轻人对这些民间艺术并不感兴趣，甚至觉得Low。就连曾经红极一时的相声，也慢慢冷下来了。因为在城镇化热潮下，更多的年轻人走向城市，传统社会以家族聚集的生活方式也正在瓦解。传统的民间艺术距离城市年轻人的生活太远了。
-
-城市年轻人有了不同于父辈祖辈的生活以及烦恼，也正在构建属于自己的文化和话语体系，比如丧文化、吸猫、二次元、喊麦——年轻人的经历不再同步，文化正在圈层化。
-
-但无论年轻人文化如何多元化，都没有像美国嘻哈诞生的背景，也不可能学来美国嘻哈音乐反抗精神的内核。
-
-中国年轻人会有自己的文化，但不是嘻哈。
-
-[![](.evernote-content/18475770-8A14-4488-9536-21FA7F0D91BD/3AF590C1-FE37-41C3-B855-905450E468A1.jpg)](https://chrome.google.com/webstore/detail/ihmkgfjahjgchpmghpipigafjijkekpi)
-
-相关日志
-----
-
-* 2018/01/23 -- [围剿年轻人](https://www.letscorp.net/archives/128056 "围剿年轻人") ( 镜像链接： [亚马逊镜像](https://s3.amazonaws.com/letscorp_archive/archives/128056) | [谷歌镜像](https://commondatastorage.googleapis.com/letscorp_archive/archives/128056) )
-* 2018/01/20 -- [中国数字时代：来自日语的现代医学用语及名词一览](https://www.letscorp.net/archives/127999 "中国数字时代：来自日语的现代医学用语及名词一览") ( 镜像链接： [亚马逊镜像](https://s3.amazonaws.com/letscorp_archive/archives/127999) | [谷歌镜像](https://commondatastorage.googleapis.com/letscorp_archive/archives/127999) )
-* 2018/01/20 -- [大象公会：日军为什么爱说“大大的有”](https://www.letscorp.net/archives/127977 "大象公会：日军为什么爱说“大大的有”") ( 镜像链接： [亚马逊镜像](https://s3.amazonaws.com/letscorp_archive/archives/127977) | [谷歌镜像](https://commondatastorage.googleapis.com/letscorp_archive/archives/127977) )
-* 2018/01/20 -- [大象公会：决不允许日语玷污中文](https://www.letscorp.net/archives/127975 "大象公会：决不允许日语玷污中文") ( 镜像链接： [亚马逊镜像](https://s3.amazonaws.com/letscorp_archive/archives/127975) | [谷歌镜像](https://commondatastorage.googleapis.com/letscorp_archive/archives/127975) )
-* 2018/01/15 -- [马前卒：保卫我们的现代生活](https://www.letscorp.net/archives/127727 "马前卒：保卫我们的现代生活") ( 镜像链接： [亚马逊镜像](https://s3.amazonaws.com/letscorp_archive/archives/127727) | [谷歌镜像](https://commondatastorage.googleapis.com/letscorp_archive/archives/127727) )
-* 2017/12/31 -- [游山打捕：我继续，勇敢说说我为什么反对传统文化](https://www.letscorp.net/archives/127254 "游山打捕：我继续，勇敢说说我为什么反对传统文化") ( 镜像链接： [亚马逊镜像](https://s3.amazonaws.com/letscorp_archive/archives/127254) | [谷歌镜像](https://commondatastorage.googleapis.com/letscorp_archive/archives/127254) )
-* 2017/12/30 -- [德国之声：《芳华》和中国新时代文艺政治](https://www.letscorp.net/archives/127211 "德国之声：《芳华》和中国新时代文艺政治") ( 镜像链接： [亚马逊镜像](https://s3.amazonaws.com/letscorp_archive/archives/127211) | [谷歌镜像](https://commondatastorage.googleapis.com/letscorp_archive/archives/127211) )
-* 2017/12/22 -- [余光中逝世：大陆纪念刷屏 台湾争论“御用文人”](https://www.letscorp.net/archives/126841 "余光中逝世：大陆纪念刷屏 台湾争论“御用文人”") ( 镜像链接： [亚马逊镜像](https://s3.amazonaws.com/letscorp_archive/archives/126841) | [谷歌镜像](https://commondatastorage.googleapis.com/letscorp_archive/archives/126841) )
-* 2017/12/18 -- [功过说余光中](https://www.letscorp.net/archives/126669 "功过说余光中") ( 镜像链接： [亚马逊镜像](https://s3.amazonaws.com/letscorp_archive/archives/126669) | [谷歌镜像](https://commondatastorage.googleapis.com/letscorp_archive/archives/126669) )
-* 2017/11/21 -- [小宽：草根网红餐厅简史](https://www.letscorp.net/archives/125382 "小宽：草根网红餐厅简史") ( 镜像链接： [亚马逊镜像](https://s3.amazonaws.com/letscorp_archive/archives/125382) | [谷歌镜像](https://commondatastorage.googleapis.com/letscorp_archive/archives/125382) )
-
-[![](.evernote-content/18475770-8A14-4488-9536-21FA7F0D91BD/BD28C139-AD72-4DF0-8378-B410DDA44E4E.gif)](http://feeds.feedburner.com/~ff/letscorp/aDmw?a=0wBvjRb_6jo:H2fs2oZdYVc:yIl2AUoC8zA) [![](.evernote-content/18475770-8A14-4488-9536-21FA7F0D91BD/C6A05291-AD86-4625-98CB-6912D6E2606D.gif)](http://feeds.feedburner.com/~ff/letscorp/aDmw?a=0wBvjRb_6jo:H2fs2oZdYVc:qj6IDK7rITs) [![](.evernote-content/18475770-8A14-4488-9536-21FA7F0D91BD/6A0271A1-E553-44DE-BA30-CF86FB0DC349.gif)](http://feeds.feedburner.com/~ff/letscorp/aDmw?a=0wBvjRb_6jo:H2fs2oZdYVc:F7zBnMyn0Lo)
-
-![](.evernote-content/18475770-8A14-4488-9536-21FA7F0D91BD/A004AF24-1CD8-440C-BF7F-12367EDE0949.gif)
-
----
-
-[🌐 原始链接](http://feedproxy.google.com/~r/letscorp/aDmw/~3/0wBvjRb_6jo/128057)
-
-[📎 在印象笔记中打开](evernote:///view/207087/s1/9790fa03-d6bd-467e-b94b-014b68975ca8/9790fa03-d6bd-467e-b94b-014b68975ca8/)
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

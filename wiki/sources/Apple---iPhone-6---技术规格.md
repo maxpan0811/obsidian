@@ -7,6 +7,7 @@ source_path: 印象笔记管理工具/Apple - iPhone 6 - 技术规格.md
 tags: [印象笔记管理工具]
 ---
 
+
 **Apple - iPhone 6 - 技术规格**
 
 Apple - iPhone 6 - 技术规格
@@ -69,4 +70,6 @@ RMB 7,788
 ---
 
 [🌐 原始链接](http://www.apple.com/cn/iphone-6/specs/)
-[📎 在印象笔记中打开](evernote:///view/207087/s1/16c15d73-a320-4ae4-b5c0-3ba310cbb74b/16c15d73-a320-4ae4-b5c0-3ba310cbb74b/)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/16c15d73-a320-4ae4-b5c0-3ba310cbb74b/16c15d73-a320-4ae4-b5c0-3
+
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

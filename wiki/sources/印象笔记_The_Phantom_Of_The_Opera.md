@@ -7,15 +7,6 @@ source_path: 印象笔记管理工具/The Phantom Of The Opera.md
 tags: [印象笔记]
 ---
 
-# The Phantom Of The Opera
-
-# The Phantom Of The Opera --- The Phantom Of The Opera In sleep he sang to me In dreams he came Tha
-
----
-
-# The Phantom Of The Opera
-
----
 
 The Phantom Of The Opera  
   
@@ -39,27 +30,6 @@ Inside your mind
 Those who have seen your face  
 Draw back in fear  
 I am the mask you wear  
-it's me they hear  
-Your/my spirit and your/my voice  
-In one combined  
-The Phantom of the Opera is there  
-Inside your/my mind  
-He's there  
-The Phantom of the Opera  
-A……  
-Sing, my angel  
-A……  
-Sing for me  
-A……  
-Sing for me  
-A……  
-Sing, my angel  
-A……  
-Sing for me  
-A……
+it's me th
 
----
-
-[🌐 原始链接](http://music.baidu.com/song/7997297)
-
-[📎 在印象笔记中打开](evernote:///view/207087/s1/ff4ba654-c3d1-4406-ae43-48caabd3acb7/ff4ba654-c3d1-4406-ae43-48caabd3acb7/)
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

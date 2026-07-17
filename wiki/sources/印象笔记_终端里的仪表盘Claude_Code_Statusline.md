@@ -7,24 +7,7 @@ source_path: 印象笔记管理工具/终端里的仪表盘Claude Code Statuslin
 tags: [印象笔记]
 ---
 
-# 终端里的仪表盘Claude Code Statusline
 
-# 终端里的仪表盘Claude Code Statusline --- 原文链接: [https://mp.weixin.qq.com/s?ranksessionid=1782032740\_9&ch
+原文链接: [https://mp.weixin.qq.com/s?ranksessionid=1782032740\_9&chksm=...](https://mp.weixin.qq.com/s?ranksessionid=1782032740_9&chksm=968cddf7a1fb54e16b05cf427e6688df225a6dce31da7accaf0ee1e2df29c440e12ff1ba000e&exptype=masonry_feed_brief_content_elite_for_feeds_u2i&req_id=1782040275172697&scene=169&mid=2247483724&subscene=200&sn=7655585523b6b5b4fe68541ba9abee65&idx=1&__biz=MzE5OTM2NDA1Mg==&sessionid=1782032739&clicktime=1782048993&enterid=1782048993&flutter_pos=0&biz_enter_id=5&jumppath=WAWebView
 
----
-
-# 终端里的仪表盘Claude Code Statusline
-
----
-
-原文链接: [https://mp.weixin.qq.com/s?ranksessionid=1782032740\_9&chksm=...](https://mp.weixin.qq.com/s?ranksessionid=1782032740_9&chksm=968cddf7a1fb54e16b05cf427e6688df225a6dce31da7accaf0ee1e2df29c440e12ff1ba000e&exptype=masonry_feed_brief_content_elite_for_feeds_u2i&req_id=1782040275172697&scene=169&mid=2247483724&subscene=200&sn=7655585523b6b5b4fe68541ba9abee65&idx=1&__biz=MzE5OTM2NDA1Mg==&sessionid=1782032739&clicktime=1782048993&enterid=1782048993&flutter_pos=0&biz_enter_id=5&jumppath=WAWebViewController_1782048947101,WAWebViewController_1782048947609,20020_1782048979935,1104_1782048981243&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=18004b28&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQXhTAC2r3bCN3TDbsWv0owRLTAQIE97dBBAEAAAAAAH7IDqMVVdUAAAAOpnltbLcz9gKNyK89dVj061YSYiJj1qzFBTcV5dFU2N83yO9qJS+UW1N7Tn+Ac+FJRp1UIz10TnWKNbOA5u5zwHIxd9q/XQuCc92s0Cnae7Z2+bER4iNaDCGe1irvLv8GsUdr4y5mgNxaj0rIPj7ReAnxvRUvNUfTYwXllfealu6+vmeryKgeCWhvlqFg0m1tdf9jJkJqK+nBXSkhZ+dc2KQHtrO1mkH6kRiIRhi+LNEPicA4YmgPb1Ztxx4=&pass_ticket=HWu6lgnRyJ3rWN+8pXxtTytiiZE8i6rYIDCVkqgkaN7zzQRwy/9lM3m4DcMQi2sO&wx_header=3)
-
-![](.evernote-content/7BE6EDD6-701C-4210-93DF-514BB22E3585/1AA31C57-56E0-4DAE-B50D-BF1E5D820947.png)![](.evernote-content/7BE6EDD6-701C-4210-93DF-514BB22E3585/FEEC3E8C-BF7E-4CDD-96C7-DF4AD3F34346.png)![](.evernote-content/7BE6EDD6-701C-4210-93DF-514BB22E3585/BA51F38A-0CC8-4CF5-93DA-47E3BAAEDAF7.png)![](.evernote-content/7BE6EDD6-701C-4210-93DF-514BB22E3585/53000EFC-749F-455D-98FB-1D7E4BF1B690.png)![](.evernote-content/7BE6EDD6-701C-4210-93DF-514BB22E3585/CC48DDAF-E23E-45BA-862E-A15C418386DA.png)![](.evernote-content/7BE6EDD6-701C-4210-93DF-514BB22E3585/894D8C01-3930-4FAE-BC1D-8BCC1010D739.png)
-
-Close
-
----
-
-[🌐 原始链接](https://mp.weixin.qq.com/s?ranksessionid=1782032740_9&chksm=968cddf7a1fb54e16b05cf427e6688df225a6dce31da7accaf0ee1e2df29c440e12ff1ba000e&exptype=masonry_feed_brief_content_elite_for_feeds_u2i&req_id=1782040275172697&scene=169&mid=2247483724&subscene=200&sn=7655585523b6b5b4fe68541ba9abee65&idx=1&__biz=MzE5OTM2NDA1Mg==&sessionid=1782032739&clicktime=1782048993&enterid=1782048993&flutter_pos=0&biz_enter_id=5&jumppath=WAWebViewController_1782048947101,WAWebViewController_1782048947609,20020_1782048979935,1104_1782048981243&jumppathdepth=4&ascene=56&devicetype=iOS26.5&version=18004b28&nettype=WIFI&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQXhTAC2r3bCN3TDbsWv0owRLTAQIE97dBBAEAAAAAAH7IDqMVVdUAAAAOpnltbLcz9gKNyK89dVj061YSYiJj1qzFBTcV5dFU2N83yO9qJS+UW1N7Tn+Ac+FJRp1UIz10TnWKNbOA5u5zwHIxd9q/XQuCc92s0Cnae7Z2+bER4iNaDCGe1irvLv8GsUdr4y5mgNxaj0rIPj7ReAnxvRUvNUfTYwXllfealu6+vmeryKgeCWhvlqFg0m1tdf9jJkJqK+nBXSkhZ+dc2KQHtrO1mkH6kRiIRhi+LNEPicA4YmgPb1Ztxx4=&pass_ticket=HWu6lgnRyJ3rWN+8pXxtTytiiZE8i6rYIDCVkqgkaN7zzQRwy/9lM3m4DcMQi2sO&wx_header=3)
-
-[📎 在印象笔记中打开](evernote:///view/207087/s1/2e7ccf97-bb44-4cff-8f02-fd5a3f1295d0/2e7ccf97-bb44-4cff-8f02-fd5a3f1295d0/)
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

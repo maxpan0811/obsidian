@@ -12,7 +12,7 @@ updated: 2026-06-27
 updated: 2026-06-27
 ---
 
----
+
 title: "兵贵神速，福建舰即将FOC"
 source: evernote
 type: note
@@ -22,60 +22,6 @@ guid: 32897350-b2ae-460d-81fe-9bbc25891584
 
 # 兵贵神速，福建舰即将FOC
 
-原文链接: [https://mp.weixin.qq.com/s?\_\_biz=Mzg2Njg2MDAzNw==&mid=224749...](https://mp.weixin.qq.com/s?__biz=Mzg2Njg2MDAzNw==&mid=2247491090&idx=1&sn=20bcf67e9600648d59821924f1dd3b7a&chksm=cf8102d3341c00f84f2314b12a4c102b6889f4736a92d6ac7eb04299c784cbec28222e3a1f50&scene=90&xtrack=1&req_id=1776146162330399&sessionid=1776146191&subscene=93&clicktime=1776146195&enterid=1776146195&flutter_pos=0&biz_enter_id=4&ranksessionid=1776146162&jumppath=1101_1776146165837,1106_1776146190146,1001_1776146191024,1104_1776146192716&jumppathdepth=4&ascene=56&devicetype=iOS26.4.1&version=18004637&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQc6nddWnT84V/8tnNGouF9BLVAQIE97dBBAEAAAAAAOQME+/dwJ0AAAAOpnltbLcz9gKNyK89dVj0qv7wk+cnwbrjJ0Q9clnXd/uPlox9bQQ2MNpk3Yf6AtgPaaNdR0GxGKG1m96NEN5YhFX8WIyiR+dHfHLu3Oc3JHW1hhJ7L99GDUGwd32agRBfJx0GtIRUzB5PARvw4GkNKVxKWMwsT3o8d7i8zT7gyeTLoBM27Izgr8rXzcETG/t9FSQahBB1xhfinolTxBhN7G9BycGQi0lR1shpqP7Ow5doMPoamBgHqny6wVbKLw==&pass_ticket=/2uU6RApjFkBGM/zU9zsoi3K6mctxv7a+u4yU/x9dAezZB5pPQxU81/BzQ5BZrEz&wx_header=3)
+原文链接: [https://mp.weixin.qq.com/s?\_\_biz=Mzg2Njg2MDAzNw==&mid=224749...](https://mp.weixin.qq.com/s?__biz=Mzg2Njg2MDAzNw==&mid=2247491090&idx=1&sn=20bcf67e9600648d59821924f1dd3b7a&chksm=cf8102d3341c00f84f2314b12a4c102b6889f4736a92d6ac7eb04299c784cbec28222e3a1f50&scene=90&xtrack=1&req_id=1776146162330399&sessionid=1776146191&subscene=93&clicktime=1776146195&
 
-Original达哥有点味达哥有点味
-
-最近一个消息挺有意思，央视新闻证实，2026年福建舰将从基本形成战斗力向完全形成战斗力全面过渡。
-
-“基本形成战斗力”和“完全形成战斗力”这两个概念大致对应了美国海军的 IOC初始作战能力(Initial Operational Capability)和FOC完全作战能力(Full Operational Capability) 。
-
-有意思的点在哪？美军福特号航母服役快十年了，到现在还没拿到FOC认证，一艘2017年服役的航母，2026年了还处于IOC状态。
-
-先看福建舰，这艘2025年11月5日才正式入列的航母，入列后立即开展了首次海上实兵训练，多架次歼-35、歼-15T、歼-15DT、空警-600完成了弹射起飞和着舰训练，也就是说，从服役到多型舰载机完成电磁弹射起降，中间几乎没有间隔。
-
-![](attachments/f0328eb05ac255ae.png)
-
-有军事专家分析2026年福建舰如何向完全形成战斗力全面过渡时，给出了几个具体目标，一是把055驱逐舰、052D驱逐舰、护卫舰、水下潜艇以及补给舰组合起来，形成完整的海上作战编队；二是深入大洋考察编队综合作战指标；三是组建以福建舰为核心的双航母编队。
-
-更关键的是，福建舰自入列以来各项试验训练任务按计划顺利推进，向形成编队体系作战能力的目标不断迈进，目前已具备跨海区远海行动能力，航母编队属舰之间协同作战能力也达到了一定水平，初步具备了实战能力，2026年我们有望在远海大洋看到福建舰的航迹。
-
-再看2017年服役的福特号，美国国防部测试机构的最新评估报告显示，它在作战效能和系统可靠性方面仍存在非常多的不确定性，舰载机弹射与回收系统、雷达系统、抗打击能力以及将武器弹药转移到飞行甲板的升降设备等关键环节，均缺乏足够的实战测试数据。
-
-也就是说，福特号服役快十年了，美国国防部自己都不敢打包票说它能打仗。
-
-福特号的电磁弹射系统，设计要求是4166次弹射才允许出现一次严重故障，但据媒体披露的实际数据，平均272次弹射就要出一次故障，故障率超标十几倍，更离谱的是，最大弹射重量只有25吨，导致F-35C隐身战斗机根本无法满挂载起飞，还有先进武器升降机号称11部，实际可用的只有2部。
-
-福建舰这边呢？全球首艘采用常规动力和电磁弹射技术的航空母舰，中国完全自主设计建造，从2024年5月首次海试到2025年11月服役，再到2026年冲刺完全战斗力，这个速度放到全球航母发展史上，都是独一份。
-
-![](attachments/a1409e7414976640.png)
-
-有人可能会说，福特号是核动力，福建舰是常规动力，不能直接比，我觉得这个说法有道理，但问题在于，核动力是为航母提供无限续航能力的，不是用来证明航母能打仗的，一艘航母能不能形成战斗力，看的是舰载机能不能正常起降、武器能不能正常调度、系统能不能稳定运转，然而这些基础问题福特号都没解决好。
-
-这次中东危机本是福特号证明自己最好的机会，结果红海部署时发生火灾，整整烧了30个小时，火势从洗衣房蔓延至水兵舱室，600多个床铺被烧毁，一艘造价130多亿美元的核动力航母，被洗衣房火灾逼出战区，这说出去都没人信，更讽刺的是，为了给福特号凑床铺，美军不得不从在建的肯尼迪号航母上拆了1000张床垫应急，肯尼迪号进度再次-1。
-
-中美两艘航母的背后，其实是两种截然不同的发展逻辑。
-
-福特号的问题，本质上是技术冒进带来的必然结果，一次性堆砌23项新技术，电磁弹射、先进拦阻装置、武器升降机……听起来很美好，但这些技术根本没经过充分验证就被塞进航母，结果就是服役近十年，核心系统故障率居高不下，连基本的作战效能都没法确认。
-
-福建舰走的是一条截然不同的路，同样是电磁弹射，我们是中压直流技术路线，技术更成熟、系统更稳定，福建舰的电磁弹射系统已经通过多轮测试，歼-35、空警-600等多型舰载机完成上千次弹射起降，当福建舰实现舰载机满载、全甲板放飞和回收能力之后，作战能力就基本达到了100分的状态。
-
-航母这种东西，是大国工业能力的终极体现，一艘航母从设计、建造到完全形成战斗力，考验的是一个国家在材料、动力、电子、武器、训练等几乎所有领域的综合实力。
-
-福建舰从服役到冲刺完全战斗力只用了一年多，这种速度说明中国航母的发展模式，不是靠堆砌新技术来追求所谓的代差优势，而是靠成熟可靠的体系迭代，一步一个脚印地把每一艘航母推向实战。
-
-相比之下，福特号服役近十年还在为基本可靠性问题头疼，还没有拿到FOC认证，这不是运气问题，这是路线问题。
-
-当然，福特号虽然问题很多，但它毕竟是一艘排水量10万吨的核动力航母，依然是目前世界上最大、最复杂的海上作战平台，只是它用事实告诉所有人，航母的战斗力不是靠纸面参数堆出来的，是靠靠谱的系统、靠谱的训练、靠谱的管理，一点一点磨出来的。
-
-![](attachments/5063202ac83b1b04.jpg)
-
-央视新闻说，2026年完全战斗力形成后，福建舰将成为维护国家主权、安全、发展利益，维护地区和平稳定的战略铁拳。这个评价不夸张。
-
-一艘航母从下水到形成完整战斗力，美国福特号十年都没做到的事，福建舰只需要一年，这背后是两种工业体系的较量，两种技术路线的对决，两种发展理念的碰撞。
-
-
----
-
-[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=Mzg2Njg2MDAzNw==&mid=2247491090&idx=1&sn=20bcf67e9600648d59821924f1dd3b7a&chksm=cf8102d3341c00f84f2314b12a4c102b6889f4736a92d6ac7eb04299c784cbec28222e3a1f50&scene=90&xtrack=1&req_id=1776146162330399&sessionid=1776146191&subscene=93&clicktime=1776146195&enterid=1776146195&flutter_pos=0&biz_enter_id=4&ranksessionid=1776146162&jumppath=1101_1776146165837,1106_1776146190146,1001_1776146191024,1104_1776146192716&jumppathdepth=4&ascene=56&devicetype=iOS26.4.1&version=18004637&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQc6nddWnT84V/8tnNGouF9BLVAQIE97dBBAEAAAAAAOQME+/dwJ0AAAAOpnltbLcz9gKNyK89dVj0qv7wk+cnwbrjJ0Q9clnXd/uPlox9bQQ2MNpk3Yf6AtgPaaNdR0GxGKG1m96NEN5YhFX8WIyiR+dHfHLu3Oc3JHW1hhJ7L99GDUGwd32agRBfJx0GtIRUzB5PARvw4GkNKVxKWMwsT3o8d7i8zT7gyeTLoBM27Izgr8rXzcETG/t9FSQahBB1xhfinolTxBhN7G9BycGQi0lR1shpqP7Ow5doMPoamBgHqny6wVbKLw==&pass_ticket=/2uU6RApjFkBGM/zU9zsoi3K6mctxv7a+u4yU/x9dAezZB5pPQxU81/BzQ5BZrEz&wx_header=3)
-[📎 在印象笔记中打开](evernote:///view/207087/s1/32897350-b2ae-460d-81fe-9bbc25891584/32897350-b2ae-460d-81fe-9bbc25891584/)
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

@@ -7,6 +7,7 @@ source_path: 印象笔记管理工具/美国历届总统IQ排行榜.md
 tags: [印象笔记管理工具]
 ---
 
+
 **美国历届总统IQ排行榜**
 
 美国历届总统IQ排行榜
@@ -33,5 +34,6 @@ tags: [印象笔记管理工具]
 
 ---
 
-[🌐 原始链接](http://mp.weixin.qq.com/s?__biz=MzA4NDQwNDQ2Nw==&mid=2650478898&idx=1&sn=a1bf0b3a821155c0d48da5ea363c8175&chksm=87e808aeb09f81b8fbaa6f7ecd6042a37e1d25d35c56c8222f5ddc4a0d761b74272b6b31f5dc&mpshare=1&scene=1&srcid=06106uCSSV2pMTT8PN82xxmb#rd)
-[📎 在印象笔记中打开](evernote:///view/207087/s1/b5026324-15ea-4e92-901c-a84c26acbc38/b5026324-15ea-4e92-901c-a84c26acbc38/)
+[🌐 原始链接](http://mp.weixin.qq.com/s?__biz=MzA4NDQwNDQ2Nw==&mid=2650478898&idx=1&sn=a1bf0b3a821155c0d48da5ea363c8175&chksm=87e808aeb09f81b8fbaa6f7ecd6042a37e1d25d35c56c
+
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

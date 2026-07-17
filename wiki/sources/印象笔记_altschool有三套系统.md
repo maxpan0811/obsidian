@@ -7,15 +7,6 @@ source_path: 印象笔记管理工具/altschool有三套系统.md
 tags: [印象笔记]
 ---
 
-# altschool有三套系统
-
-# altschool有三套系统 --- altschool有三套系统 playlist、learning progression、stream。但信息比较分散，主要来源于官网和各种报道。英文为主，非
-
----
-
-# altschool有三套系统
-
----
 
 altschool有三套系统 playlist、learning progression、stream。但信息比较分散，主要来源于官网和各种报道。英文为主，非必读，反正讲座里会介绍。  
   
@@ -26,6 +17,6 @@ altschool有三套系统 playlist、learning progression、stream。但信息比
   
 3.altschool的数据分析：<http://mobile.edweek.org/c.jsp?cid=25920011&item=http>%3A%2F%2Fapi.edweek.org%2Fv1%2Fblog%2F63%2F%3Fuuid%3D56226  
   
-4. 纽约客深度采访：<http://www.newyorker.com/magazine/2016/03/07/altschools-disrupted-education>
+4. 纽约客深度采访：<http://www.newyorker.com/magazine/2016/03/07/altschools-disrupted-education
 
-[📎 在印象笔记中打开](evernote:///view/207087/s1/b965204f-b3a6-40ed-97bd-f3c5ef1e6577/b965204f-b3a6-40ed-97bd-f3c5ef1e6577/)
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

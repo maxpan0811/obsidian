@@ -6,7 +6,8 @@ updated: 2026-06-27
 source_path: 印象笔记管理工具/旅游业务部“内部即时通讯平台LYNC”部署通知.md
 tags: [evernote, impression]
 ---
----
+
+
 title: "旅游业务部“内部即时通讯平台LYNC”部署通知"
 source: evernote
 type: note
@@ -24,28 +25,6 @@ guid: 19ec765c-2131-4915-819f-da0b4b7d35a4
 
 ![](attachments/db6cd11a04a751c2.jpg)
 
-![](attachments/aa80f45eb7ae0179.jpg)
+![](attachments/aa80
 
-![](attachments/c926a1874bbf8c85.jpg)
-
-![](attachments/4e4857f26324909a.jpg)
-
-[![](attachments/7b52da7942cdc81b.jpg)](http://km/Community/CollegeThesisDis.aspx?CollegeID=140)
-
- 
-
-有任何问题请通过以下方式联系技术部服务台：
-
-[![](attachments/a30ab251683e99da.gif)](http://192.168.86.20/Cii/right/incidentadd.asp)
-
- 
-
-技术部服务台   
-技术支持热线：021-34064880 转 3333  
-技术服务邮箱：[helpdesk@ctrip.com](mailto:helpdesk@ctrip.com "mailto:helpdesk@ctrip.com")  
-投诉建议邮箱：[itqa@ctrip.com](mailto:itqa@ctrip.com "mailto:itqa@ctrip.com")
-
-
----
-
-[📎 在印象笔记中打开](evernote:///view/207087/s1/19ec765c-2131-4915-819f-da0b4b7d35a4/19ec765c-2131-4915-819f-da0b4b7d35a4/)
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

@@ -9,7 +9,7 @@ updated: 2026-06-27
 updated: 2026-06-27
 ---
 
----
+
 title: "掌握Obsidian"
 source: evernote
 type: note
@@ -25,3 +25,5 @@ guid: e0a6cd15-16fc-43c0-b42e-c39d5b7f90b5
 ---
 
 [📎 在印象笔记中打开](evernote:///view/207087/s1/e0a6cd15-16fc-43c0-b42e-c39d5b7f90b5/e0a6cd15-16fc-43c0-b42e-c39d5b7f90b5/)
+
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

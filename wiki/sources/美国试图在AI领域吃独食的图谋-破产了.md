@@ -12,7 +12,7 @@ updated: 2026-06-27
 updated: 2026-06-27
 ---
 
----
+
 title: "美国试图在AI领域吃独食的图谋，破产了"
 source: evernote
 type: note
@@ -22,112 +22,6 @@ guid: c90d1a08-b271-42a6-9126-1ca95ad62d90
 
 # 美国试图在AI领域吃独食的图谋，破产了
 
-原文链接: [https://mp.weixin.qq.com/s?\_\_biz=MzI2MzY3NjAwOQ==&mid=224750...](https://mp.weixin.qq.com/s?__biz=MzI2MzY3NjAwOQ==&mid=2247500120&idx=1&sn=d9be838cf6e69ec714c9ab893a890828&chksm=eb69d7cd8c41adb32504ec6313ce5ccde8226762c72d5f1fa7c044317641b4367ce3d5a25213&scene=126&subscene=91&forbs=1&sessionid=1737906288&clicktime=1737906441&enterid=1737906441&flutter_pos=0&biz_enter_id=5&ascene=56&devicetype=iOS18.2.1&version=18003829&nettype=WIFI&abtest_cookie=AAACAA==&lang=zh_CN&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQOuVBJYoCGi1ek3SLnAdgrxLYAQIE97dBBAEAAAAAABYYMBYw4oQAAAAOpnltbLcz9gKNyK89dVj0jqsxhoyOaq7hOOdN6Y0ToRSnJ3mnunguK7ZjMtNXmycA5mkRgwLkqWFXy570Su9fENZOSn+Ddi8ZfNKpwKXm+GHzrpZDR1cNIjNC2sHjAgQMru9T2PsN+MCBjqNG4xArQ3RkBXaLY5VVnrDne/SD0lIflmXKAp5/+jBzmpc3tJLlS7KVQEWXHHuLtFzjFfYEqp9Yq5fshFIwskaRClC0fC1sMiuxc5kzJ7g++cyNkmQFug==&pass_ticket=nEWTYtkd8kqwx0SYNiu4+cSBuPWnEcAPzkoKnSIr4xvg5i8Q/7JdlSZOV+F0HwXo&wx_header=3)
+原文链接: [https://mp.weixin.qq.com/s?\_\_biz=MzI2MzY3NjAwOQ==&mid=224750...](https://mp.weixin.qq.com/s?__biz=MzI2MzY3NjAwOQ==&mid=2247500120&idx=1&sn=d9be838cf6e69ec714c9ab893a890828&chksm=eb69d7cd8c41adb32504ec6313ce5ccde8226762c72d5f1fa7c044317641b4367ce3d5a25213&scene=126&subscene=91&forbs=1&sessionid=1737906288&clicktime=1737906441&enterid=1737
 
-原创镇长本人大树乡谈
-
-![](attachments/2141e8fd8d8109b2.png)
-
-美国人的脸应该挺疼的。
-
-就在拜登卸任前，出台了美国历史上第一个人工智能出口管制规则《人工智能扩散出口管制框架》，对这个框架小镇在《[为了拖特朗普后腿，拜登拼了](https://mp.weixin.qq.com/s?__biz=MzI2MzY3NjAwOQ==&mid=2247499897&idx=1&sn=8517843dc9d06f526dae06b9ba639864&scene=21#wechat_redirect)》已经介绍了，该框架将全球分为三个世界，对AI芯片的全球流动进行严格限制，目的是将人工智能开发集中在美国及其盟友，重点狙击中国。
-
-然而戏剧性的事发生了。就在特朗普上任的当天，北京时间1月20日晚，深度求索公司发布DeepSeek-R1正式版，该版本经权威测试，各项性能已经与OpenAI公开模型相当，成本更低廉，而由于坚持开源，赢得全球清一色的叫好。
-
-而就发布前几个小时，DeepSeek创始人梁文锋参加了总理座谈会，排在第四位进行发言。
-
-如此安排，充满中国式的含蓄与柔中带刚。你美国不是要搞封锁吗，才几天就不攻自破。
-
-![](attachments/6d52bef6c1a0494d.png)
-
-在压力下，OpenAI不仅表示新一代模型正在推进，还宣称GPT免费套餐也能使用O3-mini。各方信息显示，DeepSeek近期的一连串动作，已经让美国各大生成式AI团队陷入恐慌，各团队的管理层需要向投资人解释，为什么一个主业搞量化交易的团队仅用了600万美元就拿出了如此成就，海量的资金到底怎么花的？
-
-而在1月21日，特朗普兴奋地宣布5000亿美元的“星际之门”计划，该项目将由OpenAI、甲骨文和软银集团共同出资，但这个计划言过于实。马斯克第一时间就公开质疑根本拿不出这么多钱，面对质疑，特朗普表示不清楚三家公司有没有足够的资金，但美国政府肯定不会提供任何财政支持。
-
-![](attachments/8726ead6774d6ae7.jpg)
-
-实际上，所谓的5000亿美元，目前能够落地的也只是计划投资1000亿美元的得州新数据中心项目，但最致命的问题是电力供应。得州电网是独立的，由于年久失修，断电司空见惯，还因为飓风、寒潮等灾害，近年来多次发生全州大停电。比如2021年2月因暴风雪导致300多万人断电，2024年7月又因飓风导致超过270万户住宅和企业断电。
-
-正因为所有人都清楚得州电力紧缺且不稳定，所以“星际之门”计划部分采用太阳能和储能电池供电，还将由软银下属的SB Energy公司负责建设。这听起来就很不靠谱，日本有什么拿得出手的光伏和电池技术吗？而且电力项目建设周期很长，考虑到美国近年来发电量增长极为有限，而数据中心耗电惊人，单靠不稳定的光伏和成本极高的储能电池，可行性需要进一步论证。
-
-小镇觉得，“星际之门”更像是三家公司抱团炒作，而背后的英伟达也乐见其成。
-
-美国AI红火了几年，几乎年年说“AI革命”，但非常奇怪的是，最大获益者是垄断高性能芯片和CUDA生态的英伟达，如此巨大的投入并没有看到相应的真实回报，至今苦于应用场景不足。
-
-**OpenAI、英伟达以及受益于AI故事的美股巨头，都在炒作一个“大力出奇迹”的故事。**OpenAI的奥特曼在全球兜售7万亿美元半导体计划，英伟达也一再炒作“万卡集群”，而在DeepSeek-R1震动全球后，美国Scale AI首席执行官兼创始人亚历山大·王则酸溜溜的说深度求索储备了几万块英伟达高端芯片，言下之意是质疑有内鬼。
-
-深度求索的突破直接证明了“大力出奇迹”这条路不是唯一的路，完全可以通过算法优化以更少的投入获得更理想的效果，甚至也根本不需要如此贵的人力成本。
-
-事实上，DeepSeek就是用区区600万美元训练出了一个可以与OpenAI最顶尖产品媲美的顶级模型，花费的资金、算力大概只有十分之一，训练的时间也更短，更重要的是，还全面开源，甚至允许蒸馏商用。
-
-区区600万不过是OpenAI公司一个普通高级职员一年的薪资，而这类高级职员高达几十个，除此之外还有1200名薪资不菲的研究人员。
-
-而打造如此成就的，开发团队全员由中国本土人才构成，主体是应届毕业生和在读博士生，全是年轻人，此前在AI领域不为人所知，这就充分证明了，开发全球领先的AI技术，并不需要那么多昂贵的人才。
-
-深度求索创始人梁文锋对他们的突破并不惊讶。去年DeepSeek V2引起硅谷很多人惊讶，而梁文峰在7月接受专访时说“在美国每天发生的大量创新中，这是非常普通的一个。他们之所以惊讶，是因为这是一个中国公司，在以创新贡献者的身份，加入到他们游戏里去”。
-
-在这次平淡的回应之后短短半年，先是12月26日V3推出，标志着中美AI差距缩小到一年内，还不到一个月，R1正式版推出，在OpenAI推出新模型前，意味着中美已经站在同一水平线上。
-
-这就很有趣了。虽然业内都知道，全球AI顶尖人才，近一半是中国培养的，某种意义上，**中美AI之争，就是中国人跟在美华人之间的竞赛**。这就证明了，中国的基础教育非常有利于创新，小镇就在《[中国的应试教育更利于科研创新](https://mp.weixin.qq.com/s?__biz=MzI2MzY3NjAwOQ==&mid=2247499996&idx=1&sn=72ba9f94e3e2af957f9692802d83dc6c&scene=21#wechat_redirect)》谈了这一点，只是没想到，现实中验证来得如此之快。
-
-中美都在推进AI发展，但美国的做法令人不解。正常推进一个未来产业发展，需要把钱或政策投入一个产业，让整个产业内部互相竞争，借助市场力量优胜劣汰，这正是中国当前正在做的，“新型举国体制”强调的就是政府搭台、企业竞争，这才有旺盛的活力。
-
-这是美国、西方一再强调的市场经济自由竞争的力量，可为什么美西方自己却丢了？
-
-正因为充分的市场竞争，仅一个杭州，就诞生了“科技六小龙”，在各自领域站在全球前沿：AI领域的深度求索、脑机接口领域的强脑科技、开发《黑神话：悟空》的游戏科学、机器狗全球领先的宇数科技、专注具身智能的云深处科技以及从事云设计软件系统研发应用的群核科技。
-
-而这样的企业，中国还有很多，而且普遍小而美，团队成员绝大多数是本土培养的年轻人。十几人、几十人的小团队就能完成传统几百人、几千人研发团队的工作。而这仍然只是中国科技爆发的开始而已，走上科研岗位的才刚到95后，而越往后，中国年轻一代的能力就更强。
-
-**这不仅是中国基础教育、体制机制的优势，更是市场竞争、开源的力量。只有把成本降下来，让更多人能够参与其中，才能在竞争中彼此激发创造力。**
-
-铁一般的事实证明，在半导体、AI领域，中国已经形成了自力更生、正向循环的新生态，美国当前仍然有一定优势，但此消彼长，美国试图封锁中国的谋划已经彻底破灭，甚至要为此前炒作AI故事、哄抬股价的做法还账。
-
-都说硅谷创新不断，但基本被美股科技七巨头掌控，AI更是被少数几个巨头垄断，而且始终无法解决英伟达高价垄断的问题，或者说根本不想解决，而是希望把成本尽可能拉高，以雄厚的财力杀死潜在竞争者。
-
-过去“万卡神话”没有被打破，大家普遍认为搞AI就是需要大投入，要买几万、几十万块先进算力芯片，要以动辄百万、千万美元的年薪聘请高端人才，花上最少几千万美元才能得到一个不错的大模型，如此高的投入直接绝了中小企业参与的可能，以至于近两年美国初创企业热衷于中国的开源模型。
-
-但神话终究被打破了，只要成本足够低，就一定能产生各种满足需求的新产品。这就像流量，过去100元才几百M的时候，不可能搞得起来繁荣的移动互联网产业，只有把流量价格砸到几十元几百G，这才能玩出花来。
-
-这一轮中美AI领域的互动，非常密集。但已经充分证明了：开源必将碾压封闭，这是一场屠杀。
-
-DeepSeek-R1的成功证明，搞AI大模型，对算力的要求远低于英伟达等鼓吹的程度，倘若按照R1的算力需求类比，同等情况下，市场对算力芯片的需求将减少10倍，这就意味着哪怕不再采购英伟达昂贵的芯片，仅凭存量芯片，就足以推进现有研究。
-
-即使因为成本大降以后，更多的需求出现，需要更多芯片，但要注意DeepSeek-R1等国产大模型已经能够支持国产昇腾芯片，如讯飞星火前几天发布的X1模型，就是用了全国产算力平台训练。
-
-![](attachments/b3d70922c996cfe0.png)
-
-随着中国始终坚持开源，一切想要参与到AI狂潮中的国家、企业、个人，一定会选择中国的开源模型，那么拜登的三个世界封锁不攻自破，总不能美国制裁全世界吧？那不就成了全世界被迫制裁美国？
-
-而当中国后续大模型越来越支持国产算力芯片，全球参与者也会选择。是选择极为昂贵且受到美国长臂管辖的英伟达，还是选择物美价廉、更适配开源中国大模型、而且没有任何附带条件的中国芯片？
-
-英伟达芯片的确先进，CUDA生态的确牢固，但没有什么是不能被替代的。当技术垄断被打破，市场需求才是王道。
-
-于是美国的围追堵截，反而变成了将广阔的市场主动让给中国，
-
-从这个意义上讲，2025年以后的AI，将属于坚持开源、共享的文明世界。历史一再证明，闭关锁国是一条死路。
-
-**其他文章推荐**
-
-■  [改革大方向未定，尚待决策拍板](https://mp.weixin.qq.com/s?__biz=MzI2MzY3NjAwOQ==&mid=2247499877&idx=1&sn=eb18d36773d94d0d940bcc8dbb41ccb0&scene=21#wechat_redirect)
-
-■  [经济到底怎么了？何时才能走出低谷？](http://mp.weixin.qq.com/s?__biz=MzI2MzY3NjAwOQ==&mid=2247497859&idx=1&sn=6e31189e0d6673569cbe0c76ff0d98c0&chksm=eabaf185ddcd7893e8dde489d3a6bd83b9a7e6606b841824fb59cde662d351f0e7288d5df43a&scene=21#wechat_redirect)
-
-■  [反直觉的事实：中国中产比欧美更多、更富有](https://mp.weixin.qq.com/s?__biz=MzI2MzY3NjAwOQ==&mid=2247500081&idx=1&sn=bbc3059200c368d003520200e9c7e72f&scene=21#wechat_redirect)
-
-■  [脱贫之后，中国将对上亿人兜底](https://mp.weixin.qq.com/s?__biz=MzI2MzY3NjAwOQ==&mid=2247500101&idx=1&sn=10aede3678822682398d8712e3bc8472&scene=21#wechat_redirect)
-
-**如果喜欢，还请点赞、“在看”和关注吧**
-
-**欢迎分享，让更多人发现“大树乡谈”**
-
-**备用：大树乡谈2022、大树乡谈2023**
-
-个人观点，仅供参考
-
-修改于
-
-
----
-
-[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzI2MzY3NjAwOQ==&mid=2247500120&idx=1&sn=d9be838cf6e69ec714c9ab893a890828&chksm=eb69d7cd8c41adb32504ec6313ce5ccde8226762c72d5f1fa7c044317641b4367ce3d5a25213&scene=126&subscene=91&forbs=1&sessionid=1737906288&clicktime=1737906441&enterid=1737906441&flutter_pos=0&biz_enter_id=5&ascene=56&devicetype=iOS18.2.1&version=18003829&nettype=WIFI&abtest_cookie=AAACAA==&lang=zh_CN&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQOuVBJYoCGi1ek3SLnAdgrxLYAQIE97dBBAEAAAAAABYYMBYw4oQAAAAOpnltbLcz9gKNyK89dVj0jqsxhoyOaq7hOOdN6Y0ToRSnJ3mnunguK7ZjMtNXmycA5mkRgwLkqWFXy570Su9fENZOSn+Ddi8ZfNKpwKXm+GHzrpZDR1cNIjNC2sHjAgQMru9T2PsN+MCBjqNG4xArQ3RkBXaLY5VVnrDne/SD0lIflmXKAp5/+jBzmpc3tJLlS7KVQEWXHHuLtFzjFfYEqp9Yq5fshFIwskaRClC0fC1sMiuxc5kzJ7g++cyNkmQFug==&pass_ticket=nEWTYtkd8kqwx0SYNiu4+cSBuPWnEcAPzkoKnSIr4xvg5i8Q/7JdlSZOV+F0HwXo&wx_header=3)
-[📎 在印象笔记中打开](evernote:///view/207087/s1/c90d1a08-b271-42a6-9126-1ca95ad62d90/c90d1a08-b271-42a6-9126-1ca95ad62d90/)
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

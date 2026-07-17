@@ -7,7 +7,6 @@ source_path: RAW/Word/MBA毕业报告工作计划表_MBA Gruaduation Report Plan
 tags: [raw, word]
 ---
 
-# MBA毕业报告工作计划表_MBA Gruaduation Report Plan
 
 > RAW/Word/MBA毕业报告工作计划表_MBA Gruaduation Report Plan.doc
 
@@ -18,3 +17,5 @@ tags: [raw, word]
 ## 相关页面
 
 - [[wiki/index]]
+
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

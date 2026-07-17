@@ -7,13 +7,6 @@ source_path: 印象笔记管理工具/携程有多拼才算绝境求生？当年
 tags: [evernote, impression, yinxiang]
 ---
 
-# 携程有多拼才算绝境求生？当年梁建章穿37套Cos服一晚卖出千万，携程真的活过来了
-
----
-
-原文链接: [https://mp.weixin.qq.com/s?\_\_biz=MzE5ODA2MTg0MQ==&mid=224748...](https://mp.weixin.qq.com/s?__biz=MzE5ODA2MTg0MQ==&mid=2247483842&idx=4&sn=ebe91c9b39eab3de5e7fe2bab315e494&chksm=96a03bbca1d7b2aace11c367119b576b8a76e4759cb644e2e217e828d20d3efd6caa49817971&scene=304&ascene=0&devicetype=iOS18.5&version=18003d2e&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQPd4ui/Hr7ILIQ73pEGKwhRLTAQIE97dBBAEAAAAAAJHXMN9HT2QAAAAOpnltbLcz9gKNyK89dVj0L/JgKA/Ka24k+6jDHlaDy1pYZAsKwxSHCIM9xbY6ymqULgEPHa9HRqbAcsy23UAuuKtjuMWmMVHONQPR4fl/r8PoXzg83twX8pIE+nJzaf+DQefZ+l1cPm/KzqpDU2hC3pDsnzwOj+mOIn9vQKWJbCVXgNwKHOeVRSHxn1Th1Fy0VpS+hRFnSfy/Q3S4LRtKoTHk60bsmgB+jeecSjb+TOMystKIOnKjJdKGg+I=&pass_ticket=UGtBzVX9Bc8k+tuUXFJzI7y+liKvbXNgUCnHjEuyC/qAB2QIYKzS1H03uLWXmpD7&wx_header=3)
-
-Original 学者宠物 学者宠物
 
 三月的浦东机场空得发慌，航显屏一排排“取消”。你能想象吗？这家一年交易额破八千亿的OTA（在线旅游平台），在那个冬天订单几乎清零。
 
@@ -27,56 +20,6 @@ Original 学者宠物 学者宠物
 
 ### 至暗时刻的数字冲击
 
-财报印证了绝望：一季度营收同比下降 **42%**，亏损创历史纪录。后台工单像雪崩，单日峰值突破二百万。
+财报印证了绝望：一季
 
-孙洁在内部会上算过一笔恐怖的账，若无额外收入，账上现金只能撑 6-8 个月。行业外看热闹，内部人心浮动——“是不是要裁员？”成为最常见私聊。
-
-### BOSS直播：三页纸的豪赌
-
-梁建章盯着抖音的曲线，灵光一闪：把未来的旅行梦想，打包成“现在付款、日后出行”的直播预售。
-
-三页纸方案敲定：由他亲自出镜，目的地酒店五到七折，随时无损退。**就在所有人都认为学者老板最多做代言时，他套上海王盔甲走进直播间，屏幕另一端同时涌入五十万观众——转折就此发生。**
-
- 首场三亚专场 60 分钟卖出 1670 万，后台把 GMV（商品交易总额）三个字反复确认，生怕看花了眼。
-
-![](.evernote-content/8A020499-A8C5-4600-A45E-43C4272EA236/FA00636F-16BF-4578-939C-4759AD7D9FA1.png)
-
-### 现金回流后的反扑弧线
-
-一场热了，不能停。接下来两百天，他跑完 50 座城，cos 了 37 个角色，连眉毛都染过。年底统计：直播矩阵累计观看 2 亿人次，预售额 **40 亿元**，为酒店与景区提前打进超过 25 亿现金。
-
-更关键的是，携程用这笔钱顶过了最难的两个季度；到 Q3，中国区业务率先翻红，净利润环比暴涨 560%。同行此刻才恍然：直播不是噱头，是现金流输血管。
-
-有人要问了：老板自降年薪、穿戏服带货，这算娱乐营销还是商业奇迹？其实啊，关键在于“预售”两个字。
-
-直播只是流量入口，真正解题的是“先囤后用、可随时退”的风险对冲模型——消费者拿折扣换时间，商家拿预付款换生存，而平台把两端的不确定统统换成了确定性现金。这一招，才是梁建章最像经济学家的地方。你说狠不狠？
-
-![](.evernote-content/8A020499-A8C5-4600-A45E-43C4272EA236/71754F19-D299-4024-85D1-C3C6C6D06F94.png)
-
-危机来的时候，企业常见两条路：缩水求稳，或烧钱求活。携程给出的第三条路是“把未来收入提前结算”，本质是重构交易时点。
-
-对任何高固定成本行业——无论是旅游、教育还是新能源——只要能把“消费决策”与“履约成本”时间错位，现金流就能多出一道护城河。这不是鸡汤，是可复制的财务逻辑。
-
-我是天虫，专注扒一线商业操作的门道。喜欢就关注，不够看就翻翻往期。下期见！
-
-![](.evernote-content/8A020499-A8C5-4600-A45E-43C4272EA236/2202ABE7-44A6-4F27-A090-073A7F127DFA.png)
-
-参考数据：
-
-携程集团 2020 年 Q1、Q3 财报；
-
-携程 2020 年“旅游复兴 V 计划”官方新闻稿；
-
-澎湃新闻《4 个月 50 城，梁建章在直播间让携程回血》；
-
-新京报《携程高管自愿降薪，梁建章孙洁本月起 0 薪》；
-
-观察者网《携程直播交易额超 40 亿元》
-
-素材来源官方媒体/网络新闻
-
----
-
-[🌐 原始链接](https://mp.weixin.qq.com/s?__biz=MzE5ODA2MTg0MQ==&mid=2247483842&idx=4&sn=ebe91c9b39eab3de5e7fe2bab315e494&chksm=96a03bbca1d7b2aace11c367119b576b8a76e4759cb644e2e217e828d20d3efd6caa49817971&scene=304&ascene=0&devicetype=iOS18.5&version=18003d2e&nettype=3G+&abtest_cookie=AAACAA==&lang=en&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQPd4ui/Hr7ILIQ73pEGKwhRLTAQIE97dBBAEAAAAAAJHXMN9HT2QAAAAOpnltbLcz9gKNyK89dVj0L/JgKA/Ka24k+6jDHlaDy1pYZAsKwxSHCIM9xbY6ymqULgEPHa9HRqbAcsy23UAuuKtjuMWmMVHONQPR4fl/r8PoXzg83twX8pIE+nJzaf+DQefZ+l1cPm/KzqpDU2hC3pDsnzwOj+mOIn9vQKWJbCVXgNwKHOeVRSHxn1Th1Fy0VpS+hRFnSfy/Q3S4LRtKoTHk60bsmgB+jeecSjb+TOMystKIOnKjJdKGg+I=&pass_ticket=UGtBzVX9Bc8k+tuUXFJzI7y+liKvbXNgUCnHjEuyC/qAB2QIYKzS1H03uLWXmpD7&wx_header=3)
-
-[📎 在印象笔记中打开](evernote:///view/207087/s1/7879d1a9-d0bf-45d7-9aa0-fc3a4e2c7b49/7879d1a9-d0bf-45d7-9aa0-fc3a4e2c7b49/)
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

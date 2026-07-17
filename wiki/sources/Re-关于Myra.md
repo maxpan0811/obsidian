@@ -8,7 +8,6 @@ source_path: RAW/MSG/Re 关于Myra.msg
 tags: [个人邮件]
 ---
 
-# Re 关于Myra
 
 **来源：** RAW/MSG/Re 关于Myra.msg
 **提取时间：** 2026-06-21 22:27
@@ -30,5 +29,6 @@ and what surprises me the most is you're twice as lovely as my imagination.
                                                  sincerely 
                                                    Myra
 
--------------------------------------------------------------------------------------
-15寸液晶双子星,震天雷II--D451￥2466/D353￥2399 http://design.163.com/aocmonitor/index.html
+-----------------------------------------------------------------
+
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

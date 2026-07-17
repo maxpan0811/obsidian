@@ -7,15 +7,6 @@ source_path: 印象笔记管理工具/乐高的六一礼物：推出类Minecraft
 tags: [印象笔记]
 ---
 
-# 乐高的六一礼物：推出类Minecraft游戏
-
-# 乐高的六一礼物：推出类Minecraft游戏 --- 乐高自家的游戏今天正式上线 Steam。 是的，和 Minecraft 几乎一摸一样。 这款游戏在 Steam 上的描述显示，“在一个程序世界
-
----
-
-# 乐高的六一礼物：推出类Minecraft游戏
-
----
 
 乐高自家的游戏今天正式上线 Steam。
 
@@ -29,10 +20,6 @@ tags: [印象笔记]
 
 如果你有兴趣可以去 [Steam](http://store.steampowered.com/app/332310/) 上下载，但是 Mac 啥的就别凑热闹了，游戏目前只支持 Windows。
 
-[参考来源：[thenextweb](http://thenextweb.com/apps/2015/06/01/lego-launches-its-minecraft-competitor/)]
+[参考来源：[thenextweb](http://thenextweb.com/apps/2015/06/01/lego-launches-its-minecraft-c
 
----
-
-[🌐 原始链接](http://www.36kr.com/p/533467.html)
-
-[📎 在印象笔记中打开](evernote:///view/207087/s1/894e9a13-83eb-4761-8727-685c9c555c0f/894e9a13-83eb-4761-8727-685c9c555c0f/)
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

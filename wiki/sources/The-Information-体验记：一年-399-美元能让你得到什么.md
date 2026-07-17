@@ -7,6 +7,7 @@ source_path: 印象笔记管理工具/The Information 体验记：一年 399 美
 tags: [印象笔记管理工具]
 ---
 
+
 **The Information 体验记：一年 399 美元能让你得到什么**
 
 The Information 体验记：一年 399 美元能让你得到什么
@@ -26,4 +27,6 @@ The Information 体验记：一年 399 美元能让你得到什么
 ---
 
 [🌐 原始链接](https://sspai.com/post/41188)
-[📎 在印象笔记中打开](evernote:///view/207087/s1/23ea7190-1eda-4ad4-994b-3f13019e1d04/23ea7190-1eda-4ad4-994b-3f13019e1d04/)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/23ea7190-1eda-4ad4-994b-3f13019e1d04/23ea7190-1eda-4ad4-994b
+
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

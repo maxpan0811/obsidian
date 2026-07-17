@@ -7,15 +7,6 @@ source_path: 印象笔记管理工具/MacTalk·人生元编程.md
 tags: [印象笔记]
 ---
 
-# MacTalk·人生元编程
-
-# MacTalk·人生元编程 --- [池建强 著](https://www.amazon.cn/s/ref=as_li_ss_tl?_encoding=UTF8&camp=536&creative
-
----
-
-# MacTalk·人生元编程
-
----
 
 [池建强 著](https://www.amazon.cn/s/ref=as_li_ss_tl?_encoding=UTF8&camp=536&creative=3132&field-keywords=MacTalk%C2%B7%E4%BA%BA%E7%94%9F%E5%85%83%E7%BC%96%E7%A8%8B&linkCode=ur2&tag=llll1-23&url=search-alias%3Dbooks)
 
@@ -31,6 +22,6 @@ tags: [印象笔记]
 
 - 不停的反驳别人不会证明自己的聪明和独立思考，正确的讨论技巧和解决问题才是王道，
 
-- 在产品公司，你可以为优化某个算法或Ajax效果花费一个月的时间，这在以单纯做项目或外包的公司是不可想象的。找一家程序员被当做天才和宝贝的公司，去做可持续的产品……
+- 在产品公司，你可以为优化某个算法或Ajax效果花费一个月的时间，这在以单纯做项目或外包的公司是不可想象的。找一家程序
 
-[📎 在印象笔记中打开](evernote:///view/207087/s1/e26dd0c9-29c7-49d4-bade-e4e043980f78/e26dd0c9-29c7-49d4-bade-e4e043980f78/)
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

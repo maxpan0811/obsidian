@@ -7,15 +7,6 @@ source_path: 印象笔记管理工具/使用泛用型播客客户端订阅喜马
 tags: [印象笔记]
 ---
 
-# 使用泛用型播客客户端订阅喜马拉雅和荔枝 FM 中的节目 _ 一日一技
-
-# 使用泛用型播客客户端订阅喜马拉雅和荔枝 FM 中的节目 | 一日一技 --- ![](.evernote-content/C64A6C0B-957C-48D1-AC20-1D93A8EC2304/
-
----
-
-# 使用泛用型播客客户端订阅喜马拉雅和荔枝 FM 中的节目 | 一日一技
-
----
 
 ![](.evernote-content/C64A6C0B-957C-48D1-AC20-1D93A8EC2304/A257C046-2A4D-48A5-ACAC-A957E9CE1384.jpg)
 
@@ -30,67 +21,6 @@ tags: [印象笔记]
 订阅喜马拉雅 FM 的节目
 -------------
 
-如果你希望收听到的是喜马拉雅上的主播电台，例如大家比较熟悉的《罗辑思维》节目在喜马拉雅的地址是：
+如果你希望收听到的是喜马拉雅上的主播电台，例如大家
 
-`http://www.ximalaya.com/1412917/album/239463`
-
-![](.evernote-content/C64A6C0B-957C-48D1-AC20-1D93A8EC2304/65F1E6F4-60F3-4EAA-97CF-E0212B0CD94E.jpg)
-
-接着将地址进行修改，记住地址最后的一串数字，例如罗辑思维后面的数字 *239463*，把以上地址修改为修改为：
-
-`http://www.ximalaya.com/album/239463.xml`
-
-其他位置不动，这就是将喜马拉雅节目转化成通用播客订阅地址，其他的喜马拉雅节目以此类推即可。
-
-需要说明的是，在喜马拉雅中主播如果有多个专辑节目，那么修改的地址必须是专辑地址，即**地址中带有 album**，请切记。
-
-订阅荔枝 FM 的节目
------------
-
-下面我再介绍下订阅荔枝 FM 节目的方法，与喜马拉雅类似，我们找一个电台节目，例如音乐天堂电台，他的播客主页地址是：
-
-`http://www.lizhi.fm/14919`
-
-![](.evernote-content/C64A6C0B-957C-48D1-AC20-1D93A8EC2304/D0D19249-0914-4469-B80C-646BD57BCF2F.jpg)
-
-同样是记住后面的数字 *14919*，修改为以下地址：
-
-`http://nj.lizhi.fm/rss/14919.xml`
-
-这样就修改为可以让泛用型播客客户端订阅的源链接，下面我们来验证下是否可行。
-
-最终效果
-----
-
-我订阅播客的客户端是 Android 平台上的 Podcast O2，点击添加后输入修改后的地址，喜马拉雅地址转化后可以识别，效果如下：
-
-![](.evernote-content/C64A6C0B-957C-48D1-AC20-1D93A8EC2304/3055E086-6101-4B18-803A-8DE5D88CCFFB.jpg)
-
-![](.evernote-content/C64A6C0B-957C-48D1-AC20-1D93A8EC2304/AE87FD7C-2FEE-4ABC-AFE9-FAA0890695AD.jpg)
-
-![](.evernote-content/C64A6C0B-957C-48D1-AC20-1D93A8EC2304/E536D797-7897-46E6-9CEB-6234BB7805EA.jpg)
-
-荔枝 FM 转化后的地址同样也可以识别，效果如下：
-
-![](.evernote-content/C64A6C0B-957C-48D1-AC20-1D93A8EC2304/C4B2E6F1-62D5-49E7-87A2-0769CB0B382D.jpg)
-
-![](.evernote-content/C64A6C0B-957C-48D1-AC20-1D93A8EC2304/DF46B134-3143-4E8A-B51C-A2829774AD05.jpg)
-
-![](.evernote-content/C64A6C0B-957C-48D1-AC20-1D93A8EC2304/41414CC6-5517-43DF-B4A5-C0E8484B3BCA.jpg)
-
-好啦，这样你就可以随意的在你的播客客户端中添加电台节目啦。
-
-想要获得更多简单实用的小技巧？*[查看往期「一日一技」>](http://sspai.com/tag/%E4%B8%80%E6%97%A5%E4%B8%80%E6%8A%80)*
-
-文章来源 [少数派](http://sspai.com) ，原作者 [化学心情下2](http://sspai.com/author/78) ，转载请注明原文链接
-
-喜欢少数派？欢迎关注我们的微博：@少数派sspai ，微信公众号： sspaime  
-少数派（ <http://sspai.com> ）
-
-[![](.evernote-content/C64A6C0B-957C-48D1-AC20-1D93A8EC2304/87DBFE3B-4C92-4D55-9464-2A80EDBBF9E2.jpg)](http://matrix.sspai.com/topic/%E6%88%91%E5%92%8C%E5%B0%91%E6%95%B0%E6%B4%BE)
-
----
-
-[🌐 原始链接](http://sspai.com/33246)
-
-[📎 在印象笔记中打开](evernote:///view/207087/s1/d8a7c705-7aa0-40f7-b548-a940eae94cdb/d8a7c705-7aa0-40f7-b548-a940eae94cdb/)
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

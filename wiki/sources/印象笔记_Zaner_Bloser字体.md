@@ -7,15 +7,6 @@ source_path: 印象笔记管理工具/Zaner Bloser字体.md
 tags: [印象笔记]
 ---
 
-# Zaner Bloser字体
-
-# Zaner Bloser字体 --- ![](.evernote-content/7EB4FFBB-4109-4FB5-B68D-281C0FF94E0C/77129F5F-06D4-4256-8
-
----
-
-# Zaner Bloser字体
-
----
 
 ![](.evernote-content/7EB4FFBB-4109-4FB5-B68D-281C0FF94E0C/77129F5F-06D4-4256-8961-D65A15B14545.png)
 
@@ -24,3 +15,5 @@ tags: [印象笔记]
 ![](.evernote-content/7EB4FFBB-4109-4FB5-B68D-281C0FF94E0C/70E9FE4D-0187-4FD5-B8E3-38F177249D29.png)
 
 [📎 在印象笔记中打开](evernote:///view/207087/s1/bab99833-1e61-4444-9400-06172727a6fd/bab99833-1e61-4444-9400-06172727a6fd/)
+
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

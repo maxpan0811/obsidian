@@ -7,15 +7,6 @@ source_path: 印象笔记管理工具/iOS 11未发布 其应用已抢先上架Ap
 tags: [印象笔记]
 ---
 
-# iOS 11未发布 其应用已抢先上架App Store
-
-# iOS 11未发布 其应用已抢先上架App Store --- ![](.evernote-content/B889EC51-5CA3-4E8A-9A9C-C8AC012F4424/5C46160
-
----
-
-# iOS 11未发布 其应用已抢先上架App Store
-
----
 
 ![](.evernote-content/B889EC51-5CA3-4E8A-9A9C-C8AC012F4424/5C46160B-DF7E-4945-8F83-F11161FF4F76.jpg)
 
@@ -25,12 +16,6 @@ tags: [印象笔记]
 
 其实对于不少 iOS 用户来说，他们都希望苹果能够进一步完善iOS系统的文件管理功能，而这个新应用的到来或许意味着苹果有意满足用户的这个心愿。
 
-File 应用应该是 iOS 11 系统的默认应用，目前系统应用已经支持用户将其删除，需要的时候再重新从 App Store 下载安装。Troughton-Smith 指出，Activity 应用目前也已经出现在 App Store 中，也就是说在 iOS 11 中用户应该也可以删除这款应用，需要时再重新安装即可。
+File 应用应该是 iOS 11
 
-[阅读全文](http://www.feng.com/iPhone/news/2017-06-05/IOS-11-did-not-release-Its-application-has-snapped-on-the-App-Store_681378.shtml)
-
----
-
-[🌐 原始链接](http://www.feng.com/iPhone/news/2017-06-05/IOS-11-did-not-release-Its-application-has-snapped-on-the-App-Store_681378.shtml)
-
-[📎 在印象笔记中打开](evernote:///view/207087/s1/a6a6511e-d126-4012-b6af-5e4d0429615c/a6a6511e-d126-4012-b6af-5e4d0429615c/)
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

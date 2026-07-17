@@ -7,15 +7,6 @@ source_path: 印象笔记管理工具/HoloLens国行版终于来了 开发者版
 tags: [印象笔记]
 ---
 
-# HoloLens国行版终于来了 开发者版本售23488元
-
-# HoloLens国行版终于来了 开发者版本售23488元 --- ![](.evernote-content/7A073FEA-E2EF-4FFC-86A2-51608A357DDC/064DA6
-
----
-
-# HoloLens国行版终于来了 开发者版本售23488元
-
----
 
 ![](.evernote-content/7A073FEA-E2EF-4FFC-86A2-51608A357DDC/064DA620-B5C1-4277-8CA3-9BB97F13452F.png)
 
@@ -27,10 +18,6 @@ tags: [印象笔记]
 
 HoloLens由微软在2015年1月21日公布，在此之前已经开发了5年之久。
 
-[阅读全文](http://tech.feng.com/2017-05-10/HoloLens-legal-channels-version-is-finally-here-The-developer-version-sold-23488-yuan_677792.shtml)
+[阅读全文](http://tech.fe
 
----
-
-[🌐 原始链接](http://tech.feng.com/2017-05-10/HoloLens-legal-channels-version-is-finally-here-The-developer-version-sold-23488-yuan_677792.shtml)
-
-[📎 在印象笔记中打开](evernote:///view/207087/s1/fbabd2a2-7f83-4f89-987f-3249e96a8c38/fbabd2a2-7f83-4f89-987f-3249e96a8c38/)
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

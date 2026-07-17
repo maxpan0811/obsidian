@@ -7,6 +7,7 @@ source_path: 印象笔记管理工具/“猩猩开的飞机”——美军眼中
 tags: [印象笔记管理工具]
 ---
 
+
 **“猩猩开的飞机”——美军眼中的MIG-17战斗机**
 
 “猩猩开的飞机”——美军眼中的MIG-17战斗机
@@ -33,5 +34,6 @@ tags: [印象笔记管理工具]
 
 ---
 
-[🌐 原始链接](http://mp.weixin.qq.com/s?__biz=MzI2MTA4Njg3Ng==&mid=2652427025&idx=3&sn=a099378b35a19819f339a6a28ef5421c&chksm=f1b3b8e2c6c431f4ccd1c88179b646312d67f5a0206f98726af788bfd7d48aa11c89e2dc7797&mpshare=1&scene=1&srcid=0129dwLwM1LJh2nRi9oi88bJ#rd)
-[📎 在印象笔记中打开](evernote:///view/207087/s1/f3b466f0-21bb-4a30-a1e5-bbd245119be0/f3b466f0-21bb-4a30-a1e5-bbd245119be0/)
+[🌐 原始链接](http://mp.weixin.qq.com/s?__biz=MzI2MTA4Njg3Ng==&mid=2652427025&idx=3&sn=a099378b35a19819f339a6a28ef5421c&chksm=f1b3b8e2c6c431f4ccd1c88179b646
+
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

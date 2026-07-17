@@ -7,15 +7,6 @@ source_path: 印象笔记管理工具/StackSocial Mac Power User Bundle.md
 tags: [印象笔记]
 ---
 
-# StackSocial Mac Power User Bundle
-
-# StackSocial Mac Power User Bundle --- | | | --- | | StackSocial Mac Power User Bundle 4 | ![](.eve
-
----
-
-# StackSocial Mac Power User Bundle
-
----
 
 |  |
 | --- |
@@ -37,8 +28,6 @@ tags: [印象笔记]
 
 |  |
 | --- |
-| StackSocial Mac Power User Bundle 1 |
+| StackSocial M
 
-![](.evernote-content/452016E5-D0D1-4B02-8E6D-B1BCA7C72CE9/226CD95A-CCD4-4763-9344-BBA3048061F4.png)
-
-[📎 在印象笔记中打开](evernote:///view/207087/s1/fd0a4c1a-d1d0-421e-8925-20ed98fe4b53/fd0a4c1a-d1d0-421e-8925-20ed98fe4b53/)
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

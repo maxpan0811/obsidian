@@ -7,7 +7,6 @@ source_path: RAW/Word/笑话N则.txt
 tags: [raw, word]
 ---
 
-# 笑话N则
 
 > RAW/Word/笑话N则.txt
 
@@ -18,3 +17,5 @@ tags: [raw, word]
 ## 相关页面
 
 - [[wiki/index]]
+
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

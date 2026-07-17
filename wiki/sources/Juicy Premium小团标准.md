@@ -7,7 +7,6 @@ source_path: RAW/PDF/Juicy Premium小团标准.pdf
 tags: [产品, 小团, 标准, Juicy, Premium]
 ---
 
-# Juicy Premium 小团标准
 
 > 高品质小团产品标准手册（部分内容为图片嵌入）。
 
@@ -21,3 +20,5 @@ tags: [产品, 小团, 标准, Juicy, Premium]
 | 酒店 | 携程三钻+评分4.0以上，交通便利，优选含早餐 |
 
 > PDF为大容量图片手册（29MB），更多详情需阅读原文。
+
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

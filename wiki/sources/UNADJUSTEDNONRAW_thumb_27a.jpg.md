@@ -7,7 +7,6 @@ source_path: RAW/PIC/UNADJUSTEDNONRAW_thumb_27a.jpg
 tags: [raw, pic]
 ---
 
-# UNADJUSTEDNONRAW_thumb_27a.jpg
 
 > RAW/PIC/UNADJUSTEDNONRAW_thumb_27a.jpg
 
@@ -18,3 +17,5 @@ tags: [raw, pic]
 ## 相关页面
 
 - [[wiki/index]]
+
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

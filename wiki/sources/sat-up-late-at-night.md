@@ -8,7 +8,6 @@ source_path: RAW/MSG/sat up late at night.msg
 tags: [个人邮件]
 ---
 
-# sat up late at night
 
 **来源：** RAW/MSG/sat up late at night.msg
 **提取时间：** 2026-06-21 22:28
@@ -36,5 +35,6 @@ love you so.
 
 Do You Yahoo!?
 150万曲MP3疯狂搜，带您闯入音乐殿堂 <http://cn.rd.yahoo.com/mail_cn/tag/yisou/music/*http://music.yisou.com> 
-美女明星应有尽有，搜遍美图、艳图和酷图 <http://cn.rd.yahoo.com/mail_cn/tag/yisou/image/*http://image.yisou.com> 
-1G就是1000兆，雅虎电邮自助扩容！ <http://cn.rd.yahoo.com/mail_cn/tag/1g/*http://cn.mail.yahoo.com/event/mail_1g/>
+美女明星应有尽有，搜遍美图、艳图和酷图 <http://cn.rd.yahoo.co
+
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

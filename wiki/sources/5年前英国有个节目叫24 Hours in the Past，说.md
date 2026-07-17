@@ -7,9 +7,6 @@ source_path: 印象笔记管理工具/5年前英国有个节目叫24 Hours in th
 tags: [印象笔记]
 ---
 
-# 5年前英国有个节目叫24 Hours in the Past，说
-
----
 
 [李某正在潜逃](http://weibo.com/1798618264)
 
@@ -23,20 +20,6 @@ tags: [印象笔记]
 
 ![](.evernote-content/78C93C08-3309-4558-8B97-56729B1E6FB8/E776C522-AE56-47EE-AF4B-2F2CBE391384.jpg)
 
-![](.evernote-content/78C93C08-3309-4558-8B97-56729B1E6FB8/E266DEBE-85DD-4404-9C21-78901E2D2738.jpg)
+![](.evernote-content/78C93C08-3309-4558-8B97-56729B1E6FB8/E266DEBE-85DD-4404-9C21-7
 
-![](.evernote-content/78C93C08-3309-4558-8B97-56729B1E6FB8/8B7CCC57-F233-47C2-B1DA-685C70818D2C.jpg)
-
-![](.evernote-content/78C93C08-3309-4558-8B97-56729B1E6FB8/7661B138-6470-4C47-A421-4E346B8EA57B.jpg)
-
-![](.evernote-content/78C93C08-3309-4558-8B97-56729B1E6FB8/2AACC1C6-B612-4E91-835B-33B29931C8D2.jpg)
-
-![](.evernote-content/78C93C08-3309-4558-8B97-56729B1E6FB8/1D675A99-86E1-4BB8-A39D-EB8870195129.jpg)
-
-[查看源微博](http://weibo.com/1798618264/J0Py05JDx)
-
----
-
-[🌐 原始链接](http://weibo.com/1798618264/J0Py05JDx)
-
-[📎 在印象笔记中打开](evernote:///view/207087/s1/69f49662-b8c6-41f4-9733-5103f91155cb/69f49662-b8c6-41f4-9733-5103f91155cb/)
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

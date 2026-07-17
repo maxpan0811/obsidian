@@ -7,6 +7,7 @@ source_path: 印象笔记管理工具/伪善的特蕾莎修女_捕风的bowei.md
 tags: [印象笔记管理工具]
 ---
 
+
 **伪善的特蕾莎修女_捕风的bowei**
 
 伪善的特蕾莎修女_捕风的bowei
@@ -40,5 +41,6 @@ tags: [印象笔记管理工具]
 
 ---
 
-[🌐 原始链接](http://blog.sina.cn/dpool/blog/s/blog_13e719e3a0102vbew.html?utm_source=bshare&utm_campaign=bshare&utm_medium=weixin&bsh_bid=1627424588&from=groupmessage&isappinstalled=0)
-[📎 在印象笔记中打开](evernote:///view/207087/s1/faf82a5f-8ad2-4108-848c-6d7ad64aa281/faf82a5f-8ad2-4108-848c-6d7ad64aa281/)
+[🌐 原始链接](http://blog.sina.cn/dpool/blog/s/blog_13e719e3a0102vbew.html?utm_source=bshare&utm_campaign=bshare&utm_medium=weixin&bsh_bid=1627424588&from=groupmes
+
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

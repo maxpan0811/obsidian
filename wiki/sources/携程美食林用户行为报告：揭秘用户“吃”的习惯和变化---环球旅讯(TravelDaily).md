@@ -7,6 +7,7 @@ source_path: 印象笔记管理工具/携程美食林用户行为报告：揭秘
 tags: [印象笔记管理工具]
 ---
 
+
 **携程美食林用户行为报告：揭秘用户“吃”的习惯和变化 - 环球旅讯(TravelDaily)**
 
 携程美食林用户行为报告：揭秘用户“吃”的习惯和变化 - 环球旅讯(TravelDaily)
@@ -28,4 +29,6 @@ tags: [印象笔记管理工具]
 ---
 
 [🌐 原始链接](http://m.traveldaily.cn/article/115360?from=groupmessage&amp;isappinstalled=0)
-[📎 在印象笔记中打开](evernote:///view/207087/s1/f9da6fb7-8dd7-4e24-8c84-81e417db39fe/f9da6fb7-8dd7-4e24-8c84-81e417db39fe/)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/f9
+
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

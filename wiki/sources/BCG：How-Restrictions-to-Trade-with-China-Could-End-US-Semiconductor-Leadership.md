@@ -7,7 +7,6 @@ source_path: RAW/PDF/BCG：How-Restrictions-to-Trade-with-China-Could-End-US-Sem
 tags: [raw, pdf]
 ---
 
-# BCG：How-Restrictions-to-Trade-with-China-Could-End-US-Semiconductor-Leadership
 
 > RAW/PDF/BCG：How-Restrictions-to-Trade-with-China-Could-End-US-Semiconductor-Leadership.pdf
 
@@ -28,3 +27,5 @@ tags: [raw, pdf]
 ## 相关页面
 
 - [[wiki/index]]
+
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

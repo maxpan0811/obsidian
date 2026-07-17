@@ -7,15 +7,6 @@ source_path: 印象笔记管理工具/转发_ Your HyperDock license!.md
 tags: [印象笔记]
 ---
 
-# 转发_ Your HyperDock license!
-
-# 转发: Your HyperDock license! --- \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
----
-
-# 转发: Your HyperDock license!
-
----
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 发件人: Christian <bahooom@gmail.com>  
@@ -34,4 +25,6 @@ Many thanks for supporting my development!
 Best regards,  
 Christian
 
-[📎 在印象笔记中打开](evernote:///view/207087/s1/cf74dad7-efac-495f-912d-cd0a6afcc770/cf74dad7-efac-495f-912d-cd0a6afcc770/)
+[📎 在印象笔记中打开](evernote:///view/207087/s1/cf74dad7
+
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

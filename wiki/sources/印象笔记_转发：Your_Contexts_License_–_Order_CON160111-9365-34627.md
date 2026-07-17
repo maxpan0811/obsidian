@@ -7,15 +7,6 @@ source_path: 印象笔记管理工具/转发：Your Contexts License – Order C
 tags: [印象笔记]
 ---
 
-# 转发：Your Contexts License – Order CON160111-9365-34627
-
-# 转发：Your Contexts License – Order CON160111-9365-34627 --- 发自网易邮箱大师 | | | | | --- | --- | --- | | |
-
----
-
-# 转发：Your Contexts License – Order CON160111-9365-34627
-
----
 
 发自网易邮箱大师
 
@@ -46,23 +37,6 @@ You just have to download and click it open.
   
   
   
-Charges will appear on your bill as: FS\* fsprg.com
-  
-  
-You can view your receipt here:
-  
-https://sites.fastspring.com/contextsformac/order/invoice/CON160111-9365-34627
-  
-  
-  
-- Contexts App Team
-  
-  
-We would love to hear your suggestions and feedback!
-  
-  
-Write to us at hello@contexts.co.
-  
-Tweet us at https://twitter.com/contextsapp.
+Charges will appear on your bill as:
 
-[📎 在印象笔记中打开](evernote:///view/207087/s1/b95cdb18-802d-4c26-8bff-031c3ef8130c/b95cdb18-802d-4c26-8bff-031c3ef8130c/)
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

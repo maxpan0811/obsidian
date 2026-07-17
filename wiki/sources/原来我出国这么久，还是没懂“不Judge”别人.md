@@ -7,6 +7,7 @@ source_path: 印象笔记管理工具/原来我出国这么久，还是没懂“
 tags: [印象笔记管理工具]
 ---
 
+
 **原来我出国这么久，还是没懂“不Judge”别人**
 
 原来我出国这么久，还是没懂“不Judge”别人
@@ -49,5 +50,6 @@ James是我学长，找了老美，所以是我们这帮同学里最“西化”
 
 ---
 
-[🌐 原始链接](http://mp.weixin.qq.com/s?__biz=MzU3ODM1NDg2Ng==&mid=2247484075&idx=1&sn=293059f3df95e544ad30017bd260336d&chksm=fd77e976ca0060602965af99ee6de92df7f7e1ecb2ffe2a327d933291631de09c9206f5e14ab&mpshare=1&scene=1&srcid=1114i13D44qBiTWyJsO1PV5B#rd)
-[📎 在印象笔记中打开](evernote:///view/207087/s1/7ea3bfde-6c06-4aab-8378-b67876667fb5/7ea3bfde-6c06-4aab-8378-b67876667fb5/)
+[🌐 原始链接](http://mp.weixin.qq.com/s?__biz=MzU3ODM1NDg2Ng==&mid=2247484075&idx=1&sn=293059f3df95e544ad30017bd260336d&chksm=fd77e976ca0060602965af99ee6de92
+
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

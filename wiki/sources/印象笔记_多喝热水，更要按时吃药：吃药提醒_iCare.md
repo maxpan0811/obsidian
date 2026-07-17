@@ -7,15 +7,6 @@ source_path: 印象笔记管理工具/多喝热水，更要按时吃药：吃药
 tags: [印象笔记]
 ---
 
-# 多喝热水，更要按时吃药：吃药提醒 iCare
-
-# 多喝热水，更要按时吃药：吃药提醒 iCare --- ![](.evernote-content/1FBFDC48-C4F6-4761-9C8D-F40D963E08A2/138E3E26-BBD
-
----
-
-# 多喝热水，更要按时吃药：吃药提醒 iCare
-
----
 
 ![](.evernote-content/1FBFDC48-C4F6-4761-9C8D-F40D963E08A2/138E3E26-BBD1-4F9B-9636-D4A92F380BA9.jpg)
 
@@ -32,64 +23,6 @@ tags: [印象笔记]
 
 而人体是精细且脆弱的，它的容错能力并没有那么强。举个例子，抗生素的使用要定时定量，并服满整个疗程，一旦错过时机，药物就可能低于阈浓度，导致耐药菌的大量繁殖；HIV 感染者控制病毒的药物更是需要精确到分服用，晚一分钟都可能导致抗药变异株大肆复制。
 
-至于那些不定时定点吃药也能痊愈的病一般都是**[自限性](http://baike.baidu.com/link?url=WjH01ZfjYwacCz_-jhm7iZg-2BIt96gEDgLbeEqrLkmDWDmiDjjlhyC1XT9dlIqqBZJCpCc7Mq7ccRllA_o4pK)**的，不吃药也能慢慢恢复。而正是这种「特殊情况」，在对医药行业已经丧失了应有尊重的国内，导致了各种各样严重的「医疗事故」，查到底都是起源于病人对自己生命的忽视。
+至于那些不定时定点吃
 
-所以不管病是大是小，如果要治疗，就要好好地听医嘱，按时按点吃药。
-
-没有护士的时候，你就需要 iCare
-------------------
-
-人人都会生病。住院有护士提醒吃药，而更多的、在家吃药的时候，最好需要一个人来提醒你服药，或者，你可以尝试一下 iCare。
-
-iCare 来自我个人非常喜欢的国内开发商「四叶新媒体」，是一款将吃药提醒和药品管理合二为一的应用。
-
-![](.evernote-content/1FBFDC48-C4F6-4761-9C8D-F40D963E08A2/A4349AF4-5356-40AA-91AA-00C5BE39E166.jpg)
-
-![](.evernote-content/1FBFDC48-C4F6-4761-9C8D-F40D963E08A2/46CEFF22-1E51-4A82-8151-C25B19EEF03C.jpg)
-
-![](.evernote-content/1FBFDC48-C4F6-4761-9C8D-F40D963E08A2/F00D6293-82E7-4B84-9355-CD9E26539F0E.jpg)
-
-界面仍然是标准的四叶新媒体设计风格，以粉色作为主色调很友好，相对于生病这项冷冰冰的事，粉色和浅蓝色这种柔和的颜色更能舒缓心情，只是这个色调可能有些太女性向。
-
-iCare 在应用中采用了药品和服药提醒两条主线。在服药提醒方面，iCare 的优势就体现出来了——在设置提醒时间时，你可以直接设置最多四个时间，满足了日常生活中常见的服药规律。选择了「高级」吃药时间设置后，则可以按照固定间隔进行提醒，适用于一部分婴幼儿的服药规律，基本覆盖了日常生活常用药的服用方法。
-
-![](.evernote-content/1FBFDC48-C4F6-4761-9C8D-F40D963E08A2/04496615-EC5B-46A0-8CD1-D6CA80A50D10.jpg)
-
-![](.evernote-content/1FBFDC48-C4F6-4761-9C8D-F40D963E08A2/AAB95CBE-6B62-4ED9-A02C-756DE169E985.jpg)
-
-除此之外，iCare 还可以让你管理亲友的用药时间。从通讯录中选择服药者后，你可以在设定的时间通过微信、电话、短信或邮件的方式提醒服药者，尤其适用于你那些强撑着不爱吃药的家长，忙起来不要命的配偶和根本不记得自己生病这回事儿的心大孩子。
-
-![](.evernote-content/1FBFDC48-C4F6-4761-9C8D-F40D963E08A2/2098E65D-168A-4A73-9707-5CCE2D215014.jpg)
-
-![](.evernote-content/1FBFDC48-C4F6-4761-9C8D-F40D963E08A2/E0018B52-1D19-4525-B0FC-C656886D46F7.jpg)
-
-![](.evernote-content/1FBFDC48-C4F6-4761-9C8D-F40D963E08A2/2D289E5A-6FB8-4B19-892F-F1713C4978B7.jpg)
-
-iCare 的药品管理功能则类似于 [Best Before](http://sspai.com/32695)，集合了药物的基本信息和有效期限，也可以记录家庭常备 OTC 制剂的适用病症。
-
-而相对地，当你的药品过期需要更替时，iCare 提供了附近药店医院的地图，便于查找最近的药店。不过毕竟是基于地图的关键词搜索功能，遇到这种科研机构在附近的情况，也是无力解决啊……
-
-在使用过程中，你还可以将按时按点测血糖、测体温等数据记录在 iCare 中，也是一个会有用的细节。
-
-珍爱生命，谨遵医嘱
----------
-
-比起 [Best Before](http://sspai.com/32695) 这样的专门使用期限跟踪器，iCare 更多围绕于「吃药」这个需求，专心做好这一件事。
-
-推荐这款 App，当然不是想让各位没事儿都去生个病试试，更多地是希望各位在忙碌的生活中时刻注意自己的身体状况。尽管有这种不错的 App 存在，也还是少用到的好。而当你真的遇到疾病来袭，也不要讳疾忌医。**谨遵医嘱，多喝热水**，这才是人间正道。
-
-你可以前往 App Store 下载 iCare，免费。
-
-文章来源 [少数派](http://sspai.com) ，原作者 [北鸮](http://sspai.com/author/701635) ，转载请注明原文链接
-
-原文可获取应用下载链接：[多喝热水，更要按时吃药：吃药提醒 iCare](http://sspai.com/33257)  
-喜欢少数派？欢迎关注我们的微博：@少数派sspai ，微信公众号： sspaime  
-少数派（ <http://sspai.com> ）
-
-[![](.evernote-content/1FBFDC48-C4F6-4761-9C8D-F40D963E08A2/2D22246F-FC2F-4A99-8A0F-C54D087728BC.jpg)](http://aos.prf.hn/click/camref:111l75A/pubref:Bloom/destination:http%3A%2F%2Fwww.apple.com%2Fcn%2Fshop%2Fproduct%2FHD230CH%2FA%2Fphilips-friends-of-hue-livingcolors-bloom-%E5%8F%98%E8%89%B2%E7%81%AF%3Ffnode%3D95)
-
----
-
-[🌐 原始链接](http://sspai.com/33257)
-
-[📎 在印象笔记中打开](evernote:///view/207087/s1/3e2af710-bd5b-4af8-b9fb-4d10fbbe8a2e/3e2af710-bd5b-4af8-b9fb-4d10fbbe8a2e/)
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

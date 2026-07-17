@@ -8,7 +8,7 @@ tags: [印象笔记, AI/编程]
 updated: 2026-06-27
 ---
 
----
+
 title: "Obsidian 怎么上手最快？核心逻辑一次讲清"
 source: evernote
 type: note
@@ -35,4 +35,6 @@ guid: df0d674d-4a92-496f-81fb-413891ca3132
 
 ---
 
-[📎 在印象笔记中打开](evernote:///view/207087/s1/df0d674d-4a92-496f-81fb-413891ca3132/df0d674d-4a92-496f-81fb-413891ca3132/)
+[📎 在印象笔记中打开](evernote:///view/207087/
+
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

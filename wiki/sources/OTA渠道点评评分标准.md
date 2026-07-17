@@ -7,7 +7,6 @@ source_path: RAW/Word/OTA渠道点评评分标准.docx
 tags: [raw, docx]
 ---
 
-# OTA渠道点评评分标准
 
 **文件信息**
 - 类型: .docx
@@ -52,3 +51,4 @@ tags: [raw, docx]
 
 ```
 
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

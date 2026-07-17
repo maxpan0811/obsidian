@@ -7,15 +7,6 @@ source_path: 印象笔记管理工具/新手小教程_将Apple Watch切换至新
 tags: [印象笔记]
 ---
 
-# 新手小教程_将Apple Watch切换至新iPhone
-
-# 新手小教程:将Apple Watch切换至新iPhone --- 在购买了新款 iPhone 之后，大多数用户都会选择重新设置自己的 Apple Watch，但是，如果你想要保留自己的健康和健身数
-
----
-
-# 新手小教程:将Apple Watch切换至新iPhone
-
----
 
 在购买了新款 iPhone 之后，大多数用户都会选择重新设置自己的 Apple Watch，但是，如果你想要保留自己的健康和健身数据的话，可以通过一个简单的方法来实现。  
   
@@ -35,26 +26,6 @@ tags: [印象笔记]
 
 需要注意的是，在解除配对的过程中，你需要将 Apple Watch 保持靠近旧款 iPhone，直到完成解除它们之间的配对。
 
-接下来，我们需要转移备份：
+接下来，我们需要转移备份
 
-1. 将旧款 iPhone 备份到 iCloud。设置 - iCloud - 备份。
-
-2. 在设置新 iPhone 的时候，选择从 iCloud 恢复备份。
-
-![](.evernote-content/80C081EC-041B-4170-8B53-4103A807984B/80C6D7F8-F9AC-4207-A0CF-3C49B3FCF563.jpg)
-
-最后，将 Apple Watch 和新款 iPhone 配对：
-
-1. 在新款 iPhone 上打开 Watch 应用，并且点击“开始配对”。
-
-2. 一直保持新 iPhone 不动，直到看到“你的 Apple Watch 已经配对”。
-
-3. 在 iPhone 上选择“从备份中还原”，并按照提示完成剩下的操作。
-
-[阅读全文](http://www.feng.com/iPhone/news/2016-09-20/Novice-small-tutorial-will-Apple-Watch-switch-to-the-new-iPhone_657432.shtml)
-
----
-
-[🌐 原始链接](http://www.feng.com/iPhone/news/2016-09-20/Novice-small-tutorial-will-Apple-Watch-switch-to-the-new-iPhone_657432.shtml)
-
-[📎 在印象笔记中打开](evernote:///view/207087/s1/ddb5195c-4908-47e6-bc8e-d39b0b0325cf/ddb5195c-4908-47e6-bc8e-d39b0b0325cf/)
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->

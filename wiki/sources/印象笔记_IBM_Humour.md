@@ -7,15 +7,6 @@ source_path: 印象笔记管理工具/IBM Humour.md
 tags: [印象笔记]
 ---
 
-# IBM Humour
-
-# IBM Humour --- IBM Humour > > > >两个食人族的人应聘进了IBM。公司人事主管知道这两个家伙每天都要吃人，于是警 > > > >告他们：“如果你们胆敢在公司里吃一个人
-
----
-
-# IBM Humour
-
----
 
 IBM Humour  
   
@@ -33,3 +24,5 @@ IBM Humour
 > > > >他们马上就发现了！你真是个猪！”
 
 [📎 在印象笔记中打开](evernote:///view/207087/s1/fcedd4a7-1f3e-48e4-a427-9b096f32c50c/fcedd4a7-1f3e-48e4-a427-9b096f32c50c/)
+
+<!-- [摘要] 规则提取，如需全文请查看 vault 原始笔记 -->
