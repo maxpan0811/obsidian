@@ -1,0 +1,16 @@
+---
+title: "Joint LHG Munich Airport Fam Trip 出行提示"
+type: source
+created: 2026-07-18
+updated: 2026-07-18
+source: RAW
+source_path: RAW/Word/Joint LHG Munich Airport Fam Trip 出行提示.docx
+tags: [RAW, Word]
+---
+
+**文件类型：** .DOCX
+
+**文件路径：** `RAW/Word/Joint LHG Munich Airport Fam Trip 出行提示.docx`
+
+（二进制/文档文件，首次 ingest 仅记录元数据）
+

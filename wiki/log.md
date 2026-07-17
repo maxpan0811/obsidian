@@ -1560,3 +1560,20 @@ Wiki health check after massive ingest:
 - **索引文件**: `wiki/vector_store/{embedding.faiss, embedding.faiss.bak, metadata.pkl, embedding_cache.pkl}`
 - **崩溃恢复**: 查询自动 fallback `.bak`，无需全量重建
 - **注意**: 全量索引构建尚未执行（22K 篇，约 2h）
+
+## 2026-07-18 第26批次 Ingest
+
+- **数量**: 111 篇新增（印象笔记管理工具 31 + 微信读书管理工具 80）
+- **方式**:  增量同步 → 全量比对 ingested_files.json → 批量创建 wiki 源页 → FAISS 增量索引
+- **FAISS 索引**: 32 个新文件嵌入（其余已在 cache），Cache 更新至 47944 文件 / 210803 chunks，3.4 files/s
+- **源页总数**: 52234
+- **ingested_files.json**: 48818 条目
+
+## 2026-07-18 第27批次 Ingest - RAW全量
+
+- **数量**: 2150 篇新增（PDF 974 + Word 519 + Excel 433 + PIC 257 + PPT 164 + TXT 33 + 其他 4）
+- **方式**: 全量比对 ingested_files.json（正确key格式：RAW/{subdir}/{filename}）→ 批量创建 wiki 源页
+- **FAISS 索引**: 跳过（wiki/sources/ 被 FAISS 排除，通过 grep 搜索）
+- **源页总数**: 54384
+- **ingested_files.json**: 50981 条目（RAW条目 3110）
+- **发现**: 此前 ingest 使用的 key 格式为 RAW/{subdir}/{filename}，但早期扫描检查了 RAW/{filename} 导致误判。共 947 个 RAW 文件已在之前手工 ingest。
