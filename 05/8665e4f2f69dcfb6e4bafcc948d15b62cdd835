@@ -1,0 +1,23 @@
+程序开发/20260717-sources-fulltext-dedup.md
+  s_3126f01c1b18ef::t_fe89fe2391cdca 1-99
+wiki/CLAUDE.md
+  s_3126f01c1b18ef::t_c4f04877ef1d3a 58-62
+wiki/scripts/compress_sources.py
+  s_3126f01c1b18ef::t_f29bcd5ad35cae 4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.34-trip",
+  "base_commit_sha": "058665e4f2f69dcfb6e4bafcc948d15b62cdd835",
+  "prompts": {},
+  "sessions": {
+    "s_3126f01c1b18ef": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "0f0ed3d2-2c7c-4b7e-945e-f68714b340cb",
+        "model": "DeepSeek-V4-Flash"
+      },
+      "human_author": "maxpan0811 <maxpan0811@gmail.com>"
+    }
+  }
+}
