@@ -1,0 +1,21 @@
+wiki/index.md
+  s_2627b39c4e6d11::t_e2d3d85d8ec3a5 18
+wiki/log.md
+  s_2627b39c4e6d11::t_55d06777d1abbc 12
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.34-trip",
+  "base_commit_sha": "0cfae82d7c58890c67c4c7ac8feb97cb891c35cd",
+  "prompts": {},
+  "sessions": {
+    "s_2627b39c4e6d11": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "458163d7-d9c0-4ee0-8969-6e84f1b1230d",
+        "model": "DeepSeek-V4-Flash"
+      },
+      "human_author": "maxpan0811 <maxpan0811@gmail.com>"
+    }
+  }
+}
