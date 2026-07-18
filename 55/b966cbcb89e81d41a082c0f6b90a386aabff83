@@ -1,0 +1,9 @@
+wiki/capture/plan-location-rule.md
+  ai_agent 2-7,10,12,14-33,36,38
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.34-trip",
+  "base_commit_sha": "55b966cbcb89e81d41a082c0f6b90a386aabff83",
+  "prompts": {}
+}
