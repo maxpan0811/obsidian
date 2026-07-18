@@ -1,0 +1,9 @@
+wiki/capture/duckdb-excel-all-varchar.md
+  ai_agent 1-24
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.34-trip",
+  "base_commit_sha": "2318bf655633ae281a7652831f44a7c4c68a527d",
+  "prompts": {}
+}
