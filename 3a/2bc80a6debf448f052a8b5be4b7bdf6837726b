@@ -1,0 +1,9 @@
+wiki/capture/dashboard-20260719-caliber-rules.md
+  ai_agent 1-47
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.34-trip",
+  "base_commit_sha": "3a2bc80a6debf448f052a8b5be4b7bdf6837726b",
+  "prompts": {}
+}
