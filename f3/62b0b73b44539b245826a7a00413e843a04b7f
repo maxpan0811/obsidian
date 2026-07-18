@@ -1,0 +1,25 @@
+wiki/overview.md
+  s_2627b39c4e6d11::t_44e56979d5a470 12,18-30
+wiki/CLAUDE.md
+  s_2627b39c4e6d11::t_d45a6d8fd27cdc 26
+程序开发/会话自动保存三层架构20260718.md
+  s_2627b39c4e6d11::t_c4eef105ed1b8d 1-73
+wiki/index.md
+  s_2627b39c4e6d11::t_b765426b43529c 5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.34-trip",
+  "base_commit_sha": "f362b0b73b44539b245826a7a00413e843a04b7f",
+  "prompts": {},
+  "sessions": {
+    "s_2627b39c4e6d11": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "458163d7-d9c0-4ee0-8969-6e84f1b1230d",
+        "model": "DeepSeek-V4-Flash"
+      },
+      "human_author": "maxpan0811 <maxpan0811@gmail.com>"
+    }
+  }
+}
