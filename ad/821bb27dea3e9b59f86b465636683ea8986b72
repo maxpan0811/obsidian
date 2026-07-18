@@ -1,0 +1,20 @@
+wiki/capture/README.md
+  s_2627b39c4e6d11::t_f43362cb58b9fb 1-39,41-42
+  s_2627b39c4e6d11::t_cd5853bf3a8f4d 40
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.34-trip",
+  "base_commit_sha": "ad821bb27dea3e9b59f86b465636683ea8986b72",
+  "prompts": {},
+  "sessions": {
+    "s_2627b39c4e6d11": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "458163d7-d9c0-4ee0-8969-6e84f1b1230d",
+        "model": "DeepSeek-V4-Flash"
+      },
+      "human_author": "maxpan0811 <maxpan0811@gmail.com>"
+    }
+  }
+}
