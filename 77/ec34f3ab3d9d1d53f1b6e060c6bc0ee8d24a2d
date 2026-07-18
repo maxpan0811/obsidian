@@ -1,0 +1,11 @@
+raw/excel_data_catalog.md
+  ai_agent 9
+wiki/capture/js-variable-cleanup-trap.md
+  ai_agent 1-16
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.34-trip",
+  "base_commit_sha": "77ec34f3ab3d9d1d53f1b6e060c6bc0ee8d24a2d",
+  "prompts": {}
+}
