@@ -2,7 +2,7 @@
 name: index
 type: index
 tags: [meta]
-last_update: 2026-07-18（第27批次RAW全量ingest完成：2150源页：PDF974 + Word519 + Excel433 + PIC257 + PPT164 + TXT33 + 其他4 | 源页累计54384）
+last_update: 2026-07-18（第27批次RAW全量ingest完成：2150源页：PDF974 + Word519 + Excel433 + PIC257 + PPT164 + TXT33 + 其他4 | 源页累计54384 | 新增capture/目录：210条会话记忆）
 ---
 
 > 📅 最后更新：2026-06-17（第25批次ingest完成：105篇（累计2845源页）：抗美援朝13+军事国防9+中美关系8+国际时政7+历史人文16+中国发展6+社会评论11+综合30+其他5）

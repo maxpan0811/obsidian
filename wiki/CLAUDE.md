@@ -23,6 +23,7 @@
 
 | 类型 | 位置 | 用途 |
 |------|------|------|
+| Capture | `wiki/capture/` | 会话自动抓取记忆（Claude Code 双写 + hook 同步） |
 | Source | `wiki/sources/` | 源文档摘要 |
 | Feature | `wiki/features/` | 产品功能文档 |
 | Product | `wiki/products/` | 产品/工具概况 |

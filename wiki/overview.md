@@ -9,11 +9,25 @@ last_update: 2026-07-18（RAW全量ingest完成：2150源页）
 
 > 当前涵盖领域：华程集团考核与财务、人效分析（北京/成都/武汉）、ERP 系统、携程渠道分析、门店渠道布局、竞争情报、AI 工具（Claude Code）、信息管理方法
 > 
-> 规模：54384+ 个 source 页（+2150 RAW全量）/ 6 个分析页 / 10 个概念页 / 14 个人物&产品 / 最后 ingest：2026-07-18（RAW全量ingest：PDF974 + Word519 + Excel433 + PIC257 + PPT164 + TXT33 + 其他4）
+> 规模：54384+ 个 source 页（+2150 RAW全量）/ 6 个分析页 / 10 个概念页 / 14 个人物&产品 / 210+ capture 页 / 最后 ingest：2026-07-18（RAW全量ingest：PDF974 + Word519 + Excel433 + PIC257 + PPT164 + TXT33 + 其他4）
 
 ## 方法论
 
 本 wiki 基于 Andrej Karpathy 提出的 **LLM Wiki 模式**运作：由 LLM 持续维护的知识库，采用三层架构（raw/wiki/schema），通过 Ingest/Query/Lint 三种操作保持知识活力。
+
+## Wiki 目录
+
+| 目录 | 用途 |
+|------|------|
+| `capture/` | 会话自动抓取记忆（Claude Code 双写 + hook 同步） |
+| `cards/` | 原子知识卡片 |
+| `concepts/` | 核心概念 |
+| `analyses/` | 分析对比输出 |
+| `features/` | 产品功能文档 |
+| `products/` | 产品/工具概况 |
+| `personas/` | 用户画像 |
+| `style/` | 写作规范 |
+| `sources/` | 源文档摘要 |
 
 [[concepts/LLM Wiki模式|详见概念页 →]]
 
