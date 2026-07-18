@@ -1,0 +1,19 @@
+wiki/products/NeXTSTEP设计风格.md
+  s_82ae980f545a81::t_b7c751bd997439 1-77
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.34-trip",
+  "base_commit_sha": "c1f8fc2547c5adc67c4e66ac432306491bcbaf9f",
+  "prompts": {},
+  "sessions": {
+    "s_82ae980f545a81": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "22c92936-7c9e-4b9f-8871-4aefc4887604",
+        "model": "DeepSeek-V4-Flash"
+      },
+      "human_author": "maxpan0811 <maxpan0811@gmail.com>"
+    }
+  }
+}
