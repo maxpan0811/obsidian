@@ -1,0 +1,9 @@
+wiki/capture/inquiry-file-naming-convention.md
+  ai_agent 1-33
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.34-trip",
+  "base_commit_sha": "f058bbe3b9749f657e9194de2c7a46122059e332",
+  "prompts": {}
+}
