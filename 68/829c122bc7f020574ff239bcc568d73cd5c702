@@ -1,0 +1,9 @@
+wiki/capture/branch-channel-full-year-fix.md
+  ai_agent 1-26
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.34-trip",
+  "base_commit_sha": "68829c122bc7f020574ff239bcc568d73cd5c702",
+  "prompts": {}
+}
