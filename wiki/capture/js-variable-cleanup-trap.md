@@ -1,16 +1,14 @@
 ---
-title: js-variable-cleanup-trap
+title: JS变量清理陷阱
 type: capture
-tags: [auto-capture, feedback]
-source: memory sync hook 2026-07-18
-created: 2026-07-18
+tags: [auto-capture, 看板, JavaScript, 调试]
+source: "Claude Code 会话 2026-07-19"
+created: 2026-07-19
 ---
 
+修改 JS 变量名后必须 grep 模板中所有引用位置，漏改一个就会导致整个看板白屏。
 
-# JS 变量清理陷阱
+**案例1**：删除 `bTotal25f` 变量时漏改合计行引用 → 白屏。
+**案例2**：新建 `bTotal26f` 但引用处写成 `bCt26f`（拼写错）→ 白屏。
 
-删除模板中的变量时，必须 `grep` 确认**所有引用**都已替换，缺一处 = 整个页面白屏。
-
-**案例**：删除 `bTotal25f`/`bCt25f`/`bNct25f` 变量时，合计行的 `fmtCap(bTotal25f)` 漏改，导致 `bTotal25f is not defined` → JS 崩溃 → 表格空白。
-
-**How to apply**：删除变量前，先 `grep` 找所有引用，全部替换后再删除声明。不要假设"应该都改完了"。
+**规则**：删除/新建变量前，先 `grep` 找所有引用。变量命名统一：`bCt`=携程, `bNct`=非携程, `bTotal`=合计, 后缀 `f`=full全年。
