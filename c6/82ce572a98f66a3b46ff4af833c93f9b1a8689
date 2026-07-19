@@ -1,0 +1,9 @@
+wiki/capture/合计行占比变化应为零.md
+  ai_agent 1-17
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.34-trip",
+  "base_commit_sha": "c682ce572a98f66a3b46ff4af833c93f9b1a8689",
+  "prompts": {}
+}
