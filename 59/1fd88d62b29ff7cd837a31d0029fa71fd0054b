@@ -1,0 +1,9 @@
+wiki/capture/channel-file-naming-convention.md
+  ai_agent 1-29
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.34-trip",
+  "base_commit_sha": "591fd88d62b29ff7cd837a31d0029fa71fd0054b",
+  "prompts": {}
+}
