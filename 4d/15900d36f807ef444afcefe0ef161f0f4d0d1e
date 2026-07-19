@@ -1,0 +1,9 @@
+wiki/capture/data-summary-cross-validate.md
+  ai_agent 1-18
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.34-trip",
+  "base_commit_sha": "4d15900d36f807ef444afcefe0ef161f0f4d0d1e",
+  "prompts": {}
+}
