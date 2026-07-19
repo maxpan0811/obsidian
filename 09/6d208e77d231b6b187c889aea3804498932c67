@@ -1,0 +1,19 @@
+wiki/products/NeXTSTEP设计风格.md
+  s_4ce061f8c0f7de::t_4ecad31c134d57 77-107
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.34-trip",
+  "base_commit_sha": "096d208e77d231b6b187c889aea3804498932c67",
+  "prompts": {},
+  "sessions": {
+    "s_4ce061f8c0f7de": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6f34cf46-8272-4f88-951e-ec9251289b29",
+        "model": "qwen3.7-plus"
+      },
+      "human_author": "maxpan0811 <maxpan0811@gmail.com>"
+    }
+  }
+}
