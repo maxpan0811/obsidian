@@ -75,3 +75,33 @@ NeXTSTEP → **macOS** → **iOS** 这条线几乎没断过：
 - Tech Time Warp: NeXTSTEP paved the way for OS X and iOS — https://smartermsp.com/tech-time-warp-nextstep-introduced-paving-the-way-for-os-x-and-ios
 - DESIGNING THE TEXTSTEP USER INTERFACE — https://nielssp.dk/2020/07/textstep
 - Mac 视觉史（三）：浴「水」重生的 Mac 视觉美学 - 少数派（wiki/sources/ 中已有收录）
+
+## 实图截图
+
+> 截图来源：Wikipedia / ToastyTech GUI Gallery / System Folder Blog
+> 存放位置：`nextstep-screenshots/` 目录下
+
+### 图1：NeXTSTEP 完整桌面（1152×900）
+![NeXTSTEP Desktop](nextstep-screenshots/01-NeXTSTEP-desktop-1152x900.png)
+
+右侧竖排 Dock，多个浮动窗口，Miller Columns 文件浏览器。注意标题栏的条纹质感和窗口的3D边框。
+
+### 图2：Miller Columns 文件浏览器
+![Miller Columns](nextstep-screenshots/02-Miller-Columns-file-browser.png)
+
+多层级目录同时展开，点一列的文件夹，右侧展开下一列。Finder 的分栏视图就是从这里来的。
+
+### 图3：右侧 Dock 应用栏
+![Right Dock](nextstep-screenshots/03-right-side-dock.png)
+
+Dock 在屏幕右侧竖排（不是 macOS 的底部横排），每个运行中的应用一个图标。
+
+### 图4：拖拽操作
+![Drag Drop](nextstep-screenshots/04-drag-and-drop.png)
+
+把文件从一个目录拖到另一个目录，或拖到 Dock 上的应用图标来打开。
+
+### 图5：Digital Webster 字典应用
+![Webster](nextstep-screenshots/05-Digital-Webster.png)
+
+标题栏条纹、凸起按钮、凹陷输入框——NeXTSTEP 应用的典型界面。
