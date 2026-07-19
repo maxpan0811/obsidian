@@ -1,0 +1,11 @@
+wiki/capture/tuniu-data-caliber.md
+  ai_agent 1-30
+wiki/capture/data-import-validation-rule.md
+  ai_agent 1-17
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.34-trip",
+  "base_commit_sha": "a8e4a48c76262eb93437c5c847bdd328e41d975c",
+  "prompts": {}
+}
