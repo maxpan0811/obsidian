@@ -1,0 +1,19 @@
+wiki/CLAUDE.md
+  s_4ce061f8c0f7de::t_e2914fce05f921 96-128
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.34-trip",
+  "base_commit_sha": "11924afa3d5413b0f9060eb5561bfedb8749c792",
+  "prompts": {},
+  "sessions": {
+    "s_4ce061f8c0f7de": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6f34cf46-8272-4f88-951e-ec9251289b29",
+        "model": "qwen3.7-plus"
+      },
+      "human_author": "maxpan0811 <maxpan0811@gmail.com>"
+    }
+  }
+}
