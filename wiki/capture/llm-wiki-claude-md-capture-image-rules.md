@@ -1,11 +1,15 @@
 ---
 title: llm-wiki-claude-md-capture-image-rules
 type: capture
-tags: [auto-capture, project]
-source: memory sync hook 2026-07-20
+tags:
+  - auto-capture
+  - llm-wiki
+  - claude-md
+  - capture-rules
+  - image-handling
+source: "Claude Code 会话 2026-07-20"
 created: 2026-07-20
 ---
-
 
 LLM Wiki CLAUDE.md (`/Users/panbo/Obsidian/20260520/wiki/CLAUDE.md`) 新增「Capture 双写规则」章节，位置在「约定」之后。
 
