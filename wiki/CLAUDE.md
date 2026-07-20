@@ -93,3 +93,36 @@
 - 术语统一：首次出现查 `wiki/glossary.md`
 - 文件名用 kebab-case
 - 每页必带 YAML frontmatter
+
+## Capture 双写规则
+
+memory/ 和 wiki/capture/ 同步写入——memory/ 写什么，capture/ 就写同样内容的一份。
+
+**格式**：
+- 位置：`wiki/capture/<name>.md`
+- Frontmatter：`title=name`、`type=capture`、`tags=auto-capture + 内容相关 tag`、`source="Claude Code 会话 YYYY-MM-DD"`、`created=日期`
+- Body：保持 memory 体内容，不加额外加工
+- 不重复保存 — 同名文件已存在则跳过
+
+**图片相关注意事项**：
+
+当 capture 内容涉及图片时（如截图分析、UI 设计研究、图表解读等）：
+
+1. **图片必须保存到本地** — 不要尝试通过 API 嵌入印象笔记或其他外部服务
+   - 保存到 `wiki/products/<主题>-screenshots/` 或 `RAW/PIC/`
+   - 文件名用 kebab-case，带序号前缀（如 `01-desktop.png`）
+
+2. **笔记/页面中写图片位置** — 在文字内容里注明"图片已保存到 XX 路径"
+   - 示例：`截图已保存到 wiki/products/nextstep-screenshots/`
+   - 用户需要时可手动拖入印象笔记或插入 Obsidian
+
+3. **不要尝试的方式**（已验证全部失败）：
+   - ❌ Markdown 图片语法 `![alt](url)` — 外部 API 不会下载
+   - ❌ Base64 data URI — 内容超 ~10KB 会被截断
+   - ❌ 图床上传后嵌入 — 外部服务从这个网络超时
+
+4. **Capture 内容本身可以引用图片路径** — 用相对路径或 vault 绝对路径
+   - 示例：`![NeXTSTEP Desktop](wiki/products/nextstep-screenshots/01-desktop.png)`
+   - Obsidian 可以正常渲染相对路径图片
+
+**Why**：外部图片 API（印象笔记、图床等）要么不支持嵌入，要么网络不可达。本地保存 + 路径引用是唯一可靠方案。
