@@ -1,0 +1,24 @@
+wiki/index.md
+  s_b65f75d35d7f35::t_91ed40f5f4b185 41-50
+  s_b65f75d35d7f35::t_94a84ccebec316 5
+wiki/log.md
+  s_b65f75d35d7f35::t_8811243dc45159 12
+wiki/sources/初中教辅资料合集.md
+  s_b65f75d35d7f35::t_42305bef54c198 1-44
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.34-trip",
+  "base_commit_sha": "02c7ff00cc4f71144e7b0ef72fe0f9e3bf9a97ca",
+  "prompts": {},
+  "sessions": {
+    "s_b65f75d35d7f35": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a064efc0-5883-491f-bebf-8fa3c49f6d31",
+        "model": "qwen3.7-plus"
+      },
+      "human_author": "maxpan0811 <maxpan0811@gmail.com>"
+    }
+  }
+}
