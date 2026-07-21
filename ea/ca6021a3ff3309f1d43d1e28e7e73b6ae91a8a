@@ -1,0 +1,19 @@
+wiki/capture/20260721-ppt-duckdb-ingestion-tool.md
+  s_272df16bee3ef4::t_d6c5ce3b3ae0a4 1-128
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.34-trip",
+  "base_commit_sha": "eaca6021a3ff3309f1d43d1e28e7e73b6ae91a8a",
+  "prompts": {},
+  "sessions": {
+    "s_272df16bee3ef4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6f247607-377a-4a43-b137-f404abcb463c",
+        "model": "qwen3.7-plus"
+      },
+      "human_author": "maxpan0811 <maxpan0811@gmail.com>"
+    }
+  }
+}
