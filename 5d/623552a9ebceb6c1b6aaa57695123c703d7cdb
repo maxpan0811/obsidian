@@ -1,0 +1,39 @@
+wiki/sources/华北华南渠道周例会20260720.md
+  s_b65f75d35d7f35::t_20a3311bedd5ce 1-69
+wiki/sources/武汉公司2026年06考核报表.md
+  s_b65f75d35d7f35::t_20e0ab6839c222 1-73
+wiki/sources/渠道年度目标及年累达成.md
+  s_b65f75d35d7f35::t_d9daf4fb95469a 1-49
+wiki/sources/2027年欧洲产品统筹规划会议.md
+  s_b65f75d35d7f35::t_57161efbfbc1e2 1-121
+wiki/sources/同程渠道华程数据汇总.md
+  s_b65f75d35d7f35::t_e59b288f3d4483 1-69
+wiki/sources/环线游收客情况20260713-0719.md
+  s_b65f75d35d7f35::t_a9a17e444fb2fd 1-66
+wiki/sources/团名称统一录入管理规则.md
+  s_b65f75d35d7f35::t_86dae7d86da09d 1-91
+wiki/sources/旅行家世界志品牌方案.md
+  s_b65f75d35d7f35::t_ab3cc82d83e7f2 1-110
+wiki/sources/途牛渠道华程数据汇总.md
+  s_b65f75d35d7f35::t_9de1b2bf4cca06 1-83
+wiki/sources/OTA欧洲Q2Q3同比分析.md
+  s_b65f75d35d7f35::t_718e100a89117d 1-47
+wiki/sources/20260720武汉公司周例会.md
+  s_b65f75d35d7f35::t_e4dda11661d9f3 1-77
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.34-trip",
+  "base_commit_sha": "5d623552a9ebceb6c1b6aaa57695123c703d7cdb",
+  "prompts": {},
+  "sessions": {
+    "s_b65f75d35d7f35": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a064efc0-5883-491f-bebf-8fa3c49f6d31",
+        "model": "qwen3.7-plus"
+      },
+      "human_author": "maxpan0811 <maxpan0811@gmail.com>"
+    }
+  }
+}
