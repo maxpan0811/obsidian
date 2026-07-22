@@ -2,14 +2,14 @@
 name: overview
 type: concept
 tags: [meta]
-last_update: 2026-07-18（RAW全量ingest完成：2150源页）
+last_update: 2026-07-22（Obsidian vault 4目录ingest：程序开发54+幕布27+随笔4+股票分析1）
 ---
 
 # 全局概览
 
 > 当前涵盖领域：华程集团考核与财务、人效分析（北京/成都/武汉）、ERP 系统、携程渠道分析、门店渠道布局、竞争情报、AI 工具（Claude Code）、信息管理方法
 > 
-> 规模：54384+ 个 source 页（+2150 RAW全量）/ 6 个分析页 / 10 个概念页 / 14 个人物&产品 / 210+ capture 页 / 最后 ingest：2026-07-18（RAW全量ingest：PDF974 + Word519 + Excel433 + PIC257 + PPT164 + TXT33 + 其他4）
+> 规模：54476+ 个 source 页（+92 Obsidian vault 4目录ingest）/ 6 个分析页 / 10 个概念页 / 14 个人物&产品 / 210+ capture 页 / 最后 ingest：2026-07-22（Obsidian vault 4目录：程序开发54 + 幕布存档27 + 随笔4 + 股票分析1）
 
 ## 方法论
 

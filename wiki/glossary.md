@@ -2,7 +2,7 @@
 name: glossary
 type: concept
 tags: [meta, glossary]
-last_update: 2026-06-14
+last_update: 2026-07-22
 ---
 
 # 术语表
@@ -144,3 +144,20 @@ last_update: 2026-06-14
 | 采购结算金额 | 华程在途牛等渠道的采购支付金额，如2025年欧洲5,162万、美洲1,175万 | [[sources/华程2025年数据（截止10.20归来口径）]] |
 | 产品经理手册 | 华程日韩事业部内部70页培训手册，含产品开发/目的地知识/定价与收益管理 | [[sources/日本产品经理手册]] |
 | 定价与收益管理 | 产品定价方法和收益最大化策略，含成本定价/竞争定价/动态调价/渠道差异化 | [[sources/日本产品经理手册]] |
+| FAISS | Facebook AI Similarity Search，高效向量相似性搜索库，用于语义搜索和RAG | [[sources/FAISS向量索引Pipeline]] |
+| DeepRead | 书本知识图谱工具，用于提取和分析书籍中的知识结构与关系 | [[sources/DeepRead-书本知识图谱工具学习笔记]] |
+| AI Router | 本地AI路由方案，在多个Ollama模型之间按任务类型自动分配（如qwen3-vl:30b看图、deepseek-coder编程） | [[sources/AI-Router-本地模型选型与部署_20260717]] |
+| 幕布 (Mubu) | 在线大纲笔记工具，支持文件夹层级+富文本。用户已全量导出137篇至Obsidian | [[sources/幕布全量导出到Obsidian_20260718]] |
+| Qwen-VL | 阿里通义千问视觉语言模型（qwen3-vl:30b本地部署），支持图片分析与多模态任务 | [[sources/2026-07-17-Qwen-VL-Agent本地图片分析Skill搭建]] |
+| 四源回答 (Four-source Answer) | 每次查询从Claude训练数据/Obsidian Wiki/Tavily搜索/FAISS向量库四个独立来源并行查证的回答模式 | [[sources/四源回答规则与搜索筛选标准]] |
+| 桌面看板 (Dashboard) | 自包含HTML数据展示面板，5板块×7大区×4指标，含时间选择器与同期同比对比 | [[sources/20260716-桌面看板显示层-design]] |
+| 删除铁律 | Claude Code全局规则：任何删除操作只能移到废纸篓(~/.Trash)，禁止os.remove/rm等永久删除命令 | [[sources/20260717-ClaudeCode三层删除防护搭建]] |
+| 备份铁律 | 修改/覆盖任何已有文件前必须先备份（cp file file.bak），防止不可恢复的覆盖 | [[sources/20260717-ClaudeCode三层删除防护搭建]] |
+| checkpoint | 多步处理脚本的关键步骤后保存中间状态（如pd.to_csv），崩溃后从检查点续跑而非从头开始 | [[sources/文件命名工具_完整开发记录]] |
+| Superpowers | Claude Code开源插件，14个技能形成完整开发流水线，含反合理化和AI铁律机制 | [[sources/Superpowers-v6升级-Fable5重构记录]] |
+| all_varchar | DuckDB读取Excel时必须开启的参数，防止混合类型列报类型转换错误 | [[sources/Excel结构化数据库方案-DuckDB]] |
+| PRODUCT_MAP | 板块/目的地到区域的映射字典，缺键（如"澳新""中东非"）会导致对应板块数据丢失 | [[sources/重庆联盟欧洲营收分析报告]] |
+| 众信制造 | 众信旅游旗下包团采购模式，将同业需求转化为可售产品的供应链组织方式 | [[sources/众信制造的包团采购模式]] |
+| 四大联盟 | 四川省四家门店联盟（叮叮旅游、周一联盟、北斗联盟、悠途联盟），华程双品牌预订市占率分析核心维度 | [[sources/四川省四大联盟华程双品牌预订市占率分析工具]] |
+| NeXTSTEP | 1989年NeXT Computer的操作系统，macOS的前身，其设计规范被重新研究借鉴 | [[sources/20260719-NeXTSTEP设计规范研究]] |
+| cdp-browser | 基于Playwright的浏览器控制CLI，用于网页截图、文本提取和表单交互 | [[sources/cdp-browser升级-agent-browser迁移记录]] |

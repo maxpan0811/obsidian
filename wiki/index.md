@@ -2,7 +2,7 @@
 name: index
 type: index
 tags: [meta]
-last_update: 2026-07-21（第28批次ingest：29个RAW新增文件→11个源页，含欧洲产品统筹/品牌方案/渠道数据/考核报表等）
+last_update: 2026-07-22（第29批次ingest：92篇新增源页，来自Obsidian vault 4目录——程序开发54+幕布存档27+随笔4+股票分析1）
 ---
 
 > 📅 最后更新：2026-06-17（第25批次ingest完成：105篇（累计2845源页）：抗美援朝13+军事国防9+中美关系8+国际时政7+历史人文16+中国发展6+社会评论11+综合30+其他5）
@@ -80,6 +80,33 @@ last_update: 2026-07-21（第28批次ingest：29个RAW新增文件→11个源页
 | RAW/PPT（164篇） | 业务复盘、培训材料、管理分享 |
 | RAW/TXT（33篇） | 2000年代管理/营销/IT文章 |
 | RAW/Epub/MSG（4篇） | 电子书+邮件存档 |
+
+### 新增（2026-07-22 Obsidian vault 4目录 ingest — 92篇）
+
+| 想看什么 | 读这个 |
+|---------|--------|
+| DuckDB 结构化入库方案 | [[sources/Excel结构化数据库方案-DuckDB]] |
+| FAISS 向量索引全流程 | [[sources/FAISS向量索引Pipeline]] |
+| Qwen-VL 本地图片分析 Skill | [[sources/2026-07-17-Qwen-VL-Agent本地图片分析Skill搭建]] |
+| 桌面看板显示层设计 | [[sources/20260716-桌面看板显示层-design]] |
+| 幕布全量导出到 Obsidian | [[sources/幕布全量导出到Obsidian_20260718]] |
+| DeepRead 知识图谱工具 | [[sources/DeepRead-书本知识图谱工具学习笔记]] |
+| 四源回答规则与搜索筛选标准 | [[sources/四源回答规则与搜索筛选标准]] |
+| 会话自动保存三层架构 | [[sources/会话自动保存三层架构20260718]] |
+| AI Router 本地模型选型部署 | [[sources/AI-Router-本地模型选型与部署_20260717]] |
+| 印象笔记 Skill 升级历程 | [[sources/印象笔记Skill升级记录20260718]] |
+| 文件命名工具开发记录 | [[sources/文件命名工具_完整开发记录]] |
+| 四川省四大联盟预订市占率 | [[sources/四川省四大联盟华程双品牌预订市占率分析工具]] |
+| 重庆联盟欧洲营收分析 | [[sources/重庆联盟欧洲营收分析报告]] |
+| 华程北欧产品分析 | [[sources/20260720-华程北欧产品分析]] |
+| 非携程渠道达成率分析设计 | [[sources/20260716-非携程渠道达成率分析-plan]] |
+| 悠途联盟门店 YTD 分析 | [[sources/悠途联盟门店YTD分析-下单日期口径]] |
+| Claude Code 三层删除防护 | [[sources/20260717-ClaudeCode三层删除防护搭建]] |
+| Superpowers v6 + Fable5 重构 | [[sources/Superpowers-v6升级-Fable5重构记录]] |
+| 全国销售市场管理工作规划 | [[sources/2026年全国销售市场管理工作规划]] |
+| 众信制造包团采购模式 | [[sources/众信制造的包团采购模式]] |
+| 旅游业务基础知识 | [[sources/旅游业务基础知识]] |
+| 股票分析报告 | [[sources/report_20260620]] |
 
 
 ## 知识卡片
