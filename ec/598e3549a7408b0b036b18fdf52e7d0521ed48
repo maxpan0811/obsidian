@@ -1,0 +1,20 @@
+wiki/CLAUDE.md
+  s_1797d6f9142a39::t_f28c283b77ad11 65
+  s_1797d6f9142a39::t_c1d3852477c8cb 54-61
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.34-trip",
+  "base_commit_sha": "ec598e3549a7408b0b036b18fdf52e7d0521ed48",
+  "prompts": {},
+  "sessions": {
+    "s_1797d6f9142a39": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "01129c25-0fc8-457e-a3be-e46ae32218ea",
+        "model": "DeepSeek-V4-Flash"
+      },
+      "human_author": "maxpan0811 <maxpan0811@gmail.com>"
+    }
+  }
+}
