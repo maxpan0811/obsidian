@@ -1607,3 +1607,15 @@ Wiki health check after massive ingest:
 - FAISS 向量: **2,821 个 RAW 文件**（2,984 扫描，15 个损坏/不可提取）
 - 成功率: 99.3%（重试后 182 个 Ollama 400 全部恢复）
 - 19 个损坏文件：14 Excel(格式损坏) + 1 PDF + 3 PPT + 1 HTML伪装.xls
+
+## 2026-07-22 ingest | Obsidian vault 4目录
+
+**Sources created**: 92 (程序开发54 + 幕布存档27 + 随笔4 + 股票分析1)
+
+**新主题分布**：
+- **程序开发（54篇）**：DuckDB/FAISS/Qwen-VL/桌面看板/幕布导出/DeepRead/AI Router/文件命名工具/印象笔记Skill/四源回答规则/NeXTSTEP/华程业务分析（北欧产品/联盟市占率/门店分析/营收分析）/非携程达成率/Claude Code删除防护/Superpowers/LLM Wiki管理/cdp-browser升级等
+- **幕布存档（27篇）**：会议记录、培训笔记、个人知识积累（销售业务/旅游基础知识/全国市场规划/众信制造/英语/阅读/经典语录等）
+- **随笔（4篇）**：众信财报分析/德国主题门店/Copilot命令/ETF基金等
+- **股票分析（1篇）**：report_20260620
+
+**Pages affected**: sources×92, index, overview, glossary, log
